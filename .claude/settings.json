@@ -1,0 +1,29 @@
+{
+    "env": {
+        "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+    },
+    "permissions": {
+        "allow": [
+            "Bash(git *)",
+            "Bash(npm run *)",
+            "Bash(ls *)",
+            "Bash(find *)",
+            "Bash(grep *)",
+            "Bash(mkdir *)",
+            "Bash(touch *)",
+            "Read",
+            "Edit(chapters/**)",
+            "Edit(notes/**)",
+            "Edit(beats/**)",
+            "Edit(bible/**)",
+            "Bash(*assemble.sh*)",
+            "Bash(*build-manuscript.sh*)"
+        ],
+        "deny": [
+            "Bash(rm -rf *)",
+            "Bash(sudo *)",
+            "Read(./.env*)",
+            "Read(./secrets/**)"
+        ]
+    }
+}
