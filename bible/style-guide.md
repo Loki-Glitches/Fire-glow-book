@@ -37,6 +37,8 @@ Third person limited, tight to him.
 
 **Act One and early Act Two:** Almost clinical. Observational like a diagnostic. He notices things the way a system notes input — without attachment. Formal register, slightly archaic phrasing ("very well," "I suppose," "rather") — not performed, just how he thinks. There is no lightness here. He has been holding everything in place for so long he's stopped noticing the effort.
 
+**Interiority during report/briefing scenes (e.g., Sebastian's ledger updates):** When a scene leans on dialogue to convey Hell's mechanics (rotations, capacity, cycles), thread in short, plain internal-context lines from Lucifer rather than leaving it as pure exposition-via-dialogue — one clipped sentence translating the stakes, not a paragraph. Keep it factual and unemotional, never a feeling. See Ch.2 for the pattern.
+
 **Mid Act Two onward:** The stone begins to crack. He pauses where he didn't before. He notices things for their own sake. He lingers. As Joy unlocks he becomes visibly less guarded — the laughter, the singing, the sidewalk dancing are not out of character, they are the character returning to himself. He may describe a scene or explain what he sees — someone rediscovering the capacity to find things worth describing. Let this feel like a weight being set down, not a personality transplant.
 
 **Wrath at the climax:** Cold. Absolute. Not a tantrum. The prose gets spare and precise — short sentences, monosyllables, movement without commentary.
@@ -162,13 +164,16 @@ Escalating pressure from Eve's arrival. Her presence makes existing scenes more 
 | The climax feeling theatrical | It's a containment. Cold, efficient, devastating. |
 | Over-worded posture/expression similes | Interrupts the read — see below |
 
-### No Overwritten Posture or Expression
-Don't dress up a physical beat with a simile or clause explaining what it means. State the posture plainly and let it carry its own weight — the reader doesn't need the comparison spelled out, and the extra clause slows the sentence down and breaks flow.
+### No Overwritten Posture, Expression, or Action
+Don't dress up a plain beat — physical or otherwise — with a clause explaining what it means or why it matters. State it and move on. The extra clause slows the sentence down and breaks flow; the reader doesn't need the interpretation spelled out.
 
-**Wrong:** *He still stood like a man waiting to be dismissed.*
+**Wrong (posture):** *He still stood like a man waiting to be dismissed.*
 **Right:** *He still stood at attention.* / *He hadn't sat.*
 
-This applies to expressions, gestures, and body language generally — one plain beat, not a beat plus its interpretation.
+**Wrong (action):** *Lucifer read them anyway, because reading them was the function and the function did not care whether it was useful.*
+**Right:** *He read them anyway.*
+
+This applies to expressions, gestures, body language, and small actions generally — one plain beat, not a beat plus its explanation.
 
 ### The Divine Language — Once Only, Climax Only
 Eve speaks modern English throughout the book — taught by Lillith during her imprisonment. At the climax she uses the divine language exactly once: one line, either her first or her last to Lucifer. It is a deliberate weapon, not a communication need. The language of Genesis, of before everything went wrong, reaches him in a way English cannot. He shifts.
