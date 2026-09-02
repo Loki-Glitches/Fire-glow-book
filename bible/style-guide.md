@@ -160,6 +160,15 @@ Escalating pressure from Eve's arrival. Her presence makes existing scenes more 
 | Explaining the theme | The book is about forgiveness — never say so |
 | Sam knowing everything | He catches the edge of things and puts them down |
 | The climax feeling theatrical | It's a containment. Cold, efficient, devastating. |
+| Over-worded posture/expression similes | Interrupts the read — see below |
+
+### No Overwritten Posture or Expression
+Don't dress up a physical beat with a simile or clause explaining what it means. State the posture plainly and let it carry its own weight — the reader doesn't need the comparison spelled out, and the extra clause slows the sentence down and breaks flow.
+
+**Wrong:** *He still stood like a man waiting to be dismissed.*
+**Right:** *He still stood at attention.* / *He hadn't sat.*
+
+This applies to expressions, gestures, and body language generally — one plain beat, not a beat plus its interpretation.
 
 ### The Divine Language — Once Only, Climax Only
 Eve speaks modern English throughout the book — taught by Lillith during her imprisonment. At the climax she uses the divine language exactly once: one line, either her first or her last to Lucifer. It is a deliberate weapon, not a communication need. The language of Genesis, of before everything went wrong, reaches him in a way English cannot. He shifts.
