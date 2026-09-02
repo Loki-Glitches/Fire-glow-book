@@ -20,6 +20,15 @@ the story bible or style guide accordingly.
 **Options considered:** Ask the writer to extend the chapter to hit the unit plan's beats, or accept the author's draft as-is and treat the unit plan as needing revision.
 **Author decision:** Overriding the unit plan for now — using the author's draft as Chapter 1 as written. This may change; unit-plans.md has not been edited to match yet, so downstream agents should treat Ch.1 as ending after Elizabeth heads to shower, with Sam's introduction and the "leaving the house" beat deferred (either folded into Ch.1 later or pushed to Ch.2/Ch.3).
 
+### 2026-09-02 — Director — Does Azrael ever leave Earth / enter Hell?
+**Context:** Ch.2's draft had Azrael physically waiting in Hell's throne room and departing for Earth together with Lucifer.
+**Options considered:** Keep Azrael's Hell visit as written, or establish that he never leaves Earth.
+**Author decision:** Azrael never leaves Earth — he is duty-bound to guide/absorb souls there constantly and cannot be spared even briefly. Fixed: Ch.2 now ends with Lucifer departing Hell alone (Azrael's assignment reaches him remotely, through the bond); Ch.4's orchard landing has Azrael already there waiting rather than traveling with Lucifer. Locked in `bible/story-bible.md` and `bible/tristan_azrael_character_profile.md`.
+
+### 2026-09-02 — Director — Formatting for God's/telepathic speech
+**Context:** Ch.2 introduced italics-without-quotation-marks for God's non-audible speech; needed a decision before it recurs in Ch.14, Ch.24, Ch.26, Ch.31, etc.
+**Author decision:** Yes — italics without quotation marks for all divine and telepathic speech, going forward. Locked in `bible/style-guide.md` § Dialogue Rules.
+
 ### 2026-09-02 — Director — CLAUDE.md and soul.md are unfilled templates
 **Context:** `CLAUDE.md` (project overview header) and `.claude/agents/soul.md` (Core Truths, Voice, etc.) are still the blank template text, not filled in with this project's actual details.
 **Options considered:** Block the pipeline until the author fills them in, or proceed using `bible/story-bible.md`, `bible/style-guide.md`, and `bible/unit-plans.md` as the working authority since those are fully written.

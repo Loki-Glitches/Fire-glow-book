@@ -43,7 +43,7 @@
 - Any emotional reaction from Lucifer to Eve's name or escape — purely procedural at this stage
 - Any Elizabeth material
 
-**Ends with:** Lucifer and Azrael departing for Earth.
+**Ends with:** Lucifer departing Hell alone for Earth, aliases in hand — Azrael never enters Hell (bound to Earth by his death-duty) and is waiting there already.
 
 ---
 
@@ -65,7 +65,7 @@
 ### Ch.4 — Arrival on Earth
 **POV:** Lucifer (Earth-state begins — same controlled baseline, but now constrained)
 **Must include:**
-- Controlled Earth landing in the apple orchard — Lucifer and Azrael alone first
+- Controlled Earth landing in the apple orchard — Lucifer arrives alone; Azrael is already there waiting (he never leaves Earth) and the two are alone together first
 - Azrael briefs Lucifer on the bond system and Earth rules before any human contact — this is his domain and he knows it precisely. Lucifer listens. The dynamic between them is established here: Azrael is professionally brisk, Lucifer is controlled. The resentment is present but contained.
 - God's sky-glance moment — Lucifer clocks the apple orchard, the symbolism, looks up. First hint God is arranging things. Azrael does not notice or understand the gesture.
 - James and Claire arrive for their picnic — human contact begins

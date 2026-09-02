@@ -17,6 +17,8 @@ Lucifer is a divine being assigned by God to rule Hell as an eternal executor of
 
 **The Garden of Eden:** Purified and relocated to Heaven after the Fall. Still exists — just no longer accessible to Azrael, who tended it. Its imagery (the Tree of Knowledge, golden branches, ruby fruits) appears in Lucifer's throne room as a permanent reference to his origin wound.
 
+**Azrael never leaves Earth.** His duty — absorbing the pain of every human death, everywhere, so the dying can pass in peace — is constant and universal; there is no moment he can be spared from it. He does not enter Hell, not even briefly, not even for Lucifer. Any scene bringing them together while Lucifer is still in Hell must have Azrael addressed remotely (by God, or via the Lucifer–Azrael bond) rather than physically present. Once Lucifer is on Earth, Azrael is simply already there.
+
 ### Divine Authority Hierarchy
 1. **God** — absolute authority. Final override. Authorizes Full Bonds when institutional revocation has occurred.
 2. **Azrael / "Tristan"** — Earth-side evaluator and enforcer. Approves Full Bonds on first-time formation. Cannot re-approve broken bonds (that goes to God). Can institutionally suspend bonds.

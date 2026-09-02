@@ -31,7 +31,7 @@ All six Must Includes present. Both Must NOTs clean. Ending matches the plan. No
 | Any emotional reaction from Lucifer to Eve's name or escape | PASS | He reads the register line, closes it, hands it back, and asks "Where." No beat, no pause, no interiority. The absence is the effect. He also declines to decode the marks on her cell wall — refusal framed as disinterest, not avoidance. The "I love you" callback from the character profile was deliberately **not** used; it would have been an emotional reaction. |
 | Any Elizabeth material | PASS | She is not mentioned, alluded to, or foreshadowed. No town, no destination named. |
 
-**Ends with:** Lucifer and Azrael departing for Earth. PASS — final line is the departure, no arrival material (Ch.4 owns the landing).
+**Ends with:** Lucifer departing Hell alone for Earth, aliases in hand. PASS (post-revision) — final line is the solo departure, no arrival material (Ch.4 owns the landing). Originally drafted as a joint departure with Azrael physically present in the throne room; revised after the author confirmed Azrael never leaves Earth.
 
 ---
 
@@ -64,7 +64,7 @@ Flagged for the author to ratify or overwrite. None of these are load-bearing en
 7. **Eve's cell:** designated cell one, first corridor; roughly six by eight feet; rows of marks cut into the back wall at seated height, explicitly *not* a day count and not decoded.
 8. **Time of escape:** four to five days by Hell's reckoning, with Lillith noting "It will not be four days on the other side." This is the chapter's quiet cover for Eve not surfacing until Act Three — the characters read it as ordinary crossing behavior, not as God's doing, so God's hidden hand stays hidden.
 9. **The petition venue:** the highest room of Lucifer's fortress, ceiling open onto nothing. Addressing God is not a ritual — "There was no office and no queue."
-10. **Azrael physically enters Hell** and waits in the throne room. The bible forbids Lucifer external realm access but says nothing about inbound divine visitors. He stands clear of the Tree, touches nothing, and refuses to brief until they are out. **Author watch-point below.**
+10. ~~Azrael physically enters Hell and waits in the throne room.~~ **REVISED per author decision (2026-09-02): Azrael never leaves Earth** — his death-duty is constant and universal, so he cannot travel to Hell even briefly. The throne-room scene was rewritten: Lucifer departs alone, sensing Azrael's assignment and irritation only through their passive bond. Bible updated to match (`story-bible.md` Realms section, `tristan_azrael_character_profile.md`). Chapter now ends with Lucifer departing Hell alone for Earth, per the corrected `unit-plans.md` Ch.2 ending. Ch.4's plan was also corrected: Azrael is already waiting in the orchard when Lucifer lands, rather than traveling there with him.
 11. **Formatting convention:** God's speech and Lucifer's petition are set in italics without quotation marks, to mark them as non-audible. Spoken dialogue keeps standard quotation marks. New to the manuscript.
 12. **Lucifer's ring** appears once as a physical object ("gave none of it back") with no inscription quoted — kept cold on purpose. Inscription remains available for a later chapter.
 
@@ -80,8 +80,8 @@ Flagged for the author to ratify or overwrite. None of these are load-bearing en
 
 ## WATCH-POINTS FOR THE AUTHOR
 
-1. **Azrael inside Hell.** Ch.2 puts him in the throne room. If the author's intent is that light-aligned angels do not enter Hell at all, the fix is small: move the meeting to the threshold above and have Lucifer ascend to him. Currently ~6 lines would change.
-2. **Italics for God's voice.** First appearance of this convention in the manuscript. It will recur (any future divine address, plus telepathic bond traffic with Lillith and Azrael from Ch.14 onward). Worth locking a house rule now so Ch.14, Ch.24, Ch.26, Ch.31 and the Lillith sequel-hook contact are all consistent.
+1. ~~Azrael inside Hell.~~ **RESOLVED** — author confirmed Azrael never leaves Earth. Fixed in this chapter and locked in the bible; see continuity ledger item 10.
+2. ~~Italics for God's voice.~~ **RESOLVED** — author confirmed italics-without-quotation-marks for all non-audible (divine/telepathic) speech. Locked in `bible/style-guide.md` § Dialogue Rules.
 3. **Lillith's micro-expression at Eve's cell.** Her profile says her hatred should never be performed or announced. The chapter gives it one unfinished gesture. If that reads as too much, cut the sentence — nothing depends on it.
 4. **Spelling standard.** Chapter normalized to American spelling (center, gray, neighboring) to match Ch.1. Lucifer's British register is carried in phrasing only, not orthography. Confirm this is the house rule before the manuscript grows.
 5. **Ch.1 override still unreconciled.** `bible/unit-plans.md` Ch.1 still specifies Sam's presence and the leaving-the-house ending; `chapters/ch01.md` has neither. The Director has not edited unit-plans.md per instruction. Ch.3's plan can absorb the deferred material without amendment — see report — but the plan file and the chapter file remain in conflict on paper.

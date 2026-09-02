@@ -63,8 +63,8 @@ He is, in his own right, a warden — of death, the way Lucifer is warden of sin
 ## FORMAL ROLE (per bible, now understood as one being)
 
 - Earth-side evaluator and enforcer of tether safety.
-- Accompanies Lucifer to Earth as a divine constraint/chaperone after Eve's escape (Ch.2).
-- Receives the "Tristan" alias from God at the end of Ch.2, before departing for Earth.
+- Never leaves Earth — his death-duty (see Origin) is constant and universal, so he cannot travel to Hell even briefly. He does not accompany Lucifer there or back; he is assigned as chaperone by God's decree while Lucifer is still in Hell (Ch.2) and is simply already waiting in the apple orchard when Lucifer lands (Ch.4).
+- Receives the "Tristan" alias from God at the end of Ch.2, in absentia — the assignment reaches him the same way it reaches Lucifer, without him needing to be physically present in Hell.
 - Briefs Lucifer on bond rules in the apple orchard before first human contact (Ch.4).
 - Grants Travel Bond to Elizabeth in Ch.8 after watching Lucifer listen to her in the park.
 - Grants Travel Bonds to Sam and Sophie in Ch.19 (partly out of guilt for the overheard argument).

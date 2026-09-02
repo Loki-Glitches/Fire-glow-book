@@ -69,6 +69,9 @@ The reader tracks speakers through voice, rhythm, and natural alternation. If th
 - Azrael's dialogue is task-oriented. He doesn't volunteer. When he says something personal, it lands harder because of it.
 - **Eve:** Sounds like a clingy ex-girlfriend who does not fully read the room. She misses social cues, gets confused easily, gets frustrated easily. She is never suave or overly confident — she is someone who genuinely does not understand why things aren't going the way she expected. Her frustration is real and slightly bewildering to be around.
 
+### Divine & Telepathic Speech — Formatting
+Non-audible speech — God's voice, and any telepathic bond traffic (Lucifer↔Lillith, Lucifer↔Azrael) — is set in *italics, without quotation marks*, to mark it as heard rather than spoken aloud. Standard quotation marks are reserved for speech that actually makes sound. Locked as of Ch.2; apply consistently to all future telepathic/divine exchanges (Ch.14, Ch.24, Ch.26, Ch.31, and any others).
+
 ### What Characters Do NOT Do
 - Speechify about themes (forgiveness, love, redemption)
 - Explain the bond system to each other when they already know it
