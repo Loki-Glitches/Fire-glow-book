@@ -139,7 +139,7 @@ The relationship moves in increments. A single unguarded question is a scene. A 
 By mid Act Two, Lucifer's prose should be noticeably warming — he is enjoying Earth again. This is not a subtle flicker anymore; it is becoming visible and real.
 
 ### Acts One & Two — Eve
-Eve is not on Earth in any active sense during Acts One or Two. She escaped Hell and was automatically routed to Earth, but she has not located Lucifer or Elizabeth. Do not manufacture tension from her direction. Her arrival is an Act Three event.
+Eve is not on Earth at all during Act One or Act Two — she escaped Hell in Ch.2, but the "up" she was routed through does not put her on Earth immediately. Her arrival is Ch.35, the Act Three opener (see `bible/unit-plans.md`), where she steps through a portal unseen. Do not place her on Earth, however passively, any earlier than that, and do not manufacture tension from her direction before then. Once she arrives she still has not located Lucifer or Elizabeth — actively finding and confronting them is later Act Three content.
 
 ### Act Three
 Escalating pressure from Eve's arrival. Her presence makes existing scenes more brittle. The trap, the fight, and the departure should feel like they were always going to happen this way.
