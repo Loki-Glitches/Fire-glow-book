@@ -77,6 +77,9 @@ The reader tracks speakers through voice, rhythm, and natural alternation. If th
 **Right:** *"I don't know what you mean." She set her coffee down without looking at him.*
 **Also right:** *"I don't know what you mean."* — no tag, no action, if the speaker is clear from context.
 
+### Characters Are Always Doing Something
+Default to giving dialogue a physical action beat — cooking, eating, gesturing, moving through the room — rather than trading bare lines back and forth with nothing happening around them. This isn't about attribution (a beat can sit next to dialogue whose speaker is already obvious); it's about keeping scenes physically alive. "Also right" above (a tagless, action-free line) should be the exception used for rhythm or pacing, not the default across a whole exchange. See Ch.3's breakfast scene for the pattern — characters are eating, cooking, and gesturing with silverware through nearly the entire conversation.
+
 - Nobody explains themselves fully. Characters say what they mean but not always why.
 - Lucifer does not do small talk. When he asks a question, it means something. Do not let him fill silence with nothing.
 - **Elizabeth:** When she does not get a straight answer, she pauses, registers it, and moves on. She does not press or argue. She files it away. The unanswered question sits in the room between them.
