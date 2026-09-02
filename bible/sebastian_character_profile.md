@@ -33,3 +33,5 @@ Sebastian does not appear on Earth. Elizabeth learns about him and Hell's struct
 ## PERSONALITY
 
 Capable, direct, slightly exasperated with Lucifer in the way someone gets with a boss they genuinely respect but who occasionally makes their job harder. Loyal without being sycophantic. He pushes back when he has something to say and defers when the decision is made.
+
+A worrier underneath the competence. He second-guesses whether something is worth flagging, hedges before delivering anything that might sound like bad news or criticism of the patrol's work, and often minimizes a report on the way in ("probably nothing") even when it's the thing he's most concerned about. This isn't indecision about the facts — he's precise and reliable about those — it's tentativeness about how Lucifer will take them.
