@@ -1,0 +1,88 @@
+# Revision Notes — Ch.2 "Hell and the First Breach"
+
+**Reviewer:** Director (self-review — no writer sub-agent available this run; Director drafted the chapter as a one-time exception, same as the Ch.1 kickoff)
+**Date:** 2026-09-02
+**File reviewed:** `chapters/ch02.md`
+**Length:** ~1,780 words
+
+---
+
+## VERDICT: PASS
+
+All six Must Includes present. Both Must NOTs clean. Ending matches the plan. No further revision pass required before the chapter is handed to a Continuity Checker / Proofreader.
+
+---
+
+## MUST INCLUDE — line check
+
+| Requirement | Status | Where |
+|---|---|---|
+| Hell's forgiveness system actively not working, as bureaucratic report not revelation | PASS | Opening ledger scene. Column three (souls released) is empty and has been "for a very long time." Sebastian reports corridor 22 raised torture rotations from three to four a day with identical results. Lucifer's only response is "Note it." The failure is a line item, never a subject. |
+| Prison breach — cell, damage, escape | PASS | Middle section. Brimstone dust flagged twice by patrol; descent via spiral staircase and cavern to the first corridor; door out of housing, inner face scored thin over centuries at one corner; blood in the corner; tally marks on the cell wall. |
+| Lucifer requesting divine permission to pursue | PASS | Highest room of the fortress. Request is filed like a form. Granted. |
+| God assigning Azrael as chaperone | PASS | First of God's two conditions. |
+| God issuing aliases Adrian / Tristan | PASS | Second condition, stated by God directly, including the "no clever framing of the truth" clause — which quietly acknowledges Lucifer's loophole habit without naming the mechanic. |
+| Lillith as regent + four rules | PASS | All four explicitly: no possession unless a soul cannot be held any other way (and she must report it immediately); no leave for anyone including her; every hand on the floor; permanent direct contact ("That is not a condition, it is a fact"). |
+
+## MUST NOT — line check
+
+| Prohibition | Status | Note |
+|---|---|---|
+| Any emotional reaction from Lucifer to Eve's name or escape | PASS | He reads the register line, closes it, hands it back, and asks "Where." No beat, no pause, no interiority. The absence is the effect. He also declines to decode the marks on her cell wall — refusal framed as disinterest, not avoidance. The "I love you" callback from the character profile was deliberately **not** used; it would have been an emotional reaction. |
+| Any Elizabeth material | PASS | She is not mentioned, alluded to, or foreshadowed. No town, no destination named. |
+
+**Ends with:** Lucifer and Azrael departing for Earth. PASS — final line is the departure, no arrival material (Ch.4 owns the landing).
+
+---
+
+## STYLE GUIDE CHECK
+
+- **POV/voice:** Third limited, tight to Lucifer, Act One register — clinical, diagnostic, formal-archaic ("very well," "I suppose"). No warmth. Numbness/boredom stage only; nothing on the ladder is touched.
+- **British endearments:** Correctly absent. Style guide: "Early chapters: none."
+- **Sky-glance:** Correctly **not** used. Ch.4's unit plan owns the first one ("First hint God is arranging things"). Ch.2 gives Lucifer no suspicion of God at all — he files the chaperone condition under "new" and drops it, which seeds Ch.4 without spending it.
+- **Divine language HARD RULE:** Not used, not named, not described. God's speech is rendered as non-sound and given in plain English; no language is identified anywhere in the chapter.
+- **Dialogue attribution:** One standalone tag survives (`"How long," Lucifer said.`), placed after a long descriptive passage where the speaker would otherwise be ambiguous — the permitted exception. All other attribution is action-beat or omitted.
+- **Magic system on the page:** Earth-routing is shown, not explained — Lillith says "It went out through force, so it went up. There was no other route available to it," and neither of them elaborates because both already know it. Two lines total.
+- **Azrael:** No interior monologue. Seen entirely from outside. Task-oriented dialogue, refuses to sit, refuses to brief inside Hell. Resentment present, contained, unexplained — matches "the resentment is present but contained" from Ch.4's plan, arriving one chapter early as setup.
+- **Azrael's ignorance of God's plan:** Preserved. He believes this is a straight containment job and says so.
+- **Lillith:** Strict, professional, zero drama. Her hatred of Eve is never stated — it surfaces once as an expression that starts and does not finish ("Something moved at the edge of her mouth and did not become anything"). Per her craft note this should inform tone without being performed. **Author watch-point below.**
+- **Theme:** Never named. Nobody says "forgiveness."
+- **Scale of Hell:** Present but not performed — cell counts, corridor numbers, the light-from-suffering detail stated once and not dwelled on.
+
+---
+
+## CONTINUITY LEDGER — new details invented (all bible-consistent, none contradicting)
+
+Flagged for the author to ratify or overwrite. None of these are load-bearing enough that changing them would require rewriting the chapter's structure.
+
+1. **Hell runs on administrative "cycles"** with a written ledger of three columns: souls received / in active treatment / released. Column three empty.
+2. **Intake figure:** "fourteen thousand and some" per cycle, described as slightly down.
+3. **Corridors are numbered.** Nine through forty-one near capacity; forty-two being opened. The oldest corridor (Eve's) is "the first corridor," consistent with the mountain-proximity seniority rule.
+4. **Torture rotations** are a countable unit — corridor 22's demons went from three to four per day with no change in outcome.
+5. **Sebastian's tenure:** eleven centuries as a patroller. Bible does not date him.
+6. **Cell door mechanics:** doors sit in a housing; the inner face can be worn; Eve wore a four-inch patch of one lower corner thin over centuries until the whole plate released at once. Blood in that corner, old.
+7. **Eve's cell:** designated cell one, first corridor; roughly six by eight feet; rows of marks cut into the back wall at seated height, explicitly *not* a day count and not decoded.
+8. **Time of escape:** four to five days by Hell's reckoning, with Lillith noting "It will not be four days on the other side." This is the chapter's quiet cover for Eve not surfacing until Act Three — the characters read it as ordinary crossing behavior, not as God's doing, so God's hidden hand stays hidden.
+9. **The petition venue:** the highest room of Lucifer's fortress, ceiling open onto nothing. Addressing God is not a ritual — "There was no office and no queue."
+10. **Azrael physically enters Hell** and waits in the throne room. The bible forbids Lucifer external realm access but says nothing about inbound divine visitors. He stands clear of the Tree, touches nothing, and refuses to brief until they are out. **Author watch-point below.**
+11. **Formatting convention:** God's speech and Lucifer's petition are set in italics without quotation marks, to mark them as non-audible. Spoken dialogue keeps standard quotation marks. New to the manuscript.
+12. **Lucifer's ring** appears once as a physical object ("gave none of it back") with no inscription quoted — kept cold on purpose. Inscription remains available for a later chapter.
+
+---
+
+## SEAM CHECK
+
+- **Ch.1 → Ch.2:** Hard POV cut, as the plan requires. No bleed. Ch.1's unspent material (Sam, leaving the house) is untouched here, correctly — Ch.2 is a different realm and a different person.
+- **Ch.2 → Ch.3:** Clean. Ch.3 is Elizabeth at home with Sam, then heading into town. Nothing in Ch.2 constrains it.
+- **Ch.2 → Ch.4:** Ch.4 opens with the orchard landing and Azrael's bond briefing *before* human contact. Ch.2 sets that up explicitly — Azrael says he has the coordinates and that Lucifer will hear the rules "where the air is clean, not in here." The Ch.4 writer inherits a scene that is already scheduled.
+
+---
+
+## WATCH-POINTS FOR THE AUTHOR
+
+1. **Azrael inside Hell.** Ch.2 puts him in the throne room. If the author's intent is that light-aligned angels do not enter Hell at all, the fix is small: move the meeting to the threshold above and have Lucifer ascend to him. Currently ~6 lines would change.
+2. **Italics for God's voice.** First appearance of this convention in the manuscript. It will recur (any future divine address, plus telepathic bond traffic with Lillith and Azrael from Ch.14 onward). Worth locking a house rule now so Ch.14, Ch.24, Ch.26, Ch.31 and the Lillith sequel-hook contact are all consistent.
+3. **Lillith's micro-expression at Eve's cell.** Her profile says her hatred should never be performed or announced. The chapter gives it one unfinished gesture. If that reads as too much, cut the sentence — nothing depends on it.
+4. **Spelling standard.** Chapter normalized to American spelling (center, gray, neighboring) to match Ch.1. Lucifer's British register is carried in phrasing only, not orthography. Confirm this is the house rule before the manuscript grows.
+5. **Ch.1 override still unreconciled.** `bible/unit-plans.md` Ch.1 still specifies Sam's presence and the leaving-the-house ending; `chapters/ch01.md` has neither. The Director has not edited unit-plans.md per instruction. Ch.3's plan can absorb the deferred material without amendment — see report — but the plan file and the chapter file remain in conflict on paper.
+6. **CLAUDE.md and soul.md** remain unfilled templates. Ch.2 was written against `bible/style-guide.md` as voice authority.
