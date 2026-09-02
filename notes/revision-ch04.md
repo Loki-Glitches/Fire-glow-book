@@ -57,6 +57,10 @@ This merges two things that were previously separate beats:
 
 I did **not** keep a second, separate quiet sky-glance later in the chapter (the original draft had one at a second falling apple) — using the device twice in one chapter would spend most of its whole-book budget (2-3 uses total) immediately. `bible/unit-plans.md` Ch.4 updated to document this as the chapter's one sky-glance use, and its Must-NOT line softened with a narrow exception for this specific beat (dry exasperation at God, not an emotional reaction to anything on Earth) rather than reopening "no emotion beyond mild efficiency" for the rest of the chapter.
 
+## AUTHOR-DIRECTED CHANGE (2026-09-02): Lucifer more brooding, not bantering with Tristan
+
+The briefing exchange originally had Lucifer trading dry wit with Azrael ("That is remarkably unhelpful" / "It's remarkably effective, different thing"; "You've reminded me zero times, if we're counting" / "I'm counting now") — too warm and engaged for the numbness phase he's in pre-Calm-unlock. Rewrote so Lucifer is curt, disengaged, and doesn't push back playfully — he asks what he needs to and disengages rather than sparring. Azrael's annoyance at this now shows only physically (his jaw going tight, twice) and is explicitly never remarked on by either of them, per the author's direction that Tristan is annoyed but won't say so. Applies as a standing calibration for Lucifer's voice in all scenes until Calm unlocks, not just this one.
+
 ## OTHER NOTES
 
 1. **Elizabeth's "general location" kept genuinely general.** I almost had Claire say Elizabeth works at the pharmacy, but nothing in the bible establishes her having a job there — Ch.3 only has her going as a customer for a prescription. Instead Claire just says Elizabeth is out running errands most mornings this time of year, which lines up with Ch.3's actual errand list and doesn't invent new backstory.
