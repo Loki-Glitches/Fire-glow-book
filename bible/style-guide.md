@@ -175,6 +175,15 @@ Don't dress up a plain beat — physical or otherwise — with a clause explaini
 
 This applies to expressions, gestures, body language, and small actions generally — one plain beat, not a beat plus its explanation.
 
+### No Mechanism Similes
+Don't explain the *physics or manner* of something by comparing it to a separate everyday process — usually signaled by "the way [X] does [Y] when [Z]." A plain simile compares two images; a mechanism simile explains a mechanism, forcing the reader to stop, construct an unrelated second scenario, and map it back onto the scene before continuing. That detour is what breaks flow. State the observed fact and move on.
+
+**Wrong:** *It was fanned — thrown outward from a point, the way sand throws when something strikes it.*
+**Right:** *It was fanned, thrown outward from a single point.*
+
+**Wrong:** *It arrived the way a decision arrives when it has already been made — settling into the room with the weight of something that had been sitting there for a while.*
+**Right:** *It settled into the room with the weight of something already decided.*
+
 ### The Divine Language — Once Only, Climax Only
 Eve speaks modern English throughout the book — taught by Lillith during her imprisonment. At the climax she uses the divine language exactly once: one line, either her first or her last to Lucifer. It is a deliberate weapon, not a communication need. The language of Genesis, of before everything went wrong, reaches him in a way English cannot. He shifts.
 
