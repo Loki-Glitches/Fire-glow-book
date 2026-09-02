@@ -61,6 +61,10 @@ I did **not** keep a second, separate quiet sky-glance later in the chapter (the
 
 The briefing exchange originally had Lucifer trading dry wit with Azrael ("That is remarkably unhelpful" / "It's remarkably effective, different thing"; "You've reminded me zero times, if we're counting" / "I'm counting now") — too warm and engaged for the numbness phase he's in pre-Calm-unlock. Rewrote so Lucifer is curt, disengaged, and doesn't push back playfully — he asks what he needs to and disengages rather than sparring. Azrael's annoyance at this now shows only physically (his jaw going tight, twice) and is explicitly never remarked on by either of them, per the author's direction that Tristan is annoyed but won't say so. Applies as a standing calibration for Lucifer's voice in all scenes until Calm unlocks, not just this one.
 
+## AUTHOR-DIRECTED ADDITION (2026-09-02): Bond argument before disclosure
+
+Added a short telepathic exchange right before Lucifer discloses his divinity to James and Claire: Azrael warns him not to confess so easily ("you don't get to take it back once it's said"), Lucifer pushes back twice, and Azrael has no reply — Lucifer proceeds with the disclosure anyway. Kept it cold and clipped rather than a real back-and-forth, consistent with the no-banter-before-Calm-unlocks rule locked in earlier — this is a genuine disagreement about strategy, not wit, and Lucifer "wins" by simply acting rather than by out-arguing him.
+
 ## OTHER NOTES
 
 1. **Elizabeth's "general location" kept genuinely general.** I almost had Claire say Elizabeth works at the pharmacy, but nothing in the bible establishes her having a job there — Ch.3 only has her going as a customer for a prescription. Instead Claire just says Elizabeth is out running errands most mornings this time of year, which lines up with Ch.3's actual errand list and doesn't invent new backstory.
