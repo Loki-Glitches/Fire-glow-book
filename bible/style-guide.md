@@ -4,6 +4,18 @@
 
 ---
 
+## PRIME DIRECTIVE — read this before anything else below
+
+Every chapter has exactly three jobs, in this order of priority:
+
+1. **Hit every point the unit plan requires.** Nothing on a Must Include list gets skipped, softened past recognition, or quietly dropped. A deviation only happens as an explicit, logged author decision (see `notes/author-questions.md`), never as a writer's unilateral edit.
+2. **Keep the story flowing.** Scenes move. Seams connect cleanly to what comes before and after. Nothing stalls out, repeats itself, or drags for its own sake.
+3. **Use only the detail necessary to build the world.** Enough for the reader to see it, feel it, and believe it — no more, no less.
+
+Everything else in this document — voice, pacing, the no-word-count rule, the no-overwritten-posture rule, all of it — exists to serve these three goals. None of them is a competing target to trade off against hitting the required points, and none of them is license to pad past what the scene needs.
+
+---
+
 ## 1. THE CORE TONAL CONTRACT
 
 This book has range. It is not purely quiet or restrained — it earns lyrical, emotionally generous prose when the moment calls for it. There are juicy scenes. There are scenes that breathe and swell. The tone shifts to match what is happening: procedural and cold when Lucifer is running on duty, warm and alive when Elizabeth is at ease, genuinely lyrical when something beautiful or devastating is happening.
