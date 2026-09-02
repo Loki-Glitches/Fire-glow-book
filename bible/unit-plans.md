@@ -30,20 +30,27 @@
 ---
 
 ### Ch.2 — Hell and the First Breach
-**POV:** Lucifer (Hell-state — controlled, administrative, cold)
+**POV:** Lucifer (Hell-state — controlled, administrative, cold, but genuinely urgent from the midpoint on)
 **Must include:**
-- Hell's forgiveness system actively not working — this should feel like a bureaucratic report, not a dramatic revelation
-- The prison breach: Eve's cell, the damage, the escape
-- Lucifer requesting divine permission to pursue Eve on Earth
-- God assigning Azrael as divine chaperone
+- Hell's forgiveness system actively not working — the opening ledger scene should still feel like a bureaucratic report, not a dramatic revelation
+- Lucifer already certain, before he even reaches the corridor, that the breach is Eve — a cold instinctive certainty, not deduction
+- He tears straight down through the mountain's rock to reach the first corridor fast — he does not use the stairs
+- The prison breach shown in the moment it happens, not discovered after the fact: the ancient, centuries-worn cell door finally gives out and turns to ash as he arrives; a portal tears open where it stood and pulls Eve through; he lunges and misses her by inches as it seals
+- Lucifer shouting Lillith's regency orders on the spot, in the aftermath — no forensic analysis of the door or the breach; there is nothing left to examine and no time for it
+- Lillith assigned as regent in his absence; rules: no possession unless necessary (and immediate report if it happens), no leave for anyone including her, all hands on deck, she is in direct contact with him at all times
+- Lucifer ascending immediately after — again not by the stairs — straight back up the shaft he tore
+- Lucifer petitioning God to send him to Earth himself, right away
+- God revealing Azrael already has his instructions — assigned before Lucifer even asked, underscoring that God is a step ahead of him throughout this chapter
+- Lucifer's friction with Azrael surfacing here for the first time (a flash of irritation at having to work through him) — resentment is mutual and long-standing, not new
 - God issuing Earth aliases: Lucifer → **Adrian**, Azrael → **Tristan**
-- Lillith assigned as regent in his absence; rules: no possession unless necessary, no vacations, all hands on deck, she is in direct contact with him at all times
+- God stating plainly that Lucifer cannot send himself to Earth — only God can, and does
 
 **Must NOT include:**
-- Any emotional reaction from Lucifer to Eve's name or escape — purely procedural at this stage
+- Personal or romantic longing for Eve — his urgency reads as a warden's failure and instinct, and his one named emotional cost is dread at having to explain the breach to God, explicitly not anything about her
 - Any Elizabeth material
+- Forensic/analytical dialogue examining the door or the breach — cut deliberately; the earlier "wearing pattern over centuries" backstory still holds (it's *why* the door finally gave out now), it's just never re-examined on the page
 
-**Ends with:** Lucifer departing Hell alone for Earth, aliases in hand — Azrael never enters Hell (bound to Earth by his death-duty) and is waiting there already.
+**Ends with:** God opens a portal — visually matching the one that took Eve — and pulls Lucifer through to Earth against his own volition, since he is not permitted to send himself. It closes. Chapter ends here; there is no calm arrival scene, no separate Lillith negotiation scene, and no Azrael-sensed-through-the-bond farewell beat — those were cut along with the rest of the analytical/measured pacing this chapter used to have.
 
 ---
 
@@ -65,7 +72,7 @@
 ### Ch.4 — Arrival on Earth
 **POV:** Lucifer (Earth-state begins — same controlled baseline, but now constrained)
 **Must include:**
-- Controlled Earth landing in the apple orchard — Lucifer arrives alone; Azrael is already there waiting (he never leaves Earth) and the two are alone together first
+- Earth landing in the apple orchard — Lucifer arrives alone, pulled through by the portal God opened at the end of Ch.2 (not a landing of his own choosing or control); Azrael is already there waiting (he never leaves Earth) and the two are alone together first
 - Azrael briefs Lucifer on the bond system and Earth rules before any human contact — this is his domain and he knows it precisely. Lucifer listens. The dynamic between them is established here: Azrael is professionally brisk, Lucifer is controlled. The resentment is present but contained.
 - God's sky-glance moment — Lucifer clocks the apple orchard, the symbolism, looks up. First hint God is arranging things. Azrael does not notice or understand the gesture.
 - James and Claire arrive for their picnic — human contact begins
