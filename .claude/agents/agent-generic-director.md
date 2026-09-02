@@ -62,7 +62,7 @@ If any document is missing, flag to `notes/author-questions.md` before proceedin
 
 Read the project's style guide and unit plan for the specific criteria. Generic checklist:
 
-- [ ] Word count or runtime within target range from unit plan?
+- [ ] Length driven by what the scene actually needs, not by hitting or avoiding a word count — check the unit plan first; if it says "no fixed target," there is no target to satisfy, and the checklist item is whether every beat that's supposed to happen actually happened in full, not whether the chapter reached some length.
 - [ ] Double-layer rule active — surface job AND real job present? (if applicable to project type)
 - [ ] No "what shouldn't happen" violations from unit plan?
 - [ ] Voice consistent with style guide for each POV character?

@@ -128,6 +128,14 @@ Lucifer's emotional recovery must be invisible before it is undeniable. The read
 
 ## 6. PACING RULES
 
+### No Writing to a Word Count
+`bible/unit-plans.md` sets no fixed length for any act or chapter on purpose. Length is a byproduct of covering what a chapter actually needs, in the necessary detail — not a target to hit or a ceiling to stay under. Concretely:
+
+- Do not pad a scene with extra description, dialogue, or repeated beats to make a chapter feel more substantial.
+- Do not cut or compress a beat the unit plan calls for just to keep a chapter short or "tight" — tightness is a prose-craft goal (see the no-overwritten-posture/action and no-mechanism-simile rules above), not a length goal.
+- If a chapter runs long because it has a lot to cover, let it run long. If it's a breathing chapter with little to do, let it stay short (Ch.1 and Ch.3 are both under 1,000 words for exactly this reason).
+- When revising for craft reasons and the chapter's word count changes a lot as a result, that's fine — the change should be explainable by what content was added or cut, never by a length target being chased.
+
 ### Act One
 Let Elizabeth's world breathe. Her ordinary life is not setup — it is the thing worth protecting. The reader must love it before Eve threatens it.
 
