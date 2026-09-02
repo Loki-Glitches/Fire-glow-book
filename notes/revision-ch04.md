@@ -47,6 +47,16 @@ The bond system in `bible/story-bible.md` (Stage 2 Travel Bond = "no power," Sta
 
 ---
 
+## AUTHOR-DIRECTED CHANGE (2026-09-02): Violent landing + finger-point at God
+
+Replaced the original quiet arrival ("the portal did not release him so much as stop holding him... he came up already standing") with the author's request: the portal throws him hard enough to hit an apple tree, he gets up, and points a finger at the sky ("That was unnecessary").
+
+This merges two things that were previously separate beats:
+- The rough, involuntary nature of the landing (already established at the end of Ch.2).
+- The chapter's required sky-glance moment (Lucifer clocks the orchard/symbolism, looks up, Azrael doesn't understand it) — now delivered as the same gesture, just more overt (pointing, one line of dialogue) than the style guide's usual silent single glance.
+
+I did **not** keep a second, separate quiet sky-glance later in the chapter (the original draft had one at a second falling apple) — using the device twice in one chapter would spend most of its whole-book budget (2-3 uses total) immediately. `bible/unit-plans.md` Ch.4 updated to document this as the chapter's one sky-glance use, and its Must-NOT line softened with a narrow exception for this specific beat (dry exasperation at God, not an emotional reaction to anything on Earth) rather than reopening "no emotion beyond mild efficiency" for the rest of the chapter.
+
 ## OTHER NOTES
 
 1. **Elizabeth's "general location" kept genuinely general.** I almost had Claire say Elizabeth works at the pharmacy, but nothing in the bible establishes her having a job there — Ch.3 only has her going as a customer for a prescription. Instead Claire just says Elizabeth is out running errands most mornings this time of year, which lines up with Ch.3's actual errand list and doesn't invent new backstory.

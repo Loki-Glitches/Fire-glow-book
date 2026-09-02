@@ -72,9 +72,9 @@
 ### Ch.4 — Arrival on Earth
 **POV:** Lucifer (Earth-state begins — same controlled baseline, but now constrained)
 **Must include:**
-- Earth landing in the apple orchard — Lucifer arrives alone, pulled through by the portal God opened at the end of Ch.2 (not a landing of his own choosing or control); Azrael is already there waiting (he never leaves Earth) and the two are alone together first
+- Earth landing in the apple orchard — the portal God opened at the end of Ch.2 throws Lucifer through hard enough that he hits a tree; not a landing of his own choosing or control, and not a gentle one either. Azrael is already there waiting (he never leaves Earth) and the two are alone together first.
+- Lucifer's reaction to the landing doubles as this chapter's sky-glance: he gets up, looks past the branches at the sky, and points a finger at it ("That was unnecessary") — more overt than the style guide's usual silent single glance, but still wordless-from-God's-side and still exasperation-of-someone-too-familiar-to-be-afraid rather than genuine anger. Counts as one use of the sky-glance device's 2-3-per-book budget. Azrael does not notice or understand the gesture — he reads it as Lucifer being annoyed about the landing, not as anything pointed at God specifically.
 - Azrael briefs Lucifer on the bond system and Earth rules before any human contact — this is his domain and he knows it precisely. Lucifer listens. The dynamic between them is established here: Azrael is professionally brisk, Lucifer is controlled. The resentment is present but contained.
-- God's sky-glance moment — Lucifer clocks the apple orchard, the symbolism, looks up. First hint God is arranging things. Azrael does not notice or understand the gesture.
 - James and Claire arrive for their picnic — human contact begins
 - Lucifer notices James's ring and replaces it — Travel Bond trinket-scale transfiguration, permitted within the rules Azrael just explained
 - James and Claire's **Travel Bond** forms during the picnic — Lucifer has gotten to know them enough through the encounter for the friendship threshold to be met. Tristan stays close anyway since the mechanic is new.
@@ -85,7 +85,7 @@
 
 **Must NOT include:**
 - Elizabeth — she is elsewhere
-- Any emotion from Lucifer beyond the faintest aesthetic flicker
+- Any emotion from Lucifer beyond the faintest aesthetic flicker, with one narrow exception: the dry, wordless-from-God's-side exasperation of the landing/sky-glance beat, which is irritation-at-God, not an emotional reaction to anything on Earth
 - The bond briefing happening after James and Claire arrive — Azrael briefs Lucifer first, humans second
 
 **Ends with:** The group beginning to move toward town.
