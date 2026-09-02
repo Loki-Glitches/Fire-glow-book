@@ -63,7 +63,7 @@
 
 **Must NOT include:**
 - Any supernatural element
-- Any scene that significantly advances plot — this is a breathing chapter
+- A big plot swing — this is a breathing chapter in scale and tone, not in substance; it still needs its own small, real plot beat and a piece of character development per the style guide's Every Chapter Must Do Two Things rule
 
 **Ends with:** Elizabeth heading out to town.
 

@@ -14,6 +14,14 @@ Every chapter has exactly three jobs, in this order of priority:
 
 Everything else in this document — voice, pacing, the no-word-count rule, the no-overwritten-posture rule, all of it — exists to serve these three goals. None of them is a competing target to trade off against hitting the required points, and none of them is license to pad past what the scene needs.
 
+### Every Chapter Must Do Two Things
+On top of the three jobs above, every chapter carries two hard requirements:
+
+1. **Character development.** Either introduce a personality (a character the reader hasn't really seen yet comes into focus) or change one (an established character reveals something new, shifts, or grows). A chapter that leaves every character exactly as understood as they were at the start of it has not done this.
+2. **Plot progress.** Something that matters to the story has to actually happen — a fact learned, a relationship changed, a piece moved into place, a threat advanced. Texture and atmosphere are not a substitute for this.
+
+Both are required, every chapter, no exceptions carved out by genre or pacing label. If a chapter is designated a "breathing chapter" elsewhere in this bible or in `unit-plans.md`, that label controls *tone and scale* — small, quiet, not a big swing — it does not mean either requirement above gets skipped. A quiet chapter can still move a relationship forward or land a small but real plot beat; it just does it at a smaller size than an Act climax would.
+
 ---
 
 ## 1. THE CORE TONAL CONTRACT
