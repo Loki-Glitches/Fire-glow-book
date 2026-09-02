@@ -175,6 +175,15 @@ Don't dress up a plain beat — physical or otherwise — with a clause explaini
 
 This applies to expressions, gestures, body language, and small actions generally — one plain beat, not a beat plus its explanation.
 
+### No Hedge Phrases ("as if," "as though," "in a way")
+Don't soften or complicate a plain statement with a hedging comparison — "he paused, as if weighing something," "she moved as though uncertain," "wrong in a way nothing else could hold." Say the thing directly instead of gesturing at a resemblance to it. If he's weighing something, write that he's weighing it — don't make the reader translate a comparison first.
+
+**Wrong:** *He paused, as if weighing whether the rest was worth saying.*
+**Right:** *He paused, weighing whether the rest was worth saying.*
+
+**Wrong:** *Unless a soul goes wrong in a way nothing else will hold.*
+**Right:** *Unless a soul cannot be held any other way.*
+
 ### No Mechanism Similes
 Don't explain the *physics or manner* of something by comparing it to a separate everyday process — usually signaled by "the way [X] does [Y] when [Z]." A plain simile compares two images; a mechanism simile explains a mechanism, forcing the reader to stop, construct an unrelated second scenario, and map it back onto the scene before continuing. That detour is what breaks flow. State the observed fact and move on.
 
