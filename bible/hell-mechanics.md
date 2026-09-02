@@ -69,6 +69,14 @@ Sent to Hell with Lucifer when he was cast in. Sits at the center of his throne 
 
 ---
 
+## TIME IN HELL
+
+Hell has no clock-time. No hours, no minutes, no named days or weeks — nothing resembling a workday or a shift. Demons do not work a 9-to-5; torture ("reliving") is continuous, without breaks or rotating shifts tied to hour-length increments. The only administrative unit is the **cycle**, used loosely for Lucifer's ledger reporting and patrol frequency — it has no fixed length and is not a stand-in for "day" or "hour."
+
+If a rotation count is referenced (e.g., "four rotations instead of three"), it describes frequency/intensity within a cycle, not a daily quota. When elapsed time must be compared to Earth (e.g., how long since a breach), give it as a rough duration only, explicitly framed as a translation to Earth's time — never as something Hell itself measures in hours.
+
+---
+
 ## WHAT HELL IS NOT
 
 - Not Dante's levels — no tiered geography, no organized circles
