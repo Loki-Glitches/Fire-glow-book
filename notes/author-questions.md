@@ -37,3 +37,7 @@ the story bible or style guide accordingly.
 **Context:** `CLAUDE.md` (project overview header) and `.claude/agents/soul.md` (Core Truths, Voice, etc.) are still the blank template text, not filled in with this project's actual details.
 **Options considered:** Block the pipeline until the author fills them in, or proceed using `bible/story-bible.md`, `bible/style-guide.md`, and `bible/unit-plans.md` as the working authority since those are fully written.
 **Author decision:** Pending — not blocking in the meantime; both files remain author-only to edit.
+
+### 2026-09-03 — Author — Bare dialogue-verb tags in Ch.5 ("retorted," "joked," "giggled," "laughed")
+**Context:** Author's manual edit to Ch.5 added standalone tags like *Elizabeth retorted.* and *Sophie laughed.* to clarify who was speaking in a fast exchange — this conflicts with the locked Attribution Hard Rule, which requires attribution to ride on a physical action beat rather than a bare verb tag.
+**Author decision:** Keep them. The verb is doing tone work, not just attribution, and the author used it deliberately after losing track of speakers. Locked as a standing exception in `bible/style-guide.md` § Attribution — Hard Rule: bare dialogue-verb tags (retorted/joked/giggled/laughed, etc.) are allowed sparingly when carrying tone in a busy exchange, not as a default replacement for action-beat attribution.

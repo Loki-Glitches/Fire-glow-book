@@ -3,7 +3,7 @@
 **Reviewer:** Director (self-review — no writer sub-agent available this run)
 **Date:** 2026-09-03
 **File reviewed:** `chapters/ch05.md`
-**Length:** ~700 words (expanded per author request: best-friends texture, James/Claire recognition, added physical/sensory detail)
+**Length:** ~695 words (author pass: speaker clarity, Sam's bakery item, trimmed wording)
 
 ---
 
@@ -36,6 +36,11 @@
 - Per author note, the hardware-store beat now shows Sophie physically pulling specific items off the shelf (a brass hook, a tarp, drawer magnets) and putting them back, rather than summarizing "eleven things" — matches the "Characters Are Always Doing Something" rule more literally.
 - Per author note, the walk from the near-miss to the bakery is now shown rather than skipped: crossing the street, the stuck door, going inside, and both women actually ordering (Sophie's cinnamon twist, Elizabeth's plain roll) before sitting down.
 
+- Author's manual pass added speaker-clarity tags (*retorted*, *joked*, *laughed*, *giggled*) to a scene where tracking got lost — this is now a logged standing exception to the Attribution Hard Rule, not a one-off left uncorrected. See `notes/author-questions.md` (2026-09-03) and `bible/style-guide.md` § Attribution.
+- Author's edit made the sibling relationship explicit on the page for the first time ("Tell your brother I said hello for me") — confirms, doesn't change, the existing bible fact that Sam is Elizabeth's brother.
+- Fixed two copyedit slips left in the author's manual edit: a missing comma in the Claire near-miss sentence, and "croiscant" → "croissant."
+- Sam's bakery item (a chocolate croissant) is now in the chapter, closing the loop on Sam's dinner-prep request from Ch.3.
+
 ## LENGTH
 
-Chapter runs ~700 words after expansion passes (hardware-store banter, best-friends texture, the paint-customer story as played dialogue rather than summary, and the newly-detailed pharmacy/hardware-store/bakery beats), consistent with the author's recent direction to add texture/small talk rather than keep every chapter minimal.
+Chapter runs ~695 words after the author's clarity/trimming pass plus the earlier detail expansion (hardware-store banter, best-friends texture, pharmacy/hardware-store/bakery beats shown rather than summarized), consistent with the direction to add texture/small talk rather than keep every chapter minimal.

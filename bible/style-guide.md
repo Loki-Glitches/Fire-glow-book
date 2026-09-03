@@ -87,6 +87,8 @@ The reader tracks speakers through voice, rhythm, and natural alternation. If th
 **Right:** *"I don't know what you mean." She set her coffee down without looking at him.*
 **Also right:** *"I don't know what you mean."* — no tag, no action, if the speaker is clear from context.
 
+**Author exception (Ch.5):** A bare dialogue-verb tag (*retorted*, *joked*, *giggled*, *laughed*) is allowed on its own when the author is using the verb to carry tone, not just attribution, in a fast, busy exchange where speaker tracking got genuinely lost. Use sparingly — this is a deliberate authorial choice, not a default to reach for.
+
 ### Characters Are Always Doing Something
 Default to giving dialogue a physical action beat — cooking, eating, gesturing, moving through the room — rather than trading bare lines back and forth with nothing happening around them. This isn't about attribution (a beat can sit next to dialogue whose speaker is already obvious); it's about keeping scenes physically alive. "Also right" above (a tagless, action-free line) should be the exception used for rhythm or pacing, not the default across a whole exchange. See Ch.3's breakfast scene for the pattern — characters are eating, cooking, and gesturing with silverware through nearly the entire conversation.
 
