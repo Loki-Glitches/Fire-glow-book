@@ -196,6 +196,17 @@ Escalating pressure from Eve's arrival. Her presence makes existing scenes more 
 | Sam knowing everything | He catches the edge of things and puts them down |
 | The climax feeling theatrical | It's a containment. Cold, efficient, devastating. |
 | Over-worded posture/expression similes | Interrupts the read — see below |
+| Explicit physical description of a character's looks | Only outfit and facial expression are fair game — see below |
+
+### No Explicit Physical Description
+Never describe what a character actually looks like — no hair color/texture, eye color, build, height, skin, freckles, or any other physical trait. The reader builds their own image. This applies to every character, not just leads, and to new characters on introduction as much as established ones.
+
+What's allowed instead:
+- **Outfit** — what someone is wearing, holding, or has on them.
+- **Facial expression** — what a face is doing in the moment (a raised eyebrow, a tight jaw, a grin), not what it looks like at rest.
+
+**Wrong:** *Sophie fell into step beside her — sunglasses shoved up into a mess of dark curls, freckles standing out against a sunburn she'd clearly ignored the advice about.*
+**Right:** *Sophie fell into step beside her — sunglasses shoved up onto her head, a coffee in each hand.*
 
 ### No Overwritten Posture, Expression, or Action
 Don't dress up a plain beat — physical or otherwise — with a clause explaining what it means or why it matters. State it and move on. The extra clause slows the sentence down and breaks flow; the reader doesn't need the interpretation spelled out.
