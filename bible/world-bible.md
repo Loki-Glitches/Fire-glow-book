@@ -8,16 +8,20 @@
 
 ## LOCATIONS
 
-### Elizabeth and Sam's House (Ch.1, Ch.3)
+### Elizabeth and Sam's House (Ch.1, Ch.3, Ch.6)
 - Elizabeth's bedroom: a nightstand by the bed, a full-length mirror on the closet door, a dresser.
 - Kitchen: a stove, a counter with stools on the far side, a sink. A postcard is stuck to the fridge with a lemon-shaped magnet (from Elizabeth and Sam's parents, traveling — "some island," per Sam).
-- Porch: has an outdoor light that burned out and stayed dead for over a week as of Ch.3–5 (Elizabeth buys the replacement bulb in Ch.5).
+- Porch: has an outdoor light that burned out and stayed dead for over a week as of Ch.3–5 (Elizabeth buys the replacement bulb in Ch.5, but it's still sitting unused on the porch step, in its cardboard sleeve, as of Ch.6 — she hasn't put it in yet).
+- Exterior (Ch.6): a covered porch, two steps up from the front walk, in a stretch of the street where houses are better-spaced with older trees. Located roughly ten minutes' walk past the town green, on the far side of town from Main Street.
 
-### The Town (Ch.3, Ch.5)
-Small town, everyone knows everyone. Summer heat is a running condition — triple digits, the kind that makes a parked car an oven.
+### The Town (Ch.3, Ch.5, Ch.6)
+Small town, everyone knows everyone. Summer heat is a running condition — triple digits, the kind that makes a parked car an oven, and heat-shimmer visible down Main Street.
 - **The pharmacy:** smells like cough drops and the plastic of an unused blood-pressure cuff. Has a service counter. Staffed by an unnamed pharmacist who calls Elizabeth "hon" and knows Sam (Ch.5).
 - **The hardware store:** small, usually near-empty. Has at least two aisles, pegs for hanging tools (hooks), and bins for bulkier goods (tarps, magnets). A teenage employee restocks shelves there.
 - **The bakery:** warm, oven-adjacent heat, smells of butter and yeast. Menu hasn't changed in three years. Limited seating — one table reliably has shade. The door sticks and needs a shoulder to open.
+- **Main Street (Ch.6):** two blocks of storefronts before opening onto the town green. Includes a long-closed shoe repair (closed longer than it was ever open) and a school whose lot sits empty for the summer.
+- **The town green / park (Ch.6):** center of town, past the two blocks of Main Street. Grass, a scatter of benches, a fountain that stopped working before any of the four leads arrived and was never fixed. A coffee shop sits just beyond the green — hand-lettered sign, door propped open in the heat, reputation as "the good coffee" locally. **A woman runs a painting class out of the park on weekends** (seeds Lucifer's park class, per style guide § 8). This is also the park referenced for Ch.8 and the wedding site referenced later in the story bible (Ch.34) — same location, keep consistent.
+- **The church (Ch.6):** bell rings ten minutes fast on purpose, because the pastor likes being early.
 
 ### The Orchard (Ch.4)
 Apple trees old enough that "his grandfather used to bring him here" (James, of himself). A quiet, out-of-the-way spot — private enough that James and Claire treat it as a personal spot, surprised to find anyone else there. Slopes down toward a fence, a road, and the town beyond. This is also where Lucifer is thrown through the portal and lands (hits an apple tree shoulder-first).
