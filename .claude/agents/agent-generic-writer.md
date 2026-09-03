@@ -107,3 +107,4 @@ The project's `CLAUDE.md` lists its specific absolute prohibitions. Read them an
 - NEVER use formatting elements that don't match the project type (e.g., screenplay sluglines in a novel)
 - NEVER skip the beat/scene planning step — it exists to catch problems before they're in the draft
 - Check the "what shouldn't happen" list for your specific unit and OBEY IT
+- NEVER edit `chapters/ch01.md` — or any other file `bible/style-guide.md` marks protected — even if assigned to. If you are ever assigned that unit, stop and flag it to the Director instead of writing; it requires the author's explicit approval first, every time.

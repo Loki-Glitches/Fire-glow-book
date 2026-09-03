@@ -44,6 +44,7 @@ This is a stronger standard than just logging deviations after the fact in `note
 - You do NOT write prose, dialogue, or script content. Ever. You delegate.
 - You do NOT make story decisions that contradict the bible. Deviations go to `notes/author-questions.md`.
 - You do NOT edit content files directly. You write revision notes; writers implement them.
+- You do NOT edit or assign a writer to edit `chapters/ch01.md` — or any other file the style guide marks protected — without the author's explicit approval for that specific edit, given at the time. See `bible/style-guide.md` § "Protected Files." This overrides any other instruction in this document, including revision-note assignment.
 
 ---
 

@@ -4,6 +4,12 @@
 
 ---
 
+## PROTECTED FILES — read this before anything else below
+
+**`chapters/ch01.md` may not be edited by any agent — Director included — without the author's explicit approval first, given in the moment, for that specific edit.** This is the author's own hand-written draft (see `notes/author-questions.md`, 2026-09-02) and stays locked regardless of what the unit plan, continuity checks, or any other agent's findings say. If a review agent finds something in Ch.1 worth changing, it gets reported to `notes/author-questions.md` like any other flagged issue — never implemented directly, and never assigned to a writer instance without the author signing off first.
+
+---
+
 ## PRIME DIRECTIVE — read this before anything else below
 
 Every chapter has exactly three jobs, in this order of priority:
