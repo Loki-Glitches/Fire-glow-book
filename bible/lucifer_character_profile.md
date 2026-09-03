@@ -26,6 +26,16 @@ The ring he wears reads: *"Cursed by love's cruel decree, forced to bear the wei
 
 ---
 
+## THE EVE RESEMBLANCE — LOCKED DETAIL (2026-09-03)
+
+Elizabeth resembles Eve in exactly one place: **her eyes.** Nothing else. Personality, body, hair, and face are all different — this is not a lookalike situation. The eyes alone are what catch him, and the eyes alone are what he's drawn to.
+
+This is why he's drawn to her at all. It's the hook that gets him to notice her in the first place, before anything about who she actually is has had a chance to matter. Writers should treat this as the seed of his attraction, not the whole of it — the eyes get his attention; everything he comes to actually love about her afterward is entirely her own, nothing borrowed from Eve.
+
+**Craft note:** Per the style guide's "No Explicit Physical Description" rule, this is never rendered by describing what her eyes look like (no color, no shape). The resemblance is referenced as a fact he registers — a recognition, not a visual description — same as any other off-limits physical trait. See Ch.6 for the pattern: the resemblance is written as something he can't point to and name to a stranger, now specifically localized to her eyes rather than left fully unnameable.
+
+---
+
 ## EMOTIONAL ARC — STONE COLD TO JOYFUL
 
 Lucifer's arc is not from broken to healed in a conventional sense. It is from **ancient and weathered back to something close to who he was before the Fall** — before the weight of everything landed on him permanently.
@@ -78,7 +88,7 @@ On Earth, as his emotions return, this surfaces again without announcement. He d
 
 Their relationship is ancient and layered. God is simultaneously Lucifer's oldest companion — their essences pre-date creation and are, in that sense, friends — and his father, in that Lucifer's body and physical existence are God's work. He did not choose to exist. God made him. That is a complicated kind of love.
 
-Lucifer does not rage at God. He is not a rebel and he is not bitter in the way mythology has painted him. But he is not without frustration. When he notices one of God's jokes — the apple orchard landing, the girl who looks like Eve, the too-convenient timing of things — he has one response: he glances at the sky. Just that. A single look upward that means *"seriously."* No words. No performance. Just the look one old friend gives another when they've been had and they know it.
+Lucifer does not rage at God. He is not a rebel and he is not bitter in the way mythology has painted him. But he is not without frustration. When he notices one of God's jokes — the apple orchard landing, the girl with Eve's eyes and nothing else of hers, the too-convenient timing of things — he has one response: he glances at the sky. Just that. A single look upward that means *"seriously."* No words. No performance. Just the look one old friend gives another when they've been had and they know it.
 
 This gesture should be rare and used precisely. It is not comedic relief — it is a window into a relationship the reader otherwise never sees directly. When it appears, it tells us more about who Lucifer actually is than almost anything else: someone with enough history with God to be exasperated rather than afraid, and enough familiarity to say so with a look.
 

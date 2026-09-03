@@ -30,6 +30,8 @@
 
 Per the author's request, Ch.6 now continues past the knock through the door opening and Elizabeth's first line, ending on Lucifer's private read of her — including the resemblance-to-Eve beat originally slated for Ch.7's Must Include list. This is a deliberate craft fix, not just a request: that beat requires Lucifer's interiority, which Ch.7 (Elizabeth's POV) can't carry without breaking POV discipline. Housing it in Ch.6 instead means Ch.7 doesn't need to gesture at his internal reaction through external tells — it can just be Elizabeth's own chapter start to finish. The two chapters now share one overlapping beat (the door opens, she speaks) rendered once per POV, the same technique already planned for the Ch.60 split-POV unit.
 
+**Update (2026-09-03, same day):** The author locked a new detail — the resemblance is specifically and only Elizabeth's eyes, nothing else — see `bible/lucifer_character_profile.md` § "The Eve Resemblance — Locked Detail." The passage originally read "not a feature, not a voice, nothing he could have pointed to," which now directly contradicted the lock-in (it specifically IS a feature). Rewrote to "It was her eyes... Just the eyes, arriving before he'd decided to go looking for them," keeping the no-physical-description rule intact — the eyes are referenced as the site of recognition, never described in color or shape.
+
 ## CRAFT NOTES
 
 - Seeds two payoffs from later in `unit-plans.md`: the park/painting-class beat (style guide § 8, Lucifer's eventual park class) and the coffee shop (Ch.13's "Coffee Run," where Elizabeth and Sophie sit across from the park). Both are now established as real, specific places before the plot needs them.

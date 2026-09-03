@@ -859,7 +859,7 @@
 **Must include:**
 - A portal opens behind a building, out of sight of any witnesses. Eve steps through.
 - She finds the wedding already underway in the park. She watches from a distance, concealed.
-- She notices how closely Elizabeth resembles her — files it as proof he's settling for a substitute.
+- She notices Elizabeth has her eyes — nothing else of hers — and files it as proof he's settling for a substitute.
 - She watches the rest of the night: the ceremony, the bouquet toss, Elizabeth catching it, the look, the kiss.
 - She concludes he still loves her. The kiss confirms it.
 
@@ -2389,7 +2389,7 @@
 **Must include:**
 - A portal opens behind a building, out of sight of any witnesses. Eve steps through.
 - She finds the wedding already underway in the park. She watches from a distance, concealed.
-- She notices how closely Elizabeth resembles her — files it as proof he's settling for a substitute.
+- She notices Elizabeth has her eyes — nothing else of hers — and files it as proof he's settling for a substitute.
 - She watches the rest of the night: the ceremony, the bouquet toss, Elizabeth catching it, the look, the kiss.
 - She concludes he still loves her. The kiss confirms it.
 
