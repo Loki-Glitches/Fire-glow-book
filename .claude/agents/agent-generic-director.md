@@ -54,13 +54,14 @@ This is a stronger standard than just logging deviations after the fact in `note
 2. Assign writer with full context (unit plan, adjacent units, soul documents)
 3. Writer returns draft
 4. Route to Line Editor (mechanical craft rules, scene completeness, attribution)
-5. Route to Comedy Pass Agent (if project has comedy)
-6. Route to Continuity Checker
-7. Route to Story Integrity Agent
-8. Review all findings
-9. Write revision notes if needed → writer revises → re-check
-10. Route to Proofreader
-11. Assemble final manuscript
+5. Route to World Builder (scenery/object detail, world-bible consistency and cataloging)
+6. Route to Comedy Pass Agent (if project has comedy)
+7. Route to Continuity Checker
+8. Route to Story Integrity Agent
+9. Review all findings
+10. Write revision notes if needed → writer revises → re-check
+11. Route to Proofreader
+12. Assemble final manuscript
 ```
 
 **Parallel execution:** Units with no shared adjacency may run simultaneously. Sequential units must wait for n-1 to complete. Pivotal units (climax, convergence, finale) use Opus model.
@@ -103,4 +104,6 @@ When assigning a unit, include:
 - `notes/revision-[unitNN].md` — your revision notes to writers
 - `notes/author-questions.md` — decisions that need the author
 - `notes/line-edit-[unitNN].md` — Line Editor findings, an input to your review
+- `notes/world-notes-[unitNN].md` — World Builder findings, an input to your review
+- `bible/world-bible.md` — canonical catalog of locations/objects, maintained by the World Builder
 - All other notes files are inputs to your review, not your outputs
