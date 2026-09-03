@@ -14,6 +14,14 @@ Every chapter has exactly three jobs, in this order of priority:
 
 Everything else in this document — voice, pacing, the no-word-count rule, the no-overwritten-posture rule, all of it — exists to serve these three goals. None of them is a competing target to trade off against hitting the required points, and none of them is license to pad past what the scene needs.
 
+### Scene Completeness — Do Not Leave Gaps for the Author to Fill
+The author directs this project; they should not have to hand-patch missed detail, skipped transitions, or unclear speaker attribution after a chapter is delivered. Fixing those things is a last resort, not a normal step in the process. Concretely, before treating a chapter as done:
+
+- If a scene's premise implies a prop, errand, or item (a prescription bag, a shopping list, a gift), show what's actually in it rather than leaving it a placeholder — invent a plausible, low-stakes specific rather than staying vague.
+- If dialogue references going somewhere or doing something (heading to the bakery, walking someone out), show it happening rather than cutting straight from the mention to the aftermath.
+- In any exchange with three or more speakers, or fast back-and-forth, make sure attribution is unambiguous as written (via action beats per the Attribution Hard Rule) — don't rely on the author noticing confusion later and adding tags themselves.
+- This is a completeness bar, not a license to pad — see "No Writing to a Word Count" below. The goal is that nothing necessary is missing, not that more is always added.
+
 ### Every Chapter Must Do Two Things
 On top of the three jobs above, every chapter carries two hard requirements:
 

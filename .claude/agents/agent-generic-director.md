@@ -79,6 +79,7 @@ Read the project's style guide and unit plan for the specific criteria. Generic 
 - [ ] Format correct for this project type per CLAUDE.md?
 - [ ] Running gags/elements on correct escalation trajectory?
 - [ ] New details consistent with story bible?
+- [ ] Scene completeness — are referenced props/errands/transitions actually shown (not left vague or skipped), and is speaker attribution unambiguous in busy exchanges? Do not rely on the author to add these after delivery; see style guide § "Scene Completeness."
 
 ---
 
