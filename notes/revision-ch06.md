@@ -3,7 +3,7 @@
 **Reviewer:** Director (self-review — no writer sub-agent available this run)
 **Date:** 2026-09-03
 **File reviewed:** `chapters/ch06.md`
-**Length:** ~1,015 words (expanded from ~650 per the new Ch.6-onward 1,000-word floor)
+**Length:** ~1,180 words (expanded from ~650 per the new Ch.6-onward 1,000-word floor, then further extended per the author's split-scene request)
 
 ---
 
@@ -18,14 +18,17 @@
 | The group arriving at Elizabeth's door | PASS | |
 | A knock | PASS | Chapter ends on it. |
 
-**Ends with:** The knock on the door. PASS — stops there, no reaction, no door opening.
+**Ends with:** Elizabeth's first line, as Lucifer registers her. **Updated per author instruction (2026-09-03):** originally ended on the knock; the author asked for the door-opening beat to close Ch.6 and reopen Ch.7, so the same moment plays twice, once per POV. See `bible/unit-plans.md` Ch.6/Ch.7 for the logged override.
 
 ## MUST NOT — line check
 
 | Constraint | Status | Note |
 |---|---|---|
-| The door opening | PASS | Not written — reserved for Ch.7. |
-| Any emotional reaction from Lucifer beyond cool observation | PASS | He stays clinical throughout — dismisses the painting class ("It won't be"), doesn't engage Claire's teasing, no warmth. |
+| Any emotional reaction from Lucifer beyond cool observation | PASS | He stays clinical throughout, including in the new ending — dismisses the painting class ("It won't be"), doesn't engage Claire's teasing, and the Eve-resemblance beat is written as strategic/clinical noticing ("filed it anyway... reminding was not evidence of anything"), never warmth or attraction. |
+
+## THE SPLIT-SCENE EXTENSION
+
+Per the author's request, Ch.6 now continues past the knock through the door opening and Elizabeth's first line, ending on Lucifer's private read of her — including the resemblance-to-Eve beat originally slated for Ch.7's Must Include list. This is a deliberate craft fix, not just a request: that beat requires Lucifer's interiority, which Ch.7 (Elizabeth's POV) can't carry without breaking POV discipline. Housing it in Ch.6 instead means Ch.7 doesn't need to gesture at his internal reaction through external tells — it can just be Elizabeth's own chapter start to finish. The two chapters now share one overlapping beat (the door opens, she speaks) rendered once per POV, the same technique already planned for the Ch.60 split-POV unit.
 
 ## CRAFT NOTES
 

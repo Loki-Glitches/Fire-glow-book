@@ -113,20 +113,19 @@
 - Key locations established through Claire and James's guidance
 - The group arriving at Elizabeth's door
 - A knock
+- **(Author override, 2026-09-03)** The door opening and Elizabeth's first line, ending on Lucifer's first impression of her — he clocks the resemblance to Eve but registers her as a separate person. This is a deliberate split-scene overlap with Ch.7: the same door-opening beat is shown twice, once per POV, since Lucifer's interiority here can only live in his own chapter. See `notes/revision-ch06.md`.
 
 **Must NOT include:**
-- The door opening — that's Ch.7
-- Any emotional reaction from Lucifer to the town beyond cool observation. No warmth yet.
+- Any emotional reaction from Lucifer to the town beyond cool observation. No warmth yet — including toward Elizabeth herself; the resemblance registers as strategic/clinical interest, not attraction.
 
-**Ends with:** The knock on the door.
+**Ends with:** Elizabeth's first line of dialogue, as Lucifer registers her.
 
 ---
 
 ### Ch.7 — First Contact and Bond
 **POV:** Elizabeth
 **Must include:**
-- Elizabeth opening the door — she is present, warm, and genuinely reactive from the first moment. Her emotional register is fully alive. She notices "Adrian" is unusual immediately — open curiosity, not suspicion yet.
-- Lucifer's first impression of Elizabeth — he clocks the resemblance to Eve but registers her as a separate person. His read of her is strategic. The contrast between her emotional presence and his detachment is already doing work, even if neither names it.
+- Elizabeth opening the door — she is present, warm, and genuinely reactive from the first moment. Her emotional register is fully alive. She notices "Adrian" is unusual immediately — open curiosity, not suspicion yet. **(Split-scene note, 2026-09-03):** this replays the same door-opening moment Ch.6 ends on, now from her side — intentional overlap, not a continuity error.
 - A Travel Bond forming between Lucifer and Elizabeth — the mechanics are still new; let the uncertainty show
 - Tristan staying involved despite the Travel Bond (not yet comfortable with the system)
 - Lucifer's strategic framing: she is useful for tracking Eve's movements. Nothing more yet.
