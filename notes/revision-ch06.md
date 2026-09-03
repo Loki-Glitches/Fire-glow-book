@@ -3,7 +3,7 @@
 **Reviewer:** Director (self-review — no writer sub-agent available this run)
 **Date:** 2026-09-03
 **File reviewed:** `chapters/ch06.md`
-**Length:** ~650 words
+**Length:** ~1,015 words (expanded from ~650 per the new Ch.6-onward 1,000-word floor)
 
 ---
 
@@ -46,4 +46,10 @@
 
 ## LENGTH
 
-~650 words. Shorter than Ch.4, appropriate for a chapter that's structurally a transition (town tour → arrival) rather than a scene carrying a major disclosure or turn. Nothing on the Must Include list needed more room than it got.
+Originally ~650 words, appropriate for a transition chapter — but the author locked a new standing rule (2026-09-03): no chapter from Ch.6 onward lands under 1,000 words, hit through genuine content rather than padding. Expanded to ~1,015 words using exactly the levers now defined in `bible/style-guide.md`'s Normalcy Agent guidance:
+- James/Claire banter (unrestricted — the "accurate vs. charming" exchange, the "sad blue car" bit, the wedding-date callback from a shopkeeper extra)
+- James/Claire asking Azrael and Lucifer direct questions, which both answer factually without volunteering or initiating (the coffee question to Tristan; Claire asking about the fountain, which Lucifer answers with procedural specificity rather than warmth)
+- A new town extra (a kid on a bike) and ambient world texture (a sprinkler, a dog, James's lived-in narration about the neighborhood) rather than dialogue-only padding
+- One small Lucifer-interiority beat (noting sightlines at the house) that's procedural/vigilant, not warm — stays inside the Numbness-phase restriction
+
+None of the additions touch the Lucifer/Azrael no-banter rule — the two of them still don't trade anything back and forth with each other. All new dialogue-from-Lucifer is answers to direct questions asked by someone else, per the author's clarification.

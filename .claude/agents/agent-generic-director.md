@@ -54,15 +54,16 @@ This is a stronger standard than just logging deviations after the fact in `note
 1. Read all soul documents
 2. Assign writer with full context (unit plan, adjacent units, soul documents)
 3. Writer returns draft
-4. Route to Line Editor (mechanical craft rules, scene completeness, attribution)
-5. Route to World Builder (scenery/object detail, world-bible consistency and cataloging)
-6. Route to Comedy Pass Agent (if project has comedy)
-7. Route to Continuity Checker
-8. Route to Story Integrity Agent
-9. Review all findings
-10. Write revision notes if needed → writer revises → re-check
-11. Route to Proofreader
-12. Assemble final manuscript
+4. Route to Normalcy Agent (small talk/action/length floor — Ch.6 onward)
+5. Route to Line Editor (mechanical craft rules, scene completeness, attribution)
+6. Route to World Builder (scenery/object detail, world-bible consistency and cataloging)
+7. Route to Comedy Pass Agent (if project has comedy)
+8. Route to Continuity Checker
+9. Route to Story Integrity Agent
+10. Review all findings
+11. Write revision notes if needed → writer revises → re-check
+12. Route to Proofreader
+13. Assemble final manuscript
 ```
 
 **Parallel execution:** Units with no shared adjacency may run simultaneously. Sequential units must wait for n-1 to complete. Pivotal units (climax, convergence, finale) use Opus model.
@@ -107,4 +108,5 @@ When assigning a unit, include:
 - `notes/line-edit-[unitNN].md` — Line Editor findings, an input to your review
 - `notes/world-notes-[unitNN].md` — World Builder findings, an input to your review
 - `bible/world-bible.md` — canonical catalog of locations/objects, maintained by the World Builder
+- `notes/normalcy-[unitNN].md` — Normalcy Agent suggestions, an input to your review
 - All other notes files are inputs to your review, not your outputs

@@ -107,9 +107,9 @@ The reader tracks speakers through voice, rhythm, and natural alternation. If th
 Default to giving dialogue a physical action beat — cooking, eating, gesturing, moving through the room — rather than trading bare lines back and forth with nothing happening around them. This isn't about attribution (a beat can sit next to dialogue whose speaker is already obvious); it's about keeping scenes physically alive. "Also right" above (a tagless, action-free line) should be the exception used for rhythm or pacing, not the default across a whole exchange. See Ch.3's breakfast scene for the pattern — characters are eating, cooking, and gesturing with silverware through nearly the entire conversation.
 
 - Nobody explains themselves fully. Characters say what they mean but not always why.
-- Lucifer does not do small talk. When he asks a question, it means something. Do not let him fill silence with nothing.
+- Lucifer does not do small talk. When he asks a question, it means something. Do not let him fill silence with nothing. **But if someone else asks him something directly, he answers** — briefly, factually, without warmth pre-Calm — for anyone, not just Elizabeth (see § 4 Exception 1 for her specifically). He never initiates; he's never evasive when addressed. This is a normalcy lever writers can use: other characters (James, Claire, Azrael, town extras) can ask him things during ordinary scenes and get a real, if short, answer.
 - **Elizabeth:** When she does not get a straight answer, she pauses, registers it, and moves on. She does not press or argue. She files it away. The unanswered question sits in the room between them.
-- Azrael's dialogue is task-oriented. He doesn't volunteer. When he says something personal, it lands harder because of it.
+- Azrael's dialogue is task-oriented. He doesn't volunteer. When he says something personal, it lands harder because of it. **Pre-Calm, this applies to him and Lucifer specifically** (see "No banter with Azrael before Calm unlocks" above) — it does not mean Azrael refuses ordinary conversation with everyone. Other characters (James, Claire, town extras) can still ask Azrael things and get an answer; he just doesn't ask them anything back, and he and Lucifer still don't trade banter with each other.
 - **Eve:** Sounds like a clingy ex-girlfriend who does not fully read the room. She misses social cues, gets confused easily, gets frustrated easily. She is never suave or overly confident — she is someone who genuinely does not understand why things aren't going the way she expected. Her frustration is real and slightly bewildering to be around.
 
 ### Divine & Telepathic Speech — Formatting
@@ -174,8 +174,9 @@ Lucifer's emotional recovery must be invisible before it is undeniable. The read
 
 - Do not pad a scene with extra description, dialogue, or repeated beats to make a chapter feel more substantial.
 - Do not cut or compress a beat the unit plan calls for just to keep a chapter short or "tight" — tightness is a prose-craft goal (see the no-overwritten-posture/action and no-mechanism-simile rules above), not a length goal.
-- If a chapter runs long because it has a lot to cover, let it run long. If it's a breathing chapter with little to do, let it stay short (Ch.1 and Ch.3 are both under 1,000 words for exactly this reason).
 - When revising for craft reasons and the chapter's word count changes a lot as a result, that's fine — the change should be explainable by what content was added or cut, never by a length target being chased.
+
+**Floor, Ch.6 onward:** Chapters 1–5 covered the introduction stage and are exempt — Ch.1, Ch.3, Ch.5, and Ch.6 as originally published are all under 1,000 words on purpose and stay that way (Ch.1 is also protected, see above). Starting with Ch.6's next revision and every chapter after it, **no chapter should land under 1,000 words.** The floor gets hit through genuine content — small talk, normalcy, and action beats that make a scene feel lived-in (see § 11, "Filling Simple Scenes," and the Normalcy Agent) or, in scenes where a POV character isn't allowed small talk yet, through world/sensory/procedural texture instead — never through padding for its own sake. If a scene still can't clear 1,000 words with only genuine content, flag it to the Director rather than padding it.
 
 ### Act One
 Let Elizabeth's world breathe. Her ordinary life is not setup — it is the thing worth protecting. The reader must love it before Eve threatens it.
