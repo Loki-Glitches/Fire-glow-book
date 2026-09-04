@@ -127,16 +127,16 @@
 **POV:** Elizabeth
 **Must include:**
 - Elizabeth opening the door — she is present, warm, and genuinely reactive from the first moment. Her emotional register is fully alive. She notices "Adrian" is unusual immediately — open curiosity, not suspicion yet. **(Split-scene note, 2026-09-03):** this replays the same door-opening moment Ch.6 ends on, now from her side — intentional overlap, not a continuity error.
-- A Travel Bond forming between Lucifer and Elizabeth — the mechanics are still new; let the uncertainty show
-- Tristan staying involved despite the Travel Bond (not yet comfortable with the system)
+- The seed of tension that will become a Travel Bond, without it actually forming yet — a held look, an unexplained beat, something Tristan notices and reacts to without either of them naming it. **(Resolved 2026-09-04):** The Travel Bond itself does not form here — it forms at the end of Ch.8. Ch.7 plants the uncertainty; Ch.8 resolves it. See the note on Ch.8 below.
 - Lucifer's strategic framing: she is useful for tracking Eve's movements. Nothing more yet.
 - The group beginning to move — Elizabeth comes along
 
 **Must NOT include:**
 - Any hint of romantic feeling from Lucifer — utility only
 - Elizabeth being overwhelmed or immediately trusting — she notices something is off from the start
+- The Travel Bond actually forming, or Act One closing — both now belong to Ch.8
 
-**Ends with:** Elizabeth leaving with the group. Act One closes.
+**Ends with:** Elizabeth leaving with the group.
 
 ---
 
@@ -149,7 +149,10 @@
 ### Ch.8 — The Park *(Act One closes)*
 **POV:** Elizabeth
 **Must include:**
-- The group leaves Elizabeth's house together — Claire and James split off to plan the wedding, leaving Tristan, Lucifer, and Elizabeth
+- The group leaves Elizabeth's house together — Claire and James split off to plan the wedding **about halfway through the chapter** (2026-09-04: specific timing locked), leaving Tristan, Lucifer, and Elizabeth
+- Once it's the three of them, Elizabeth starts asking a lot of questions about what her "task" actually is — what she's supposed to be doing, why they need her specifically, what this is really about. She's persistent about it, consistent with her character (direct questions, per style guide § 4 Exception 1: partial but real answers).
+- Lucifer works around giving her a straight answer — technically-true, incomplete framings (per his Divine Purity mechanic). **He eventually gets visibly annoyed at how much effort it takes to keep working around it** — not at her, but at the position of having to keep deflecting. This is new texture for him within the Numbness-phase restriction: annoyance/friction is allowed, warmth is not.
+- **(2026-09-04, new standing rule) Tristan challenges Lucifer about the bond forming with Elizabeth** — telepathically if Elizabeth is present (silent, she never hears it), aloud only if they get a genuinely alone moment. This is now a permanent recurring beat: **Tristan challenges Lucifer's bonds every time they are alone (or effectively alone via telepathy), not just occasionally.** See `bible/tristan_azrael_character_profile.md` for the locked rule. In this chapter, expect this to land while Elizabeth is mid-interrogation — Lucifer fielding her spoken questions and Tristan's silent pestering at the same time is exactly the kind of pressure that feeds his annoyance above.
 - The three explore town together — Lucifer is scanning for Eve, half-present, not fully engaged with Elizabeth yet
 - They arrive at a park in the center of town
 - Elizabeth asks why they're here — they tell her they're looking for someone who looks like her. She accepts this, pauses, and moves on. She doesn't press.
@@ -159,7 +162,7 @@
 - Elizabeth asks how they know Claire and James
 - Tristan evaluates throughout — watching how much Lucifer listens, how present he becomes as she talks.
 - **Elizabeth learns they are angels** — the disclosure that satisfies the Travel Bond threshold: she knows what they are, why they're here, basic information about them.
-- **Travel Bond forms between Lucifer and Elizabeth** at the end of this chapter — no disclosure of his specific identity required, just his divine nature which she now knows. Tristan's decision, based on what he witnessed. Act One closes.. Act One closes.
+- **Travel Bond forms between Lucifer and Elizabeth** at the end of this chapter — no disclosure of his specific identity required, just his divine nature which she now knows. Tristan's decision, based on what he witnessed. **(Resolved 2026-09-04: this is the actual formation — Ch.7 only planted the seed.)** Act One closes.
 
 **Craft notes:**
 - Lucifer's listening should be almost invisible at first — he's still scanning, still strategic — and then gradually the scanning stops and he is just there, in the conversation. Neither he nor Elizabeth names this shift. Tristan sees it.
