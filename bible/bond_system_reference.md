@@ -18,6 +18,12 @@ Lucifer has no ability whatsoever around an unbonded person. There should never 
 
 **Formation:** Self-initiated by Lucifer. Tristan does not oversee or approve these — he allows them without concern. This is how Lucifer builds his broader town network casually.
 
+### Travel Bond Range (established Ch.9 filler scene)
+- **Effective range: approximately 20 feet from the bonded human anchor.** First discovered on-page when Lucifer drifted past it for the first time with Elizabeth as the anchor — neither he nor Azrael knew the limit existed beforehand, and they paced it out empirically against a fence line afterward. Confirmed to be a full 20-foot radius around the anchor (tested from two directions), not a line-of-sight or straight-path trigger.
+- **Exceeding it involuntarily pulls Lucifer to Azrael's current physical location** — experienced as violent, disorienting speed (distance collapsing almost instantly, not a clean teleport) rather than a controlled jump. This is not something Lucifer does himself — he has no self-directed ability at this stage (see Stage 1 above) — it is the bond/tether reacting on its own.
+- **This is NOT a "bond break."** No permanent consequence, no Memory Rule trigger (see "What Breaks a Bond" below) — keep the terminology distinct on the page. Use "pulled," "thrown," or "recalled" for this mechanic; reserve "broke/broken" exclusively for the three permanent conditions.
+- **[OPEN] — how constant/universal this constraint is.** The scene deliberately leaves this unresolved (neither character fully understands it yet). Do not assume this hard-constrains every future chapter where Lucifer and Elizabeth are apart — many outlined chapters (e.g., Ch.12) have him elsewhere without her present, and this detail should not retroactively break those. Treat it as freshly-discovered, still-being-puzzled-out lore rather than a fixed, always-enforced rule until the author locks down the exact conditions. Flag to the Director before writing a scene that depends on the exact boundary of this rule.
+
 ---
 
 ## STAGE 3 — POWER BOND
