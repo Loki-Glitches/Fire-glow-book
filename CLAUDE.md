@@ -21,6 +21,10 @@ All agents MUST treat these documents as canonical:
 - **Unit Plans:** `bible/unit-plans.md` — per-unit targets and constraints (chapters, scenes, episodes, etc.)
 - **Style Guide:** `bible/style-guide.md` — voice samples, sentence rhythm, POV/perspective rules
 - **Soul:** `.claude/agents/soul.md` — project voice, identity, and non-negotiable values
+- **Synthesis:** `notes/synthesis-current.md` — living summary of every locked decision, chapter status, and open thread. **Read this first in any new session** — it's the fast path to full context without re-reading every note file or the whole prior conversation.
+
+## Starting a New Session
+This project spans 70+ chapters — don't run the whole book in one continuous conversation. Start a fresh session per chapter (or small batch): the git branch, bible files, chapters, and notes are the persistent state, not the chat history. A new session should open by reading `notes/synthesis-current.md`, then `bible/unit-plans.md` for the next unwritten chapter's plan, then proceed. Run the Synthesis agent again at the end of each chapter (or small batch) to keep that doc current for the next session.
 
 ## Project Structure
 
