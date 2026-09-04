@@ -3,7 +3,7 @@
 **Reviewer:** Director (self-review — no writer sub-agent available this run)
 **Date:** 2026-09-04
 **File reviewed:** `chapters/ch08.md`
-**Length:** ~1,165 words
+**Length:** ~2,090 words (expanded — see "Update" below)
 
 ---
 
@@ -13,7 +13,7 @@
 
 | Requirement | Status | Where |
 |---|---|---|
-| James/Claire split off about halfway through | PASS | Opens the chapter — florist errand, gone within the first few exchanges. |
+| James/Claire split off about halfway through | PASS (fixed — see "Update" below) | Split now lands at ~45% of the chapter's length, after a full five-person scene. |
 | Elizabeth presses with persistent "task" questions | PASS | Runs through most of the walk to the park — "what am I supposed to be doing," "how do you two know James and Claire," etc. |
 | Lucifer works around straight answers, technically true | PASS | "Being available if you notice something," "recently enough that the specifics aren't interesting" — evasive but not false. |
 | Lucifer visibly annoyed at working around it | PASS | The jaw tightening, "whatever patience he'd started the walk with clearly had a bottom." |
@@ -38,6 +38,12 @@
 | Lucifer showing warmth explicitly | PASS | Every line from him stays flat/factual; the bump question is presented as an anomaly, not tenderness. |
 | Elizabeth knowing what the Travel Bond means or that one formed | PASS | |
 | Eve anywhere in this chapter | PASS | |
+
+## UPDATE (2026-09-04, same day) — Fixed split timing
+
+Author caught that James and Claire split off almost immediately — nowhere near "about halfway through" as specified. Added a full five-person scene before the split: town-extra reaction to Adrian and Tristan as new faces, Claire/Elizabeth/James banter about the engagement and the newcomers, a protective check-in from James, and one more exchange establishing Adrian's attentiveness (noticing Claire's florist deadline without being told directly). The split now lands at roughly 45% of the chapter's total length — close enough to count as "about halfway." Per the author's instruction, none of the previously-written material was altered; this was purely additive.
+
+Caught three more issues during the added material's self-review: a literal "in a way" hedge phrase, a "doing the thing it did" word-reuse violation, and one line asserting James's private reasoning as narrated fact rather than Elizabeth's inference — all fixed using the same patterns established in the original pass.
 
 ## CRAFT NOTES
 
