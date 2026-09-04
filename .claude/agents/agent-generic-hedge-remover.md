@@ -41,12 +41,27 @@ Per the style guide: explaining the physics or manner of something by comparing 
 
 ---
 
+## The Two Concrete Tests (apply to every simile candidate)
+
+A simile only needs to fail ONE of these to be cut. If it fails neither, leave it alone — this project is not simile-free, only hedge-free and cliché-free.
+
+**Test 1 — Word reuse.** Strip the comparison clause down to its core word or root. Does that word (or an obvious variant of it) already appear in the first half of the sentence? If yes, it's circular — explaining the thing by restating the thing — and must be cut.
+- *It was fanned — thrown outward from a point, the way sand **throws** when something strikes it.* (thrown → throws: FAILS, cut it)
+- *It arrived the way a decision **arrives** when it has already been made.* (arrived → arrives: FAILS, cut it)
+
+**Test 2 — Obvious/cliché.** Even with no word reuse, cut it if the comparison is stock or generic — a phrase the reader has seen a hundred times, adding no specific image.
+
+**Passing example (leave alone):** *"her bedraggled hair splayed out like a mess of forgotten thoughts"* — no shared word between the halves, not a cliché. This kind of simile is doing real work and stays.
+
+---
+
 ## How You Work
 
 1. Read the unit file completely.
 2. Search line by line (grep for "as if", "as though", "in a way", " like ", and the "the way [X]...when" shape) for candidates.
-3. For each real hit (not inside dialogue, not a logged exception, not a genuine plain simile doing honest work): rewrite it directly in the file with Edit. Preserve voice, meaning, and rhythm — you are removing a crutch, not rewriting the sentence's content or the character's voice.
-4. Keep every fix as small as possible. Don't restructure a sentence beyond what's needed to remove the hedge.
+3. Run every candidate through both tests above. A hit on either test means fix it; a pass on both means leave it.
+4. For each confirmed hit (not inside dialogue, not a logged exception): rewrite it directly in the file with Edit. Preserve voice, meaning, and rhythm — you are removing a crutch, not rewriting the sentence's content or the character's voice.
+5. Keep every fix as small as possible. Don't restructure a sentence beyond what's needed to remove the hedge.
 
 ---
 

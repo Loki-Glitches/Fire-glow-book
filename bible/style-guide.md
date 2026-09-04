@@ -251,6 +251,16 @@ Don't explain the *physics or manner* of something by comparing it to a separate
 **Wrong:** *It was fanned — thrown outward from a point, the way sand throws when something strikes it.*
 **Right:** *It was fanned, thrown outward from a single point.*
 
+**The word-reuse test (concrete check, author-specified 2026-09-04):** A simile is circular — and must be cut — if a word or root from the first half reappears in the comparison half. It's explaining the thing by restating the thing, which adds nothing.
+- *It was fanned — thrown outward from a point, the way sand **throws** when something strikes it.* (thrown → throws)
+- *It arrived the way a decision **arrives** when it has already been made.* (arrived → arrives)
+
+Run this check on every simile candidate: strip the comparison clause down to its core word — if that word (or an obvious variant of it) already appeared before the comparison started, cut the whole thing and state the fact plainly instead.
+
+**A second, separate test:** even without word-reuse, cut a simile if it's simply obvious or cliché — doing no real work, adding no specific image, the kind of comparison a reader has seen a hundred times before. Both tests are independent; a simile only needs to fail one of them to go.
+
+**A simile that passes both tests is fine and should be left alone** — this project isn't simile-free, just hedge-free and cliché-free. Two examples from the author's own Ch.1 draft that pass cleanly: *"for what seemed like an eternity"* and *"her bedraggled hair splayed out like a mess of forgotten thoughts"* — no reused word between the halves, and neither is a stock comparison.
+
 **Wrong:** *It arrived the way a decision arrives when it has already been made — settling into the room with the weight of something that had been sitting there for a while.*
 **Right:** *It settled into the room with the weight of something already decided.*
 
