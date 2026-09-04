@@ -22,6 +22,8 @@ This has slipped into the prose repeatedly and needs to stop being a recurring p
 
 Before creation, Lucifer existed outside of time and space — present but powerless, with no context. God found him and took him along as He built everything. As God worked on humanity, Lucifer explored freely — a beautiful being who spent his days singing, dancing, and creating small things. God's son in this era. No other angels yet on Earth.
 
+**Timeline clarification (locked 2026-09-04):** This entire era — singing, dancing, watching siblings and the creatures of the earth arrive, creating small things freely — happens *before* Adam and Eve exist. His wound is not with this period, and it is not with Adam and Eve's existence or arrival either. It is specifically with what happens the day he gives Eve the Tree of Knowledge and the fall that follows. Any scene where he reminisces warmly about "the garden" or his younger self should stay scoped to this pre-Adam/Eve creation era; once Adam and Eve enter the story, his tone can stay neutral (he genuinely disliked Adam from the start, unrelated to the tree) but should not sour into the actual wound until the tree/betrayal itself is what's being approached — that's the one specific event he can't go near, not the two people themselves.
+
 As a gift of gratitude, he built the Tree of Knowledge: an apple from a tree, gold from underground, crafted into something that would bless creation with knowledge of good and evil. A love letter to God. He did not know what it would cost.
 
 God saw the dangers and warned Adam not to eat from it. Adam was responsible for warning Eve. He never did.
