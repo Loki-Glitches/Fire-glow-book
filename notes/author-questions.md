@@ -41,7 +41,7 @@ the story bible or style guide accordingly.
 ### 2026-09-04 — Author — Sky-glance cap lifted; Travel Bond range refined to multi-anchor
 **Context:** Follow-up to the same-day entry above. Two amendments from the author after the Ch.9 filler scene landed.
 **Author decision:**
-1. **Sky-glance:** the 2-3-total-uses cap is lifted. It's now an intentional recurring beat across the book — Lucifer's private reaction to moments where he clocks God's hand in something too convenient, comedic in effect for the reader without ever being played as a joke on the page. Stays Lucifer-exclusive (never shared or noticed by another character) and must still land as a specific, earned reaction each time, not a tic. Locked in `bible/style-guide.md` § "The Sky-Glance."
+1. **Sky-glance:** the 2-3-total-uses cap is lifted. It's now an intentional recurring beat across the book. **Clarified same day:** the glance is genuine annoyance, not shared amusement — Lucifer is irritated that God is making a joke of the timing at all, especially when the moment is serious or a crisis. The comedy belongs to the reader alone; Lucifer's own reaction is exasperation, not delight. Stays Lucifer-exclusive (never shared or noticed by another character) and must still land as a specific, earned reaction each time, not a tic. Locked in `bible/style-guide.md` § "The Sky-Glance."
 2. **Travel Bond range:** not anchor-specific to Elizabeth. With multiple Travel Bonds active, Lucifer can range between any of them — he only gets pulled to Azrael when he's outside 20 feet of *every* currently-bonded human, not just one specific person. Locked in `bible/bond_system_reference.md` § "Travel Bond Range."
 
 ### 2026-09-02 — Director — CLAUDE.md and soul.md are unfilled templates
