@@ -113,12 +113,13 @@
 - Key locations established through Claire and James's guidance
 - The group arriving at Elizabeth's door
 - A knock
-- **(Author override, 2026-09-03)** The door opening and Elizabeth's first line, ending on Lucifer's first impression of her — he clocks the resemblance to Eve but registers her as a separate person. This is a deliberate split-scene overlap with Ch.7: the same door-opening beat is shown twice, once per POV, since Lucifer's interiority here can only live in his own chapter. See `notes/revision-ch06.md`.
+- **(Author override, 2026-09-03)** The door opening and Elizabeth's first line — a deliberate split-scene overlap with Ch.7, since the same beat is shown twice, once per POV. See `notes/revision-ch06.md`.
 
 **Must NOT include:**
-- Any emotional reaction from Lucifer to the town beyond cool observation. No warmth yet — including toward Elizabeth herself; the resemblance registers as strategic/clinical interest, not attraction.
+- Any emotional reaction from Lucifer to the town beyond cool observation. No warmth yet.
+- **(Revised 2026-09-04)** Any recognition of Elizabeth as resembling Eve, in any form. The author scratched the original ending, which had Lucifer instantly registering the eye-resemblance at the door — that recognition is now deferred to a later, not-yet-decided chapter, after he's actually gotten to know her. Ch.6 plays the first contact completely clean: nothing marks her as unusual to him. See `bible/lucifer_character_profile.md` § "The Eve Resemblance — Locked Detail."
 
-**Ends with:** Elizabeth's first line of dialogue, as Lucifer registers her.
+**Ends with:** Elizabeth's first line of dialogue, and Lucifer cataloguing her the same as everything else that day.
 
 ---
 

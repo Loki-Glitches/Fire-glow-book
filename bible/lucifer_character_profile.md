@@ -26,13 +26,15 @@ The ring he wears reads: *"Cursed by love's cruel decree, forced to bear the wei
 
 ---
 
-## THE EVE RESEMBLANCE — LOCKED DETAIL (2026-09-03)
+## THE EVE RESEMBLANCE — LOCKED DETAIL (2026-09-03, revised 2026-09-04)
 
-Elizabeth resembles Eve in exactly one place: **her eyes.** Nothing else. Personality, body, hair, and face are all different — this is not a lookalike situation. The eyes alone are what catch him, and the eyes alone are what he's drawn to.
+Elizabeth resembles Eve in exactly one place: **her eyes.** Nothing else. Personality, body, hair, and face are all different — this is not a lookalike situation.
 
-This is why he's drawn to her at all. It's the hook that gets him to notice her in the first place, before anything about who she actually is has had a chance to matter. Writers should treat this as the seed of his attraction, not the whole of it — the eyes get his attention; everything he comes to actually love about her afterward is entirely her own, nothing borrowed from Eve.
+**Revised 2026-09-04:** This is NOT the hook for his initial attraction and does NOT register at first contact (Ch.6/7). The author wants Lucifer to spend real time getting to know Elizabeth first — as herself, nothing borrowed from Eve — with the eye-resemblance recognized only later, once there's already a relationship for the recognition to complicate. Ch.6's original ending (an instant recognition at the door) has been scratched; the door-opening scene now plays completely clean, with nothing marking her as unusual to him.
 
-**Craft note:** Per the style guide's "No Explicit Physical Description" rule, this is never rendered by describing what her eyes look like (no color, no shape). The resemblance is referenced as a fact he registers — a recognition, not a visual description — same as any other off-limits physical trait. See Ch.6 for the pattern: the resemblance is written as something he can't point to and name to a stranger, now specifically localized to her eyes rather than left fully unnameable.
+**Exact placement of the recognition beat: [OPEN]** — not yet decided which later chapter carries it. Whoever writes that chapter should flag it to the Director before implementing, since it's a significant character beat that needs to land deliberately, not casually.
+
+**Craft note (still applies once the beat is written):** Per the style guide's "No Explicit Physical Description" rule, this must never be rendered by describing what her eyes look like (no color, no shape) — only that he recognizes them, the way Ch.6's original draft handled it before being scratched. That mechanic is still correct; only the timing changed.
 
 ---
 

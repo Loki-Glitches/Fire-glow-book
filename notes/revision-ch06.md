@@ -34,6 +34,8 @@ Per the author's request, Ch.6 now continues past the knock through the door ope
 
 **Update (2026-09-03, same day, second pass):** Author flagged that the resemblance beat didn't make sense where it originally landed — it was placed before Elizabeth's eyes had actually reached Lucifer (she was still mid-motion, addressing Claire), so there was nothing yet for him to have seen. Reordered: the door opens, she speaks to Claire and her eyes move on to the rest of them, and only then does the cataloguing/resemblance beat land — now anchored to the actual moment eye contact happens.
 
+**Update (2026-09-04):** Author scratched the resemblance ending entirely. Direction changed: Lucifer should get to know Elizabeth over the next several chapters as herself, with the eye-resemblance recognized only later, once there's already a relationship for the recognition to complicate — not as the initial hook for his attraction. Ch.6 now ends cleanly on "Lucifer catalogued her, same as everything else today, and moved on," with no hint that anything about her is unusual to him. `bible/lucifer_character_profile.md` § "The Eve Resemblance — Locked Detail" and `bible/unit-plans.md` Ch.6 updated to match. The exact chapter for the eventual recognition beat is marked **[OPEN]** — not yet decided.
+
 ## CRAFT NOTES
 
 - Seeds two payoffs from later in `unit-plans.md`: the park/painting-class beat (style guide § 8, Lucifer's eventual park class) and the coffee shop (Ch.13's "Coffee Run," where Elizabeth and Sophie sit across from the park). Both are now established as real, specific places before the plot needs them.
