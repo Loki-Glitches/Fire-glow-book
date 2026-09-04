@@ -365,7 +365,7 @@ The only moment neither of them retreats. It works because the usual reasons to 
 | 17 | The Morning After | Elizabeth | Sam and Sophie downstairs with the painting. Argument about Lucifer. Sophie defends. Elizabeth runs out. |
 | 18 | Overheard | Lucifer | Lucifer and Tristan argue. Tristan threatens the bond. Lucifer admits he used Elizabeth. She overhears. Runs. He calls back to Tristan and follows. |
 | 19 | The Door | Lucifer | Elizabeth closes the door. Lucifer bonds Sam and Sophie (TB) — **Sophie's Travel Bond forms here.** Plain honesty wins them over. He is let through. |
-| 20 | The Apology | Elizabeth | He knocks on her door. She opens a crack. He apologizes plainly — no engineering. She accepts but doesn't forgive yet. |
+| 20 | The Apology | Lucifer *(this table was stale — `bible/unit-plans.md` already had this chapter as Lucifer; synced 2026-09-04)* | He knocks on her door. She opens a crack. He apologizes plainly — no engineering. She accepts but doesn't forgive yet. |
 | 21 | After the Apology | Elizabeth | He enters her room. She tells him to stop deflecting. He agrees. She asks about Eden. He answers honestly. She declares karaoke next Friday. |
 | 22 | Settle the Score | Lucifer | Lucifer punches Tristan. Explains he hasn't sung since Genesis. Tristan apologizes. They plan to go somewhere he can sing without prying eyes. |
 | 23 | Karaoke Night | Elizabeth | He sings MJ, crowd loves it. She sings, crushes it, wins pizza. He cheers for her unguarded. Dancing on the sidewalk home. **Joy unlocks.** |
@@ -376,8 +376,8 @@ The only moment neither of them retreats. It works because the usual reasons to 
 | 28 | The Flower | Lucifer | Tristan and Lucifer argue about the wedding invite. Little girl approaches with dead flower. Lucifer transfigures it out of her sight, returns it. Tristan shocked. **Generosity unlocks.** |
 | 29 | Too Nice | Elizabeth | Sam asks what kind of angel he is. Sophie suggests he could be Lucifer but walks it back — too nice. Elizabeth flashes to his early coldness. Unresolved confusion. |
 | 30 | Not Yet | Lucifer | Tristan questions Lucifer's happiness. Lucifer sends Tristan to gather intel on Elizabeth via Sam/Sophie. Elizabeth arrives, reattaches bond. **Love begins to stir.** Off-page: Sam and Sophie convince Tristan. |
-| 31 | Who Are You Really | Elizabeth | Full day with James and Claire. Best man/MoH assigned. Lucifer checks with Tristan via telepathy — Tristan says yes. Elizabeth asks who he really is. Chapter ends on the cliff. |
-| 32 | Q&A | Elizabeth | Lucifer reveals his identity, Tristan's identity, the full mission. Elizabeth says yes to the anchor. Transfiguration test confirms Full Bond. **Full Bond formed.** |
+| 31 | Who Are You Really | Lucifer *(changed from Elizabeth, 2026-09-04)* | Full day with James and Claire. Best man/MoH assigned. Lucifer checks with Tristan via telepathy — Tristan says yes. Elizabeth asks who he really is. Chapter ends on the cliff. |
+| 32 | Q&A | Lucifer *(changed from Elizabeth, 2026-09-04)* | Lucifer reveals his identity, Tristan's identity, the full mission. Elizabeth says yes to the anchor. Transfiguration test confirms Full Bond. **Full Bond formed.** |
 | 33 | Rehearsal Dinner | Elizabeth | Wedding rehearsal/dinner. Sam/Sophie notice the dynamic from a distance. Lucifer learns Tristan spoke to Sam. Last Genesis deflection — Elizabeth steps back but bond holds. **Love deepens.** |
 | 34 | The Wedding | Elizabeth | August 2nd, town park. James and Claire marry. Lucifer promises to tell Elizabeth everything after. He tells her about the garden — she's heartbroken. Bouquet toss. She realizes she's in love. Sophie confirms. She runs to him. They kiss. **Love unlocks. Act Two closes.** |
 | 35 | The Watcher | Eve | Act Three opens. Eve arrives through a portal behind a building. Watches the wedding from a distance. Memoir-esque voice. Concludes Lucifer still loves her. |

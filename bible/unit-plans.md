@@ -743,7 +743,7 @@
 ---
 
 ### Ch.31 — Who Are You Really
-**POV:** Elizabeth
+**POV:** Lucifer *(changed from Elizabeth — author executive decision, 2026-09-04, to even out the POV distribution; see notes/author-questions.md. Content/beats unchanged. Note: this actually strengthens the chapter's own craft note about "two things happening at once, invisible to her" — in Lucifer's POV the reader experiences both channels directly, his real-time telepathic check with Tristan and Elizabeth's spoken question, rather than only her oblivious side of it.)*
 **Must include:**
 - Elizabeth notices Tristan going off — she doesn't know where or why
 - The chapter covers a full day — Lucifer and Elizabeth converging with James and Claire, moving through the day together naturally
@@ -770,7 +770,7 @@
 ---
 
 ### Ch.32 — Q&A *(Full Bond forms)*
-**POV:** Elizabeth
+**POV:** Lucifer *(changed from Elizabeth — author executive decision, 2026-09-04, to even out the POV distribution; see notes/author-questions.md. Content/beats unchanged — this becomes his own POV on finally telling her everything, which fits the arc of his walls coming down.)*
 **Must include:**
 - Lucifer explains who he is — his true identity, his role, his history in broad strokes
 - He explains who Tristan really is — Azrael, the Eden keeper, his function and why he's here
@@ -1591,7 +1591,8 @@
 
 ---
 
-### Ch.68 — Wings *(Elizabeth POV)*
+### Ch.68 — Wings *(Lucifer POV — changed from Elizabeth, author executive decision 2026-09-04, to even out the POV distribution; see notes/author-questions.md)*
+**POV:** Lucifer
 **Must include:**
 - Eve pushes Elizabeth toward Lucifer. He catches her — then goes after Eve and leaves Elizabeth behind.
 - Elizabeth follows, frightened, wants to stay near him.
@@ -1614,7 +1615,7 @@
 - **CONTINUITY FLAG: Eve restrained. Departure sequence begins.**
 
 **Must NOT include:**
-- The non-kiss being explained in this chapter
+- The non-kiss being explained in this chapter — **flag for whoever writes this chapter:** now that this is Lucifer's own POV, his interiority is directly available to the reader, so extra care is needed to preserve the same ambiguity that used to come for free from being outside his head. He can be shown as somewhere else entirely — mid-calculation, bracing, withdrawn — without the narration actually spelling out what he's bracing for. Show the retreat, not the reasoning behind it.
 - Any witnesses beyond main characters
 
 ---
