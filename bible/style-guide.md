@@ -103,6 +103,25 @@ The reader tracks speakers through voice, rhythm, and natural alternation. If th
 
 **Author exception (Ch.5):** A bare dialogue-verb tag (*retorted*, *joked*, *giggled*, *laughed*) is allowed on its own when the author is using the verb to carry tone, not just attribution, in a fast, busy exchange where speaker tracking got genuinely lost. Use sparingly — this is a deliberate authorial choice, not a default to reach for.
 
+### The 3+ Speaker Rule (hard rule, author-locked 2026-09-04)
+The "reader tracks speakers through voice and rhythm" principle above only holds for two-person scenes. **The moment a scene has three or more people physically present — whether or not all of them are currently speaking — a name or an action beat that identifies the speaker must appear at least every other line of dialogue.** Concretely: never let two consecutive lines of dialogue both go unattributed (no name, no action beat, no dialogue tag) once a third person is in the room. One tagless line in a row is fine; two in a row is not, in a 3+ scene.
+
+This doesn't mean tagging every single line — that reads mechanical. It means never letting the reader go more than one line without a fresh anchor. An action beat on line one can cover line two as well if it's still obviously the same speaker continuing, but the line after that needs its own anchor if a different person could plausibly be the one talking.
+
+**Wrong (3 people in the scene, two untagged lines in a row):**
+> "You're not going to tell me anything, are you."
+> "Not today."
+> "Fine. So what do I actually need to do."
+
+Here nothing tells the reader whether the second and third lines are the same two people going back and forth or whether the third person just joined in — with three people in the room, that ambiguity is exactly what this rule exists to prevent.
+
+**Right:**
+> "You're not going to tell me anything, are you," Elizabeth said.
+> "Not today."
+> "Fine." She turned to include Tristan. "So what do I actually need to do."
+
+This is stricter than the general Attribution Hard Rule above specifically because 3+ scenes are where this project has actually lost readers (Ch.4's four-person picnic scene, Ch.5's bakery scene) — two-person scenes don't have this failure mode since there's only ever one alternative speaker.
+
 ### Characters Are Always Doing Something
 Default to giving dialogue a physical action beat — cooking, eating, gesturing, moving through the room — rather than trading bare lines back and forth with nothing happening around them. This isn't about attribution (a beat can sit next to dialogue whose speaker is already obvious); it's about keeping scenes physically alive. "Also right" above (a tagless, action-free line) should be the exception used for rhythm or pacing, not the default across a whole exchange. See Ch.3's breakfast scene for the pattern — characters are eating, cooking, and gesturing with silverware through nearly the entire conversation.
 

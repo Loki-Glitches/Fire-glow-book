@@ -3,7 +3,7 @@
 **Reviewer:** Director (self-review — no writer sub-agent available this run)
 **Date:** 2026-09-04
 **File reviewed:** `chapters/ch08.md`
-**Length:** ~2,090 words (expanded — see "Update" below)
+**Length:** ~2,165 words (expanded — see "Update" below)
 
 ---
 
@@ -44,6 +44,10 @@
 Author caught that James and Claire split off almost immediately — nowhere near "about halfway through" as specified. Added a full five-person scene before the split: town-extra reaction to Adrian and Tristan as new faces, Claire/Elizabeth/James banter about the engagement and the newcomers, a protective check-in from James, and one more exchange establishing Adrian's attentiveness (noticing Claire's florist deadline without being told directly). The split now lands at roughly 45% of the chapter's total length — close enough to count as "about halfway." Per the author's instruction, none of the previously-written material was altered; this was purely additive.
 
 Caught three more issues during the added material's self-review: a literal "in a way" hedge phrase, a "doing the thing it did" word-reuse violation, and one line asserting James's private reasoning as narrated fact rather than Elizabeth's inference — all fixed using the same patterns established in the original pass.
+
+## UPDATE 2 (2026-09-04, same day) — New 3+ Speaker Rule applied
+
+Author locked a new hard rule: once a scene has three or more people present, a name or action beat must anchor the speaker at least every other line — never two consecutive unattributed dialogue lines. Ch.8 (which runs 5-person and then 3-person scenes for almost its entire length) had roughly a dozen stretches that violated this, including one genuinely ambiguous line ("That's blackmail") where it wasn't clear whether James or Claire was speaking. Fixed all of them with minimal action-beat or name-tag insertions — no dialogue content changed, only attribution added. Per author instruction, this pass was scoped to Ch.8 only; Ch.4, Ch.6, and Ch.7 were not swept and stay as previously published.
 
 ## CRAFT NOTES
 
