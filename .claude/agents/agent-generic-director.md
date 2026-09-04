@@ -55,16 +55,17 @@ This is a stronger standard than just logging deviations after the fact in `note
 2. Assign writer with full context (unit plan, adjacent units, soul documents)
 3. Writer returns draft
 4. Route to Normalcy Agent (small talk/action/length floor — Ch.6 onward)
-5. Route to Hedge Remover (finds AND directly fixes hedge phrases/mechanism similes — the only editing reviewer in the pipeline)
-6. Route to Line Editor (mechanical craft rules, scene completeness, attribution)
-7. Route to World Builder (scenery/object detail, world-bible consistency and cataloging)
-8. Route to Comedy Pass Agent (if project has comedy)
-9. Route to Continuity Checker
-10. Route to Story Integrity Agent
-11. Review all findings
-12. Write revision notes if needed → writer revises → re-check
-13. Route to Proofreader
-14. Assemble final manuscript
+5. Route to Hedge Remover (finds AND directly fixes hedge phrases/mechanism similes — an editing reviewer in the pipeline)
+6. Route to Punctuation Checker (finds AND directly fixes dialogue question/period mismatches — an editing reviewer in the pipeline)
+7. Route to Line Editor (mechanical craft rules, scene completeness, attribution)
+8. Route to World Builder (scenery/object detail, world-bible consistency and cataloging)
+9. Route to Comedy Pass Agent (if project has comedy)
+10. Route to Continuity Checker
+11. Route to Story Integrity Agent
+12. Review all findings
+13. Write revision notes if needed → writer revises → re-check
+14. Route to Proofreader
+15. Assemble final manuscript
 ```
 
 **Parallel execution:** Units with no shared adjacency may run simultaneously. Sequential units must wait for n-1 to complete. Pivotal units (climax, convergence, finale) use Opus model.
@@ -111,4 +112,5 @@ When assigning a unit, include:
 - `bible/world-bible.md` — canonical catalog of locations/objects, maintained by the World Builder
 - `notes/normalcy-[unitNN].md` — Normalcy Agent suggestions, an input to your review
 - `notes/hedge-pass-[unitNN].md` — Hedge Remover's log of fixes made directly to the unit, an input to your review
+- `notes/punctuation-pass-[unitNN].md` — Punctuation Checker's log of dialogue period/question-mark fixes made directly to the unit, an input to your review
 - All other notes files are inputs to your review, not your outputs
