@@ -291,11 +291,11 @@ His response — *"You can speak English, so you better"* — closes the door. W
 ---
 
 ### The Sky-Glance
-When Lucifer notices one of God's jokes — the apple orchard, the resemblance, the timing of something too convenient — he looks at the sky. Just once. A single upward glance that means *"seriously."* No words. No internal monologue explaining it. Just the gesture.
+When Lucifer notices one of God's jokes — the apple orchard, the resemblance, the timing of something too convenient — he looks at the sky. Just once, per instance. A single upward glance that means *"seriously."* No words. No internal monologue explaining it. Just the gesture.
 
-Use this rarely and precisely — two or three times at most across the whole book. It is not a comedic beat. It is a window into the oldest relationship in the story. When it lands, the reader understands instantly that these two know each other in a way that predates everything else, and that Lucifer's exasperation with God is the exasperation of someone too familiar to be afraid.
+**Revised 2026-09-04 — no fixed cap.** This is now a recurring beat, used across the book whenever Lucifer clocks God's hand in something too convenient to be coincidence — comedic in effect (the reader gets to be in on the joke with him) without ever being played for a laugh on the page. It is simultaneously a window into the oldest relationship in the story: the reader understands that these two know each other in a way that predates everything else, and that Lucifer's exasperation with God is the exasperation of someone too familiar to be afraid. Both things are true at once — keep it precise per instance even though it's no longer rationed.
 
-Do not over-explain it. Do not have another character notice it. It exists only in his POV, only for the reader.
+Use it precisely each time — it should always land as a specific, earned reaction to a specific too-convenient thing, never as a tic or a reflex he does on a schedule. Do not over-explain it. Do not have another character notice it or share the gesture — it stays Lucifer's alone. It exists only in his POV, only for the reader.
 
 The relationship runs on push-and-pull. Every intimate scene is opened by an honest, unguarded exchange — something true gets said that neither planned to say. This is what breaks the pattern each time. The scene gets close. Then one of them retreats.
 
