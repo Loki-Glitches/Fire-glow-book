@@ -103,6 +103,17 @@ The reader tracks speakers through voice, rhythm, and natural alternation. If th
 
 **Author exception (Ch.5):** A bare dialogue-verb tag (*retorted*, *joked*, *giggled*, *laughed*) is allowed on its own when the author is using the verb to carry tone, not just attribution, in a fast, busy exchange where speaker tracking got genuinely lost. Use sparingly — this is a deliberate authorial choice, not a default to reach for.
 
+### Comma vs. Question Mark Before a Tag (locked 2026-09-04)
+When a dialogue tag attaches to (or interrupts) a quoted clause, the mark right before the closing quotation mark depends on that clause's own grammatical mood — not on whether more dialogue follows afterward:
+
+- **The clause is a complete question, and nothing more follows in that character's speech:** always a question mark. *"How much longer are we walking before someone tells me the actual plan?" Elizabeth asked.*
+- **The clause is a complete question, but the character keeps talking after the tag:** still a question mark — a genuine question never gets flattened into a comma just because more speech follows it. *"Where are we even going?" Elizabeth asked, over Claire's shoulder. "Is there a plan, or are we just orbiting the block until something happens?"*
+- **The clause is not a question:** ordinary comma/period rules apply as usual (comma if the sentence continues after the tag, period if it doesn't).
+
+This holds even when the tag splits one continuous sentence into two quoted pieces (e.g., *"What are you?" James said, "specifically?"* — not *"What are you," James said, "specifically?"*). The test is always the immediate clause's own grammar, never the presence of more dialogue afterward.
+
+**Do not confuse this with the Flat-Delivery Exception** (§ below, or see the Punctuation Checker agent) — that exception is about a short, deliberately deadpan echo being closed with a period *instead of* a question mark on purpose (e.g., *"Was it."*). This rule is the opposite direction: a genuine, non-flat question should never be punctuated as if it weren't one, regardless of what tag or continuation follows it.
+
 ### The 3+ Speaker Rule (hard rule, author-locked 2026-09-04)
 The "reader tracks speakers through voice and rhythm" principle above only holds for two-person scenes. **The moment a scene has three or more people physically present — whether or not all of them are currently speaking — a name or an action beat that identifies the speaker must appear at least every other line of dialogue.** Concretely: never let two consecutive lines of dialogue both go unattributed (no name, no action beat, no dialogue tag) once a third person is in the room. One tagless line in a row is fine; two in a row is not, in a 3+ scene.
 
