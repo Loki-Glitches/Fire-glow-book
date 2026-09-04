@@ -1,0 +1,130 @@
+# Synthesis — Current State
+*Last updated after: Ch.9 (post-cycle synthesis, first-ever synthesis run)*
+*Previous updates: none — this is the initial document.*
+
+**If you are a new session: read this whole file, then `bible/unit-plans.md` for the next unwritten chapter, then proceed. You do not need to read all 9 chapters, all bible files, or the full `notes/author-questions.md` log to get oriented — this file distills them. Go deeper only if something below tells you to.**
+
+---
+
+## 1. Where the Manuscript Stands
+
+- **Chapters 1–9 are written, reviewed, and passed.** Files: `chapters/ch01.md` through `chapters/ch09.md`.
+- **Act One is closed as of the end of Ch.8** (not Ch.7 — an earlier bible inconsistency was resolved 2026-09-04; Ch.8 is where the Travel Bond between Lucifer and Elizabeth actually forms and where Elizabeth learns "Adrian" and "Tristan" are angels).
+- **Ch.9 is written and passed** (Elizabeth POV, still inside early Act Two — no emotion has unlocked yet).
+- **Chapter 10 does not exist yet.** It is the next chapter to write. Read its full entry in `bible/unit-plans.md` before drafting — it is Lucifer POV (see § 2 below).
+- Word counts: Ch.1–5 are short by design (introduction stage, exempt from the floor — see § 4). Ch.6 onward: Ch.6 ~1,015 words, Ch.7 ~1,005, Ch.8 ~2,469 (expanded significantly through many same-day revision rounds), Ch.9 ~1,530.
+- **`chapters/ch01.md` is permanently protected** — no agent, Director included, may edit it without the author's explicit in-the-moment approval. It is the author's own hand-written draft and deviates from the unit plan on purpose (no Sam, no house-leaving beat — accepted as-is).
+- 70+ chapters are planned total. This project runs one fresh Claude Code session per chapter (or small batch) going forward — see § 8.
+
+---
+
+## 2. POV Assignments — READ THIS BEFORE TRUSTING ANY OLD SOURCE
+
+**`bible/unit-plans.md` and `bible/story-bible.md`'s chapter table have already been updated and are authoritative — trust them directly for any chapter's POV.** But treat POV rebalancing as an *ongoing, active effort* — the original chapter table (locked 2026-07-18, long before this session) is NOT reliable on its own, and more POV changes could happen in future sessions. Do not assume any older document, memory, or your own inference about "how it was originally planned" overrides what's currently written in `unit-plans.md`.
+
+**Changes made so far (2026-09-04), all content/beats-unchanged — POV rework only:**
+- **Ch.8** — Lucifer POV (changed from Elizabeth). Act One closer.
+- **Ch.9** — stays Elizabeth POV (unchanged).
+- **Ch.10** — Lucifer POV (changed from Elizabeth). Not yet written — draft directly in Lucifer POV, no rework needed.
+- **Ch.20** — Lucifer POV. Was already correct in `unit-plans.md`; only `story-bible.md`'s summary table was stale and has been synced.
+- **Ch.19, Ch.24** — already Lucifer POV, confirmed correct, no change needed.
+- **Ch.31 ("Who Are You Really")** — Lucifer POV (changed from Elizabeth).
+- **Ch.32 ("Q&A")** — Lucifer POV (changed from Elizabeth). This is the chapter where Lucifer discloses everything and the Full Bond forms.
+- **Ch.68 ("Wings")** — Lucifer POV (changed from Elizabeth). **Craft tension flagged for whoever writes it:** the climactic non-kiss was designed to be devastating specifically because it played out from *outside* his head. Now his interiority is directly available to the reader — preserve the same ambiguity deliberately: show the retreat, not the reasoning behind it. Do not let the narration spell out what he's bracing for.
+- **Ch.17 ("The Morning After") — NOT changed, blocked, unresolved.** This is a Sam/Sophie/Elizabeth-only household scene with zero Lucifer presence in it. Third-limited POV requires physical presence, so it can't mechanically switch to his POV without fabricating his presence (contradicting the "keep content the same" rule) or restructuring the chapter. **Left as Elizabeth POV pending author clarification.** If you are about to write Ch.17, this is still unresolved — flag to the Director/author rather than guessing.
+
+Result: Ch.7–11 run Elizabeth / Lucifer / Elizabeth / Lucifer / Elizabeth (was five straight Elizabeth chapters in the original table — that's what triggered this rebalancing effort).
+
+---
+
+## 3. Locked Author Decisions (grouped, compressed to the operative rule)
+
+Full narrative history is in `notes/author-questions.md` if you need it — everything below is the distilled, load-bearing rule.
+
+### Bond Mechanics
+- **Lucifer cannot send himself to Earth or between realms — only God can transport him.** Locked in Ch.2's rewrite.
+- **Azrael never leaves Earth, never enters Hell**, not even briefly for Lucifer. His death-duty is constant everywhere on Earth. Any Hell-side scene needing Azrael reaches him remotely (through the bond or through God), never in person.
+- Bond stages (Travel → Power → Full Anchor) and what unlocks at each are fully detailed in `bible/bond_system_reference.md` — read it before writing any bond-relevant scene. Key point: **Travel Bond unlocks zero abilities.** Lucifer has no powers of any kind until Power Bond.
+- **Tristan challenges every one of Lucifer's bonds, every time they are truly alone together — no exceptions, starting with Ch.8.** "Alone" includes telepathically with a human present (silent, per formatting rule below) — challenge happens telepathically if a human is in earshot, aloud only if no human is present at all. This is permanent recurring texture, not an occasional beat.
+- **Azrael's permitted sin is lying** (his one "tenth commandment" exception — Lucifer has none, purity is absolute). Azrael steps in as verbal cover whenever a direct question would corner Lucifer into an unwanted disclosure, because Azrael can shade/bend an answer and Lucifer cannot. This already happened once on-page: Ch.8's "We're angels" is spoken by Azrael, not Lucifer, specifically because Lucifer answering directly would have forced him toward disclosing his actual name too early.
+
+### POV / Craft Mechanics
+- **Lucifer is not all-knowing. This is the single most-repeated correction this session — check every fact he states.** Before writing any line where he asserts something as fact, verify: has this been established on-page, by this point in the scene, through something he actually observed or was told? If not, the honest answer is "I don't know" or silence — never a lucky guess, never precise tracking of conversational details ("she's mentioned this four times" — wrong; "more than once" — fine), never asserting a fact before the story itself has established it (the worst failure mode: stating something before another character has even said it yet). Full details and failure-mode list: `bible/lucifer_character_profile.md` § "He Is Not All-Knowing."
+- **Telepathic/divine-bond dialogue can only be rendered directly (in italics) in a chapter that is actually that character's own POV.** A non-Lucifer-POV chapter has no access to silent Lucifer↔Azrael exchanges — render the "Tristan challenges the bond" beat and similar as *external tells only* (a cut glance, a tightened jaw, "something passed between them," unexplained pauses) in any chapter that isn't Lucifer's own POV. Ch.8 and Ch.9 both demonstrate this pattern cleanly — use them as the reference.
+- **The Eve resemblance is Elizabeth's eyes, and only her eyes** — nothing else about her resembles Eve. This does **not** register at first contact (Ch.6/7) — that was scratched. It's recognized only later, once a real relationship already exists to complicate. **The exact chapter for this recognition beat is [OPEN]** — not yet decided. Whoever writes that chapter must flag the Director first.
+- **3+ Speaker Rule (hard rule):** once a scene has three or more people physically present, a name or action beat must anchor the speaker at least every other line — never two consecutive unattributed lines. Stricter than the general two-person "voice and rhythm" rule. Ch.4 and Ch.5's multi-person scenes are where this was originally discovered breaking down; Ch.8 was fully swept and fixed for it. Ch.4, Ch.6, Ch.7 were NOT retroactively swept (left as published) — the rule applies going forward from when it was locked (2026-09-04) and to Ch.8 specifically.
+- **Word-reuse simile test:** cut any simile where a word/root from the first half reappears in the comparison half (e.g., "thrown... the way sand throws"). Second, independent test: cut if it's simply obvious/cliché even without word reuse. A simile passing both tests is fine — this project isn't simile-free, only hedge-free/cliché-free.
+- **Bare dialogue-verb tags** (*retorted, joked, giggled, laughed*) are a locked, standing exception to the Attribution Hard Rule — allowed sparingly when the verb carries tone in a fast/busy exchange, not a default.
+
+### Continuity Threads
+- **The porch light stays dead until Lucifer fixes it, deliberately, in Act Three** — a romantic gesture, not a repair. Exact chapter is **[OPEN]**, beyond "Act Three." Whoever writes that chapter must flag the Director first, since every prior chapter leaving the bulb untouched is load-bearing. See § 7 below for current state.
+- **Ch.9's garden-reminiscence timeline is locked:** the warm creation-era material (oceans, siblings, animals) is scoped to *before* Adam and Eve exist. Lucifer's actual wound is specifically the day he gave Eve the Tree of Knowledge and what followed — not Adam's existence (he just personally disliked Adam, unrelated to the Fall) and not Eve's existence either. Keep this distinction in any future Genesis-flashback or deflection scene: neutral/dry about Adam, warm about pre-Adam/Eve creation, and only the tree/betrayal event itself triggers the emotional shutdown.
+
+---
+
+## 4. Hard Style Rules Checklist (do not violate)
+
+- [ ] **1,000-word floor from Ch.6 onward** (Ch.1–5 exempt, stay as published). Hit through genuine content — small talk, action, sensory/procedural texture — never padding. If a scene genuinely can't clear it, flag to the Director rather than pad.
+- [ ] **No explicit physical description** of any character, ever (no hair, eyes, build, skin, height). Only outfit and in-the-moment facial expression are fair game.
+- [ ] **No hedge phrases** ("as if," "as though," "in a way," "like X" standing in for a direct claim). State the thing directly.
+- [ ] **No mechanism similes** — no "the way [X] does [Y] when [Z]" explaining a mechanism via an unrelated scenario. Run the word-reuse test (§3) plus the cliché test on every simile candidate.
+- [ ] **No overwritten posture/expression/action** — state the plain beat, don't add a clause explaining what it means.
+- [ ] **Attribution Hard Rule:** no standalone "he said/she said" unless necessary; prefer action-beat attribution. **3+ Speaker Rule** is stricter — anchor the speaker at least every other line once 3+ people are present.
+- [ ] **Divine & Telepathic Speech formatting:** *italics, without quotation marks* for God's voice and any telepathic bond traffic (Lucifer↔Azrael, Lucifer↔Lillith). Only usable directly in that character's own POV chapter (see § 3).
+- [ ] **No banter between Lucifer and Azrael before Calm unlocks** (Ch.11). One pushback at most, then disengage — brooding, not witty. Azrael's annoyance can show physically (tight jaw, flat voice) but stays unremarked-on by both. This restriction is specifically between the two of them; other characters can still get real (if brief, unprompted-by-him) answers from either of them.
+- [ ] **Lucifer never initiates small talk, but always answers if asked directly** — briefly, factually, no warmth pre-Calm — by anyone, not just Elizabeth.
+- [ ] **"He is not all-knowing"** — see § 3. Check every factual assertion he makes against what's actually been established on-page by that point.
+- [ ] **Azrael's permitted sin is lying** — he's the one who can shade/cover a cornering question; Lucifer cannot. Use this mechanic when a scene needs Lucifer protected from an unwanted disclosure.
+- [ ] **No smile from Lucifer before Ch.11** (the roof scene, where Calm unlocks — his first real, unguarded smile with eyes closed). Ch.9 uses "not quite a smile" and stops there — don't cross that line early.
+- [ ] **The sky-glance budget: 2–3 uses total across the whole book.** Currently used **once**, in Ch.4 (the orchard landing — pointing at the sky, "That was unnecessary"). Use sparingly and precisely for the rest of the book — it's a window into the Lucifer/God relationship, not a comedic beat.
+- [ ] **The divine language (Eve's Genesis-tongue) appears exactly once in the entire book** — at the climax, spoken by Eve, to unsettle Lucifer. Never anywhere else, no exceptions.
+- [ ] **Eve is not on Earth at all until Ch.35** (Act Three opener). Do not manufacture tension from her direction, however passively, before then.
+- [ ] **No word-count writing-to-a-target** — length is a byproduct of covering what's needed, never a goal in itself (applies both directions — don't pad, don't cut a required beat to stay "tight").
+- [ ] **Every chapter does two things:** introduces or changes a character AND advances plot. "Breathing chapter" labels affect scale/tone only, never waive these two requirements.
+
+---
+
+## 5. Character State as of End of Ch.9
+
+- **Lucifer/"Adrian":** Still in the **Numbness phase** — no emotion has unlocked yet (Calm is Ch.11). Currently: procedural, flat, monosyllabic by default, but showing the first cracks — he asked Elizabeth an unstrategic question (the forehead bump, Ch.8) for the first time, and his effort to maintain technically-true evasions is visibly costing him (annoyance at the *position*, never at her). He's stopped actively scanning for Eve as of partway through Ch.9 (unremarked-on shift, noticed only by Azrael). He has now: (a) formed a Travel Bond with Elizabeth (Ch.8, unnamed/undramatized on page), (b) disclosed to her that he and Tristan are angels (via Azrael's line, Ch.8), (c) shared warm, real memories of pre-Adam/Eve creation with her (Ch.9) but shut down completely the moment Eve came up ("She came later" — first Genesis deflection, unescalated so far), (d) met Sam for the first time (end of Ch.9, brief, low-temperature, no real read established yet beyond Sam's dry wariness).
+- **Elizabeth:** Knows: Adrian and Tristan are angels (told end of Ch.8). Knows they're looking for an unnamed, undescribed young woman (does not know it's Eve, does not know any name for the target). Does NOT know: Lucifer's real identity, Tristan's real identity (Azrael), the Genesis backstory beyond a little warmth about pre-Adam/Eve creation, anything about the bond system's mechanics or tiers, or that a Travel Bond just formed with her. She has a Travel Bond with Lucifer (Ch.8) — no powers unlock from this for him, nothing changes for her that she'd notice. She's been filing away small unexplained things all along (Tristan's unreadable stillness/tells, Lucifer's evasions) without pressing — consistent with her established pattern (notice, don't chase).
+- **Sam:** Has met "Adrian" exactly once (end of Ch.9) — dry, wary, withholds easy welcome, notes that Adrian gives no straight answers. No real read on him has formed yet; Ch.10 (dinner) is where his skepticism starts to register more specifically.
+- **Azrael/"Tristan":** Has granted Elizabeth's Travel Bond (Ch.8, his own procedural decision after watching Lucifer listen to her). Has begun the standing "challenge every bond" pattern (visible in Ch.8's telepathic exchanges). No banter with Lucifer yet (pre-Calm restriction). Currently "evaluating" — present, watchful, brisk, stepped away at the start of Ch.9 to attend to his actual death-duty work, explicitly trusting Lucifer alone with Elizabeth for now.
+- **Sam's "Adrian" data point:** exactly one brief meeting, dry and noncommittal on both sides — nothing has escalated yet.
+- **Sophie, James, Claire:** Sophie has not appeared since Ch.5 (near-miss) — not yet properly introduced to Lucifer/Tristan (that's Ch.13–14 territory). James and Claire are engaged (proposed Ch.4) and know the full truth (Power Bond, disclosed divine nature + mission) as of Ch.4; Elizabeth learned of their engagement in Ch.7.
+- **Eve:** Not on Earth. Escaped Hell's prison in Ch.2; God is holding her in transit so she doesn't arrive until Ch.35 (Act Three opener). No activity from her anywhere in Ch.1–9.
+
+---
+
+## 6. Open / Undecided Items
+
+- **[OPEN] Eve-eyes recognition chapter placement.** Elizabeth's eyes are the one point of resemblance to Eve; Lucifer does not register it at first contact (deliberately scratched from Ch.6). No chapter has been chosen for when he finally notices. Flag to Director before writing whichever future chapter surfaces this.
+- **[OPEN] Porch light Act Three chapter placement.** Locked to be Lucifer's doing, in Act Three, as a deliberate small-gesture romantic beat. No specific chapter chosen yet. Flag to Director first — the gesture depends on precise timing and on every prior chapter leaving the bulb dead and unused on the porch step.
+- **[OPEN / BLOCKED] Ch.17 POV.** Cannot switch to Lucifer POV (he's not present in the scene) without contradicting the "keep content the same" instruction. Stays Elizabeth POV until the author resolves this directly.
+- **[OPEN] Ch.39's house-sitting location** is referenced generally ("wherever they're staying") before being locked as the "Travel Bond acquaintance's cruise house" a few chapters later in the outline — not a blocker, just a placeholder resolved by the time you reach it.
+- **[OPEN] Placeholder movie title** in Ch.50's unit plan is already resolved to *"A Light in Lavender Cove"* in the fuller unit-plans.md text — no actual gap, just noting in case an older draft of this note contradicts.
+- No other `[OPEN]` items were found flagged elsewhere in the bible files as of this synthesis.
+
+---
+
+## 7. Continuity Threads Currently in Flight
+
+- **The porch light / bulb:** Burned out in Ch.3. Elizabeth buys the replacement bulb in Ch.5. As of Ch.9 it is *still* sitting unused on the porch step in its cardboard sleeve — confirmed explicitly at the end of Ch.9. **No chapter before its Act Three payoff (§6) may have anyone casually fix it.** Check `bible/world-bible.md`'s house entry before writing any exterior house scene.
+- **James's ring / wedding planning:** Ring repaired at the picnic (Ch.4) once Power Bond formed. Wedding is planned for **August 2nd, the town park** (established later in the outline, Ch.27) — not yet reached in the written chapters. No painting or ring threads have begun on-page yet as of Ch.9 (those start around Ch.12/16/24 per the outline) — nothing to track yet, just noting they're coming.
+- **The Genesis deflection pattern:** First instance is Ch.9 ("She came later" — clean, unescalated, no pressing from Elizabeth). Per the unit plan, this must recur and escalate through Act Two, costing Lucifer more each time as his walls come down, landing its last instance in Ch.33 (right before the wedding) and getting corrected by him in Ch.34.
+- **Lucifer's scanning-for-Eve motif:** Present heavily in Ch.4 and the first half of Ch.8, fades unremarked partway through Ch.9. Per the unit plan (Ch.11's continuity flag), from Ch.11 onward Lucifer is no longer using Elizabeth to track Eve at all — the mission recedes into background entirely. Track this fade-out consistently going forward.
+- **Sam and Elizabeth's mutual non-disclosure:** Both are quietly protecting the other from their own struggles (established in character profiles, not yet dramatized directly on-page beyond ambient hints). Not yet a live plot thread in the written chapters, but load-bearing background for Sam's and Elizabeth's arcs later.
+- **Elizabeth's bump on her forehead:** Introduced Ch.1, referenced Ch.3 (Sam), paid off/closed as a callback in Ch.8 (Lucifer's first non-strategic question). This thread is essentially resolved/closed now — no further tracking needed unless a much later chapter wants to callback to it.
+- **The near-miss sightings in Ch.5** (Elizabeth notices two unrecognized men with James and Claire, doesn't think about it again) is intentionally subtle and was confirmed closed/paid-off by Ch.7/Ch.8 — no further action needed.
+
+---
+
+## 8. Process Notes for a New Session
+
+- **Director** orchestrates and reviews; does not write chapters itself (though in practice this session's Director self-reviewed several early chapters directly before a dedicated writer sub-agent was used starting Ch.9 — both patterns have occurred).
+- **Writer sub-agents** draft one chapter at a time under the **Window Rule**: they get unit n-1 (read-only), unit n (read/write, their only writable file), and unit n+1's outline (read-only) — never the full manuscript.
+- **Keep revision notes terse** going forward — 1-2 sentences per change is the target. (Note: this session's actual `notes/revision-ch08.md` grew to 12 numbered same-day update entries as issues were caught iteratively — useful as a historical record, but not the pattern to replicate; aim for tighter notes per pass in future chapters.)
+- **Commit and push after meaningful changes.** Trust the local git push as the source of truth — don't re-fetch from GitHub to re-verify every small edit; that's wasted overhead.
+- **Run the Synthesis agent again after each future chapter (or small batch)** to keep `notes/synthesis-current.md` current — this is what makes the next fresh session cheap to onboard.
+- When a chapter's writer/reviewer discovers an ambiguity only the author can resolve, log it to `notes/author-questions.md` (with context, options, and space for the author's decision) rather than guessing — this is precisely how every locked decision in § 3 above originated.
+- Two supporting per-chapter note types exist and are fine to keep producing: **handoff notes** (`from-NN-to-MM.md`, backward/forward continuity confirmation between adjacent chapters) and **hedge-pass notes** (`hedge-pass-chNN.md`, a narrow log of hedge-phrase/simile fixes). Neither needs to be exhaustive — they're working documents, not deliverables.
