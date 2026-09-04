@@ -67,3 +67,7 @@ Author locked a new hard rule: once a scene has three or more people present, a 
 ## LENGTH
 
 ~1,165 words, comfortably past the Ch.6-onward floor. Density came from the beat count the unit plan already required (a lot happens in this chapter — it's the Act One closer), not padding.
+
+## UPDATE 3 (2026-09-04, same day) — Fixed a logic error
+
+Author caught that James's line asking "how you two met these guys" made no sense — James was present at Elizabeth's door in Ch.7 when Adrian and Tristan were introduced, so he already knows how that meeting happened; he can't plausibly be asking about it. Fixed to have him ask for "the actual story on these two," referencing Claire's own "long story" dodge from Ch.7 instead — which he'd genuinely still be in the dark about. No other lines in the exchange needed to change.
