@@ -68,6 +68,12 @@ Author locked a new hard rule: once a scene has three or more people present, a 
 
 ~1,165 words, comfortably past the Ch.6-onward floor. Density came from the beat count the unit plan already required (a lot happens in this chapter — it's the Act One closer), not padding.
 
-## UPDATE 3 (2026-09-04, same day) — Fixed a logic error
+## UPDATE 3 (2026-09-04, same day) — Fixed a logic error, then fixed it again properly
 
-Author caught that James's line asking "how you two met these guys" made no sense — James was present at Elizabeth's door in Ch.7 when Adrian and Tristan were introduced, so he already knows how that meeting happened; he can't plausibly be asking about it. Fixed to have him ask for "the actual story on these two," referencing Claire's own "long story" dodge from Ch.7 instead — which he'd genuinely still be in the dark about. No other lines in the exchange needed to change.
+First pass: author caught that James's line asking "how you two met these guys" made no sense — James was present at Elizabeth's door in Ch.7 when Adrian and Tristan were introduced, so he already knows how that meeting happened. Patched it to have him ask for "the actual story on these two" instead, referencing Claire's "long story" dodge from Ch.7.
+
+That patch was still wrong, and the author caught it a second time: James and Claire were both present for the *entire* time Lucifer and Tristan have been on Earth, including the full Ch.4 disclosure at the picnic — "We're angels," the mission, the ring, all of it. James doesn't have a partial gap in his knowledge; he has the complete story already. There's no version of "when do I get the story" that works for him.
+
+**Process failure worth naming:** the first fix addressed the specific wording flagged rather than tracing back to why it was wrong. The right question — "what does James actually know, full stop, per Ch.4?" — would have shown immediately that the entire joke premise was broken, not just its phrasing. This is exactly what the Continuity Checker agent (`agent-generic-continuity-checker.md`) exists to catch — cross-referencing what a character knows against prior chapters — but it was never actually applied here; self-review this session leaned on mechanical/style checks (hedges, attribution, POV) instead.
+
+**Actual fix:** rewrote the exchange so James isn't asking for information he already has. He now comments on Elizabeth's persistent questioning instead ("You're not going to let up on this, are you"), and she counters that she wants either real answers or the ring story — preserving the "trade" joke without requiring James to be ignorant of something he witnessed firsthand.
