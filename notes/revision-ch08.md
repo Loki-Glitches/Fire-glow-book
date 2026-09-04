@@ -103,3 +103,12 @@ Both beats reuse the "something passed between them" phrasing deliberately, buil
 ## UPDATE 7 (2026-09-04, same day) — Expanded the "Okay" beat after the reveal
 
 Author asked to expand Elizabeth's reaction immediately following "We're angels." Added her reasoning for accepting it at face value (his consistency all day, that he doesn't read as someone who'd believe something by accident) and one new line from Adrian testing her response ("You believe it because I've been consistent."), before she moves on to asking whether Tristan is an angel too. Keeps her reaction clinical/assessing rather than emotional, consistent with the rest of the chapter, and keeps Adrian flat/factual rather than warm. Chapter length now ~2,250 words.
+
+## UPDATE 8 (2026-09-04, same day) — Fixed two errors introduced by a remote merge
+
+A merge pulled in changes from another pass (commit range `c9a624e..67bb233`) that introduced two real defects, neither part of this session's own edits:
+
+1. **POV violation regression:** the forehead-bump line had been rewritten as `"What happened to your forehead." Lucifer asked.` — using "Lucifer" in Elizabeth's POV narration, which she has no access to (she doesn't know his real name). This exact rule was already locked earlier this session (see Craft Notes above: "Narration uses 'Adrian,' never 'Lucifer'"). Fixed to `"What happened to your forehead," Adrian asked.` — comma-plus-tag on an unmarked question, matching the house convention already used elsewhere in this chapter (e.g. `"Why here," Elizabeth asked`).
+2. **Broken dialogue tag:** `"There were not," Claire nudged her fiance, and then...` used "nudged" as if it were a speech verb joined by a comma. Fixed to `"There were not." Claire nudged her fiancé, and then...` — a proper action beat as its own sentence, plus the missing accent on "fiancé."
+
+Author caught both on the last review pass and asked for them to be fixed.
