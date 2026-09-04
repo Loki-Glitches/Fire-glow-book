@@ -147,7 +147,7 @@
 ---
 
 ### Ch.8 — The Park *(Act One closes)*
-**POV:** Elizabeth
+**POV:** Lucifer *(changed from Elizabeth — author executive decision, 2026-09-04, overriding the original chapter table; see notes/author-questions.md. Content/beats unchanged, narration reworked to his POV.)*
 **Must include:**
 - The group leaves Elizabeth's house together — Claire and James split off to plan the wedding **about halfway through the chapter** (2026-09-04: specific timing locked), leaving Tristan, Lucifer, and Elizabeth
 - Once it's the three of them, Elizabeth starts asking a lot of questions about what her "task" actually is — what she's supposed to be doing, why they need her specifically, what this is really about. She's persistent about it, consistent with her character (direct questions, per style guide § 4 Exception 1: partial but real answers).
@@ -203,7 +203,7 @@
 ---
 
 ### Ch.10 — Dinner
-**POV:** Elizabeth
+**POV:** Lucifer *(changed from Elizabeth — author executive decision, 2026-09-04, overriding the original chapter table; see notes/author-questions.md. Content/beats unchanged, write directly to his POV.)*
 **Must include:**
 - Sam meets Lucifer — skeptical from the first moment, quietly protective
 - Elizabeth does not hint at Lucifer's divinity — she keeps the cover intact without being told to

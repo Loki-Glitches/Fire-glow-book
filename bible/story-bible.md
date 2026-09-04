@@ -353,9 +353,9 @@ The only moment neither of them retreats. It works because the usual reasons to 
 | 5 | Near Miss in Town | Elizabeth | Sophie introduced; Lucifer's group nearby but no contact |
 | 6 | Convergence at Home | Lucifer | Group tours town, arrives at Elizabeth's house |
 | 7 | First Contact and Bond | Elizabeth | First meeting at the door. Group leaves together. Claire and James split off. No bond yet. |
-| 8 | The Park | Elizabeth | Town exploration, park scene, Elizabeth shares her story, Lucifer listens. Travel Bond granted by Tristan. Act One closes. |
+| 8 | The Park | Lucifer *(changed from Elizabeth, 2026-09-04)* | Town exploration, park scene, Elizabeth shares her story, Lucifer listens. Travel Bond granted by Tristan. Act One closes. |
 | 9 | The Park, Continued | Elizabeth | Tristan steps away. Lucifer and Elizabeth get to know each other. First Genesis deflection. Lucifer meets Sam. |
-| 10 | Dinner | Elizabeth | Sam meets Lucifer, skeptical. Lucifer watches sibling dynamic. Porch conversation — he tells her she's hiding things from Sam. |
+| 10 | Dinner | Lucifer *(changed from Elizabeth, 2026-09-04)* | Sam meets Lucifer, skeptical. Lucifer watches sibling dynamic. Porch conversation — he tells her she's hiding things from Sam. |
 | 11 | The Roof | Elizabeth | Lucifer shifts — pausing more, asking more. Sunset on the roof. He smiles with eyes closed. **Calm unlocks.** |
 | 12 | The Dress | Lucifer | Reports to Tristan. James/Claire encounter. Dress shopping with Claire. Beauty flicker on the elegant dress. Ring request from James to Tristan flagged. |
 | 13 | Coffee Run | Elizabeth | Elizabeth tells Sophie about the night. Drive-by of dress shop and park. Sophie/Sam relationship revealed. |
