@@ -4,6 +4,19 @@
 
 ---
 
+## HE IS NOT ALL-KNOWING (locked 2026-09-04, read before writing any Adrian/Lucifer scene on Earth)
+
+This has slipped into the prose repeatedly and needs to stop being a recurring problem. On Earth, before any bond, Lucifer has **zero abilities — none** (see `bible/bond_system_reference.md` Stage 1). Even after a Travel Bond forms, that stage unlocks nothing either. He is, mechanically and narratively, an ordinary person with no powers until a Power Bond forms. He does not get to be right about things he has no way of knowing, and he does not get to know things about a character (including Elizabeth) beyond what's been actually established as disclosed to him.
+
+**Concrete failure modes already caught and fixed — do not repeat these:**
+- Correctly diagnosing a mechanical problem (a fountain's broken pump, by sound, in a town he'd been in for two hours) — cut from Ch.6. If he doesn't know something, the character should say so plainly, not produce an uncannily accurate guess.
+- Tracking a minor conversational detail with unnatural precision ("she's mentioned this four times") — cut from Ch.8. Ordinary attentiveness is fine ("more than once"); supernatural-precision tallying is not.
+- Asserting a fact he has no way of knowing yet — Ch.8 originally had him tell Elizabeth "we're looking for someone who looks like you," contradicting both Ch.4 (he has no face for the target) and the locked decision that the Eve-eyes resemblance isn't recognized until a later, undecided chapter. He does not get to know things the plot hasn't given him yet, even when it would be a convenient shortcut for the scene.
+
+**Before writing any line where Adrian/Lucifer states something as fact:** check whether he's actually in a position to know it — through direct observation in the current scene, something already disclosed to him on-page, or an ability he's actually unlocked. If none of those apply, he doesn't know it, and the honest answer is "I don't know" or silence, not a lucky guess dressed up as insight.
+
+---
+
 ## ORIGIN / BACKSTORY
 
 Before creation, Lucifer existed outside of time and space — present but powerless, with no context. God found him and took him along as He built everything. As God worked on humanity, Lucifer explored freely — a beautiful being who spent his days singing, dancing, and creating small things. God's son in this era. No other angels yet on Earth.

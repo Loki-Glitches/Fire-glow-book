@@ -62,3 +62,7 @@ Originally ~650 words, appropriate for a transition chapter — but the author l
 - One small Lucifer-interiority beat (noting sightlines at the house) that's procedural/vigilant, not warm — stays inside the Numbness-phase restriction
 
 None of the additions touch the Lucifer/Azrael no-banter rule — the two of them still don't trade anything back and forth with each other. All new dialogue-from-Lucifer is answers to direct questions asked by someone else, per the author's clarification.
+
+## UPDATE (2026-09-04) — Removed an omniscience violation
+
+Author flagged that Lucifer is not all-knowing, and this had been slipping into the prose too often. The clearest violation in this chapter: he correctly diagnosed the fountain's mechanical problem ("It needs a pump replaced... the sound is wrong") after two hours in town, which the original draft even lampshaded ("That's oddly specific for someone who's been in town for two hours") without treating it as a problem. That's exactly backwards — it should have been the tell that something was wrong with the writing, not a joke. Rewrote so he explicitly has no theory and says so plainly. Also caught and cut a follow-on line ("You had one for everything else today") that referenced a pattern of him giving correct theories which doesn't actually exist anywhere else in the chapter — a small self-introduced inconsistency from the first attempt at this fix. Updated `bible/world-bible.md`'s fountain entry to match (no cause given, explicitly unknown).
