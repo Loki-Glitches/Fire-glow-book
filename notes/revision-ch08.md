@@ -112,3 +112,7 @@ A merge pulled in changes from another pass (commit range `c9a624e..67bb233`) th
 2. **Broken dialogue tag:** `"There were not," Claire nudged her fiance, and then...` used "nudged" as if it were a speech verb joined by a comma. Fixed to `"There were not." Claire nudged her fiancé, and then...` — a proper action beat as its own sentence, plus the missing accent on "fiancé."
 
 Author caught both on the last review pass and asked for them to be fixed.
+
+## UPDATE 9 (2026-09-04, same day) — Elizabeth actively watching the brothers' exchange
+
+Author asked to expand the pre-reveal exchange further so Elizabeth visibly looks between Adrian and Tristan and registers that something like a conversation is happening, not just a passive aside. Added: "Elizabeth's eyes moved from one to the other and back, watching for whichever one spoke first. Neither of them did." — before the existing "something passed between them" line, which now closes with her own read on it ("a conversation, near as she could tell, conducted entirely without words"). Still gives her zero access to content — she registers that an exchange happened, not what it was about. Chapter length now ~2,275 words.
