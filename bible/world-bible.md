@@ -11,7 +11,7 @@
 ### Elizabeth and Sam's House (Ch.1, Ch.3, Ch.6)
 - Elizabeth's bedroom: a nightstand by the bed, a full-length mirror on the closet door, a dresser.
 - Kitchen: a stove, a counter with stools on the far side, a sink. A postcard is stuck to the fridge with a lemon-shaped magnet (from Elizabeth and Sam's parents, traveling — "some island," per Sam).
-- Porch: has an outdoor light that burned out and stayed dead for over a week as of Ch.3–5 (Elizabeth buys the replacement bulb in Ch.5, but it's still sitting unused on the porch step, in its cardboard sleeve, as of Ch.6 — she hasn't put it in yet).
+- Porch: has an outdoor light that burned out and stayed dead for over a week as of Ch.3–5 (Elizabeth buys the replacement bulb in Ch.5, but it's still sitting unused on the porch step, in its cardboard sleeve, as of Ch.6 — she hasn't put it in yet). **Locked (2026-09-04): the bulb does not get installed for a long time.** This is a deliberate long-running thread, not an oversight — see `bible/story-bible.md` § "The Porch Light" for the payoff. No chapter before then should have Elizabeth, Sam, or anyone else casually fix it; it needs to still be dead when its moment comes.
 - Exterior (Ch.6): a covered porch, two steps up from the front walk, in a stretch of the street where houses are better-spaced with older trees. Located roughly ten minutes' walk past the town green, on the far side of town from Main Street.
 
 ### The Town (Ch.3, Ch.5, Ch.6)

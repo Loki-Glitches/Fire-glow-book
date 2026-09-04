@@ -146,6 +146,13 @@ Eventually Eve died and descended. He placed her cell beneath a mountain of brim
 ### The Ring
 He wears a ring on his left hand with an inscription in a dead language: *"Cursed by love's cruel decree, forced to bear the weight for an eternity."* The love that cursed him was not recklessness. It was generosity itself.
 
+### The Porch Light (locked 2026-09-04)
+Elizabeth's porch light burns out in Ch.3 and stays dead — she buys a replacement bulb in Ch.5, but it sits unused on the porch step through Ch.6 and Ch.7, and stays that way for a long time after. This is deliberate: **nobody fixes it until Lucifer does, in Act Three.**
+
+When he finally does, it's not a repair — it's a declaration. Fixing it means he's choosing every small, unremarkable moment of a life with her, not just the big ones: not the wedding, not the rescue, not the climax, but the version of loving someone that's mostly a porch light getting fixed on an ordinary evening. It's the same reversal that defines his Generosity unlock — giving without framing it as utility — but scaled down to the most domestic, unglamorous object in the book on purpose. The size of the gesture is the point: after everything he's capable of, he chooses the smallest possible act of care.
+
+**Placement: [OPEN]** — exact chapter not yet decided beyond "Act Three." Whoever writes that chapter must flag it to the Director before drafting, since the whole gesture depends on precise timing and on every chapter before it leaving the bulb untouched. See `bible/world-bible.md`'s Elizabeth-and-Sam's-House entry for the running continuity thread.
+
 ### The Core Lie
 He believes everything is going according to plan — that his emotions are in check, irrelevant to his function, and that love is the thing that ruins everything he touches. He has run Hell's forgiveness system for ages without understanding that emotion is the actual mechanism forgiveness requires.
 
