@@ -1,22 +1,10 @@
-> ## ⚠ STANDING BLOCKER — READ THIS FIRST, BEFORE ANYTHING ELSE (set 2026-09-05)
->
-> **The author has explicitly instructed: do not write anything, do not answer any other request, do not do any other pipeline or agent work — until a full Synthesis agent run has completed.** This is not a same-day task; it holds across however many sessions or days it takes. If you are a new session and this blocker is still here, your only job right now is the Synthesis run below. Do not ask the author clarifying questions about *other* work, do not draft Chapter 11, do not spawn any other agent — the author was explicit that none of that happens until this is done.
->
-> **What "done" means:** actually invoke the real Synthesis agent (`subagent_type: synthesis`), not a Director hand-summary — the author specifically wants the dedicated agent to do a full, fresh read of the *entire* project as it currently stands (every chapter in `chapters/`, every file in `bible/`, every file in `notes/`) and produce a genuinely complete `synthesis-current.md`, replacing the patched-together version below (which was built incrementally by the Director across a long session and may have redundancy or drift the agent should clean up). No other chapters or bible files should be skipped for scope — this is meant to be exhaustive, not a quick pass.
->
-> **If the Synthesis agent has clarifying questions or hits a genuine ambiguity while reading:** relay them to the author directly and get an answer before proceeding — that's the one exception to "no other interaction," since it's part of finishing the Synthesis job, not a separate task.
->
-> **Once the Synthesis agent's run is actually complete** (this note's replacement, or a fresh top section written by the agent itself, confirms it): delete this blocker section, and normal work (including Chapter 11) resumes.
-
----
-
 # Synthesis — Current State
 *Last updated after: full exhaustive Synthesis Agent run, 2026-09-05 — complete fresh read of CLAUDE.md, soul.md, every file in `bible/`, chapters 1–10 in full, every file in `notes/`, and every agent definition in `.claude/agents/`. This document supersedes and replaces the prior patched-together version in its entirety. Nothing from the prior document's history was dropped without being carried forward below or explicitly logged as superseded.*
 *Previous updates: initial synthesis after Ch.9; Director self-review patch after Ch.10 (2026-09-05, pre-blocker).*
 
-**This document is long because it is meant to be a complete substitute for re-reading the raw sources — not a teaser that sends you back to them. A new session should be able to read this file alone and start Ch.11 (once the blocker above is lifted) without opening `bible/unit-plans.md` for anything except that chapter's own entry.**
+**This document is long because it is meant to be a complete substitute for re-reading the raw sources — not a teaser that sends you back to them. A new session should be able to read this file alone and start Ch.11 without opening `bible/unit-plans.md` for anything except that chapter's own entry.**
 
-**Exception while the blocker above is active: do not proceed to Ch.11 or any other pipeline work. This document exists to make the eventual resumption cheap — it does not itself lift the blocker.**
+**Status as of 2026-09-05: the standing blocker that required this Synthesis run before any other work has been lifted — every ambiguity it surfaced was resolved with the author the same day (see § 12 below and the "Resolved 2026-09-05" notes throughout). Normal work, including Chapter 11, may proceed.**
 
 ---
 

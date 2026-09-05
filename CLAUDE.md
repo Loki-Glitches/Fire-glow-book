@@ -20,7 +20,6 @@ All agents MUST treat these documents as canonical:
 ## Starting a New Session
 This project spans 70+ chapters — don't run the whole book in one continuous conversation. Start a fresh session per chapter (or small batch): the git branch, bible files, chapters, and notes are the persistent state, not the chat history. A new session should open by reading `notes/synthesis-current.md`, then `bible/unit-plans.md` for the next unwritten chapter's plan, then proceed. Run the Synthesis agent again at the end of each chapter (or small batch) to keep that doc current for the next session.
 
-**Check `notes/synthesis-current.md` for a standing blocker note before doing anything else.** As of 2026-09-05 the author has a pending instruction there that overrides the normal flow above — read its top section first, every session, until it says the blocker is cleared.
 
 ## Project Structure
 
