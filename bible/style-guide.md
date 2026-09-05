@@ -203,7 +203,7 @@ Lucifer's emotional recovery must be invisible before it is undeniable. The read
 `bible/unit-plans.md` sets no fixed length for any act or chapter on purpose. Length is a byproduct of covering what a chapter actually needs, in the necessary detail — not a target to hit or a ceiling to stay under. Concretely:
 
 - Do not pad a scene with extra description, dialogue, or repeated beats to make a chapter feel more substantial.
-- Do not cut or compress a beat the unit plan calls for just to keep a chapter short or "tight" — tightness is a prose-craft goal (see the no-overwritten-posture/action and no-mechanism-simile rules above), not a length goal.
+- Do not cut or compress a beat the unit plan calls for just to keep a chapter short or "tight" — tightness is a prose-craft goal (see the no-overwritten-posture/action and no-similes rules above), not a length goal.
 - When revising for craft reasons and the chapter's word count changes a lot as a result, that's fine — the change should be explainable by what content was added or cut, never by a length target being chased.
 
 **Floor, Ch.6 onward:** Chapters 1–5 covered the introduction stage and are exempt — Ch.1, Ch.3, Ch.5, and Ch.6 as originally published are all under 1,000 words on purpose and stay that way (Ch.1 is also protected, see above). Starting with Ch.6's next revision and every chapter after it, **no chapter should land under 1,000 words.** The floor gets hit through genuine content — small talk, normalcy, and action beats that make a scene feel lived-in (see § 11, "Filling Simple Scenes," and the Normalcy Agent) or, in scenes where a POV character isn't allowed small talk yet, through world/sensory/procedural texture instead — never through padding for its own sake. If a scene still can't clear 1,000 words with only genuine content, flag it to the Director rather than padding it.
@@ -275,22 +275,16 @@ Don't soften or complicate a plain statement with a hedging comparison — "he p
 **Wrong:** *Unless a soul goes wrong in a way nothing else will hold.*
 **Right:** *Unless a soul cannot be held any other way.*
 
-### No Mechanism Similes
-Don't explain the *physics or manner* of something by comparing it to a separate everyday process — usually signaled by "the way [X] does [Y] when [Z]." A plain simile compares two images; a mechanism simile explains a mechanism, forcing the reader to stop, construct an unrelated second scenario, and map it back onto the scene before continuing. That detour is what breaks flow. State the observed fact and move on.
+### No Similes in Narration (locked 2026-09-05 — supersedes the word-reuse/cliché test below)
+**Writers do not get to use similes.** Not "the way [X] does [Y]," not a bare "like a ___," not any construction that compares the thing being described to a separate image or process. This applies to narration only — dialogue is exempt, the same as the hedge-phrase rule below, since a character reaching for a comparison in their own speech is natural and untouched. State the observed fact directly instead.
 
 **Wrong:** *It was fanned — thrown outward from a point, the way sand throws when something strikes it.*
 **Right:** *It was fanned, thrown outward from a single point.*
 
-**Wrong:** *It arrived the way a decision arrives when it has already been made — settling into the room with the weight of something that had been sitting there for a while.*
-**Right:** *It settled into the room with the weight of something already decided.*
+**Wrong:** *She watched him settle into the step — like a man choosing a position and then not moving from it for an hour.*
+**Right:** *She watched him settle into the step — one position, chosen once, held for the rest of the hour without adjustment.*
 
-**The word-reuse test (concrete check, author-specified 2026-09-04):** A simile is circular — and must be cut — if a word or root from the first half reappears in the comparison half. It's explaining the thing by restating the thing, which adds nothing. Both examples above fail this test: *thrown → throws*, *arrived → arrives*.
-
-Run this check on every simile candidate: strip the comparison clause down to its core word — if that word (or an obvious variant of it) already appeared before the comparison started, cut the whole thing and state the fact plainly instead.
-
-**A second, separate test:** even without word-reuse, cut a simile if it's simply obvious or cliché — doing no real work, adding no specific image, the kind of comparison a reader has seen a hundred times before. Both tests are independent; a simile only needs to fail one of them to go.
-
-**A simile that passes both tests is fine and should be left alone** — this project isn't simile-free, just hedge-free and cliché-free. Two examples from the author's own Ch.1 draft that pass cleanly: *"for what seemed like an eternity"* and *"her bedraggled hair splayed out like a mess of forgotten thoughts"* — no reused word between the halves, and neither is a stock comparison.
+**Historical note:** this rule used to allow a simile through if it passed two tests (no word/root reused between the two halves of the comparison, and not simply obvious or cliché) — those tests are retired as of this decision, not because they were wrong, but because in practice writers kept reaching for similes that technically passed both tests and still needed cutting on sight (several were caught and cut from Ch.11's first draft even after passing the old tests). The simpler standing rule now: no similes in narration, full stop. If a comparison feels necessary to land an image, that's a signal to find the plain, direct statement of the fact instead.
 
 ### The Divine Language — Once Only, Climax Only
 Eve speaks modern English throughout the book — taught by Lillith during her imprisonment. At the climax she uses the divine language exactly once: one line, either her first or her last to Lucifer. It is a deliberate weapon, not a communication need. The language of Genesis, of before everything went wrong, reaches him in a way English cannot. He shifts.
