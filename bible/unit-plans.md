@@ -283,7 +283,7 @@
 **Craft notes:**
 - The beauty flicker must be subtle — one beat, not a scene. He sees the dress, something moves, he moves on. That's all.
 - His dress opinions should be direct and unadorned — "that one" or "not that one" with a brief reason. No performance, no charm. Just accuracy.
-- The negotiation is the first time the reader sees his truth-twisting in a light context — not defensive, not protective, just elegant problem-solving. Let it be almost playful without him intending it.
+- **Correction 2026-09-05:** this is not quite the *first* time — Ch.11's roof scene already has one light instance ("You didn't specify rules," in response to "That's cheating"). Treat this negotiation as the first *extended, deliberate* use of truth-twisting in a light register — Ch.11's instance was a single reflexive line, this one is a whole scene built around it, so the escalation still reads correctly even though "first" isn't literally accurate anymore.
 - Tristan's reluctance to go with James should be brief but present — he finds ordinary human tasks tedious and beneath his function. During this time James tells Tristan he is short on money for a wedding ring after spending heavily on the engagement ring — he needs help tracking one down. Tristan takes note. **CONTINUITY FLAG: James's ring request originates here. Lucifer learns of it and contacts Lillith to source a ring — delivered in Ch.24.**
 - **WRITER RESTRICTION: Do not let the beauty flicker become a moment of self-awareness for Lucifer. He doesn't realize what's happening. One quiet register, then it passes.**
 
