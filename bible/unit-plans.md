@@ -165,7 +165,8 @@
 - Elizabeth asks how they know Claire and James
 - Tristan evaluates throughout — watching how much Lucifer listens, how present he becomes as she talks.
 - **Elizabeth learns they are angels** — the disclosure that satisfies the Travel Bond threshold: she knows what they are, why they're here, basic information about them.
-- **Travel Bond forms between Lucifer and Elizabeth** at the end of this chapter — no disclosure of his specific identity required, just his divine nature which she now knows. Tristan's decision, based on what he witnessed. **(Resolved 2026-09-04: this is the actual formation — Ch.7 only planted the seed.)** Act One closes.
+- **Travel Bond forms between Lucifer and Elizabeth** earlier in this chapter, once the friendship threshold (personality + small details known) is met — no disclosure of his specific identity required. Tristan's decision, based on what he witnessed. **(Resolved 2026-09-04: this is the actual formation — Ch.7 only planted the seed.)**
+- **Power Bond also forms by the end of this chapter (locked 2026-09-05)** — Lucifer already gave her the mission earlier at the park bench ("We're looking for someone... a young woman..."); once Azrael discloses the divine half at Lucifer's own telepathic instruction, both Stage 3 conditions are met in the same chapter. This supersedes the Travel Bond above as her current tier. **No ability is displayed on the page here or for several chapters after** — see `bible/bond_system_reference.md` Stage 3. Act One closes.
 
 **Craft notes:**
 - Lucifer's listening should be almost invisible at first — he's still scanning, still strategic — and then gradually the scanning stops and he is just there, in the conversation. Neither he nor Elizabeth names this shift. Tristan sees it.
@@ -245,6 +246,7 @@
 - They get down from the roof. Goodbyes. Chapter closes.
 
 **Craft notes:**
+- **This is not a new unlock.** Power Bond formed for Elizabeth at the end of Ch.8 (both disclosure conditions were met that chapter — see `bible/bond_system_reference.md` Stage 3) — the ability has simply gone unused with her on-page since. No new disclosure scene, pressing-for-answers beat, or uncertainty about whether it'll work is needed to justify the jump. Write it exactly as it already reads below: casual, offhand, unstrategic.
 - The roof jump is the first time he uses his ability around her without thinking about it strategically. It should feel effortless and almost offhand — he just does it.
 - The smile with eyes closed is the moment. Write it simply. She's studying him and she sees something she hasn't seen before — not warmth, not emotion she can name, just the absence of everything he normally holds in place.
 - Her giggle is her responding to something genuine in him without knowing what it is. She just knows it's different.

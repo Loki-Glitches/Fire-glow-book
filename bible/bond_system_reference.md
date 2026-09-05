@@ -34,6 +34,8 @@ Lucifer has no ability whatsoever around an unbonded person. There should never 
 
 **Conditions:** Lucifer must explain that he is divine AND what his mission is on Earth (that he is looking for someone — a name isn't required for the condition itself, and per the purity/truth constraint he cannot claim to lack one if he has it). **Ch.4 (author's direct edit, 2026-09-05): he actually names her — "Her name is Eve, but the name itself won't do you any good" — to James and Claire.** Ch.8 uses the more withheld version with Elizabeth instead ("I have a name, but it wouldn't do you any good — she won't be using it"), so James/Claire now know Eve's actual name and Elizabeth does not — track this divergence going forward; flag the Director before any scene risks that name reaching Elizabeth ahead of schedule. Both disclosure halves (divine + mission) are required — not just one. **Sequencing matters: no ability display of any kind before both halves are actually disclosed, even within the same scene (corrected 2026-09-05 — Ch.4's ring reshape originally happened before the mission was disclosed, which isn't valid; fixed by reordering).**
 
+**Elizabeth's Power Bond forms at the end of Ch.8, not later (locked 2026-09-05).** Checked directly against the shipped text: at the park bench, Lucifer himself discloses the mission ("We're looking for someone... A young woman. I have a name, but it wouldn't do you any good..."); shortly after, Azrael — at Lucifer's own explicit telepathic instruction ("*Say it.*") — discloses the divine half ("We're angels."). Azrael speaking those words at Lucifer's direct request counts as Lucifer's own disclosure, not a proxy loophole around it; both halves are satisfied inside the same chapter. This means Elizabeth's bond advances straight through Stage 2 (Travel Bond, formed earlier the same chapter once the friendship threshold was met — see `bible/unit-plans.md` Ch.8) to Stage 3 (Power Bond) by the chapter's end. **The ability itself goes unused on-page through Ch.10** — Lucifer has had superhuman strength available around her since Ch.8, he's simply had no occasion (or, pre-Calm, much inclination) to use it. Ch.11's roof scene is the first *practical* use, not a new unlock — no fresh disclosure is needed to justify it.
+
 ---
 
 ## STAGE 4 — FULL ANCHOR
@@ -87,3 +89,5 @@ When a soul escapes Hell's prison through brute force on its own, it is automati
 **Full Anchor:** Elizabeth (broken in Act Three — restored to Travel Bond by God)
 **Power Bond:** James, Claire, Sam, Sophie (all know he is divine and his mission)
 **Travel Bond:** Expanding network of town residents (friendship-based, no divine disclosure)
+
+*(Earlier state, for reference: Elizabeth held Power Bond from the end of Ch.8, well before Full Anchor forms in the outline — see the Stage 3 note above.)*
