@@ -13,7 +13,7 @@ A chapter is not done on the Director's self-review alone — the rules below st
 
 - **Grammar/punctuation/hedge phrases are the author's job now, not the pipeline's.** Hedge Remover and Punctuation Checker are retired from routine use (agent files kept on disk for an occasional full-manuscript sweep only, if the author ever wants one). The author catches these directly with hand edits (including pushing straight to GitHub) as they read — this is small, mechanical, catchable-by-eye work, it costs zero tokens when the author does it, and it also keeps more of the manuscript's actual authorship in the author's own hand rather than the model's. Do not spawn either agent, and do not have the Director hunt for these itself, as a matter of routine — if the author asks for a one-off sweep, that's their call to make, not a default step.
 - **Director checks directly (no subagent):** Lucifer/Adrian and Azrael/Tristan name correctness, mechanical line-editor rules (attribution, banned constructs, scene completeness), and normalcy/texture gaps. The Director already holds these rules in context from this file and the style guide — re-deriving them via a fresh subagent adds cost without adding judgment.
-- **Still worth a real subagent:** Continuity Checker (needs a full sequential read across many prior chapters, which would bloat the Director's own context) and Story Integrity (benefits from an independent, non-self-graded read). World Builder is worth spawning when a chapter introduces meaningful new physical/world detail worth cataloging; skip it for a chapter that doesn't. Comedy Pass only for a scene the author explicitly flagged as comedic, and only when a fresh read adds real value beyond the Director's own judgment. Proofreader runs once, at the end, after other findings are already incorporated — not per revision round.
+- **Still worth a real subagent:** Continuity Checker (needs a full sequential read across many prior chapters, which would bloat the Director's own context), Story Integrity (benefits from an independent, non-self-graded read), and Tonal Calibration (needs an independent read to catch Lucifer/character emotional drift and tonal-weight mismatches the Director, having just written or self-reviewed the prose, is poorly positioned to catch in itself — its comedy-mechanics check only actually engages when a unit has comedic material). World Builder is worth spawning when a chapter introduces meaningful new physical/world detail OR a supernatural effect worth cataloging; skip it for a chapter that doesn't. Proofreader runs once, at the end, after other findings are already incorporated — not per revision round.
 - Batch subagents across multiple chapters/units in a single call rather than one per chapter when reviewing a backlog.
 - If genuinely unsure whether something needs a subagent's independent judgment or just needs the rule applied, default to applying it directly — ask the author before spawning multiple agents "to be thorough" on a chapter that hasn't shown signs of trouble.
 
@@ -68,7 +68,7 @@ This is a stronger standard than just logging deviations after the fact in `note
 5. Route to Identity Checker (finds AND directly fixes Lucifer/Adrian and Azrael/Tristan name mismatches — an editing reviewer in the pipeline)
 6. Route to Line Editor (mechanical craft rules, scene completeness, attribution)
 7. Route to World Builder (scenery/object detail, world-bible consistency and cataloging)
-8. Route to Comedy Pass Agent (if project has comedy)
+8. Route to Tonal Calibration Agent (tonal weight + emotional consistency, every unit; comedy-mechanics check only if the unit has comedic material)
 9. Route to Continuity Checker
 10. Route to Story Integrity Agent
 11. Review all findings
@@ -119,8 +119,9 @@ When assigning a unit, include:
 - `notes/revision-[unitNN].md` — your revision notes to writers
 - `notes/author-questions.md` — decisions that need the author
 - `notes/line-edit-[unitNN].md` — Line Editor findings, an input to your review
-- `notes/world-notes-[unitNN].md` — World Builder findings, an input to your review
-- `bible/world-bible.md` — canonical catalog of locations/objects, maintained by the World Builder
+- `notes/world-notes-[unitNN].md` — World Builder findings (mundane world AND supernatural-effects rendering), an input to your review
+- `bible/world-bible.md` — canonical catalog of locations/objects/supernatural-effect renderings, maintained by the World Builder
+- `notes/tonal-[unitNN].md` — Tonal Calibration findings (tonal weight, character/Lucifer emotional consistency, comedy mechanics when applicable), an input to your review
 - `notes/normalcy-[unitNN].md` — Normalcy Agent suggestions, an input to your review
 - `notes/identity-pass-[unitNN].md` — Identity Checker's log of Lucifer/Adrian and Azrael/Tristan name fixes made directly to the unit, an input to your review
 - `notes/hedge-pass-[unitNN].md` and `notes/punctuation-pass-[unitNN].md` — historical only, from before these two were retired from routine use (2026-09-05). Not generated going forward except by author request for a one-off sweep.
