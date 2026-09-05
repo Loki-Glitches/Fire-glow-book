@@ -147,3 +147,7 @@ the story bible or style guide accordingly.
 ### 2026-09-05 — Author — Writers don't get to use similes, full stop
 **Context:** Following Ch.11's review, several similes had to be cut from the Writer sub-agent's first draft even though they technically passed the existing word-reuse and cliché tests (e.g., "the way you'd offer a leg-up over a fence," "like he was stepping over a low fence rather than climbing the side of a house"). The two-test system wasn't preventing the problem it was meant to prevent.
 **Author decision:** Retired the word-reuse/cliché test system. New rule: writers do not use similes in narration at all — not "the way [X] does [Y]," not a bare "like a ___," no comparisons of any kind. Dialogue stays exempt, consistent with the hedge-phrase rule. Locked in `bible/style-guide.md` § "No Similes in Narration" (renamed from "No Mechanism Similes") and `notes/synthesis-current.md` §§ 3–4. Applies going forward, per this project's standing convention — not retroactively swept across Ch.1–11.
+
+### 2026-09-05 — Author — Simile retroactive cleanup deferred to end of book
+**Context:** After locking the full narration simile ban, offered to sweep Ch.11 (or earlier chapters) for existing similes now that the rule is stricter.
+**Author decision:** No retroactive sweep now. A full-manuscript simile cleanup happens once, at the end, alongside the Proofreader's own once-at-the-end pass. Noted in `bible/style-guide.md` § "No Similes in Narration."

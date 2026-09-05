@@ -286,6 +286,8 @@ Don't soften or complicate a plain statement with a hedging comparison — "he p
 
 **Historical note:** this rule used to allow a simile through if it passed two tests (no word/root reused between the two halves of the comparison, and not simply obvious or cliché) — those tests are retired as of this decision, not because they were wrong, but because in practice writers kept reaching for similes that technically passed both tests and still needed cutting on sight (several were caught and cut from Ch.11's first draft even after passing the old tests). The simpler standing rule now: no similes in narration, full stop. If a comparison feels necessary to land an image, that's a signal to find the plain, direct statement of the fact instead.
 
+**Retroactive cleanup, author-scheduled:** existing similes already published in Ch.1–11 are NOT being swept now. Author's decision (2026-09-05): a full-manuscript simile sweep happens once at the very end, when the book is done — the same timing as the Proofreader's own once-at-the-end pass (see `notes/synthesis-current.md` § 0). Don't spend effort retrofitting old chapters against this rule chapter-by-chapter; just stop introducing new ones.
+
 ### The Divine Language — Once Only, Climax Only
 Eve speaks modern English throughout the book — taught by Lillith during her imprisonment. At the climax she uses the divine language exactly once: one line, either her first or her last to Lucifer. It is a deliberate weapon, not a communication need. The language of Genesis, of before everything went wrong, reaches him in a way English cannot. He shifts.
 
