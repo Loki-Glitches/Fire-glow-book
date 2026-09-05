@@ -8,6 +8,10 @@ the story bible or style guide accordingly.
 
 ---
 
+### 2026-09-05 — Author — Ch.4 and Ch.8: Lucifer has Eve's name, it's just useless as an identifier
+**Context:** While working out how Ch.11's Power Bond formation should be triggered, we found that Ch.4 and Ch.8 both have Lucifer telling James/Claire and Elizabeth (respectively) that he doesn't have a name for the woman he's looking for — "I don't have a name for her, or a face" (Ch.4), "No name. No face to go on" (Ch.8). This isn't actually true — Lucifer obviously knows Eve's name — and it's inconsistent for him to claim otherwise (he doesn't lie; see his purity/truth constraint).
+**Author decision:** Reframe rather than remove — he has a name, he just says it wouldn't help identify her, since she won't be going by it on Earth. Updated both lines: Ch.4 now reads "I have a name for her, but it won't do you any good — she won't be going by it," and Ch.8 reads "I have a name, but it wouldn't do you any good — she won't be using it." Neither scene actually speaks Eve's name aloud — the humans still don't know it, only that one exists and is useless for the search. This keeps "Eve is not on Earth / no tension from her direction before Ch.35" fully intact (nothing about her identity or presence changes) while fixing the truth-constraint inconsistency. `bible/unit-plans.md`'s Ch.8 entry and `notes/synthesis-current.md`'s character-state section updated to match.
+
 <!-- Format:
 ### [Date] — [Agent] — [Question]
 **Context:** Why this came up
