@@ -246,8 +246,8 @@
 - They get down from the roof. Goodbyes. Chapter closes.
 
 **Craft notes:**
-- **This is not a new unlock.** Power Bond formed for Elizabeth at the end of Ch.8 (both disclosure conditions were met that chapter — see `bible/bond_system_reference.md` Stage 3) — the ability has simply gone unused with her on-page since. No new disclosure scene, pressing-for-answers beat, or uncertainty about whether it'll work is needed to justify the jump. Write it exactly as it already reads below: casual, offhand, unstrategic.
-- The roof jump is the first time he uses his ability around her without thinking about it strategically. It should feel effortless and almost offhand — he just does it.
+- **This is not a new unlock, but it IS genuinely uncertain for him.** Power Bond formed for Elizabeth at the end of Ch.8 (both disclosure conditions were met that chapter — see `bible/bond_system_reference.md` Stage 3), but per that document's Bond Tier Awareness rule, Lucifer has no way of perceiving a bond crossing a threshold — he hasn't tried anything requiring strength around her since, so he genuinely doesn't know it's there. No new disclosure scene is needed (the conditions are already met), but the jump itself should read as a real, uncertain first attempt on his side — not a confident display. He doesn't know the difference between "not yet unlocked" and "unlocked but untested" until he tries.
+- The roof jump is the first time he uses his ability around her. It should feel offhand in his decision to try (he doesn't announce it or brace for it visibly) but should carry real, private uncertainty about whether it'll actually work — resolved the instant it does.
 - The smile with eyes closed is the moment. Write it simply. She's studying him and she sees something she hasn't seen before — not warmth, not emotion she can name, just the absence of everything he normally holds in place.
 - Her giggle is her responding to something genuine in him without knowing what it is. She just knows it's different.
 - The goodbye should feel slightly different from previous goodbyes — neither of them names it, but something has shifted and both of them can feel it.

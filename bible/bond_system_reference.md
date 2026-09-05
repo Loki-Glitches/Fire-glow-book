@@ -4,6 +4,14 @@
 
 ---
 
+## BOND TIER AWARENESS (locked 2026-09-05)
+
+**Neither Lucifer nor Azrael can perceive a bond crossing into a new stage.** No physical sensation, no mental flag, nothing that announces "you can do X now." The only way either of them discovers a new threshold has been crossed is by attempting something and having it either work or not. This is already precedented on-page: the Travel Bond's ~20-foot range (Ch.9 filler scene) was discovered exactly this way — neither brother knew the limit existed until Lucifer drifted past it and got yanked. The same blindness applies to every stage transition, Power Bond included.
+
+**Consequence:** a bond can cross a stage threshold in a given scene, and neither brother has any way of knowing it happened until Lucifer actually tries something that requires it — which may not be for several chapters, if nothing prompts him to try. Attempting an ability he does not yet have access to should read as a genuine, uncertain test on his part every time, never as a confident display he already knows will land — he can't tell the difference between "not yet unlocked" and "unlocked but untested" from the inside. Write these moments with real uncertainty on his side regardless of what the bible confirms will happen.
+
+---
+
 ## STAGE 1 — NO BOND
 
 Lucifer has no ability whatsoever around an unbonded person. There should never be a circumstance where an unbonded person realizes Lucifer is an angel. If a thought begins to form in someone's mind, it dissolves automatically once he is far enough away — the person forgets the thought entirely without any dramatic intervention. Distance handles it on its own.

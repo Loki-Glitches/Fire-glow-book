@@ -65,7 +65,7 @@ The pipeline changed materially on 2026-09-05. A session that still thinks the p
 | 8 | The Park (Act One closes) | **Lucifer** | Changed from Elizabeth, 2026-09-04 executive decision. |
 | 9 | The Park, Continued | Elizabeth | (+ Lucifer/Azrael filler scene, same chapter file) |
 | 10 | Dinner | **Lucifer** | Changed from Elizabeth, 2026-09-04. |
-| 11 | The Roof (Calm unlocks) | Elizabeth | **Next chapter to write.** Roof jump is not a new ability unlock — Power Bond (strength) formed with Elizabeth back in Ch.8; this is its first practical, on-page use. See § 12.9. |
+| 11 | The Roof (Calm unlocks) | Elizabeth | **Next chapter to write.** Power Bond (strength) formed with Elizabeth back in Ch.8, but Lucifer has no way of knowing that — the roof jump is his first attempt, and must read as genuinely uncertain on his side (Bond Tier Awareness rule). See § 12.9. |
 | 12 | The Dress | Lucifer | |
 | 13 | Coffee Run | Elizabeth | |
 | 14 | The Painting Class | Lucifer | |
@@ -235,7 +235,7 @@ Facts and mechanics established and confirmed across the pipeline. Treat as immu
 | Eve-eyes recognition beat | [OPEN] | See § 12.2. | — |
 | Vincent (Travel Bond acquaintance) | Named/detailed in `bible/story-bible.md` §13 | Activated on-page much later (Ch.63). No action needed until then; treat with the dignity the bible specifies (not "expendable," just free of anyone who'd be put at risk or grieve him). | — |
 | Sky-glance uses so far | Ch.4, Ch.9 filler | Uncapped as of 2026-09-04, but each instance should still be a specific, earned "God's joke" reaction — see the live Story Integrity flag on the Ch.9 instance in § 3/§4 above. | Ch.9 |
-| Elizabeth's Power Bond | Ch.8 (both disclosure conditions met same chapter) | Formed, ability (superhuman strength) unused on-page. First practical use: Ch.11 roof scene — not a new unlock, just its first outing. See § 12.9. | Ch.8 |
+| Elizabeth's Power Bond | Ch.8 (both disclosure conditions met same chapter) | Formed, ability (superhuman strength) unused on-page — and Lucifer himself doesn't know it's there yet (Bond Tier Awareness rule). First attempt: Ch.11 roof scene, written as genuinely uncertain on his side. See § 12.9. | Ch.8 |
 
 ---
 
@@ -365,4 +365,6 @@ Found during a targeted re-check of this synthesis document against `bond_system
 
 **Two ways to resolve this were on the table:** (a) write a new rule that Azrael speaking the divine half on Lucifer's behalf doesn't count — preserving Ch.11 as the true formation point and requiring Lucifer to disclose it himself, unassisted, once Azrael isn't there to do it for him; or (b) accept the condition as satisfied and treat Ch.8 as the actual formation point.
 
-**Author's decision: (b).** Power Bond formed for Elizabeth at the end of Ch.8. Azrael speaking at Lucifer's own direction counts as Lucifer's own disclosure — no proxy exception needed. Consequences locked into `bond_system_reference.md`, `bible/unit-plans.md` (Ch.8 and Ch.11 entries), and this document (§ 2, § 3, § 5, § 6 above): the ability has simply gone unused with her since Ch.8 (no occasion, and pre-Calm, little inclination); Ch.11's roof jump is its first practical use, not a new unlock, and needs no fresh disclosure scene or uncertainty-about-whether-it-works beat to justify it — the original unit plan's "casual, effortless, he just does it" framing already fits and needs no rework.
+**Author's decision: (b).** Power Bond formed for Elizabeth at the end of Ch.8. Azrael speaking at Lucifer's own direction counts as Lucifer's own disclosure — no proxy exception needed. Consequences locked into `bond_system_reference.md`, `bible/unit-plans.md` (Ch.8 and Ch.11 entries), and this document (§ 2, § 3, § 5, § 6 above): the ability has simply gone unused with her since Ch.8 (no occasion, and pre-Calm, little inclination); Ch.11's roof jump is its first practical use, not a new unlock, and needs no fresh disclosure scene to justify it.
+
+**Follow-up, same day:** author raised the further point that Lucifer and Azrael have no way of perceiving a bond crossing a stage threshold — no physical or mental sensation marks it, they only discover a new tier by trying something and having it work (or not) — already precedented by the Ch.9 filler scene's Travel Bond range, which neither of them knew existed until Lucifer drifted past it. Locked as a new general rule, `bond_system_reference.md` § "Bond Tier Awareness." **This restores real uncertainty to Ch.11's roof jump, for the correct reason:** not because Power Bond hasn't formed (it has, since Ch.8), but because Lucifer has never tried anything requiring strength around Elizabeth and has no way of knowing it's available until he attempts it. Write the jump as a genuine, private test on his side — offhand in the decision to try, uncertain in whether it'll land. `bible/unit-plans.md`'s Ch.11 craft note updated to match.
