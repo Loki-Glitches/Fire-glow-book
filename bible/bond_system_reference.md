@@ -30,9 +30,9 @@ Lucifer has no ability whatsoever around an unbonded person. There should never 
 
 ## STAGE 3 — POWER BOND
 
-**Unlocks:** Superhuman strength plus the ability to pull small items from Hell (the ring in Ch.24 is the model).
+**Unlocks:** Superhuman strength (the ring reshape in Ch.4 is the model — see note below) plus the ability to pull small items from Hell (the ring in Ch.24 is the model). **Not transfiguration** — that stays gated behind the emotional ladder's Calm stage (Ch.11+) regardless of bond tier, and even then only for that stage's own specific output type, never general utility.
 
-**Conditions:** Lucifer must explain that he is divine AND what his mission is on Earth (that he is looking for someone). Both pieces required — not just one.
+**Conditions:** Lucifer must explain that he is divine AND what his mission is on Earth (that he is looking for someone — no name required, and per the purity/truth constraint he cannot claim to lack one if he has it; "I have a name but it wouldn't help" is the correct framing, established Ch.4/Ch.8). Both pieces required — not just one. **Sequencing matters: no ability display of any kind before both halves are actually disclosed, even within the same scene (corrected 2026-09-05 — Ch.4's ring reshape originally happened before the mission was disclosed, which isn't valid; fixed by reordering).**
 
 ---
 

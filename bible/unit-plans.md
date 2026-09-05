@@ -76,9 +76,10 @@
 - Lucifer's reaction to the landing doubles as this chapter's sky-glance: he gets up, looks past the branches at the sky, and points a finger at it ("That was unnecessary") — more overt than the style guide's usual silent single glance, but still wordless-from-God's-side and still exasperation-of-someone-too-familiar-to-be-afraid rather than genuine anger. Counts as one use of the sky-glance device's 2-3-per-book budget. Azrael does not notice or understand the gesture — he reads it as Lucifer being annoyed about the landing, not as anything pointed at God specifically.
 - Azrael briefs Lucifer on the bond system and Earth rules before any human contact — this is his domain and he knows it precisely. Lucifer listens. The dynamic between them is established here: Azrael is professionally brisk, Lucifer is controlled. The resentment is present but contained.
 - James and Claire arrive for their picnic — human contact begins
-- Lucifer notices James's ring and replaces it — Travel Bond trinket-scale transfiguration, permitted within the rules Azrael just explained
 - James and Claire's **Travel Bond** forms during the picnic — Lucifer has gotten to know them enough through the encounter for the friendship threshold to be met. Tristan stays close anyway since the mechanic is new.
-- At the end of the chapter James and Claire ask why they are here — Lucifer explains he is divine and what his mission is (looking for someone). This disclosure upgrades their bond to **Power Bond** immediately.
+- James proposes to Claire with his own ring (plain metal, stone missing from its setting) before any divine disclosure — Lucifer notices it but does nothing about it yet, per Stage 2's "no power, no strength beyond human baseline."
+- At the end of the chapter James and Claire ask why they are here — Lucifer explains he is divine and what his mission is (looking for someone, no name given that would help identify her). This disclosure upgrades their bond to **Power Bond** immediately. **(Corrected 2026-09-05: this must happen before any ability display — see below.)**
+- James, still skeptical after the disclosure, demands proof. Only now — with Power Bond actually active — does Lucifer demonstrate anything: superhuman strength, not transfiguration (transfiguration isn't available to anyone until Calm unlocks in Ch.11, and only then for its own specific, emotion-gated outputs — it is not a general utility). He takes a second ring already on his own hand — not his cursed one — and reshapes it smaller by hand, then gives it to James. James's own damaged ring is untouched by this scene; it stays a live loose end.
 - James and Claire confirm Elizabeth's general location
 - No emotion from Lucifer beyond mild efficiency — faintest flicker of aesthetic notice on the ring, don't oversell it
 - Ends with the group beginning to move toward town
@@ -87,6 +88,8 @@
 - Elizabeth — she is elsewhere
 - Any emotion from Lucifer beyond the faintest aesthetic flicker, with one narrow exception: the dry, wordless-from-God's-side exasperation of the landing/sky-glance beat, which is irritation-at-God, not an emotional reaction to anything on Earth
 - The bond briefing happening after James and Claire arrive — Azrael briefs Lucifer first, humans second
+- Any ability display before the mission is disclosed — Power Bond requires both divine nature AND mission disclosed, and doesn't fire on the first half alone
+- Transfiguration of any kind this early — that's gated by the emotional ladder (Calm, Ch.11+), not by bond tier; what Power Bond grants is strength (and, separately, pulling small items from Hell)
 
 **Ends with:** The group beginning to move toward town.
 

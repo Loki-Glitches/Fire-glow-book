@@ -44,7 +44,10 @@ Hell's record book. Ash-gray leather cover, pages the same gray, "pressed flat."
 A band with an inscription: *"Cursed by love's cruel decree, forced to bear the weight for an eternity."* Present on him throughout the book. Distinct from James's engagement ring below — do not conflate the two.
 
 ### James's Ring (Ch.4)
-A plain metal band, worn, with a stone missing from its setting long enough that the empty channel had gone dull. This is the ring James proposes to Claire with. After Lucifer's disclosure of what he is (Power Bond moment), Lucifer fills the empty channel and changes the band to gold — done with no visible effort ("less effort than closing a hand").
+A plain metal band, worn, with a stone missing from its setting long enough that the empty channel had gone dull. This is the ring James proposes to Claire with. **Corrected 2026-09-05: Lucifer does not repair this ring in Ch.4** — the missing stone stays missing, a live loose end for a later chapter. The original "fills the channel, changes the band to gold" description was a transfiguration effect, which isn't available to anyone until the emotional ladder's Calm stage unlocks (Ch.11) — it had no business happening in Ch.4 regardless of bond tier.
+
+### Lucifer's Second Ring (Ch.4)
+A plain band, unremarkable next to his own cursed/inscribed ring, worn on his other hand with no story attached (as far as the text discloses — origin not established). After Power Bond forms with James and Claire (mission disclosed, on top of the divine-nature disclosure already made), James demands proof; Lucifer works this ring off and reshapes it smaller by hand — a superhuman-strength effect, not transfiguration — and gives it to James "for the wedding." Distinct from James's own damaged ring above; do not conflate the two.
 
 ### The Picnic Basket (Ch.4)
 James and Claire's basket, brought to the orchard: bread, a jar of something dark, fruit that "hadn't come from these trees," and a thermos of cheap coffee that "had clearly seen better decades."
