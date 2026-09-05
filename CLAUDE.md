@@ -1,18 +1,12 @@
-# [Project Title] — Project
+# Beneath the Fire's Glow — Project
 
 ## Project Overview
-<!--
-Describe the project: genre/format, length or duration target, core premise, setting, primary characters or voices.
-This is what the Director agent reads first to understand the project.
-
-Supported formats: Novel, Screenplay, Audio Drama, Stage Play, Podcast, Short Fiction, etc.
--->
-
-**Format:** <!-- Novel | Screenplay | Audio Drama | Stage Play | Podcast | Other -->
-**Target length:** <!-- word count, page count, episode count, runtime — whatever fits your format -->
-**Genre:**
-**Setting:**
-**Primary characters/voices:**
+**Format:** Novel
+**Target length:** 70+ chapters (no fixed word-count target — see `bible/style-guide.md` § "No Writing to a Word Count")
+**Genre:** Paranormal romance / contemporary fantasy, character-driven — resists genre-typical tropes on purpose (see `.claude/agents/soul.md` § "What This Story Is NOT")
+**Premise:** Lucifer, cast out of Heaven for giving Eve the Tree of Knowledge, comes to Earth centuries later hunting Eve after she escapes Hell's prison. Living under the alias "Adrian" in a small town, he meets Elizabeth, an ordinary woman, and the story follows his slow, non-linear recovery of everything the Fall took from him — emotion, lightness, the capacity to love and be loved — while his brother Azrael ("Tristan") evaluates whether Lucifer is fit to bond with a human at all.
+**Setting:** A small, unnamed contemporary American town (present day, summer), with parallel scenes in Hell.
+**Primary characters/voices:** Lucifer / "Adrian" (POV) and Elizabeth (POV) are the two POV characters. Azrael / "Tristan" (Lucifer's brother, no POV chapters of his own) evaluates the bond throughout. Sam is Elizabeth's older brother and caretaker. Eve is the antagonist, absent from the page until Act Three. James, Claire, and Sophie round out the town's supporting cast.
 
 ## Authoritative Sources
 All agents MUST treat these documents as canonical:
