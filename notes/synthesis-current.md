@@ -1,8 +1,20 @@
+> ## ⚠ STANDING BLOCKER — READ THIS FIRST, BEFORE ANYTHING ELSE (set 2026-09-05)
+>
+> **The author has explicitly instructed: do not write anything, do not answer any other request, do not do any other pipeline or agent work — until a full Synthesis agent run has completed.** This is not a same-day task; it holds across however many sessions or days it takes. If you are a new session and this blocker is still here, your only job right now is the Synthesis run below. Do not ask the author clarifying questions about *other* work, do not draft Chapter 11, do not spawn any other agent — the author was explicit that none of that happens until this is done.
+>
+> **What "done" means:** actually invoke the real Synthesis agent (`subagent_type: synthesis`), not a Director hand-summary — the author specifically wants the dedicated agent to do a full, fresh read of the *entire* project as it currently stands (every chapter in `chapters/`, every file in `bible/`, every file in `notes/`) and produce a genuinely complete `synthesis-current.md`, replacing the patched-together version below (which was built incrementally by the Director across a long session and may have redundancy or drift the agent should clean up). No other chapters or bible files should be skipped for scope — this is meant to be exhaustive, not a quick pass.
+>
+> **If the Synthesis agent has clarifying questions or hits a genuine ambiguity while reading:** relay them to the author directly and get an answer before proceeding — that's the one exception to "no other interaction," since it's part of finishing the Synthesis job, not a separate task.
+>
+> **Once the Synthesis agent's run is actually complete** (this note's replacement, or a fresh top section written by the agent itself, confirms it): delete this blocker section, and normal work (including Chapter 11) resumes.
+
 # Synthesis — Current State
 *Last updated after: Ch.10 (Director self-review pass; a dedicated Synthesis agent run is still recommended before Ch.11 begins if a fresh session wants deeper detail than this patch covers).*
 *Previous updates: initial synthesis after Ch.9.*
 
 **If you are a new session: read this whole file, then `bible/unit-plans.md` for the next unwritten chapter, then proceed. You do not need to read all 9 chapters, all bible files, or the full `notes/author-questions.md` log to get oriented — this file distills them. Go deeper only if something below tells you to.**
+
+**Exception while the blocker above is active: skip the "proceed to the next chapter" instruction above entirely. Run Synthesis first, per the blocker.**
 
 ---
 
