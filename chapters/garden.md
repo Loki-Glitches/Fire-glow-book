@@ -1,4 +1,4 @@
-# Chapter 9 — Elizabeth / Lucifer
+# Garden — Elizabeth / Lucifer
 
 Tristan was the one who moved first, stepping back from where he'd been standing near the end of the bench.
 

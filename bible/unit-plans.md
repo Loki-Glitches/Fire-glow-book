@@ -4,13 +4,13 @@
 
 ---
 
-## ACT ONE — ARRIVAL (Ch.1–8)
+## ACT ONE — ARRIVAL
 **Section job:** Introduce two separate worlds in parallel, then collide them. Closes when the Travel Bond forms and Elizabeth learns they are angels.
 **Length:** No fixed target — write what the story requires.
 
 ---
 
-### Ch.1 — Elizabeth's Morning
+### Morning
 **POV:** Elizabeth
 **Emotional state to establish:** Outwardly cheerful, inwardly carrying something she won't name. Not depressed — just quietly overextended.
 **Must include:**
@@ -29,7 +29,7 @@
 
 ---
 
-### Ch.2 — Hell and the First Breach
+### Breach
 **POV:** Lucifer (Hell-state — controlled, administrative, cold, but genuinely urgent from the midpoint on)
 **Must include:**
 - Hell's forgiveness system actively not working — the opening ledger scene should still feel like a bureaucratic report, not a dramatic revelation
@@ -54,12 +54,12 @@
 
 ---
 
-### Ch.3 — Normal Life Continues
+### Routine
 **POV:** Elizabeth
 **Must include:**
 - Time at home with Sam — a calm, ordinary scene
 - A real conversation that characterizes their dynamic without exposition
-- Her leaving for errands in town (sets up Ch.5 near-miss)
+- Her leaving for errands in town (sets up "Sighting" near-miss)
 
 **Must NOT include:**
 - Any supernatural element
@@ -69,17 +69,17 @@
 
 ---
 
-### Ch.4 — Arrival on Earth
+### Arrival
 **POV:** Lucifer (Earth-state begins — same controlled baseline, but now constrained)
 **Must include:**
-- Earth landing in the apple orchard — the portal God opened at the end of Ch.2 throws Lucifer through hard enough that he hits a tree; not a landing of his own choosing or control, and not a gentle one either. Azrael is already there waiting (he never leaves Earth) and the two are alone together first.
+- Earth landing in the apple orchard — the portal God opened at the end of "Breach" throws Lucifer through hard enough that he hits a tree; not a landing of his own choosing or control, and not a gentle one either. Azrael is already there waiting (he never leaves Earth) and the two are alone together first.
 - Lucifer's reaction to the landing doubles as this chapter's sky-glance: he gets up, looks past the branches at the sky, and points a finger at it ("That was unnecessary") — more overt than the style guide's usual silent single glance, but still wordless-from-God's-side and still exasperation-of-someone-too-familiar-to-be-afraid rather than genuine anger. Counts as one use of the sky-glance device's 2-3-per-book budget. Azrael does not notice or understand the gesture — he reads it as Lucifer being annoyed about the landing, not as anything pointed at God specifically.
 - Azrael briefs Lucifer on the bond system and Earth rules before any human contact — this is his domain and he knows it precisely. Lucifer listens. The dynamic between them is established here: Azrael is professionally brisk, Lucifer is controlled. The resentment is present but contained.
 - James and Claire arrive for their picnic — human contact begins
 - James and Claire's **Travel Bond** forms during the picnic — Lucifer has gotten to know them enough through the encounter for the friendship threshold to be met. Tristan stays close anyway since the mechanic is new.
 - James proposes to Claire with his own ring (plain metal, stone missing from its setting) before any divine disclosure — Lucifer notices it but does nothing about it yet, per Stage 2's "no power, no strength beyond human baseline."
 - At the end of the chapter James and Claire ask why they are here — Lucifer explains he is divine and what his mission is (looking for someone, no name given that would help identify her). This disclosure upgrades their bond to **Power Bond** immediately. **(Corrected 2026-09-05: this must happen before any ability display — see below.)**
-- James, still skeptical after the disclosure, demands proof. Only now — with Power Bond actually active — does Lucifer demonstrate anything: superhuman strength, not transfiguration (transfiguration isn't available to anyone until Calm unlocks in Ch.11, and only then for its own specific, emotion-gated outputs — it is not a general utility). He takes a second ring already on his own hand — not his cursed one — and reshapes it smaller by hand, then gives it to James. James's own damaged ring is untouched by this scene; it stays a live loose end.
+- James, still skeptical after the disclosure, demands proof. Only now — with Power Bond actually active — does Lucifer demonstrate anything: superhuman strength, not transfiguration (transfiguration isn't available to anyone until Calm unlocks in "Roof", and only then for its own specific, emotion-gated outputs — it is not a general utility). He takes a second ring already on his own hand — not his cursed one — and reshapes it smaller by hand, then gives it to James. James's own damaged ring is untouched by this scene; it stays a live loose end.
 - James and Claire confirm Elizabeth's general location
 - No emotion from Lucifer beyond mild efficiency — faintest flicker of aesthetic notice on the ring, don't oversell it
 - Ends with the group beginning to move toward town
@@ -89,13 +89,13 @@
 - Any emotion from Lucifer beyond the faintest aesthetic flicker, with one narrow exception: the dry, wordless-from-God's-side exasperation of the landing/sky-glance beat, which is irritation-at-God, not an emotional reaction to anything on Earth
 - The bond briefing happening after James and Claire arrive — Azrael briefs Lucifer first, humans second
 - Any ability display before the mission is disclosed — Power Bond requires both divine nature AND mission disclosed, and doesn't fire on the first half alone
-- Transfiguration of any kind this early — that's gated by the emotional ladder (Calm, Ch.11+), not by bond tier; what Power Bond grants is strength (and, separately, pulling small items from Hell)
+- Transfiguration of any kind this early — that's gated by the emotional ladder (Calm, "Roof"+), not by bond tier; what Power Bond grants is strength (and, separately, pulling small items from Hell)
 
 **Ends with:** The group beginning to move toward town.
 
 ---
 
-### Ch.5 — Near Miss in Town
+### Sighting
 **POV:** Elizabeth
 **Must include:**
 - Elizabeth running errands
@@ -109,35 +109,35 @@
 
 ---
 
-### Ch.6 — Convergence at Home
+### Convergence
 **POV:** Lucifer
 **Must include:**
-- The group touring the town — Lucifer observing ordinary life (seeds the "falls for the town" arc that pays off in Ch.13)
+- The group touring the town — Lucifer observing ordinary life (seeds the "falls for the town" arc that pays off in "Coffee")
 - Key locations established through Claire and James's guidance
 - The group arriving at Elizabeth's door
 - A knock
-- **(Author override, 2026-09-03)** The door opening and Elizabeth's first line — a deliberate split-scene overlap with Ch.7, since the same beat is shown twice, once per POV. See `notes/revision-ch06.md`.
+- **(Author override, 2026-09-03)** The door opening and Elizabeth's first line — a deliberate split-scene overlap with "Contact", since the same beat is shown twice, once per POV. See `notes/revision-ch06.md`.
 
 **Must NOT include:**
 - Any emotional reaction from Lucifer to the town beyond cool observation. No warmth yet.
-- **(Revised 2026-09-04)** Any recognition of Elizabeth as resembling Eve, in any form. The author scratched the original ending, which had Lucifer instantly registering the eye-resemblance at the door — that recognition is now deferred to a later, not-yet-decided chapter, after he's actually gotten to know her. Ch.6 plays the first contact completely clean: nothing marks her as unusual to him. See `bible/lucifer_character_profile.md` § "The Eve Resemblance — Locked Detail."
+- **(Revised 2026-09-04)** Any recognition of Elizabeth as resembling Eve, in any form. The author scratched the original ending, which had Lucifer instantly registering the eye-resemblance at the door — that recognition is now deferred to a later, not-yet-decided chapter, after he's actually gotten to know her. "Convergence" plays the first contact completely clean: nothing marks her as unusual to him. See `bible/lucifer_character_profile.md` § "The Eve Resemblance — Locked Detail."
 
 **Ends with:** Elizabeth's first line of dialogue, and Lucifer cataloguing her the same as everything else that day.
 
 ---
 
-### Ch.7 — First Contact and Bond
+### Contact
 **POV:** Elizabeth
 **Must include:**
-- Elizabeth opening the door — she is present, warm, and genuinely reactive from the first moment. Her emotional register is fully alive. She notices "Adrian" is unusual immediately — open curiosity, not suspicion yet. **(Split-scene note, 2026-09-03):** this replays the same door-opening moment Ch.6 ends on, now from her side — intentional overlap, not a continuity error.
-- The seed of tension that will become a Travel Bond, without it actually forming yet — a held look, an unexplained beat, something Tristan notices and reacts to without either of them naming it. **(Resolved 2026-09-04):** The Travel Bond itself does not form here — it forms at the end of Ch.8. Ch.7 plants the uncertainty; Ch.8 resolves it. See the note on Ch.8 below.
+- Elizabeth opening the door — she is present, warm, and genuinely reactive from the first moment. Her emotional register is fully alive. She notices "Adrian" is unusual immediately — open curiosity, not suspicion yet. **(Split-scene note, 2026-09-03):** this replays the same door-opening moment "Convergence" ends on, now from her side — intentional overlap, not a continuity error.
+- The seed of tension that will become a Travel Bond, without it actually forming yet — a held look, an unexplained beat, something Tristan notices and reacts to without either of them naming it. **(Resolved 2026-09-04):** The Travel Bond itself does not form here — it forms at the end of "Park". "Contact" plants the uncertainty; "Park" resolves it. See the note on "Park" below.
 - Lucifer's strategic framing: she is useful for tracking Eve's movements. Nothing more yet.
 - The group beginning to move — Elizabeth comes along
 
 **Must NOT include:**
 - Any hint of romantic feeling from Lucifer — utility only
 - Elizabeth being overwhelmed or immediately trusting — she notices something is off from the start
-- The Travel Bond actually forming, or Act One closing — both now belong to Ch.8
+- The Travel Bond actually forming, or Act One closing — both now belong to "Park"
 
 **Ends with:** Elizabeth leaving with the group.
 
@@ -149,7 +149,7 @@
 
 ---
 
-### Ch.8 — The Park *(Act One closes)*
+### Park *(Act One closes)*
 **POV:** Lucifer *(changed from Elizabeth — author executive decision, 2026-09-04, overriding the original chapter table; see notes/author-questions.md. Content/beats unchanged, narration reworked to his POV.)*
 **Must include:**
 - The group leaves Elizabeth's house together — Claire and James split off to plan the wedding **about halfway through the chapter** (2026-09-04: specific timing locked), leaving Tristan, Lucifer, and Elizabeth
@@ -158,14 +158,14 @@
 - **(2026-09-04, new standing rule) Tristan challenges Lucifer about the bond forming with Elizabeth** — telepathically if Elizabeth is present (silent, she never hears it), aloud only if they get a genuinely alone moment. This is now a permanent recurring beat: **Tristan challenges Lucifer's bonds every time they are alone (or effectively alone via telepathy), not just occasionally.** See `bible/tristan_azrael_character_profile.md` for the locked rule. In this chapter, expect this to land while Elizabeth is mid-interrogation — Lucifer fielding her spoken questions and Tristan's silent pestering at the same time is exactly the kind of pressure that feeds his annoyance above.
 - The three explore town together — Lucifer is scanning for Eve, half-present, not fully engaged with Elizabeth yet
 - They arrive at a park in the center of town
-- Elizabeth asks why they're here — they tell her they're looking for a young woman; Lucifer has a name for her but says it wouldn't help since she won't be using it, and no face to go on either — same vague-to-Elizabeth description as Ch.4 (updated 2026-09-05: he has a name, it's just useless as an identifier, not that he lacks one — see `notes/author-questions.md`). **(Corrected 2026-09-04):** they do NOT say the person looks like Elizabeth — that line contradicted both Ch.4 (Lucifer has no face for the target) and the deferred-recognition decision (the Eve-eyes resemblance isn't recognized until an undecided later chapter). Adrian is not all-knowing and should never be written asserting a resemblance he hasn't actually perceived yet. She accepts the vague answer, pauses, and moves on. She doesn't press.
+- Elizabeth asks why they're here — they tell her they're looking for a young woman; Lucifer has a name for her but says it wouldn't help since she won't be using it, and no face to go on either — same vague-to-Elizabeth description as "Arrival" (updated 2026-09-05: he has a name, it's just useless as an identifier, not that he lacks one — see `notes/author-questions.md`). **(Corrected 2026-09-04):** they do NOT say the person looks like Elizabeth — that line contradicted both "Arrival" (Lucifer has no face for the target) and the deferred-recognition decision (the Eve-eyes resemblance isn't recognized until an undecided later chapter). Adrian is not all-knowing and should never be written asserting a resemblance he hasn't actually perceived yet. She accepts the vague answer, pauses, and moves on. She doesn't press.
 - Elizabeth begins sharing her life story naturally — her parents leaving, Sam being left in charge, the minor details of how their life runs. She talks easily because this is what she does with people she's decided to let a little closer.
 - Lucifer asks about the bump on her forehead — the first question he asks that isn't strategic. He noticed something about her and asked. Tristan notices this.
 - Elizabeth explains her morning in short — the alarm, the fall, the chaos. Warm, self-deprecating.
 - Elizabeth asks how they know Claire and James
 - Tristan evaluates throughout — watching how much Lucifer listens, how present he becomes as she talks.
 - **Elizabeth learns they are angels** — the disclosure that satisfies the Travel Bond threshold: she knows what they are, why they're here, basic information about them.
-- **Travel Bond forms between Lucifer and Elizabeth** earlier in this chapter, once the friendship threshold (personality + small details known) is met — no disclosure of his specific identity required. Tristan's decision, based on what he witnessed. **(Resolved 2026-09-04: this is the actual formation — Ch.7 only planted the seed.)**
+- **Travel Bond forms between Lucifer and Elizabeth** earlier in this chapter, once the friendship threshold (personality + small details known) is met — no disclosure of his specific identity required. Tristan's decision, based on what he witnessed. **(Resolved 2026-09-04: this is the actual formation — "Contact" only planted the seed.)**
 - **Power Bond also forms by the end of this chapter (locked 2026-09-05)** — Lucifer already gave her the mission earlier at the park bench ("We're looking for someone... a young woman..."); once Azrael discloses the divine half at Lucifer's own telepathic instruction, both Stage 3 conditions are met in the same chapter. This supersedes the Travel Bond above as her current tier. **No ability is displayed on the page here or for several chapters after** — see `bible/bond_system_reference.md` Stage 3. Act One closes.
 
 **Craft notes:**
@@ -183,13 +183,13 @@
 
 ---
 
-### Ch.9 — The Park, Continued
+### Garden
 **POV:** Elizabeth
 **Must include:**
 - Tristan leaves the two alone — he trusts Lucifer won't be uncontained with Elizabeth, and tells them to get to know each other to strengthen the bond. He steps away to attend to his actual work.
 - Elizabeth and Lucifer sit in the park together — she asks most of the questions
 - She asks what he liked to do when he was younger — he talks openly and warmly about the garden before Adam and Eve: watching God create his siblings, the creatures of the earth, the world being built around him. This is the period before the wound and he can speak of it freely. He is genuinely warm here.
-- She asks more about the garden — specifically about Adam and Eve. He avoids talking about Eve. She notices the deflection, pauses, and moves on without pressing. **CONTINUITY FLAG: This is the first instance of the Genesis deflection pattern. Later chapters must reference and escalate this — each time she asks, the deflection costs him more visibly as his walls come down. Writers on later chapters: check Ch.9 before writing any Genesis question scene.**
+- She asks more about the garden — specifically about Adam and Eve. He avoids talking about Eve. She notices the deflection, pauses, and moves on without pressing. **CONTINUITY FLAG: This is the first instance of the Genesis deflection pattern. Later chapters must reference and escalate this — each time she asks, the deflection costs him more visibly as his walls come down. Writers on later chapters: check "Garden" before writing any Genesis question scene.**
 - They walk back to her house together
 - Lucifer meets Sam — first time they share the same space. Sam's read of "Adrian" begins here.
 
@@ -206,7 +206,7 @@
 
 ---
 
-### Ch.10 — Dinner
+### Dinner
 **POV:** Lucifer *(changed from Elizabeth — author executive decision, 2026-09-04, overriding the original chapter table; see notes/author-questions.md. Content/beats unchanged, write directly to his POV.)*
 **Must include:**
 - Sam meets Lucifer — skeptical from the first moment, quietly protective
@@ -232,7 +232,7 @@
 
 ---
 
-### Ch.11 — The Roof *(Calm unlocks)*
+### Roof *(Calm unlocks)*
 **POV:** Elizabeth
 **Must include:**
 - Lucifer is visibly shifting — pausing in moments he wouldn't have before, diving deeper into her life rather than her personality. He has her personality down. Now he wants to know more.
@@ -248,9 +248,9 @@
 - They get down from the roof. Goodbyes. Chapter closes.
 
 **Craft notes:**
-- **This is not a new unlock, but it IS genuinely uncertain for him — twice, then once.** Power Bond formed for Elizabeth at the end of Ch.8 (both disclosure conditions were met that chapter — see `bible/bond_system_reference.md` Stage 3), but per that document's Bond Tier Awareness rule, Lucifer has no way of perceiving a bond crossing a threshold — he hasn't tried anything requiring strength around her since, so he genuinely doesn't know it's there until Elizabeth's pressing forces the first attempt. No new disclosure scene is needed (the conditions were already met back in Ch.8) — what's needed is his own first test of it, on the page, under pressure he didn't choose.
+- **This is not a new unlock, but it IS genuinely uncertain for him — twice, then once.** Power Bond formed for Elizabeth at the end of "Park" (both disclosure conditions were met that chapter — see `bible/bond_system_reference.md` Stage 3), but per that document's Bond Tier Awareness rule, Lucifer has no way of perceiving a bond crossing a threshold — he hasn't tried anything requiring strength around her since, so he genuinely doesn't know it's there until Elizabeth's pressing forces the first attempt. No new disclosure scene is needed (the conditions were already met back in "Park") — what's needed is his own first test of it, on the page, under pressure he didn't choose.
 - The strength demo (triggered by her pushing) is the real first attempt — private uncertainty on his side, resolved the instant it works, then immediately underplayed. The roof access afterward is the second use, and can be genuinely more offhand since he now knows it's real.
-- **He never uses his wings here, or implies flight of any kind.** Wings are a much later unlock (Ch.68 "Wings" in the outline) — whatever he demonstrates in this chapter, on the ground or getting to the roof, must read as physical strength/leverage only.
+- **He never uses his wings here, or implies flight of any kind.** Wings are a much later unlock ("Wings" "Wings" in the outline) — whatever he demonstrates in this chapter, on the ground or getting to the roof, must read as physical strength/leverage only.
 - The smile with eyes closed is the moment. Write it simply. She's studying him and she sees something she hasn't seen before — not warmth, not emotion she can name, just the absence of everything he normally holds in place.
 - Her giggle is her responding to something genuine in him without knowing what it is. She just knows it's different.
 - The goodbye should feel slightly different from previous goodbyes — neither of them names it, but something has shifted and both of them can feel it.
@@ -260,12 +260,12 @@
 - The smile being named or explained
 - Elizabeth understanding what she witnessed
 - Any return to the Eve-tracking framing after this chapter
-- Wings, flight, or anything that reads as flight — strength/leverage only, this chapter and until Ch.68
+- Wings, flight, or anything that reads as flight — strength/leverage only, this chapter and until "Wings"
 - Lucifer showing off, performing, or treating either use of strength as a big moment — both are minimized/underplayed on his side
 
 ---
 
-### Ch.12 — The Dress
+### Dress
 **POV:** Lucifer
 **Must include:**
 - Lucifer reports to Tristan — vague, just the shape of what happened. Tristan notices the change in his demeanor, specifically the relaxedness. Neither of them names it directly.
@@ -276,15 +276,15 @@
 - **BEAUTY/DESIRE begins its turn here** — the faintest flicker, surfacing through the dress rather than through Elizabeth. He doesn't name it. He barely notices it himself. Write it as one quiet beat and move on.
 - He negotiates the price with the manager — deploys his truth-twisting, gets his way. Precise, almost effortless. Claire watches, half delighted, half alarmed.
 - Claire and Lucifer walk back from the shop to meet James and Tristan. The couple reunites and walks away together.
-- Lucifer walks toward Tristan and James. Elizabeth, across the street at the coffee shop with Sophie, sees him from a distance walking in that direction — and pieces together from context that he and Claire were helping plan the wedding. She doesn't need to be told.
+- Lucifer walks toward Tristan and James. **This is where the scene ends for this chapter — the "Elizabeth across the street" sighting belongs entirely to "Coffee," which is Elizabeth's own POV chapter; do not render it here (it would also violate this chapter's own "Elizabeth is not in this chapter" restriction below). Correction 2026-09-05: this bullet used to duplicate content that only makes sense from "Coffee"'s side — removed the duplication, kept the pointer.**
 
-**Sequencing note for Ch.13:** Elizabeth sees Lucifer with Claire through the dress shop window during the drive-by, and then later from across the street walking toward Tristan and James. Writers on Ch.12 and Ch.13 must coordinate this timing so both sightings land in the right order.
+**Sequencing note for "Coffee":** Elizabeth sees Lucifer with Claire through the dress shop window during the drive-by, and then later from across the street walking toward Tristan and James. Writers on "Dress" and "Coffee" must coordinate this timing so both sightings land in the right order.
 
 **Craft notes:**
 - The beauty flicker must be subtle — one beat, not a scene. He sees the dress, something moves, he moves on. That's all.
 - His dress opinions should be direct and unadorned — "that one" or "not that one" with a brief reason. No performance, no charm. Just accuracy.
-- **Correction 2026-09-05:** this is not quite the *first* time — Ch.11's roof scene already has one light instance ("You didn't specify rules," in response to "That's cheating"). Treat this negotiation as the first *extended, deliberate* use of truth-twisting in a light register — Ch.11's instance was a single reflexive line, this one is a whole scene built around it, so the escalation still reads correctly even though "first" isn't literally accurate anymore.
-- Tristan's reluctance to go with James should be brief but present — he finds ordinary human tasks tedious and beneath his function. During this time James tells Tristan he is short on money for a wedding ring after spending heavily on the engagement ring — he needs help tracking one down. Tristan takes note. **CONTINUITY FLAG: James's ring request originates here. Lucifer learns of it and contacts Lillith to source a ring — delivered in Ch.24.**
+- **Correction 2026-09-05:** this is not quite the *first* time — "Roof"'s roof scene already has one light instance ("You didn't specify rules," in response to "That's cheating"). Treat this negotiation as the first *extended, deliberate* use of truth-twisting in a light register — "Roof"'s instance was a single reflexive line, this one is a whole scene built around it, so the escalation still reads correctly even though "first" isn't literally accurate anymore.
+- Tristan's reluctance to go with James should be brief but present — he finds ordinary human tasks tedious and beneath his function. During this time James tells Tristan he is short on money for a wedding ring after spending heavily on the engagement ring — he needs help tracking one down. Tristan takes note. **CONTINUITY FLAG: James's ring request originates here. Lucifer learns of it and contacts Lillith to source a ring — delivered in "Ring".**
 - **WRITER RESTRICTION: Do not let the beauty flicker become a moment of self-awareness for Lucifer. He doesn't realize what's happening. One quiet register, then it passes.**
 
 **Must NOT include:**
@@ -294,7 +294,7 @@
 
 ---
 
-### Ch.13 — Coffee Run
+### Coffee
 **POV:** Elizabeth
 **Must include:**
 - Elizabeth goes to Sophie's house — tells her about the night with Lucifer, leaves out all supernatural elements. Just the surface: two interesting strangers, dinner, the porch, the roof.
@@ -317,7 +317,7 @@
 
 ---
 
-### Ch.14 — The Painting Class
+### Class
 **POV:** Lucifer
 **Must include:**
 - James and Claire have left. Elizabeth and Sophie walk over to meet Lucifer and Tristan.
@@ -338,13 +338,13 @@
 - Tristan's bad feeling references the established rule: divinity and humanity don't mix well. He's not being petty — he's been right about this before, cosmically speaking.
 
 **Must NOT include:**
-- The painting class itself — that's Ch.15
+- The painting class itself — that's "Ready"
 - Sophie knowing anything about their divine nature
 - Tristan's objection being voiced aloud where the girls can hear it
 
 ---
 
-### Ch.15 — Getting Ready
+### Ready
 **POV:** Elizabeth
 **Must include:**
 - Sophie comes over to help Elizabeth get ready for the painting class
@@ -368,9 +368,9 @@
 
 ---
 
-### Ch.16 — The Painting *(Beauty/Desire deepens)*
+### Painting *(Beauty/Desire deepens)*
 **POV:** Elizabeth
-**Setting:** Early evening, Wednesday. A week has passed off-page since Ch.14.
+**Setting:** Early evening, Wednesday. A week has passed off-page since "Class".
 **Must include:**
 - Elizabeth meets Lucifer outside her house. She is in a casual black dress. He is in a casual tee and black jameset — he explains he didn't know what to wear so he went shopping with Tristan, who paid partly against his will.
 - He tells her she looks good. She makes a joking self-deprecating remark — not gorgeous, not lovely, not perfect. Just good.
@@ -398,7 +398,7 @@
 
 ---
 
-### Ch.17 — The Morning After
+### Aftermath
 **POV:** Elizabeth
 **Must include:**
 - Elizabeth wakes up and hears Sam and Sophie talking downstairs
@@ -426,7 +426,7 @@
 
 ---
 
-### Ch.18 — Overheard
+### Overheard
 **POV:** Lucifer
 **Must include:**
 - Lucifer and Tristan arguing about the relationship and the changes in Lucifer
@@ -448,7 +448,7 @@
 
 ---
 
-### Ch.19 — The Door
+### Door
 **POV:** Lucifer
 **Must include:**
 - Lucifer follows Elizabeth closely enough to maintain bond distance — far enough that she doesn't fear him more
@@ -477,7 +477,7 @@
 
 ---
 
-### Ch.20 — The Apology
+### Apology
 **POV:** Lucifer
 **Must include:**
 - Lucifer knocks on Elizabeth's door. She opens it a crack but doesn't show her face. She's listening but hasn't decided yet.
@@ -499,7 +499,7 @@
 
 ---
 
-### Ch.21 — After the Apology
+### Amends
 **POV:** Elizabeth
 **Must include:**
 - Elizabeth lets Lucifer into her room after accepting his apology
@@ -512,17 +512,17 @@
 **Craft notes:**
 - Her declaring karaoke without asking is the version of Elizabeth who trusts someone — she doesn't suggest, she decides.
 - His reluctance before agreeing to stop deflecting costs him something. Then he does it.
-- The painting should be visible in the room. **CONTINUITY FLAG: Check where the painting is per Ch.17 note.**
+- The painting should be visible in the room. **CONTINUITY FLAG: Check where the painting is per "Aftermath" note.**
 - Full forgiveness hasn't arrived yet. This is partial repair.
 
 **Must NOT include:**
 - Full forgiveness
 - Lucifer deflecting on the garden — he agreed not to
-- The karaoke night itself — that's Ch.24
+- The karaoke night itself — that's "Ring"
 
 ---
 
-### Ch.22 — Settle the Score
+### Score
 **POV:** Lucifer
 **Must include:**
 - Lucifer punches Tristan — a "revenge moment" for threatening the bond. Clean, direct, no speech about it.
@@ -541,11 +541,11 @@
 **Must NOT include:**
 - A long confrontation — this is short and settled quickly
 - Lucifer explaining everything about Genesis and singing — brief only
-- The karaoke night itself — that's Ch.23
+- The karaoke night itself — that's "Karaoke"
 
 ---
 
-### Ch.23 — Karaoke Night *(Joy unlocks)*
+### Karaoke *(Joy unlocks)*
 **POV:** Elizabeth
 **Must include:**
 - Lucifer goes first — at a disadvantage because he only knows modern music from what drifts into Hell rarely. He is going in blind except for his innate musical ability and the lyrics on the screen. He hasn't sung since Genesis.
@@ -573,7 +573,7 @@
 
 ---
 
-### Ch.24 — The Wedding Ring *(Generosity surfaces)*
+### Ring *(Generosity surfaces)*
 **POV:** Lucifer
 **Must include:**
 - Lucifer spends time with James and Claire — warm, ordinary visit
@@ -585,7 +585,7 @@
 - **GENEROSITY BEGINS ITS TURN HERE** — he is doing this because James needed something and he could provide it. No strategic benefit. Do not name it.
 - The Lillith contact at the end should be brief — a functional exchange, not a scene. Size, instructions, done.
 - The ring is not delivered in this chapter — that comes later.
-- **CONTINUITY FLAG: Ring commissioned at end of Ch.24. Delivery chapter to be determined.**
+- **CONTINUITY FLAG: Ring commissioned at end of "Ring". Delivery chapter to be determined.**
 
 **Must NOT include:**
 - Claire finding out
@@ -594,7 +594,7 @@
 
 ---
 
-### Ch.25 — Connecting Dots
+### Dots
 **POV:** Elizabeth
 **Must include:**
 - Elizabeth recaps the karaoke night with Sophie — no Sam present
@@ -619,7 +619,7 @@
 
 ---
 
-### Ch.26 — The Rose
+### Rose
 **POV:** Lucifer
 **Must include:**
 - Lucifer with Tristan — he pulls the ring from Hell through a rose. This is his delivery system, not transfiguration. The ring arrives via Hell mechanics.
@@ -639,7 +639,7 @@
 
 ---
 
-### Ch.27 — The Delivery *(Generosity deepens)*
+### Delivery *(Generosity deepens)*
 **POV:** Elizabeth
 **Must include:**
 - Lucifer and Elizabeth are walking around town together
@@ -648,7 +648,7 @@
 - James asks Lucifer about the ring — Lucifer gives it to him. Elizabeth witnesses the exchange.
 - James walks away with the ring
 - Elizabeth asks Lucifer if that's what he's been doing with the couple — helping with the wedding. Lucifer elaborates after James is gone. This is the first time he's been transparent about doing something kind without framing it as useful.
-- James runs back — he came to give them the wedding invitations personally but got distracted by the ring moment and nearly forgot. **The invitation reads: August 2nd, [town park].** **CONTINUITY FLAG: Writers must use this date and location consistently in Ch.33 and Ch.34.**
+- James runs back — he came to give them the wedding invitations personally but got distracted by the ring moment and nearly forgot. **The invitation reads: August 2nd, [town park].** **CONTINUITY FLAG: Writers must use this date and location consistently in "Rehearsal" and "Wedding".**
 
 **Craft notes:**
 - James running back for the invites is the chapter's light closing beat — warm and slightly comic. Let it breathe.
@@ -674,11 +674,11 @@
 
 ---
 
-- **End of Ch.27:** Elizabeth walks off. The bond distance threshold is crossed and Lucifer is sent back to Tristan.
+- **End of "Delivery":** Elizabeth walks off. The bond distance threshold is crossed and Lucifer is sent back to Tristan.
 
 ---
 
-### Ch.28 — The Flower *(Generosity unlocks)*
+### Flower *(Generosity unlocks)*
 **POV:** Lucifer
 **Must include:**
 - Lucifer returns to Tristan via the bond distance rule — Elizabeth walked too far
@@ -702,7 +702,7 @@
 
 ---
 
-### Ch.29 — Too Nice
+### Nice
 **POV:** Elizabeth
 **Must include:**
 - Sam asks why Elizabeth is still smiling — she tells him and Sophie what happened with the flower and the little girl
@@ -726,7 +726,7 @@
 
 ---
 
-### Ch.30 — Not Yet *(Love begins to stir)*
+### Stirring *(Love begins to stir)*
 **POV:** Lucifer
 **Must include:**
 - Tristan questions what Lucifer is doing and why he seems unnaturally happy and calm
@@ -736,14 +736,14 @@
 - Tristan suggests Lucifer tries to find Eve again. They go off to look.
 - Elizabeth approaches at the end of the chapter — still outside Tristan's field of hearing. Lucifer spots her and tells Tristan to go gather intel on Elizabeth while he can. Tristan leaves.
 - Elizabeth arrives and reattaches the bond. Chapter closes.
-- **OFF-PAGE between Ch.30 and the Full Bond chapter:** Tristan seeks out Sam and Sophie. They convince him — not through a speech, just by being honest about what they've witnessed. The relationship makes both Lucifer and Elizabeth better. Tristan's position begins to shift. Lucifer never knows he set this in motion.
+- **OFF-PAGE between "Stirring" and the Full Bond chapter:** Tristan seeks out Sam and Sophie. They convince him — not through a speech, just by being honest about what they've witnessed. The relationship makes both Lucifer and Elizabeth better. Tristan's position begins to shift. Lucifer never knows he set this in motion.
 
 **Craft notes:**
 - Lucifer not knowing why he's happy is the chapter's most important beat — **Love is beginning to stir underneath Generosity.** Do not name it. He doesn't know what it is.
 - Tristan's "no" should feel considered and fair — his judgment is sound here. He's being thorough, not obstructive.
 - Lucifer sending Tristan off is purely practical on his part — he sees an opportunity to do two things at once. He's not engineering anything. The reader understands the significance; he doesn't.
 - Elizabeth reattaching the bond should be quiet and natural — she arrives, the bond reconnects, the chapter closes.
-- **CONTINUITY FLAG: The off-page Sam/Sophie/Tristan conversation happens between Ch.30 and the Full Bond chapter. Writers on the Full Bond chapter must show Tristan shifting toward yes without explaining why — the reader connects it.**
+- **CONTINUITY FLAG: The off-page Sam/Sophie/Tristan conversation happens between "Stirring" and the Full Bond chapter. Writers on the Full Bond chapter must show Tristan shifting toward yes without explaining why — the reader connects it.**
 
 **Must NOT include:**
 - Lucifer naming or recognizing the Love emotion
@@ -752,7 +752,7 @@
 
 ---
 
-### Ch.31 — Who Are You Really
+### Truth
 **POV:** Lucifer *(changed from Elizabeth — author executive decision, 2026-09-04, to even out the POV distribution; see notes/author-questions.md. Content/beats unchanged. Note: this actually strengthens the chapter's own craft note about "two things happening at once, invisible to her" — in Lucifer's POV the reader experiences both channels directly, his real-time telepathic check with Tristan and Elizabeth's spoken question, rather than only her oblivious side of it.)*
 **Must include:**
 - Elizabeth notices Tristan going off — she doesn't know where or why
@@ -773,13 +773,13 @@
 - The chapter ends before he answers. That's the cliff.
 
 **Must NOT include:**
-- Lucifer answering Elizabeth's question in this chapter — that's Ch.32
+- Lucifer answering Elizabeth's question in this chapter — that's "Questions"
 - Tristan's yes being explained or sourced — it just comes through
 - The wedding itself — that's the final Act Two chapter
 
 ---
 
-### Ch.32 — Q&A *(Full Bond forms)*
+### Questions *(Full Bond forms)*
 **POV:** Lucifer *(changed from Elizabeth — author executive decision, 2026-09-04, to even out the POV distribution; see notes/author-questions.md. Content/beats unchanged — this becomes his own POV on finally telling her everything, which fits the arc of his walls coming down.)*
 **Must include:**
 - Lucifer explains who he is — his true identity, his role, his history in broad strokes
@@ -802,11 +802,11 @@
 **Must NOT include:**
 - Lucifer deflecting any questions — full honesty only
 - Elizabeth reacting with awe or overwhelm
-- The wedding — that's Ch.34
+- The wedding — that's "Wedding"
 
 ---
 
-### Ch.33 — Rehearsal Dinner *(Love deepens)*
+### Rehearsal *(Love deepens)*
 **POV:** Elizabeth
 **Must include:**
 - Wedding rehearsal and/or dinner — the day before the wedding
@@ -830,7 +830,7 @@
 
 ---
 
-### Ch.34 — The Wedding *(Love unlocks / Act Two closes)*
+### Wedding *(Love unlocks / Act Two closes)*
 **POV:** Elizabeth
 **Setting:** August 2nd, the town park.
 **Must include:**
@@ -847,7 +847,7 @@
 - **LOVE UNLOCKS HERE for Lucifer** — in this moment, fully and completely. The ladder is now: Calm ✓ Beauty/Desire ✓ Joy ✓ Generosity ✓ Love ✓. Protective Rage and Self-forgiveness remain ahead in Act Three.
 
 **Craft notes:**
-- Lucifer telling her he was wrong is the resolution of the deflection pattern — the last deflection was Ch.33, this is the correction of it. It costs him something to say. Write it simply.
+- Lucifer telling her he was wrong is the resolution of the deflection pattern — the last deflection was "Rehearsal", this is the correction of it. It costs him something to say. Write it simply.
 - The garden story landing as heartbreaking to her is correct — she pushed for this and now she has it and it hurts. Her apology is genuine. His reaction to being apologized to for telling the truth is worth a beat.
 - The bouquet catch should be slightly comic — she wasn't trying, she just has it. Then she looks over.
 - **LOVE UNLOCKS HERE** — in the look across the room, before she runs. Not in the kiss. The kiss is the action; the look is the emotion arriving.
@@ -868,7 +868,7 @@
 
 ---
 
-### Ch.35 — The Watcher *(Act Three opens / Eve POV)*
+### Watcher *(Act Three opens / Eve POV)*
 **POV:** Eve — memoir-esque voice directed at the reader. See Style Guide Section 9.
 **Must include:**
 - A portal opens behind a building, out of sight of any witnesses. Eve steps through.
@@ -890,7 +890,7 @@
 
 ---
 
-### Ch.36 — Spectacular
+### Spectacular
 **POV:** Elizabeth
 **Must include:**
 - The morning after the wedding — Elizabeth and Sophie together
@@ -912,7 +912,7 @@
 
 ---
 
-### Ch.37 — Terrified *(Lucifer's Act Three opens)*
+### Terrified *(Lucifer's Act Three opens)*
 **POV:** Lucifer
 **Must include:**
 - Lucifer is pacing — swinging between ecstatic and terrified. Love has unlocked and he doesn't know what to do with it. Joy was one thing. This is different. He knows what this emotion costs.
@@ -923,7 +923,7 @@
 **Craft notes:**
 - The pacing between ecstatic and terrified should feel almost involuntary — he's not performing either emotion, he's being moved between them.
 - Tristan's response should be dry and practical — slightly exasperated and quietly fond in equal measure.
-- **This is the first chapter where Lucifer is visibly, undeniably changed** — the full distance from Ch.1's stone-cold Lucifer must be visible.
+- **This is the first chapter where Lucifer is visibly, undeniably changed** — the full distance from "Morning"'s stone-cold Lucifer must be visible.
 - Eve is already operating in the background. The reader knows. Lucifer doesn't.
 
 **Must NOT include:**
@@ -933,7 +933,7 @@
 
 ---
 
-### Ch.38 — The Square
+### Square
 **POV:** Elizabeth
 **Must include:**
 - Elizabeth spots Lucifer walking toward the town square and catches up with him — he is with an unnamed Travel Bond acquaintance who leaves naturally when Elizabeth arrives
@@ -954,7 +954,7 @@
 
 ---
 
-### Ch.39 — The Phone (Tristan's Take) *(Lucifer POV)*
+### Line *(Lucifer POV — Tristan's take on the same call as "Phone")*
 **Must include:**
 - Lucifer returns to wherever he and Tristan are staying **[OPEN: location not yet decided]**
 - He shows Tristan the phone — he is genuinely happy about it, visibly so
@@ -975,7 +975,7 @@
 
 ---
 
-### Ch.40 — The Phone *(Elizabeth POV)*
+### Phone *(Elizabeth POV)*
 **Must include:**
 - Lucifer and Elizabeth explore the town together — a dating chapter, warm and easy
 - Lucifer notices people with phones and asks what they are. She explains.
@@ -998,7 +998,7 @@
 
 ---
 
-### Ch.41 — Exhausted *(Elizabeth POV)*
+### Exhausted *(Elizabeth POV)*
 **Must include:**
 - Elizabeth comes home exhausted
 - Sam is making food — he asks what's wrong
@@ -1019,10 +1019,10 @@
 
 ---
 
-### Ch.42 — The Orchard *(Lucifer POV)*
+### Orchard *(Lucifer POV)*
 **Must include:**
 - A picnic date in the apple orchard — intimate, unhurried. Hand holding at some point during the chapter — natural, unannounced.
-- Lucifer is reminded of how annoyed he was when he first landed here in Ch.4. The orchard again. He glances at the sky — the sky-glance moment. God's sense of humor is not lost on him.
+- Lucifer is reminded of how annoyed he was when he first landed here in "Arrival". The orchard again. He glances at the sky — the sky-glance moment. God's sense of humor is not lost on him.
 - Elizabeth asks about his relationship with God
 - Lucifer explains: they are the best of friends, but they haven't spoken fully in a while.
 
@@ -1040,7 +1040,7 @@
 
 ---
 
-### Ch.43 — The Porch *(Elizabeth POV)*
+### Porch *(Elizabeth POV)*
 **Must include:**
 - Walking home after the orchard date
 - They run into Sam and Sophie — the four of them spend some time together, getting to know each other in a relaxed, natural way
@@ -1060,7 +1060,7 @@
 
 ---
 
-### Ch.44 — Girls Day *(Elizabeth POV)*
+### Girls *(Elizabeth POV)*
 **Must include:**
 - Elizabeth and Sophie on a girls day — warm, easy, no Lucifer
 - **First Eve near-sighting:** Sophie catches a glimpse of Eve out of the corner of her eye. She dismisses it immediately — thinks it's just a reflection.
@@ -1080,7 +1080,7 @@
 
 ---
 
-### Ch.45 — Loosen Up *(Lucifer POV)*
+### Loosen *(Lucifer POV)*
 **Must include:**
 - Opens with Tristan confused about why Lucifer didn't go inside when Elizabeth invited him
 - Lucifer changes the subject — asks Tristan if he has ever enjoyed Earth and if he has recommendations
@@ -1101,7 +1101,7 @@
 
 ---
 
-### Ch.46 — Dinner *(Elizabeth POV)*
+### Supper *(Elizabeth POV)*
 **Must include:**
 - Elizabeth and Sophie spot Tristan and Lucifer — they start walking over
 - Elizabeth sees Lucifer genuinely having fun and stops. She decides not to interrupt. They go back home instead.
@@ -1121,7 +1121,7 @@
 
 ---
 
-### Ch.47 — Informants *(Lucifer POV)*
+### Informants *(Lucifer POV)*
 **Must include:**
 - Lucifer and Tristan walking back home
 - Tristan challenges Lucifer about being too carefree — talking to strangers, handing out his number
@@ -1132,7 +1132,7 @@
 **Craft notes:**
 - Lucifer not explaining himself until he has to is very him. The reversal is the beat.
 - Tristan's reaction: genuine surprise followed by reluctant acknowledgment.
-- The phone being an operational tool recontextualizes Ch.39 and Ch.40.
+- The phone being an operational tool recontextualizes "Line" and "Phone".
 - **CONTINUITY FLAG: Informant network now active. Factor into subsequent Lucifer chapters.**
 
 **Must NOT include:**
@@ -1141,7 +1141,7 @@
 
 ---
 
-### Ch.48 — Honeymoon *(Elizabeth POV)*
+### Honeymoon *(Elizabeth POV)*
 **Must include:**
 - Elizabeth walking around town
 - She spots James and Claire — back from their honeymoon
@@ -1150,7 +1150,7 @@
 
 **Craft notes:**
 - The honeymoon reunion should be genuinely warm.
-- Eve's appearance is a small escalation from Ch.44 — Sophie saw a reflection, Elizabeth sees a person. The reader feels the gradient. The characters don't.
+- Eve's appearance is a small escalation from "Girls" — Sophie saw a reflection, Elizabeth sees a person. The reader feels the gradient. The characters don't.
 - Elizabeth's dismissal must feel completely reasonable in the moment.
 - **CONTINUITY FLAG: Second near-sighting. One more dismissal before Lucifer spots her.**
 
@@ -1161,7 +1161,7 @@
 
 ---
 
-### Ch.49 — Dinner At Home *(Lucifer POV)*
+### Home *(Lucifer POV)*
 **Must include:**
 - A date at the lavish estate — grand, old money, more rooms than necessary. Lucifer gives Elizabeth a vague tour when she arrives — enough to establish the scale and character of the place without cataloguing every room.
 - Elizabeth arrives in a cute dress. Lucifer calls her gorgeous at the door.
@@ -1184,7 +1184,7 @@
 
 ---
 
-### Ch.50 — The Couch *(Elizabeth POV)*
+### Couch *(Elizabeth POV)*
 **Must include:**
 - Continuation of the date after Tristan goes upstairs
 - Elizabeth asks about Tristan — Lucifer explains they have been at odds since the garden because of the tree and the Fall
@@ -1207,7 +1207,7 @@
 
 ---
 
-### Ch.51 — Morning *(Lucifer POV)*
+### Waking *(Lucifer POV)*
 **Must include:**
 - Lucifer wakes up to find Elizabeth nestled on his chest, hair messy. He notices she's gorgeous even like this.
 - **Opening joke:** Tristan is already there, watching him sleep with dry mockery. Lucifer wakes startled, scrambles to get up without waking Elizabeth.
@@ -1231,7 +1231,7 @@
 
 ---
 
-### Ch.52 — You Better Wow Me *(Elizabeth POV)*
+### Impress *(Elizabeth POV)*
 **Must include:**
 
 **Scene 1 — The Goodbye:**
@@ -1257,7 +1257,7 @@
 
 ---
 
-### Ch.53 — Storming Out *(Lucifer POV)*
+### Storming *(Lucifer POV)*
 **Must include:**
 - Tristan interrogates Lucifer about the night
 - Lucifer agrees with Tristan — it was a mistake, he should have stopped it from going that far. He's feeling off.
@@ -1278,7 +1278,7 @@
 
 ---
 
-### Ch.54 — The Figure *(Elizabeth POV)*
+### Figure *(Elizabeth POV)*
 **Must include:**
 - Elizabeth goes out the second floor window, drops into bushes, runs from the house
 - She slows down once far enough away
@@ -1296,7 +1296,7 @@
 - High heels clicking is the chapter's best sensory detail — Eve isn't chasing her, she knows where she's going.
 - Elizabeth running to Lucifer is instinct. Don't comment on it.
 - **This is Eve's first direct threat.**
-- **CONTINUITY FLAG: Elizabeth was followed. She will tell Lucifer in Ch.55.**
+- **CONTINUITY FLAG: Elizabeth was followed. She will tell Lucifer in "Frozen".**
 
 **Must NOT include:**
 - Eve being identified
@@ -1304,7 +1304,7 @@
 
 ---
 
-### Ch.55 — Stone Cold *(Elizabeth POV)*
+### Frozen *(Elizabeth POV)*
 **Must include:**
 - Elizabeth arrives at the orchard out of breath — lies about why (just wanted to see him faster)
 - He tells her about his argument with Tristan. She admits she had the same with Sam and Sophie.
@@ -1320,7 +1320,7 @@
 - The orchard joke is the sky-glance in dialogue form — sardonic warmth, then the chapter moves on.
 - The stone cold expression is the chapter's most important beat — fifty chapters of warmth and then that face arrives. Write it in one sentence. No commentary.
 - Him taking her hand without explanation is immediate protective instinct.
-- **CONTINUITY FLAG: Lucifer now knows someone followed Elizabeth. Does not yet know it is Eve. Feeds into Ch.56.**
+- **CONTINUITY FLAG: Lucifer now knows someone followed Elizabeth. Does not yet know it is Eve. Feeds into "Crowd".**
 
 **Must NOT include:**
 - Lucifer identifying the follower as Eve
@@ -1329,7 +1329,7 @@
 
 ---
 
-### Ch.56 — Clear The Crowd *(Lucifer POV)*
+### Crowd *(Lucifer POV)*
 **Must include:**
 - Lucifer and Elizabeth walk into town — he scans everyone, looking for the figure
 - He hears Tristan calling — ignores him
@@ -1345,7 +1345,7 @@
 - They run back to Elizabeth's house
 
 **Craft notes:**
-- Phone network paying off immediately from Ch.47 — let it feel clever without smugness.
+- Phone network paying off immediately from "Informants" — let it feel clever without smugness.
 - Tristan flying is the first time we see his ability on page.
 - The unknown threat puts Tristan more on edge than a known one would.
 - **CONTINUITY FLAG: Sam told Lucifer he wants to talk — still needs to happen.**
@@ -1357,7 +1357,7 @@
 
 ---
 
-### Ch.57 — What's Going On *(Lucifer POV)*
+### Confusion *(Lucifer POV)*
 **Must include:**
 - Lucifer and Tristan knock — Sam opens: "what the hell is going on"
 - Tristan smiles. Lucifer nudges him.
@@ -1371,7 +1371,7 @@
 - Tristan smiling at "what the hell" is rare and human — unexpected.
 - Corroboration should feel like dominoes falling — the reader has been watching these sightings accumulate.
 - James and Claire provide the most useful detail.
-- **CONTINUITY FLAG: Sam's conversation with Lucifer (Ch.56) still pending — likely happens at the house.**
+- **CONTINUITY FLAG: Sam's conversation with Lucifer ("Crowd") still pending — likely happens at the house.**
 
 **Must NOT include:**
 - Lucifer naming Eve — not certain yet
@@ -1379,7 +1379,7 @@
 
 ---
 
-### Ch.58 — The Painting Of Eve *(Elizabeth POV)*
+### Eve *(Elizabeth POV)*
 **Must include:**
 - Elizabeth arrives with Sam and Sophie — Sam keeps commenting on how Lucifer can afford the place
 - James and Claire already there. Lucifer standing with serious expression. Tristan off to the side, arms crossed.
@@ -1404,7 +1404,7 @@
 
 ---
 
-### Ch.59 — I Am Lucifer *(Elizabeth POV)*
+### Lucifer *(Elizabeth POV)*
 **Must include:**
 - Lucifer says "I am Lucifer" — the room freezes
 - Sam yells — accuses Lucifer of trying to turn Elizabeth into a demon, says they should have been told
@@ -1422,7 +1422,7 @@
 - Sam's accusations are every accusation the world has ever thrown at Lucifer, right to his face. Write Sam as genuinely furious, not villainous.
 - The blank gaze is one sentence. Stop there.
 - Tristan stays.
-- **CONTINUITY FLAG: The blank gaze feeds directly into Ch.60.**
+- **CONTINUITY FLAG: The blank gaze feeds directly into "Return".**
 
 **Must NOT include:**
 - Lucifer responding to Sam's accusations
@@ -1430,14 +1430,14 @@
 
 ---
 
-### Ch.60 — Coming Back *(Split POV: Elizabeth then Lucifer)*
+### Return *(Split POV: Elizabeth then Lucifer)*
 **AUTHOR NOTE: This is the most heartbreaking scene in the book. Writers must treat it as the emotional peak of the entire story. Do not rush it. Do not underwrite it. Give it everything.**
 
 *(See full outline above — Elizabeth's section first, then Lucifer's fragmented inner monologue section)*
 
 ---
 
-### Ch.61 — Eve Took Him *(Elizabeth POV)*
+### Taken *(Elizabeth POV)*
 **Must include:**
 - Lucifer comes back. Tristan in shock — asks how she did that. She doesn't know.
 - Lucifer gets up, goes upstairs. Motions her not to follow. She stops.
@@ -1455,11 +1455,11 @@
 - Tristan being in shock is rare — don't underplay it.
 - Sophie's entrance hits like a door. Don't slow it down.
 - **"Sam."** is the last word. Nothing after it.
-- **CONTINUITY FLAG: Trap sprung. Feeds into Ch.62.**
+- **CONTINUITY FLAG: Trap sprung. Feeds into "Letter".**
 
 ---
 
-### Ch.62 — The Letter *(Lucifer POV)*
+### Letter *(Lucifer POV)*
 **Must include:**
 - BANG — Elizabeth slams the door open. Lucifer shoots up.
 - She explains. He goes downstairs with her.
@@ -1469,7 +1469,7 @@
 - Eve's terms: him, Elizabeth, one TB person. She knows a TB holder blocks his power. Do it or she kills Sam.
 
 **Craft notes:**
-- Blank stare in the chair is a continuation from Ch.60 — not fully gone, not fully back.
+- Blank stare in the chair is a continuation from "Return" — not fully gone, not fully back.
 - Eve's terms show she's been studying. She knows the bond system.
 - Translation delivered plainly — no emotion in the delivery.
 - **CONTINUITY FLAG: Bond break coming. Eve's plan is designed to force it.**
@@ -1480,7 +1480,7 @@
 
 ---
 
-### Ch.63 — The Plan *(Elizabeth POV)*
+### Plan *(Elizabeth POV)*
 **Must include:**
 - Elizabeth begs Lucifer to agree. He's reluctant — no power, and Eve is manic. She'd probably try to kill both of them given the choice.
 - Elizabeth comes up with safeguards. Tristan handles logistics and rules.
@@ -1496,7 +1496,7 @@
 
 ---
 
-### Ch.64 — The Storehouse *(Lucifer POV)*
+### Storehouse *(Lucifer POV)*
 **Must include:**
 - Roles: Tristan waits outside at distance. Vincent behind them along the wall. Lucifer and Elizabeth go in. Sophie, James, Claire at home.
 - They find Sam — Eve on a beam two floors up, knife to his back. They stop.
@@ -1518,7 +1518,7 @@
 
 ---
 
-### Ch.65 — No *(Elizabeth POV)*
+### No *(Elizabeth POV)*
 **Must include:**
 - "What?" — Elizabeth exclaims she won't do it
 - Eve pushes the knife closer to Sam
@@ -1539,7 +1539,7 @@
 - "I love you" then "it's over" then "no" — do not soften this sequence.
 - Lucifer's fear when she looks back is the most important image before the break.
 - Elizabeth forgetting is immediate and total — sudden blankness, not a fade.
-- **CONTINUITY FLAG: Bond broken. Lucifer teleported to Tristan. Eve holds standoff. Feeds into Ch.66.**
+- **CONTINUITY FLAG: Bond broken. Lucifer teleported to Tristan. Eve holds standoff. Feeds into "Wrath".**
 
 **Must NOT include:**
 - Elizabeth hesitating once decided
@@ -1548,7 +1548,7 @@
 
 ---
 
-### Ch.66 — Wrath *(Lucifer POV)*
+### Wrath *(Lucifer POV)*
 **Must include:**
 - Lucifer appears with Tristan. Vincent is gone home.
 - Lucifer shuts down every emotion. Goes still.
@@ -1574,7 +1574,7 @@
 
 ---
 
-### Ch.67 — Old Testament *(Elizabeth POV)*
+### Testament *(Elizabeth POV)*
 **Must include:**
 - "Where am I?" — Elizabeth is terrified, looks up at Eve with knife to Sam's back
 - Eve smiles, begins to giggle. Elizabeth grows more scared.
@@ -1589,10 +1589,10 @@
 
 **Craft notes:**
 - Elizabeth remembers Adrian but has lost the Lucifer layer — she knows him and doesn't know him at the same time. She moves aside by instinct. He doesn't stop for her.
-- Eve's laughter cutting off when she sees his face — the reader has been waiting for this since Ch.35.
+- Eve's laughter cutting off when she sees his face — the reader has been waiting for this since "Watcher".
 - Lucifer walking calmly is more frightening than running.
 - **Tristan's forgiveness begins here** — he observes from the threshold. He sees Lucifer go to war for Elizabeth after she took everything from him. Something shifts.
-- **CONTINUITY FLAG: God's Travel Bond restoration imminent. Feeds into Ch.68.**
+- **CONTINUITY FLAG: God's Travel Bond restoration imminent. Feeds into "Wings".**
 
 **Must NOT include:**
 - Elizabeth recognizing Lucifer fully before memory clarifies
@@ -1601,7 +1601,7 @@
 
 ---
 
-### Ch.68 — Wings *(Lucifer POV — changed from Elizabeth, author executive decision 2026-09-04, to even out the POV distribution; see notes/author-questions.md)*
+### Wings *(Lucifer POV — changed from Elizabeth, author executive decision 2026-09-04, to even out the POV distribution; see notes/author-questions.md)*
 **POV:** Lucifer
 **Must include:**
 - Eve pushes Elizabeth toward Lucifer. He catches her — then goes after Eve and leaves Elizabeth behind.
@@ -1630,7 +1630,7 @@
 
 ---
 
-### Ch.69 — Gone *(Elizabeth POV)*
+### Gone *(Elizabeth POV)*
 **Must include:**
 - Elizabeth follows Lucifer as he walks toward Eve
 - She asks who he is — he tells her. But the bond is broken. She has the name now and still only the incomplete version of him.

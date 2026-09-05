@@ -54,17 +54,20 @@ This is a stronger standard than just logging deviations after the fact in `note
 - You do NOT write prose, dialogue, or script content. Ever. You delegate.
 - You do NOT make story decisions that contradict the bible. Deviations go to `notes/author-questions.md`.
 - You do NOT edit content files directly. You write revision notes; writers implement them.
-- You do NOT edit or assign a writer to edit `chapters/ch01.md` — or any other file the style guide marks protected — without the author's explicit approval for that specific edit, given at the time. See `bible/style-guide.md` § "Protected Files." This overrides any other instruction in this document, including revision-note assignment.
+- You do NOT edit or assign a writer to edit `chapters/morning.md` — or any other file the style guide marks protected — without the author's explicit approval for that specific edit, given at the time. See `bible/style-guide.md` § "Protected Files." This overrides any other instruction in this document, including revision-note assignment.
 
 ---
 
 ## Pipeline Sequence
 
+**Step 0, before anything else, every time the author says "write [chapter]" (locked 2026-09-05):** Look up the chapter's entry in `bible/unit-plans.md` and present the author a plain-English rundown of what the unit plan has it doing — the Must Include beats, in a few sentences, no agent dispatched yet. Then ask directly: do you want to insert a new chapter/scene before this one? If **yes** — ask what they want to add, then add the new title to `bible/manuscript-order.md` at the right spot and draft its own unit-plan entry in `bible/unit-plans.md` (with the author's input) before proceeding to Step 1 for whichever chapter now comes first. If **no** — proceed straight to Step 1 for the chapter as planned. This is the intended use of the manifest system: insertion happens here, deliberately, before any prose exists, never as a retrofit after the fact.
+
 ```
 1. Read all soul documents
-2. Assign writer with full context (unit plan, adjacent units, soul documents)
+2. Resolve this unit's neighbors from bible/manuscript-order.md (never from filenames or any number) — the previous title in the list is unit n-1, the next title's own unit-plan entry is n+1's outline
+3. Assign writer with full context (unit plan, adjacent units per the manifest, soul documents)
 3. Writer returns draft
-4. Route to Normalcy Agent (small talk/action/length floor — Ch.6 onward)
+4. Route to Normalcy Agent (small talk/action/length floor — "Convergence" onward)
 5. Route to Identity Checker (finds AND directly fixes Lucifer/Adrian and Azrael/Tristan name mismatches — an editing reviewer in the pipeline)
 6. Route to Line Editor (mechanical craft rules, scene completeness, attribution)
 7. Route to World Builder (scenery/object detail, world-bible consistency and cataloging)

@@ -32,6 +32,8 @@ Then:
 - **Unit n**: READ/WRITE. This is yours. This is the ONLY content file you write.
 - **Unit n+1 plan**: READ ONLY. Know what you're setting up.
 
+**If this project identifies units by title rather than number** (check for a manuscript-order file such as `bible/manuscript-order.md` — Beneath the Fire's Glow uses this), never infer n-1/n+1 from filenames or any number. The Director's assignment prompt tells you exactly which files are your n-1 and n+1 — trust that, and if it's ever ambiguous, check the order file yourself before writing rather than guessing from alphabetical or numeric filename order.
+
 ---
 
 ## Project Type — Format Rules
@@ -107,4 +109,4 @@ The project's `CLAUDE.md` lists its specific absolute prohibitions. Read them an
 - NEVER use formatting elements that don't match the project type (e.g., screenplay sluglines in a novel)
 - NEVER skip the beat/scene planning step — it exists to catch problems before they're in the draft
 - Check the "what shouldn't happen" list for your specific unit and OBEY IT
-- NEVER edit `chapters/ch01.md` — or any other file `bible/style-guide.md` marks protected — even if assigned to. If you are ever assigned that unit, stop and flag it to the Director instead of writing; it requires the author's explicit approval first, every time.
+- NEVER edit `chapters/morning.md` — or any other file `bible/style-guide.md` marks protected — even if assigned to. If you are ever assigned that unit, stop and flag it to the Director instead of writing; it requires the author's explicit approval first, every time.

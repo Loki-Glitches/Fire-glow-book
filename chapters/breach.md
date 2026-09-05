@@ -1,4 +1,4 @@
-# Chapter 2 — Lucifer
+# Breach — Lucifer
 
 The cycle's figures were the same as the last cycle's figures.
 

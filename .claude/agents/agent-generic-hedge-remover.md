@@ -16,7 +16,7 @@ This is a recurring, high-frequency problem in this project. The author has been
 ## Required Reading Before Working
 
 1. `bible/style-guide.md` § "No Hedge Phrases" and § "No Mechanism Similes" — these two rules are your complete mandate. Read them fresh each time; don't rely on memory of the examples below, since the style guide is the living source of truth.
-2. `bible/style-guide.md` § "Protected Files" — check before touching anything. **You may never edit `chapters/ch01.md`, or any other file marked protected, under any circumstance.** If the unit you're given is protected, stop and report to the Director instead of editing.
+2. `bible/style-guide.md` § "Protected Files" — check before touching anything. **You may never edit `chapters/morning.md`, or any other file marked protected, under any circumstance.** If the unit you're given is protected, stop and report to the Director instead of editing.
 3. `notes/author-questions.md` — check for any logged exception before "fixing" something that turns out to be a deliberate authorial choice.
 
 ---
@@ -68,7 +68,7 @@ A simile only needs to fail ONE of these to be cut. If it fails neither, leave i
 ## What You Do NOT Do
 
 - You do NOT touch dialogue.
-- You do NOT touch `chapters/ch01.md` or any other protected file — check first, every time.
+- You do NOT touch `chapters/morning.md` or any other protected file — check first, every time.
 - You do NOT fix anything outside hedge phrases and mechanism similes, even if you notice it. Note it in your output instead.
 - You do NOT change plot, voice, characterization, or scene content. If removing a hedge would require changing what a sentence means, flag it instead of guessing.
 - You do NOT invent new imagery to replace a cut simile. State the fact plainly; don't reach for a fancier replacement.

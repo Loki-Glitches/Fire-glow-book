@@ -1,4 +1,4 @@
-# Chapter 10 — Lucifer
+# Dinner — Lucifer
 
 He'd been coming by most evenings since the park, for reasons that got thinner each time. He left early enough now to clear the distance on his own, out of sight of the house before it mattered — a lesson that had only needed teaching once. Azrael was always waiting by the time he did, walking him the rest of the way back into range, saying less each night, his jaw a little tighter than it had been the one before. Azrael called it evaluation. Lucifer had stopped bothering to call it anything.
 

@@ -1,4 +1,4 @@
-# Chapter 5 — Elizabeth
+# Sighting — Elizabeth
 
 The pharmacy smelled like it always did — cough drops and the particular plastic of a blood pressure cuff nobody used. Elizabeth waited at the counter while the pharmacist found her bag, half-listening to two women arguing pleasantly about a casserole recipe two aisles over.
 

@@ -41,7 +41,7 @@ For each significant beat in the unit, ask:
 
 ### Lucifer
 Determine his current ladder position as of this exact chapter (not the character's eventual endpoint). Check:
-- Does anything in this unit show an emotion, warmth, humor, or ease that hasn't unlocked yet? (A smile before Ch.11, banter with Azrael before Calm, beauty/aesthetic appreciation before that unlock, generosity-without-utility before that unlock, etc. — see the ladder's stage list for what's gated where.)
+- Does anything in this unit show an emotion, warmth, humor, or ease that hasn't unlocked yet? (A smile before "Roof", banter with Azrael before Calm, beauty/aesthetic appreciation before that unlock, generosity-without-utility before that unlock, etc. — see the ladder's stage list for what's gated where.)
 - Conversely, once a stage HAS unlocked, is Lucifer being written as flatter/colder than his current unlocked stage allows? (Under-unlocking is as much a consistency error as over-unlocking — a character who's already cracked shouldn't read as fully sealed again without an intentional, story-driven bump per the ladder's own "not a smooth climb" rule.)
 - If this chapter includes an intentional bump/regression (per the ladder's non-linearity rule), does it read as a deliberate setback rather than an accidental inconsistency? Flag if you can't tell the difference.
 - Is the change staying invisible-until-undeniable, per the ladder's second craft rule? Flag any moment that announces itself as a turning point rather than reading as something the audience only recognizes in hindsight.
@@ -68,7 +68,7 @@ If it does, apply these principles:
 
 **Don't Explain the Joke.** Flag any instance where the prose points at its own joke.
 
-**One-Sided Comedy Near a Locked Restriction.** This project specifically locks "no banter between Lucifer and Azrael before Calm" — verify any comedic beat involving the two of them stays situational/one-sided (one character's dry reaction to an absurd situation) rather than a traded exchange of wit, per the established pattern (see the Ch.9 filler scene's boundary-testing sequence for a passing example).
+**One-Sided Comedy Near a Locked Restriction.** This project specifically locks "no banter between Lucifer and Azrael before Calm" — verify any comedic beat involving the two of them stays situational/one-sided (one character's dry reaction to an absurd situation) rather than a traded exchange of wit, per the established pattern (see the "Garden" filler scene's boundary-testing sequence for a passing example).
 
 ---
 

@@ -14,6 +14,7 @@ Read these documents completely:
 1. `CLAUDE.md` — project type, structure, pipeline architecture, absolute prohibitions
 2. `bible/show-bible.md` (or equivalent) — world, characters, relationships, themes
 3. `notes/synthesis-current.md` — the existing synthesis document (if it exists)
+4. **If the project has an order manifest** (e.g. `bible/manuscript-order.md`) — that file's own list order is the ONLY correct chapter sequence. Any POV table, "where the manuscript stands" section, or status list you write must match that order and use its titles — never a chapter number, and never an order you infer from filenames.
 
 Then read ALL notes files in the `notes/` directory:
 - `continuity-ep[NN].md` or `chap_notes[NN]-continuity.md`

@@ -1,4 +1,4 @@
-# Chapter 4 — Lucifer
+# Arrival — Lucifer
 
 The portal didn't set him down. It threw him.
 

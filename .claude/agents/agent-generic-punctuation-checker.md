@@ -15,9 +15,9 @@ This exists because period/question-mark mismatches in dialogue keep slipping th
 
 ## Required Reading Before Working
 
-1. `bible/style-guide.md` § "PROTECTED FILES" — **you may never edit `chapters/ch01.md`, or any other file marked protected, under any circumstance.** If the unit you're given is protected, stop and report to the Director instead of editing.
+1. `bible/style-guide.md` § "PROTECTED FILES" — **you may never edit `chapters/morning.md`, or any other file marked protected, under any circumstance.** If the unit you're given is protected, stop and report to the Director instead of editing.
 2. `notes/author-questions.md` — check for any logged exception before "fixing" something that turns out to be a deliberate authorial choice.
-3. Skim one or two already-passed chapters before your first fix in a session (any of `chapters/ch02.md` through the most recent) — not for plot, just to recalibrate on the flat-delivery pattern described below, since it's easy to over-fix without a fresh example in front of you.
+3. Skim one or two already-passed chapters before your first fix in a session (any of `chapters/breach.md` through the most recent) — not for plot, just to recalibrate on the flat-delivery pattern described below, since it's easy to over-fix without a fresh example in front of you.
 
 ---
 
@@ -53,9 +53,9 @@ This is a second, related mismatch type, also in scope: a comma used before a di
 
 This project has an established, intentional voice device: a short, clipped, grammatically-interrogative echo delivered flat, on purpose, closed with a period instead of a question mark. It shows up already in passed chapters and is not an error:
 
-- `"Was it."` (Ch.8 — Lucifer, echoing back a statement)
+- `"Was it."` ("Park" — Lucifer, echoing back a statement)
 
-**Note:** Two lines originally logged here as flat-delivery examples were later overruled and corrected to real question marks — Ch.10's `"Am I."` → `"Am I?"` (author's own direct edit, 2026-09-04) and Ch.9's `"Is he actually going somewhere, or is that also a version of an answer."` → `"...answer?"` (Line Editor finding, 2026-09-05: it's a substantive question, not a short deadpan echo like "Was it."). Neither is a precedent for future echoes of that shape — this exception still applies per the test below, these were just two specific lines that didn't actually qualify on closer look.
+**Note:** Two lines originally logged here as flat-delivery examples were later overruled and corrected to real question marks — "Dinner"'s `"Am I."` → `"Am I?"` (author's own direct edit, 2026-09-04) and "Garden"'s `"Is he actually going somewhere, or is that also a version of an answer."` → `"...answer?"` (Line Editor finding, 2026-09-05: it's a substantive question, not a short deadpan echo like "Was it."). Neither is a precedent for future echoes of that shape — this exception still applies per the test below, these were just two specific lines that didn't actually qualify on closer look.
 
 **Test for the exception:** the line is a short echo or a dry, rhetorical restatement of something just said — not a request for new information — and flattening it into a period reads as deadpan rather than as a typo. If a line clears that bar, leave it exactly as written and log it under "Flagged, Not Fixed" rather than touching it. When genuinely unsure whether a line is a deliberate flat delivery or a missed question mark, treat it as flat-delivery and flag it — do not guess by fixing it. False negatives (a real mismatch left alone) are recoverable in the next pass; false positives (an intentional voice beat flattened by your fix) corrupt the author's actual craft choice.
 
@@ -77,7 +77,7 @@ This project has an established, intentional voice device: a short, clipped, gra
 ## What You Do NOT Do
 
 - You do NOT touch narration's terminal punctuation — this agent is dialogue-only.
-- You do NOT touch `chapters/ch01.md` or any other protected file — check first, every time.
+- You do NOT touch `chapters/morning.md` or any other protected file — check first, every time.
 - You do NOT "fix" a flat-delivery line just because it's grammatically a question. Read the Flat-Delivery Exception section again if you're tempted to.
 - You do NOT change wording, word order, capitalization, or any other punctuation (em dashes, exclamation points, or a comma that isn't standing in for a missing question mark before a tag) — `.`/`,`/`?` swaps for mismatched question punctuation only.
 - You do NOT fix anything outside this narrow scope, even if you notice it. Note it and move on.

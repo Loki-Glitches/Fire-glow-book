@@ -33,7 +33,7 @@ Eve also knows the divine language — the original tongue spoken in Genesis, be
 
 ---
 
-## THE ESCAPE (Ch.2)
+## THE ESCAPE ("Breach")
 
 She breaks out specifically to find Lucifer — she's still in love with him. The instant she exits her cell she's automatically routed to Earth, the same mechanic as a soul revived after death. God controls her timing — she does not arrive on Earth until Act Three, when Lucifer and Elizabeth are already close.
 

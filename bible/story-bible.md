@@ -30,7 +30,7 @@ Telepathic bonds exist only between beings of the same alignment — light to li
 **The exception is Lucifer.** As warden of Hell he exists on the boundary between light and dark — not fully one or the other. This is not just a job title; it is what he became when God cast him in and made him responsible for containing what is darkest in creation while remaining pure himself. Because he straddles both sides, he can hold bonds across the divide. No other being can.
 
 **Lucifer's bonds:**
-- **Lillith** (dark) — bidirectional but asymmetric. Lucifer contacts her when he needs something done from Hell's side (sourcing objects, managing the realm, delegating tasks). She contacts him only in emergencies. The ring commission in Ch.24 is the model for how Lucifer uses this bond proactively.
+- **Lillith** (dark) — bidirectional but asymmetric. Lucifer contacts her when he needs something done from Hell's side (sourcing objects, managing the realm, delegating tasks). She contacts him only in emergencies. The ring commission in "Ring" is the model for how Lucifer uses this bond proactively.
 - **Azrael** (light) — a passive, always-present connection. Lucifer can pull information from Azrael with zero effort, which is precisely why God kept Azrael uninformed of the real plan.
 
 **Lillith and Azrael** cannot bond with each other. The rule holds for everyone except Lucifer.
@@ -53,7 +53,7 @@ No ability whatsoever around an unbonded person. If someone begins to suspect he
 **Formation:** Self-initiated. Tristan does not oversee these — he allows them without concern. This is how Lucifer builds his broader town network casually.
 
 ### Stage 3 — Power Bond
-**Unlocks:** Superhuman strength plus the ability to pull small items from Hell (the ring in Ch.24 is the model).
+**Unlocks:** Superhuman strength plus the ability to pull small items from Hell (the ring in "Ring" is the model).
 **Conditions:** Lucifer must explain he is divine AND what his mission is on Earth (looking for someone). Both pieces required.
 
 ### Stage 4 — Full Anchor
@@ -147,7 +147,7 @@ Eventually Eve died and descended. He placed her cell beneath a mountain of brim
 He wears a ring on his left hand with an inscription in a dead language: *"Cursed by love's cruel decree, forced to bear the weight for an eternity."* The love that cursed him was not recklessness. It was generosity itself.
 
 ### The Porch Light (locked 2026-09-04)
-Elizabeth's porch light burns out in Ch.3 and stays dead — she buys a replacement bulb in Ch.5, but it sits unused on the porch step through Ch.6 and Ch.7, and stays that way for a long time after. This is deliberate: **nobody fixes it until Lucifer does, in Act Three.**
+Elizabeth's porch light burns out in "Routine" and stays dead — she buys a replacement bulb in "Sighting", but it sits unused on the porch step through "Convergence" and "Contact", and stays that way for a long time after. This is deliberate: **nobody fixes it until Lucifer does, in Act Three.**
 
 When he finally does, it's not a repair — it's a declaration. Fixing it means he's choosing every small, unremarkable moment of a life with her, not just the big ones: not the wedding, not the rescue, not the climax, but the version of loving someone that's mostly a porch light getting fixed on an ordinary evening. It's the same reversal that defines his Generosity unlock — giving without framing it as utility — but scaled down to the most domestic, unglamorous object in the book on purpose. The size of the gesture is the point: after everything he's capable of, he chooses the smallest possible act of care.
 
@@ -185,14 +185,14 @@ Her parents won the lottery and became chronically absent — funding the essent
 ### College
 No conflict — she wants to go. Her reasoning: make her own mistakes, give Sam room to breathe. She's ready to give him space; he's the one not ready to take it.
 
-**Coffee preference:** Mocha. Established in Ch.51 — writers must use this consistently.
+**Coffee preference:** Mocha. Established in "Waking" — writers must use this consistently.
 
 ### Trust Arc
 Deeply untrusting of everyone except Sam before meeting Lucifer. Finds Lucifer interesting, lowers some (not all) guard. Grows closer because he doesn't win her over with gestures or money — just presence. Periodically asks about his time in Genesis; he deflects, which compounds her suspicion.
 
 She chooses to bond despite never getting full proof and despite sensing he's hiding something. The "yes" is eyes-open, not naive.
 
-### The Eve Reveal (Ch.16)
+### The Eve Reveal ("Painting")
 Her wound isn't jealousy — it's that he decided she couldn't handle knowing, the same unilateral choice her parents made over and over. The real question in the fallout isn't "who were you with" but "why didn't you just tell me."
 
 ---
@@ -200,7 +200,7 @@ Her wound isn't jealousy — it's that he decided she couldn't handle knowing, t
 ## 7. AZRAEL / "TRISTAN"
 
 ### True Identity
-Azrael — one of the strongest angels. Earth alias "Tristan" assigned by God at the end of Ch.2. Use "Tristan" in all human-facing scenes; "Azrael" in divine-only contexts.
+Azrael — one of the strongest angels. Earth alias "Tristan" assigned by God at the end of "Breach". Use "Tristan" in all human-facing scenes; "Azrael" in divine-only contexts.
 
 ### Origin & Wound
 Before the Fall, Azrael tended and loved the Garden of Eden. God purified Eden and relocated it to Heaven after the Fall — still exists, but permanently out of Azrael's reach. Azrael was left behind to watch over humanity. God compensated by making him strong enough to absorb the full pain of every human death (so they can pass in peace) without being destroyed by it — each death registers as a "flick." He tends this unglamorous, invisible mercy every day with no credit and no relief.
@@ -220,7 +220,7 @@ Resents Lucifer because Lucifer's gift set off the chain that cost him his garde
 - Forgiveness fully lands at the climax when Wrath fires: watching Lucifer act from genuine love rather than duty is the thing that finally cracks it open.
 
 ### Formal Role
-Earth-side evaluator and enforcer. Accompanies Lucifer as divine chaperone (Ch.2). Conducts formal bond evaluation (Ch.12). Oversees Full Bond formation (Ch.15 — where Elizabeth also learns "Tristan" is Azrael, told by Lucifer as part of full disclosure).
+Earth-side evaluator and enforcer. Accompanies Lucifer as divine chaperone ("Breach"). Conducts formal bond evaluation ("Dress"). Oversees Full Bond formation ("Ready" — where Elizabeth also learns "Tristan" is Azrael, told by Lucifer as part of full disclosure).
 
 ---
 
@@ -232,7 +232,7 @@ Human. A shallow ex-girlfriend — deliberately without interior depth. Want and
 ### The Central Delusion
 She concludes that Lucifer must still love her, simply using Elizabeth as a substitute because he can't have the real thing. This premise is entirely wrong. The moment she accused him, Love severed — and what it left behind is active hatred. Her whole scheme runs on information that stopped being true the instant it started.
 
-### The Escape (Ch.2)
+### The Escape ("Breach")
 She breaks out specifically to find Lucifer, still in love with him. The instant she exits her cell, she's automatically routed to Earth. She arrives in town, sees him with Elizabeth, and decides to remove the obstacle.
 
 ### Language
@@ -274,7 +274,7 @@ Elizabeth's best friend. She and Sam are dating. She eases Sam's protectiveness,
 
 ## 11. JACK & CLAIRE
 
-A couple, newly engaged (he proposed during the picnic scene in Ch.4 — Lucifer replaced the ring). They know "the gist" of Lucifer's life and that he and Azrael are divine. Claire was previously referred to as "Eden" in early drafts — she is Claire throughout. **Power Bond holders** — they know he is divine (satisfying the Power Bond disclosure condition) and are ongoing companions.
+A couple, newly engaged (he proposed during the picnic scene in "Arrival" — Lucifer replaced the ring). They know "the gist" of Lucifer's life and that he and Azrael are divine. Claire was previously referred to as "Eden" in early drafts — she is Claire throughout. **Power Bond holders** — they know he is divine (satisfying the Power Bond disclosure condition) and are ongoing companions.
 
 *Note: Do NOT confuse Claire with "Eden" the Garden — those are entirely separate references.*
 
@@ -303,19 +303,19 @@ She carries a direct telepathic bond to Lucifer that she uses only when absolute
 
 **Origin:** Created as Adam's first wife — a test of love before Eve. Adam rejected her. Eve replaced her in the world's story, and Eve's sin set everything that followed in motion. Her hatred of Eve is ancient, personal, and entirely justified — consistent with the universal rule that no character in this cast forgives Eve.
 
-**In this book:** Referenced in Ch.2 (Lucifer assigns her as regent), mentioned in Ch.10 (Hell straining under her management), and present at the very end when she contacts Lucifer about a new Hell crisis — the sequel hook. She never appears on Earth and does not interact with any human character.
+**In this book:** Referenced in "Breach" (Lucifer assigns her as regent), mentioned in "Dinner" (Hell straining under her management), and present at the very end when she contacts Lucifer about a new Hell crisis — the sequel hook. She never appears on Earth and does not interact with any human character.
 
 ---
 
 ## 13. VINCENT
 
-A Travel Bond acquaintance from Lucifer's town network. Named and activated in Ch.63 when the group needs a TB person to accompany them to meet Eve.
+A Travel Bond acquaintance from Lucifer's town network. Named and activated in "Plan" when the group needs a TB person to accompany them to meet Eve.
 
 **Who he is:** An older man who has lived in town his whole life. Everyone in town knows him and he knows everyone. He met Lucifer in the barbershop during the second week of Lucifer's arrival — Travel Bond formed through an ordinary conversation. He is a smart man who works out every morning. He was bullied at school and took up self-defence as a result — he now teaches it to kids in town.
 
 **His history:** His family is either in prison or dead because of a tragedy in his childhood — a fire started by his aunt. He was the only survivor. He lost touch with his friends afterward and has since chosen to live his life as fully as he can. He has no one left who is close to him.
 
-**Why he is chosen:** He is willing to agree to Lucifer's request without hesitation. He can hold his own physically. He has no one alive who would be put at risk by his involvement or who would grieve him specifically. That last detail is stated plainly in Ch.63 and not dwelled upon — it is simply the practical reason he is the right choice. He is not expendable — he is just free in a way the others aren't.
+**Why he is chosen:** He is willing to agree to Lucifer's request without hesitation. He can hold his own physically. He has no one alive who would be put at risk by his involvement or who would grieve him specifically. That last detail is stated plainly in "Plan" and not dwelled upon — it is simply the practical reason he is the right choice. He is not expendable — he is just free in a way the others aren't.
 
 He is not a major character but he is a real person. Writers should treat him with dignity.
 
@@ -340,9 +340,9 @@ The only moment neither of them retreats. It works because the usual reasons to 
 - Not powered by grand romantic gestures
 - The excitement is in the closeness itself — proximity, honesty, the moment before and the moment after
 
-**Resolved:** Sophie's **Power Bond** forms in Ch.19 — right after Elizabeth runs upstairs. Tristan grants the initial Travel Bond, then Lucifer's disclosure of his divine nature immediately upgrades it to Power Bond. She knows what they are (divine beings) but not who specifically (not that he is Lucifer).
+**Resolved:** Sophie's **Power Bond** forms in "Door" — right after Elizabeth runs upstairs. Tristan grants the initial Travel Bond, then Lucifer's disclosure of his divine nature immediately upgrades it to Power Bond. She knows what they are (divine beings) but not who specifically (not that he is Lucifer).
 
-*The painting moves to Elizabeth's room in Ch.25 — Sophie picks it up during the karaoke recap and they hang it together. Resolved.*
+*The painting moves to Elizabeth's room in "Dots" — Sophie picks it up during the karaoke recap and they hang it together. Resolved.*
 
 | Ch | Title | POV | Section Job |
 |----|-------|-----|-------------|
@@ -444,7 +444,7 @@ After Lucifer leaves, Elizabeth begins to create — painting, or whatever form 
 
 ## 18. EVE'S POV CHAPTER — ACT THREE OPENER
 
-A short chapter in Eve's POV, placed as the first scene of Act Three — Ch.35. Structurally similar to Ch.1 — brief, grounding, establishes a perspective before the plot needs it. Uses a memoir-esque voice directed at the reader. See Style Guide Section 9 for full voice instructions.
+A short chapter in Eve's POV, placed as the first scene of Act Three — "Watcher". Structurally similar to "Morning" — brief, grounding, establishes a perspective before the plot needs it. Uses a memoir-esque voice directed at the reader. See Style Guide Section 9 for full voice instructions.
 
 ---
 

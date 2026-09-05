@@ -14,7 +14,7 @@
 
 ## ROLE & RELATIONSHIPS
 
-Elizabeth's best friend — close enough to be a genuine confidante. Recurring presence throughout the book, not limited to her Ch.5 introduction.
+Elizabeth's best friend — close enough to be a genuine confidante. Recurring presence throughout the book, not limited to her "Sighting" introduction.
 
 She and Sam are dating. Both care deeply about Elizabeth. Sophie uses her pull on Sam — she has a calming effect on him — to help ease his protectiveness, which in turn creates more space for Elizabeth's relationship with Lucifer to breathe. Her motivations are genuine but also quietly self-serving in the most human way possible: she wants what's best for Liz, and it happens to also be what's best for her.
 
@@ -24,7 +24,7 @@ She and Sam are dating. Both care deeply about Elizabeth. Sophie uses her pull o
 
 ## KNOWLEDGE & BOND
 
-**Power Bond** with Lucifer from Ch.19. She knows what they are (divine beings) but not who — not that he is specifically Lucifer. Initial Travel Bond granted by Tristan in Ch.19, immediately upgraded to Power Bond when Lucifer discloses his divine nature to Sam and Sophie at the door.
+**Power Bond** with Lucifer from "Door". She knows what they are (divine beings) but not who — not that he is specifically Lucifer. Initial Travel Bond granted by Tristan in "Door", immediately upgraded to Power Bond when Lucifer discloses his divine nature to Sam and Sophie at the door.
 
 ---
 

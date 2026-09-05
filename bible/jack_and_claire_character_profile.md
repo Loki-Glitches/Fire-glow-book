@@ -6,11 +6,11 @@
 
 ## FUNCTION IN THE STORY
 
-Local guides who help Lucifer and Azrael ("Adrian" and "Tristan") navigate the town starting in Ch.4. Not one-off helpers — they become Lucifer's ongoing travel companions, recurring throughout the book rather than fading out after their introduction.
+Local guides who help Lucifer and Azrael ("Adrian" and "Tristan") navigate the town starting in "Arrival". Not one-off helpers — they become Lucifer's ongoing travel companions, recurring throughout the book rather than fading out after their introduction.
 
 ---
 
-## HOW THEY MEET (Ch.4)
+## HOW THEY MEET ("Arrival")
 
 Lucifer and Azrael arrive on Earth and come across James and Claire mid-picnic. They get to know each other through the encounter — friendship forms naturally, which creates a **Travel Bond**. At the end of the chapter James and Claire ask why they are here. Lucifer explains he is divine and his mission (looking for someone). This disclosure immediately upgrades both to **Power Bond**, which is what permits the small Hell conjuring used to replace James's ring. As thanks, the couple offers to help find Elizabeth.
 
@@ -28,7 +28,7 @@ They know "the gist" of Lucifer's life, and that he and Azrael ("the brothers," 
 
 ## BOND TIERS — FOR REFERENCE
 **Travel Bond:** Genuine friendship — the person knows his personality and small details. No divine disclosure required. No power.
-**Power Bond:** Lucifer explains he is divine AND his mission on Earth. Unlocks superstrength and small Hell conjuring. James and Claire hold Power Bonds from Ch.4.
+**Power Bond:** Lucifer explains he is divine AND his mission on Earth. Unlocks superstrength and small Hell conjuring. James and Claire hold Power Bonds from "Arrival".
 **Full Anchor:** Full disclosure, all five conditions. Full transfiguration.
 
 ---

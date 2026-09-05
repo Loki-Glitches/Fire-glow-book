@@ -12,7 +12,8 @@
 All agents MUST treat these documents as canonical:
 
 - **Story Bible:** `bible/story-bible.md` — world, characters, timeline, themes
-- **Unit Plans:** `bible/unit-plans.md` — per-unit targets and constraints (chapters, scenes, episodes, etc.)
+- **Manuscript Order:** `bible/manuscript-order.md` — the ONLY source of truth for chapter sequence. Chapters are identified by title, never by number — no filename, cross-reference, or note may use a chapter number. Read this before resolving any chapter's neighbors (Window Rule) or doing a sequential read.
+- **Unit Plans:** `bible/unit-plans.md` — per-unit targets and constraints (chapters, scenes, episodes, etc.), organized by title per the Manuscript Order above
 - **Style Guide:** `bible/style-guide.md` — voice samples, sentence rhythm, POV/perspective rules
 - **Soul:** `.claude/agents/soul.md` — project voice, identity, and non-negotiable values
 - **Synthesis:** `notes/synthesis-current.md` — living summary of every locked decision, chapter status, and open thread. **Read this first in any new session** — it's the fast path to full context without re-reading every note file or the whole prior conversation.
@@ -45,17 +46,9 @@ Each writer receives:
 ### File Ownership
 | Path              | Who Writes         | Who Reads                              |
 | ----------------- | ------------------ | -------------------------------------- |
-| `units/unitNN.md` | Unit N writer only | Director, Continuity, adjacent writers |
+| `chapters/<title>.md` | That chapter's writer only | Director, Continuity, adjacent writers |
 | `notes/*`         | Any agent          | Any agent                              |
 | `bible/*`         | Director only      | All agents                             |
-
-<!--
-Rename the `units/` directory and file naming convention to match your format:
-- Novel: `chapters/ch01.md`
-- Screenplay: `scenes/sc01.md`
-- Audio Drama: `episodes/ep01.md`
-- Podcast: `episodes/ep01.md`
--->
 
 ## Writing Rules
 

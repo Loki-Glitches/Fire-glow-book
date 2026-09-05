@@ -15,6 +15,7 @@ Read completely:
 2. `bible/story-bible.md` (or equivalent) — characters, timeline, world details, relationships
 3. `bible/chapter-plans.md` or `bible/episode-plans.md` — per-unit arc deposits and what-shouldn't-happen lists
 4. `bible/style-guide.md` — voice calibration for each POV character, format rules
+5. **If the project identifies units by title rather than number, read its order manifest first** (e.g. `bible/manuscript-order.md`) — that file's own top-to-bottom list is the ONLY correct reading order. Walk units in that order. Never infer sequence from filenames, alphabetical order, or any number — a title-based project (like Beneath the Fire's Glow) has deliberately removed numbers from filenames specifically so nothing infers order that way.
 
 These documents define what "correct" looks like for this project. Your job is to find deviations.
 

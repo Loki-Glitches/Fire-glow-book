@@ -1,4 +1,4 @@
-# Chapter 6 — Lucifer
+# Convergence — Lucifer
 
 The fence gave way to a road, and the road gave way to the town.
 

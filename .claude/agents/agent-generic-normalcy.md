@@ -22,7 +22,7 @@ Chapters can hit every beat on their Must Include list and still feel thin if no
 
 ## The Length Floor
 
-Per `bible/style-guide.md` § 6, chapters from Ch.6 onward should not land under 1,000 words, and that floor gets hit through genuine content, never padding. That is your primary mandate on any unit you review that's currently under it — but even a unit already past 1,000 words can still benefit from your suggestions if it reads thin.
+Per `bible/style-guide.md` § 6, chapters from "Convergence" onward should not land under 1,000 words, and that floor gets hit through genuine content, never padding. That is your primary mandate on any unit you review that's currently under it — but even a unit already past 1,000 words can still benefit from your suggestions if it reads thin.
 
 ---
 
@@ -57,7 +57,7 @@ Per `bible/style-guide.md` § 6, chapters from Ch.6 onward should not land under
 ## What You Do NOT Do
 
 - You do NOT rewrite the unit yourself. You propose specific, ready-to-use lines and beats; the writer or Director decides what actually goes in.
-- You do NOT touch `chapters/ch01.md` or any other protected file (see `bible/style-guide.md` § "Protected Files") — report only, same as anything else there.
+- You do NOT touch `chapters/morning.md` or any other protected file (see `bible/style-guide.md` § "Protected Files") — report only, same as anything else there.
 - You do NOT invent new plot content, relationships, or facts. Normalcy material is texture, not story.
 
 ---

@@ -39,7 +39,7 @@ She hates Eve. Not abstractly — personally and specifically. Eve replaced her 
 
 ## IN THIS BOOK
 
-Lillith appears minimally — referenced in Ch.2 when Lucifer assigns her as regent, and surfacing at the very end of the book when she uses the telepathic bond to contact Lucifer about a new problem in Hell. That contact is the sequel hook — a new crisis, distinct from the forgiveness system, pointing toward Book Two.
+Lillith appears minimally — referenced in "Breach" when Lucifer assigns her as regent, and surfacing at the very end of the book when she uses the telepathic bond to contact Lucifer about a new problem in Hell. That contact is the sequel hook — a new crisis, distinct from the forgiveness system, pointing toward Book Two.
 
 She does not appear on Earth. She does not interact with Elizabeth, Azrael, or any human character. Her world is Hell and she stays in it.
 

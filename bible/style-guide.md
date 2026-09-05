@@ -6,7 +6,7 @@
 
 ## PROTECTED FILES — read this before anything else below
 
-**`chapters/ch01.md` may not be edited by any agent — Director included — without the author's explicit approval first, given in the moment, for that specific edit.** This is the author's own hand-written draft (see `notes/author-questions.md`, 2026-09-02) and stays locked regardless of what the unit plan, continuity checks, or any other agent's findings say. If a review agent finds something in Ch.1 worth changing, it gets reported to `notes/author-questions.md` like any other flagged issue — never implemented directly, and never assigned to a writer instance without the author signing off first.
+**`chapters/morning.md` may not be edited by any agent — Director included — without the author's explicit approval first, given in the moment, for that specific edit.** This is the author's own hand-written draft (see `notes/author-questions.md`, 2026-09-02) and stays locked regardless of what the unit plan, continuity checks, or any other agent's findings say. If a review agent finds something in "Morning" worth changing, it gets reported to `notes/author-questions.md` like any other flagged issue — never implemented directly, and never assigned to a writer instance without the author signing off first.
 
 ---
 
@@ -73,7 +73,7 @@ Third person limited, tight to him.
 
 **No banter with Azrael before Calm unlocks.** This includes their scenes together specifically — it's tempting to write their friction as witty back-and-forth, but trading dry comebacks is a form of engagement, and he doesn't have that to give yet. He asks what he needs to, pushes back at most once, and disengages rather than sparring — brooding and annoyed, not playful. Azrael's own annoyance at this is real and can show physically (a tightened jaw, a flattened voice) but stays unremarked on by both of them; he doesn't call it out, and Lucifer doesn't acknowledge causing it. Once Calm unlocks, real back-and-forth between them can start to show up — this restriction is Act One/early Act Two only.
 
-**Interiority during report/briefing scenes (e.g., Sebastian's ledger updates):** When a scene leans on dialogue to convey Hell's mechanics (rotations, capacity, cycles), thread in short, plain internal-context lines from Lucifer rather than leaving it as pure exposition-via-dialogue — one clipped sentence translating the stakes, not a paragraph. Keep it factual and unemotional, never a feeling. See Ch.2 for the pattern.
+**Interiority during report/briefing scenes (e.g., Sebastian's ledger updates):** When a scene leans on dialogue to convey Hell's mechanics (rotations, capacity, cycles), thread in short, plain internal-context lines from Lucifer rather than leaving it as pure exposition-via-dialogue — one clipped sentence translating the stakes, not a paragraph. Keep it factual and unemotional, never a feeling. See "Breach" for the pattern.
 
 **Mid Act Two onward:** The stone begins to crack. He pauses where he didn't before. He notices things for their own sake. He lingers. As Joy unlocks he becomes visibly less guarded — the laughter, the singing, the sidewalk dancing are not out of character, they are the character returning to himself. He may describe a scene or explain what he sees — someone rediscovering the capacity to find things worth describing. Let this feel like a weight being set down, not a personality transplant.
 
@@ -101,7 +101,7 @@ The reader tracks speakers through voice, rhythm, and natural alternation. If th
 **Right:** *"I don't know what you mean." She set her coffee down without looking at him.*
 **Also right:** *"I don't know what you mean."* — no tag, no action, if the speaker is clear from context.
 
-**Author exception (Ch.5):** A bare dialogue-verb tag (*retorted*, *joked*, *giggled*, *laughed*) is allowed on its own when the author is using the verb to carry tone, not just attribution, in a fast, busy exchange where speaker tracking got genuinely lost. Use sparingly — this is a deliberate authorial choice, not a default to reach for.
+**Author exception ("Sighting"):** A bare dialogue-verb tag (*retorted*, *joked*, *giggled*, *laughed*) is allowed on its own when the author is using the verb to carry tone, not just attribution, in a fast, busy exchange where speaker tracking got genuinely lost. Use sparingly — this is a deliberate authorial choice, not a default to reach for.
 
 ### Comma vs. Question Mark Before a Tag (locked 2026-09-04)
 When a dialogue tag attaches to (or interrupts) a quoted clause, the mark right before the closing quotation mark depends on that clause's own grammatical mood — not on whether more dialogue follows afterward:
@@ -131,10 +131,10 @@ Here nothing tells the reader whether the second and third lines are the same tw
 > "Not today."
 > "Fine." She turned to include Tristan. "So what do I actually need to do."
 
-This is stricter than the general Attribution Hard Rule above specifically because 3+ scenes are where this project has actually lost readers (Ch.4's four-person picnic scene, Ch.5's bakery scene) — two-person scenes don't have this failure mode since there's only ever one alternative speaker.
+This is stricter than the general Attribution Hard Rule above specifically because 3+ scenes are where this project has actually lost readers ("Arrival"'s four-person picnic scene, "Sighting"'s bakery scene) — two-person scenes don't have this failure mode since there's only ever one alternative speaker.
 
 ### Characters Are Always Doing Something
-Default to giving dialogue a physical action beat — cooking, eating, gesturing, moving through the room — rather than trading bare lines back and forth with nothing happening around them. This isn't about attribution (a beat can sit next to dialogue whose speaker is already obvious); it's about keeping scenes physically alive. "Also right" above (a tagless, action-free line) should be the exception used for rhythm or pacing, not the default across a whole exchange. See Ch.3's breakfast scene for the pattern — characters are eating, cooking, and gesturing with silverware through nearly the entire conversation.
+Default to giving dialogue a physical action beat — cooking, eating, gesturing, moving through the room — rather than trading bare lines back and forth with nothing happening around them. This isn't about attribution (a beat can sit next to dialogue whose speaker is already obvious); it's about keeping scenes physically alive. "Also right" above (a tagless, action-free line) should be the exception used for rhythm or pacing, not the default across a whole exchange. See "Routine"'s breakfast scene for the pattern — characters are eating, cooking, and gesturing with silverware through nearly the entire conversation.
 
 - Nobody explains themselves fully. Characters say what they mean but not always why.
 - Lucifer does not do small talk. When he asks a question, it means something. Do not let him fill silence with nothing. **But if someone else asks him something directly, he answers** — briefly, factually, without warmth pre-Calm — for anyone, not just Elizabeth (see § 4 Exception 1 for her specifically). He never initiates; he's never evasive when addressed. This is a normalcy lever writers can use: other characters (James, Claire, Azrael, town extras) can ask him things during ordinary scenes and get a real, if short, answer.
@@ -143,7 +143,7 @@ Default to giving dialogue a physical action beat — cooking, eating, gesturing
 - **Eve:** Sounds like a clingy ex-girlfriend who does not fully read the room. She misses social cues, gets confused easily, gets frustrated easily. She is never suave or overly confident — she is someone who genuinely does not understand why things aren't going the way she expected. Her frustration is real and slightly bewildering to be around.
 
 ### Divine & Telepathic Speech — Formatting
-Non-audible speech — God's voice, and any telepathic bond traffic (Lucifer↔Lillith, Lucifer↔Azrael) — is set in *italics, without quotation marks*, to mark it as heard rather than spoken aloud. Standard quotation marks are reserved for speech that actually makes sound. Locked as of Ch.2; apply consistently to all future telepathic/divine exchanges (Ch.14, Ch.24, Ch.26, Ch.31, and any others).
+Non-audible speech — God's voice, and any telepathic bond traffic (Lucifer↔Lillith, Lucifer↔Azrael) — is set in *italics, without quotation marks*, to mark it as heard rather than spoken aloud. Standard quotation marks are reserved for speech that actually makes sound. Locked as of "Breach"; apply consistently to all future telepathic/divine exchanges ("Class", "Ring", "Rose", "Truth", and any others).
 
 ### What Characters Do NOT Do
 - Speechify about themes (forgiveness, love, redemption)
@@ -181,7 +181,7 @@ Lucifer's emotional recovery must be invisible before it is undeniable. The read
 
 **2. The changes must be invisible in the moment.** The reader should not be able to determine that Lucifer is changing without actually stopping to think about it. No scene should announce itself as a turning point. The shift should only become clear in retrospect — when the reader looks back and realizes he's been different for a while without knowing when it started. Resist every urge to signal or underline the change.
 
-**3. The unlocks are not smooth.** Each emotion does not get a clean runway to arrive. There are bumps — moments where something almost surfaces and then doesn't, where he retreats back into the stone cold version of himself, where a setback makes the next unlock harder to reach. The repair arc (Ch.17–23) is the clearest example, but this principle applies throughout. Emotion returning is not a straight line. It is uneven, interrupted, and occasionally goes backward before it goes forward.
+**3. The unlocks are not smooth.** Each emotion does not get a clean runway to arrive. There are bumps — moments where something almost surfaces and then doesn't, where he retreats back into the stone cold version of himself, where a setback makes the next unlock harder to reach. The repair arc ("Aftermath" through "Karaoke") is the clearest example, but this principle applies throughout. Emotion returning is not a straight line. It is uneven, interrupted, and occasionally goes backward before it goes forward.
 
 **Numbness phase:** He is efficient and unremarkable. Not cold — just empty. There is nothing wrong with him. That's the problem.
 
@@ -206,7 +206,7 @@ Lucifer's emotional recovery must be invisible before it is undeniable. The read
 - Do not cut or compress a beat the unit plan calls for just to keep a chapter short or "tight" — tightness is a prose-craft goal (see the no-overwritten-posture/action and no-similes rules above), not a length goal.
 - When revising for craft reasons and the chapter's word count changes a lot as a result, that's fine — the change should be explainable by what content was added or cut, never by a length target being chased.
 
-**Floor, Ch.6 onward:** Chapters 1–5 covered the introduction stage and are exempt — Ch.1, Ch.3, Ch.5, and Ch.6 as originally published are all under 1,000 words on purpose and stay that way (Ch.1 is also protected, see above). Starting with Ch.6's next revision and every chapter after it, **no chapter should land under 1,000 words.** The floor gets hit through genuine content — small talk, normalcy, and action beats that make a scene feel lived-in (see § 11, "Filling Simple Scenes," and the Normalcy Agent) or, in scenes where a POV character isn't allowed small talk yet, through world/sensory/procedural texture instead — never through padding for its own sake. If a scene still can't clear 1,000 words with only genuine content, flag it to the Director rather than padding it.
+**Floor, "Convergence" onward:** Chapters 1–5 covered the introduction stage and are exempt — "Morning", "Routine", "Sighting", and "Convergence" as originally published are all under 1,000 words on purpose and stay that way ("Morning" is also protected, see above). Starting with "Convergence"'s next revision and every chapter after it, **no chapter should land under 1,000 words.** The floor gets hit through genuine content — small talk, normalcy, and action beats that make a scene feel lived-in (see § 11, "Filling Simple Scenes," and the Normalcy Agent) or, in scenes where a POV character isn't allowed small talk yet, through world/sensory/procedural texture instead — never through padding for its own sake. If a scene still can't clear 1,000 words with only genuine content, flag it to the Director rather than padding it.
 
 ### Act One
 Let Elizabeth's world breathe. Her ordinary life is not setup — it is the thing worth protecting. The reader must love it before Eve threatens it.
@@ -219,7 +219,7 @@ The relationship moves in increments. A single unguarded question is a scene. A 
 By mid Act Two, Lucifer's prose should be noticeably warming — he is enjoying Earth again. This is not a subtle flicker anymore; it is becoming visible and real.
 
 ### Acts One & Two — Eve
-Eve is not on Earth at all during Act One or Act Two — she escaped Hell in Ch.2, but the "up" she was routed through does not put her on Earth immediately. Her arrival is Ch.35, the Act Three opener (see `bible/unit-plans.md`), where she steps through a portal unseen. Do not place her on Earth, however passively, any earlier than that, and do not manufacture tension from her direction before then. Once she arrives she still has not located Lucifer or Elizabeth — actively finding and confronting them is later Act Three content.
+Eve is not on Earth at all during Act One or Act Two — she escaped Hell in "Breach", but the "up" she was routed through does not put her on Earth immediately. Her arrival is "Watcher", the Act Three opener (see `bible/unit-plans.md`), where she steps through a portal unseen. Do not place her on Earth, however passively, any earlier than that, and do not manufacture tension from her direction before then. Once she arrives she still has not located Lucifer or Elizabeth — actively finding and confronting them is later Act Three content.
 
 ### Act Three
 Escalating pressure from Eve's arrival. Her presence makes existing scenes more brittle. The trap, the fight, and the departure should feel like they were always going to happen this way.
@@ -284,9 +284,9 @@ Don't soften or complicate a plain statement with a hedging comparison — "he p
 **Wrong:** *She watched him settle into the step — like a man choosing a position and then not moving from it for an hour.*
 **Right:** *She watched him settle into the step — one position, chosen once, held for the rest of the hour without adjustment.*
 
-**Historical note:** this rule used to allow a simile through if it passed two tests (no word/root reused between the two halves of the comparison, and not simply obvious or cliché) — those tests are retired as of this decision, not because they were wrong, but because in practice writers kept reaching for similes that technically passed both tests and still needed cutting on sight (several were caught and cut from Ch.11's first draft even after passing the old tests). The simpler standing rule now: no similes in narration, full stop. If a comparison feels necessary to land an image, that's a signal to find the plain, direct statement of the fact instead.
+**Historical note:** this rule used to allow a simile through if it passed two tests (no word/root reused between the two halves of the comparison, and not simply obvious or cliché) — those tests are retired as of this decision, not because they were wrong, but because in practice writers kept reaching for similes that technically passed both tests and still needed cutting on sight (several were caught and cut from "Roof"'s first draft even after passing the old tests). The simpler standing rule now: no similes in narration, full stop. If a comparison feels necessary to land an image, that's a signal to find the plain, direct statement of the fact instead.
 
-**Retroactive cleanup, author-scheduled:** existing similes already published in Ch.1–11 are NOT being swept now. Author's decision (2026-09-05): a full-manuscript simile sweep happens once at the very end, when the book is done — the same timing as the Proofreader's own once-at-the-end pass (see `notes/synthesis-current.md` § 0). Don't spend effort retrofitting old chapters against this rule chapter-by-chapter; just stop introducing new ones.
+**Retroactive cleanup, author-scheduled:** existing similes already published in "Morning" through "Roof" are NOT being swept now. Author's decision (2026-09-05): a full-manuscript simile sweep happens once at the very end, when the book is done — the same timing as the Proofreader's own once-at-the-end pass (see `notes/synthesis-current.md` § 0). Don't spend effort retrofitting old chapters against this rule chapter-by-chapter; just stop introducing new ones.
 
 ### The Divine Language — Once Only, Climax Only
 Eve speaks modern English throughout the book — taught by Lillith during her imprisonment. At the climax she uses the divine language exactly once: one line, either her first or her last to Lucifer. It is a deliberate weapon, not a communication need. The language of Genesis, of before everything went wrong, reaches him in a way English cannot. He shifts.
@@ -321,7 +321,7 @@ The excitement is in the closeness — proximity, the moment before, the moment 
 **The goodbye kiss:**
 The one scene neither retreats from. Write it simply. It has been earned by everything before it — do not overwrite it. The size of the moment lives in what the reader has been watching fail to happen for the entire book. Let that do the work.
 
-- Elizabeth has a bump on her forehead in Ch.1 — from the alarm clock fall. Physical continuity through early chapters.
+- Elizabeth has a bump on her forehead in "Morning" — from the alarm clock fall. Physical continuity through early chapters.
 - Lucifer's ring: band with inscription *"Cursed by love's cruel decree, forced to bear the weight for an eternity."* Present throughout.
 - Earth aliases: **Adrian** (Lucifer), **Tristan** (Azrael). Used in all human-facing scenes without exception.
 - Claire ≠ Eden. Claire is the character. Eden is the Garden. Never confuse them.

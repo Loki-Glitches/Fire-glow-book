@@ -52,7 +52,7 @@ He is, in his own right, a warden — of death, the way Lucifer is warden of sin
 
 **The bonds he doesn't understand:** Lucifer forms numerous Travel Bonds with humans on Earth (Eden, James, and others) — low-oversight connections he can initiate without requiring Azrael's direct evaluation. Azrael is genuinely, professionally skeptical of this pattern: every bond is a fresh risk to the secrecy mandate he's personally responsible for upholding, and he doesn't understand why Lucifer keeps forming so many. What he doesn't realize is that Lucifer is doing this *deliberately* — specifically so Azrael isn't pulled away from his real work (absorbing the pain of every human death) to personally oversee each one. What reads to Azrael as recklessness is, in fact, an unacknowledged kindness aimed squarely at protecting his time. **Resolved:** Azrael does learn the real reason — but not through a planned confession. At some point he reaches a breaking point and confronts Lucifer directly, frustrated that he seems to be treating the bonds casually or joking around about something Azrael takes seriously. Lucifer tells him then, matter-of-factly, as a response to being called out rather than as a grand gesture. He wasn't keeping it secret to be modest — he just never thought it needed saying. This revelation softens Azrael gradually in the lead-up to the climax, but Wrath remains the final trigger for full forgiveness.
 
-**Standing craft rule (locked 2026-09-04): Tristan challenges every one of Lucifer's bonds, every time they are truly alone together — no exceptions, not just a periodic beat.** "Alone" includes telepathically, even with humans physically present, since the bond channel is silent and no one else hears it (per the Divine & Telepathic Speech formatting rule) — challenge him telepathically whenever a human is around and the objection needs to happen in real time, and aloud only when no human is present at all. This is a recurring texture beat, not a one-time confrontation building toward the "breaking point" scene above — that scene is where it finally boils over into something bigger, but the day-to-day skepticism should be visible well before that, starting with Elizabeth's Travel Bond in Ch.8.
+**Standing craft rule (locked 2026-09-04): Tristan challenges every one of Lucifer's bonds, every time they are truly alone together — no exceptions, not just a periodic beat.** "Alone" includes telepathically, even with humans physically present, since the bond channel is silent and no one else hears it (per the Divine & Telepathic Speech formatting rule) — challenge him telepathically whenever a human is around and the objection needs to happen in real time, and aloud only when no human is present at all. This is a recurring texture beat, not a one-time confrontation building toward the "breaking point" scene above — that scene is where it finally boils over into something bigger, but the day-to-day skepticism should be visible well before that, starting with Elizabeth's Travel Bond in "Park".
 
 **The turning point:** Azrael has to find it in himself to forgive Lucifer by accepting that Lucifer never knew what the gift would cost — extending, personally and emotionally, the grace the cosmology already grants him structurally ("not a rebel"). This is the moment Azrael's wall comes down, mirrored against Lucifer's own walls coming down with Elizabeth.
 
@@ -65,21 +65,21 @@ He is, in his own right, a warden — of death, the way Lucifer is warden of sin
 ## FORMAL ROLE (per bible, now understood as one being)
 
 - Earth-side evaluator and enforcer of tether safety.
-- Never leaves Earth — his death-duty (see Origin) is constant and universal, so he cannot travel to Hell even briefly. He does not accompany Lucifer there or back; he is assigned as chaperone by God's decree while Lucifer is still in Hell (Ch.2) and is simply already waiting in the apple orchard when Lucifer lands (Ch.4).
-- Receives the "Tristan" alias from God at the end of Ch.2, in absentia — the assignment reaches him the same way it reaches Lucifer, without him needing to be physically present in Hell.
-- Briefs Lucifer on bond rules in the apple orchard before first human contact (Ch.4).
-- Grants Travel Bond to Elizabeth in Ch.8 after watching Lucifer listen to her in the park.
-- Grants Travel Bonds to Sam and Sophie in Ch.19 (partly out of guilt for the overheard argument).
-- Speaks with Sam and Sophie off-page between Ch.30 and Ch.31 — they convince him the relationship makes both Lucifer and Elizabeth better.
-- Tells Lucifer yes to the Full Bond via telepathy in Ch.31.
-- Full Bond confirmed by transfiguration test in Ch.32.
-- Elizabeth learns "Tristan" is Azrael in Ch.32 during the Q&A — told by Lucifer as part of full disclosure.
+- Never leaves Earth — his death-duty (see Origin) is constant and universal, so he cannot travel to Hell even briefly. He does not accompany Lucifer there or back; he is assigned as chaperone by God's decree while Lucifer is still in Hell ("Breach") and is simply already waiting in the apple orchard when Lucifer lands ("Arrival").
+- Receives the "Tristan" alias from God at the end of "Breach", in absentia — the assignment reaches him the same way it reaches Lucifer, without him needing to be physically present in Hell.
+- Briefs Lucifer on bond rules in the apple orchard before first human contact ("Arrival").
+- Grants Travel Bond to Elizabeth in "Park" after watching Lucifer listen to her in the park.
+- Grants Travel Bonds to Sam and Sophie in "Door" (partly out of guilt for the overheard argument).
+- Speaks with Sam and Sophie off-page between "Stirring" and "Truth" — they convince him the relationship makes both Lucifer and Elizabeth better.
+- Tells Lucifer yes to the Full Bond via telepathy in "Truth".
+- Full Bond confirmed by transfiguration test in "Questions".
+- Elizabeth learns "Tristan" is Azrael in "Questions" during the Q&A — told by Lucifer as part of full disclosure.
 
 ---
 
 ## WHAT THIS CHANGES ABOUT THE STORY
 
 - Every scene where "Tristan" holds institutional power over Lucifer's fate on Earth now carries a private undercurrent: the person evaluating whether Lucifer gets to have this is someone who privately blames him for the worst thing that ever happened to him.
-- His connection to death isn't ornamental — it's a second live engine for the climax, parallel to Lucifer's. Worth remembering when we build Ch.19–21.
+- His connection to death isn't ornamental — it's a second live engine for the climax, parallel to Lucifer's. Worth remembering when we build "Door" through "Amends".
 - He and Lucifer are structurally the same kind of character (unwilling warden, casualty of the Fall) approaching it from opposite emotional directions — one trying to reclaim what he lost, one still raw about what was taken from him.
 - The pain-absorption mechanic makes him an unrecognized mercy-bringer: every peaceful human death is something he quietly paid for, with no credit and no relief. Where Lucifer gave one visible gift and was punished for it publicly, Azrael gives an invisible gift constantly and receives nothing for it — not even acknowledgment. Worth letting this surface late in the book as part of how Elizabeth (and the reader) finally understand him.
