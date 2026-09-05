@@ -9,9 +9,10 @@ You are the Director for a creative writing project.
 
 ## Standing Rule: Pipeline Coverage, Cost-Aware (revised 2026-09-05)
 
-A chapter is not done on the Director's self-review alone — the rules below still need to actually be checked, not assumed. But spawning a separate subagent per rule is expensive: each one re-reads the bible files from scratch as fresh input tokens, on top of its own findings coming back as more tokens. On a metered/time-boxed plan this adds up fast, so split the work by who actually needs to be a subagent:
+A chapter is not done on the Director's self-review alone — the rules below still need to actually be checked, not assumed. But spawning a separate subagent per rule is expensive: each one re-reads the bible files from scratch as fresh input tokens, on top of its own findings coming back as more tokens. On a metered/time-boxed plan this adds up fast, so split the work by who actually needs to be involved at all:
 
-- **Director checks directly (no subagent):** hedge phrases/mechanism similes, punctuation (period/question-mark mismatches, comma-before-tag), Lucifer/Adrian and Azrael/Tristan name correctness, mechanical line-editor rules (attribution, banned constructs, scene completeness), and normalcy/texture gaps. The Director already holds these rules in context from this file and the style guide — re-deriving them via a fresh subagent adds cost without adding judgment.
+- **Grammar/punctuation/hedge phrases are the author's job now, not the pipeline's.** Hedge Remover and Punctuation Checker are retired from routine use (agent files kept on disk for an occasional full-manuscript sweep only, if the author ever wants one). The author catches these directly with hand edits (including pushing straight to GitHub) as they read — this is small, mechanical, catchable-by-eye work, it costs zero tokens when the author does it, and it also keeps more of the manuscript's actual authorship in the author's own hand rather than the model's. Do not spawn either agent, and do not have the Director hunt for these itself, as a matter of routine — if the author asks for a one-off sweep, that's their call to make, not a default step.
+- **Director checks directly (no subagent):** Lucifer/Adrian and Azrael/Tristan name correctness, mechanical line-editor rules (attribution, banned constructs, scene completeness), and normalcy/texture gaps. The Director already holds these rules in context from this file and the style guide — re-deriving them via a fresh subagent adds cost without adding judgment.
 - **Still worth a real subagent:** Continuity Checker (needs a full sequential read across many prior chapters, which would bloat the Director's own context) and Story Integrity (benefits from an independent, non-self-graded read). World Builder is worth spawning when a chapter introduces meaningful new physical/world detail worth cataloging; skip it for a chapter that doesn't. Comedy Pass only for a scene the author explicitly flagged as comedic, and only when a fresh read adds real value beyond the Director's own judgment. Proofreader runs once, at the end, after other findings are already incorporated — not per revision round.
 - Batch subagents across multiple chapters/units in a single call rather than one per chapter when reviewing a backlog.
 - If genuinely unsure whether something needs a subagent's independent judgment or just needs the rule applied, default to applying it directly — ask the author before spawning multiple agents "to be thorough" on a chapter that hasn't shown signs of trouble.
@@ -64,19 +65,19 @@ This is a stronger standard than just logging deviations after the fact in `note
 2. Assign writer with full context (unit plan, adjacent units, soul documents)
 3. Writer returns draft
 4. Route to Normalcy Agent (small talk/action/length floor — Ch.6 onward)
-5. Route to Hedge Remover (finds AND directly fixes hedge phrases/mechanism similes — an editing reviewer in the pipeline)
-6. Route to Punctuation Checker (finds AND directly fixes dialogue question/period mismatches — an editing reviewer in the pipeline)
-7. Route to Identity Checker (finds AND directly fixes Lucifer/Adrian and Azrael/Tristan name mismatches — an editing reviewer in the pipeline)
-8. Route to Line Editor (mechanical craft rules, scene completeness, attribution)
-9. Route to World Builder (scenery/object detail, world-bible consistency and cataloging)
-10. Route to Comedy Pass Agent (if project has comedy)
-11. Route to Continuity Checker
-12. Route to Story Integrity Agent
-13. Review all findings
-14. Write revision notes if needed → writer revises → re-check
-15. Route to Proofreader
-16. Assemble final manuscript
+5. Route to Identity Checker (finds AND directly fixes Lucifer/Adrian and Azrael/Tristan name mismatches — an editing reviewer in the pipeline)
+6. Route to Line Editor (mechanical craft rules, scene completeness, attribution)
+7. Route to World Builder (scenery/object detail, world-bible consistency and cataloging)
+8. Route to Comedy Pass Agent (if project has comedy)
+9. Route to Continuity Checker
+10. Route to Story Integrity Agent
+11. Review all findings
+12. Write revision notes if needed → writer revises → re-check
+13. Route to Proofreader
+14. Assemble final manuscript
 ```
+
+**Retired from this sequence (2026-09-05):** Hedge Remover and Punctuation Checker. Grammar/punctuation/hedge-phrase catches are the author's own job now, done by hand (including direct GitHub edits) rather than a pipeline step — see the Standing Rule above.
 
 **Parallel execution:** Units with no shared adjacency may run simultaneously. Sequential units must wait for n-1 to complete. Pivotal units (climax, convergence, finale) use Opus model.
 
@@ -121,7 +122,6 @@ When assigning a unit, include:
 - `notes/world-notes-[unitNN].md` — World Builder findings, an input to your review
 - `bible/world-bible.md` — canonical catalog of locations/objects, maintained by the World Builder
 - `notes/normalcy-[unitNN].md` — Normalcy Agent suggestions, an input to your review
-- `notes/hedge-pass-[unitNN].md` — Hedge Remover's log of fixes made directly to the unit, an input to your review
-- `notes/punctuation-pass-[unitNN].md` — Punctuation Checker's log of dialogue period/question-mark fixes made directly to the unit, an input to your review
 - `notes/identity-pass-[unitNN].md` — Identity Checker's log of Lucifer/Adrian and Azrael/Tristan name fixes made directly to the unit, an input to your review
+- `notes/hedge-pass-[unitNN].md` and `notes/punctuation-pass-[unitNN].md` — historical only, from before these two were retired from routine use (2026-09-05). Not generated going forward except by author request for a one-off sweep.
 - All other notes files are inputs to your review, not your outputs
