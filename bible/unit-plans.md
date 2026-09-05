@@ -238,16 +238,19 @@
 - Lucifer is visibly shifting — pausing in moments he wouldn't have before, diving deeper into her life rather than her personality. He has her personality down. Now he wants to know more.
 - Elizabeth notices he's been trying to deduce things about her — she registers it internally first, then says it aloud. Not accusatory. Just honest.
 - Lucifer presses her about it — he asks what she means, what she noticed. This is new behavior. He didn't press before. She mentions she found him interesting early on but doesn't go too deep into it.
+- **Elizabeth turns it around on him:** if he gets to dig into her life, she gets a real question back. She asks what he can actually do, now that she knows he's an angel. **He tells her, sincerely — not evasively — that he doesn't have any real power.** (This is true as far as he knows; per `bible/bond_system_reference.md` § Bond Tier Awareness, he has no way of perceiving that a bond has advanced, so this isn't a dodge — he believes it.) She doesn't accept it and keeps pushing: "then what CAN you do?"
+- **He shows her a small amount of strength — not a display, just the fastest way to get her off his back.** Something physically modest (lifts, moves, or otherwise handles something heavy with visibly no effort — a porch object, not a spectacle). **This is his first-ever attempt at using any ability around her, and he genuinely does not know if it'll work** (Bond Tier Awareness) — he doesn't show that uncertainty on his face, but it should be legible to the reader. It works. He treats it as unremarkable and moves on immediately; she's more visibly startled by it than he is.
 - They notice the sunset — she wants to get higher to see it properly
-- Lucifer jumps them both onto the roof without ceremony — casual use of his ability, not strategic, not instrumental. He just gets them somewhere better.
+- Lucifer gets them both up onto the roof — **a second, more casual use of the same strength (a boost/lift/climb-assist, not a "jump" and never flight)** — now that the first attempt already worked, this one is closer to offhand and unstrategic. He just gets them somewhere better.
 - On the roof: Lucifer is mesmerized by the sunset. Elizabeth giggles at his reaction — she's never seen him like this.
 - He rests his head back and closes his eyes. Not sleeping — just relaxed. A slight smile surfaces. She studies him.
 - **CALM UNLOCKS HERE** — shown through the smile, the relaxed stillness, the absence of his usual containment. Do not name it. She sees something different in him and doesn't have a word for it yet. **WRITER RESTRICTION: Elizabeth must not analyze, describe at length, or explicitly note his calmness. One quiet observation — a beat, a look, a single internal note — then she moves on. The less she names it the harder it lands. Trust the image.**
 - They get down from the roof. Goodbyes. Chapter closes.
 
 **Craft notes:**
-- **This is not a new unlock, but it IS genuinely uncertain for him.** Power Bond formed for Elizabeth at the end of Ch.8 (both disclosure conditions were met that chapter — see `bible/bond_system_reference.md` Stage 3), but per that document's Bond Tier Awareness rule, Lucifer has no way of perceiving a bond crossing a threshold — he hasn't tried anything requiring strength around her since, so he genuinely doesn't know it's there. No new disclosure scene is needed (the conditions are already met), but the jump itself should read as a real, uncertain first attempt on his side — not a confident display. He doesn't know the difference between "not yet unlocked" and "unlocked but untested" until he tries.
-- The roof jump is the first time he uses his ability around her. It should feel offhand in his decision to try (he doesn't announce it or brace for it visibly) but should carry real, private uncertainty about whether it'll actually work — resolved the instant it does.
+- **This is not a new unlock, but it IS genuinely uncertain for him — twice, then once.** Power Bond formed for Elizabeth at the end of Ch.8 (both disclosure conditions were met that chapter — see `bible/bond_system_reference.md` Stage 3), but per that document's Bond Tier Awareness rule, Lucifer has no way of perceiving a bond crossing a threshold — he hasn't tried anything requiring strength around her since, so he genuinely doesn't know it's there until Elizabeth's pressing forces the first attempt. No new disclosure scene is needed (the conditions were already met back in Ch.8) — what's needed is his own first test of it, on the page, under pressure he didn't choose.
+- The strength demo (triggered by her pushing) is the real first attempt — private uncertainty on his side, resolved the instant it works, then immediately underplayed. The roof access afterward is the second use, and can be genuinely more offhand since he now knows it's real.
+- **He never uses his wings here, or implies flight of any kind.** Wings are a much later unlock (Ch.68 "Wings" in the outline) — whatever he demonstrates in this chapter, on the ground or getting to the roof, must read as physical strength/leverage only.
 - The smile with eyes closed is the moment. Write it simply. She's studying him and she sees something she hasn't seen before — not warmth, not emotion she can name, just the absence of everything he normally holds in place.
 - Her giggle is her responding to something genuine in him without knowing what it is. She just knows it's different.
 - The goodbye should feel slightly different from previous goodbyes — neither of them names it, but something has shifted and both of them can feel it.
@@ -257,6 +260,8 @@
 - The smile being named or explained
 - Elizabeth understanding what she witnessed
 - Any return to the Eve-tracking framing after this chapter
+- Wings, flight, or anything that reads as flight — strength/leverage only, this chapter and until Ch.68
+- Lucifer showing off, performing, or treating either use of strength as a big moment — both are minimized/underplayed on his side
 
 ---
 
