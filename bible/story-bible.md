@@ -459,7 +459,3 @@ Throughout Act Three, Eve is vaguely noticed by characters from time to time —
 - Eve's actions should feel like bad luck or coincidence to characters who don't know she's there
 - Once Lucifer sees her, the tone shifts — from unease to active threat
 - Eve is dangerous. Do not soften this.
-
----
-
-## 19. DIVINE NATURE — PURITY, TRUTH & THE COMMANDMENT SYSTEM
