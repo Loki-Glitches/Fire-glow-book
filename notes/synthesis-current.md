@@ -139,7 +139,7 @@ The pipeline changed materially on 2026-09-05. A session that still thinks the p
 
 **Ch.68 craft tension (carry this forward to whoever writes it):** the non-kiss was originally designed to devastate specifically because it played out from *outside* Lucifer's head. Now his interiority is directly available to the reader. Preserve the same ambiguity deliberately — show the retreat, not the reasoning behind it. Do not let narration spell out what he's bracing for.
 
-**Ch.17 remains genuinely blocked, not just deferred** — see § 12.1.
+**Ch.17 POV resolved 2026-09-05** — stays Elizabeth POV, no restructuring; see § 12.1 for the closed-out history.
 
 ---
 
@@ -255,7 +255,7 @@ All resolved decisions live in full in `notes/author-questions.md`; this section
 
 - [ ] **Eve-eyes recognition — which chapter?** Not decided beyond "later, once a relationship already exists." *Blocking: no* (not needed until well past Ch.11). Whoever writes the chapter that surfaces this must flag the Director first.
 - [ ] **Porch light Act Three fix — which chapter?** Not decided beyond "Act Three." *Blocking: no* (Act Three doesn't start until Ch.35). Flag the Director before drafting whichever chapter carries it — depends on precise timing and an untouched bulb in every prior chapter.
-- [ ] **Ch.17 POV — genuinely blocked, not just undecided.** Ch.17 is a Sam/Sophie/Elizabeth-only household scene with zero Lucifer presence in its Must Include list. Third-limited POV requires physical presence; switching to Lucifer POV isn't mechanically possible without fabricating his presence (contradicting "keep content the same") or restructuring the chapter. *Blocking: not yet* — Ch.17 is far off, but this is the one POV question that cannot resolve itself the way the others did (a quiet table-sync). It needs an actual author decision: fabricate a reason for his presence, restructure the chapter's content, or accept the run of consecutive-POV imbalance this one chapter causes. Flag before drafting Ch.17 regardless of how much runway remains.
+- [x] **Ch.17 POV — RESOLVED 2026-09-05.** Ch.17 is a Sam/Sophie/Elizabeth-only household scene with zero Lucifer presence in its Must Include list — mechanically impossible to convert to his POV without fabricating his presence or restructuring the chapter. Author confirmed this chapter was never actually part of the POV-rebalancing ask: it stays Elizabeth POV, no content changes, no restructuring. Accepted as the one exception to the broader rebalancing effort. No further flag needed when Ch.17 is eventually drafted.
 - [ ] **Travel Bond range's long-term relevance** — confirmed constant/always-active as of Ch.10, but whether it fades once Lucifer's town-wide network is large is still open. *Blocking: no.* Flag the Director if a later chapter needs that transition stated explicitly.
 - [x] **CLAUDE.md / soul.md unfilled templates** — **partially resolved, worth re-flagging.** `soul.md` has since been fully written (this synthesis read it in full — it is the real, populated project soul document). **`CLAUDE.md` remains the unfilled generic template as of this synthesis** — confirmed by direct read: the Project Overview section still literally reads `**Format:** <!-- Novel | Screenplay | ... -->`, `**Genre:**`, etc., with no project-specific content anywhere in the file. Since a new session's own onboarding instructions (inside `CLAUDE.md` itself) tell it to read `CLAUDE.md` first, a fresh session currently gets zero project-specific orientation from the one document designed to provide it — everything actually useful lives in `bible/story-bible.md`, `bible/style-guide.md`, and this synthesis file instead. *Blocking: no, by original author decision (2026-09-02) — CLAUDE.md is author-only to edit and the project has functioned without it being filled in.* Still worth surfacing again since a full year/many chapters into the project, the gap is now more consequential than it was at the time of the original decision. See § 12.4 for the exact discrepancy.
 - [ ] **`bible/story-bible.md` § 19 ("Divine Nature — Purity, Truth & the Commandment System") is a header with no content underneath it — the file ends immediately after that heading.** See § 12.6. *Blocking: no* — the substantive content this section's title promises (purity/truth mechanics, the commandment system) already exists in full in `bible/lucifer_character_profile.md` § "Divine Purity & Truth" and `bible/tristan_azrael_character_profile.md` § "Permitted Sin — Lying," so nothing is actually missing from the *bible as a whole* — just from this one file's own structure. Worth a cleanup pass (either fill the section in with a cross-reference, or delete the dangling header) but not urgent.
@@ -309,14 +309,13 @@ This section exists because the file-presence pattern in `notes/` is uneven acro
 - Travel Bond range mechanic (constant/active per Ch.10, long-term relevance still open per § 7).
 - Sky-glance precision (uncapped, but each use should be an earned, legible "God's joke" — the Ch.9 instance is the softer precedent to improve on, not repeat).
 
-**Unresolved (needs author decision before proceeding, in priority order for how soon they'll actually bite):**
-1. Ch.10's two remaining Line Editor attribution findings — closest to blocking, since Ch.11 depends on Ch.10 as its n-1 reference (§ 12.8).
-2. The Flat-Delivery Exception contradiction on one specific Ch.9 line (§ 12.5) — cosmetic but genuinely unresolved.
-3. Ch.17's POV — not urgent by chapter count, but the one POV question that needs an actual decision rather than a table sync.
-4. Eve-eyes recognition chapter placement.
-5. Porch light Act Three chapter placement.
-6. Whether a Ch.70+ epilogue for Lillith's sequel hook needs outlining.
-7. `bible/story-bible.md` § 19's empty header and `bible/unit-plans.md`'s Act Three duplication — both cosmetic cleanup, no urgency.
+**Resolved 2026-09-05 (all three closed same day the Synthesis run surfaced them):** Ch.10's two Line Editor attribution findings (fixed directly), the Flat-Delivery Exception contradiction on the Ch.9 "or is that also a version of an answer" line (agent file corrected), and Ch.17's POV (confirmed staying Elizabeth POV, no restructuring — see § 12.1).
+
+**Still unresolved (needs author decision before proceeding, in priority order for how soon they'll actually bite):**
+1. Eve-eyes recognition chapter placement.
+2. Porch light Act Three chapter placement.
+3. Whether a Ch.70+ epilogue for Lillith's sequel hook needs outlining.
+4. `bible/story-bible.md` § 19's empty header and `bible/unit-plans.md`'s Act Three duplication — both cosmetic cleanup, no urgency.
 8. CLAUDE.md remaining an unfilled template — long-standing, non-blocking, but flagged again given how much more consequential the gap now is than when first raised.
 
 ---
@@ -338,8 +337,8 @@ This section exists because the file-presence pattern in `notes/` is uneven acro
 
 *Everything in this section is also cross-referenced from § 7 and § 10 above where it affects a live decision. This section exists as the single consolidated list the Director should relay to the author, per this session's explicit instructions — none of these block Ch.11 in the narrow sense of "the next chapter cannot be written," except where marked.*
 
-### 12.1 Ch.17 POV — the one POV question that isn't self-resolving
-Every other POV rebalancing this session resolved as either "already correct, just sync the table" or "swap it, content unaffected." Ch.17 cannot resolve that way: it has zero Lucifer presence in its Must Include list by design (a Sam/Sophie/Elizabeth household argument while he isn't there). A future session will need one of: an author-approved reason for him to be present after all (changing content), a restructured chapter, or an explicit decision to leave the run of Elizabeth-heavy chapters around Ch.17 as-is. Not urgent by chapter count, but it's the one item on this list that a "just sync the table" pass cannot quietly close.
+### 12.1 Ch.17 POV — RESOLVED 2026-09-05
+Every other POV rebalancing this session resolved as either "already correct, just sync the table" or "swap it, content unaffected." Ch.17 couldn't resolve that way: it has zero Lucifer presence in its Must Include list by design (a Sam/Sophie/Elizabeth household argument while he isn't there) — mechanically impossible to convert without fabricating his presence or restructuring the chapter. **Author confirmed directly: Ch.17 was never actually part of the POV-rebalancing ask.** It stays Elizabeth POV, no content changes, no restructuring — the one accepted exception to the broader rebalancing effort. Nothing further to flag when Ch.17 is eventually drafted.
 
 ### 12.2 Two placement decisions left open since early September, still open
 The Eve-eyes recognition beat and the porch-light Act Three fix were both deliberately left unplaced pending "the right chapter." Neither is remotely due yet (Ch.11 is next; these are Act Two/Three items), but both require the same kind of care when their moment comes — flagging again here only so a future session scanning this document doesn't assume they were quietly decided somewhere in the meantime. They weren't.
