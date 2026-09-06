@@ -29,18 +29,19 @@ This project spans 70+ chapters — don't run the whole book in one continuous c
 
 ## Agent Architecture
 
-### Roles
-- **Director** (`.claude/agents/director.md`): Orchestrates, reviews, assigns revision notes. Does NOT write units.
-- **Writers** (`.claude/agents/agent-generic-writer.md`): Each instance writes ONE assigned unit (chapter, scene, episode, etc.).
+### Roles (cut to a minimal pipeline, 2026-09-05 — author-directed)
+- **Director** (`.claude/agents/agent-generic-director.md`): Orchestrates AND writes chapter prose directly — there is no separate Writer subagent anymore. Also reviews and manages the bible.
 - **Continuity Checker** (`.claude/agents/agent-generic-continuity-checker.md`): Full sequential read, flags drift and seam problems.
-- **Proofreader** (`.claude/agents/agent-generic-proofreader.md`): Fact-checks geography, physics, arithmetic, behavioral consistency.
 - **Story Integrity** (`.claude/agents/agent-generic-story-integrity.md`): Scores fidelity to the project's soul and style guide.
-- **Synthesis** (`.claude/agents/agent-generic-synthesis.md`): Distills per-unit notes into a living summary for all agents.
+- **Proofreader** (`.claude/agents/agent-generic-proofreader.md`): Fact-checks geography, physics, arithmetic, behavioral consistency. Runs once at the end of the manuscript, not per chapter.
+- **Synthesis** (`.claude/agents/agent-generic-synthesis.md`): Distills per-unit notes into a living summary. Run periodically, not per chapter.
+
+**Retired entirely, not just from routine use:** Writer, Normalcy, Identity Checker, Line Editor, World Builder, Tonal Calibration, Hedge Remover, Punctuation Checker. Their agent files remain on disk for reference but are not part of this project's pipeline. See `.claude/agents/agent-generic-director.md`'s Standing Rule for the full explanation.
 
 ### The Window Rule (CRITICAL)
-Each writer receives:
+Still applies to the Director's own drafting, not to a separate writer role:
 - **Unit n-1** (READ ONLY) — preceding unit, for continuity of tone and timeline
-- **Unit n** (READ/WRITE) — the unit they are writing. Their ONLY writable file.
+- **Unit n** (READ/WRITE) — the unit being written. The only file being written to for that chapter.
 - **Unit n+1 outline** (READ ONLY) — next unit's plan, so they know where the story is going
 
 ### File Ownership

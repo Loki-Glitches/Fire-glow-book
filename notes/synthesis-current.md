@@ -10,28 +10,24 @@
 
 ## 0. How the Pipeline Currently Works (read this before assigning any unit)
 
-The pipeline changed materially on 2026-09-05. A session that still thinks the pipeline is "writer → hedge remover → punctuation checker → ... " is working from a stale picture. Current state, per `.claude/agents/agent-generic-director.md`:
+**The pipeline was cut down to its minimal core on 2026-09-05, author-directed, after the multi-agent version proved too heavy.** A session that still thinks this project runs writer → normalcy → identity checker → line editor → world builder → tonal calibration → continuity → integrity → proofreader is working from a completely stale picture — that whole chain except two steps is gone. Current state, per `.claude/agents/agent-generic-director.md`:
 
-**Retired from routine use:** Hedge Remover and Punctuation Checker. Grammar/punctuation/hedge-phrase catches are now the author's own job, done by hand (including direct GitHub edits), not a pipeline step. Both agent files remain on disk for an occasional author-requested full-manuscript sweep only. Their historical `notes/hedge-pass-ch*.md` and `notes/punctuation-pass-ch*.md` files ("Breach" through "Dinner") are kept as record but are not generated going forward as a matter of course.
+**Retired entirely, not just from routine use:** Writer, Normalcy, Identity Checker, Line Editor, World Builder, Tonal Calibration, Hedge Remover, Punctuation Checker. None of these get spawned anymore, for any chapter, under any circumstance, unless the author explicitly asks for one back. Their agent files remain on disk for reference/history only. Historical per-chapter note files these produced (`notes/hedge-pass-ch*.md`, `notes/punctuation-pass-ch*.md`, `notes/identity-pass-ch*.md`, `notes/world-notes-*.md`, `notes/normalcy-*.md`) are kept as record of what was done under the old pipeline but nothing new of these kinds gets generated going forward.
 
-**Checked directly by the Director, no subagent spawned:** Lucifer/Adrian and Azrael/Tristan name correctness (though see § 9 below — an Identity Checker subagent has in practice also been run every chapter so far), mechanical line-editor rules, normalcy/texture gaps.
+**The Director now drafts every chapter directly** — there is no separate Writer subagent. Name correctness (Lucifer/Adrian, Azrael/Tristan), mechanical line-editor rules, and any new world/texture detail are the Director's own responsibility while drafting and on self-review afterward, not a dedicated pipeline step.
 
-**Still run as real subagents:** Continuity Checker, Story Integrity, Tonal Calibration (replaces the old "Comedy Pass" — broader charter: tonal weight + emotional-ladder consistency for every unit, comedy mechanics only when a unit actually has comedic material). World Builder (now also owns the sensory rendering of supernatural effects, not just mundane world texture) — spawn when a chapter adds meaningful new physical/world detail or a supernatural effect worth cataloging; skip otherwise. Proofreader runs once, at the end of the manuscript (or a large batch), not per chapter — **this is why no `notes/proofing-ch*.md` files exist yet for any of "Morning" through "Dinner"; that is expected, not a gap.**
+**Still run as real subagents:** Continuity Checker (every chapter) and Story Integrity (every chapter). Proofreader still runs once, at the end of the manuscript (or a large batch), not per chapter — **this is why no `notes/proofing-ch*.md` files exist yet for any chapter; that is expected, not a gap.**
 
-**Current documented pipeline sequence** (`agent-generic-director.md`):
-1. Writer draft
-2. Normalcy Agent (small talk/action/length floor, "Convergence"+)
-3. Identity Checker (finds AND directly fixes Lucifer/Adrian, Azrael/Tristan mismatches)
-4. Line Editor (mechanical craft: attribution, banned constructs, scene completeness)
-5. World Builder (when triggered)
-6. Tonal Calibration (every unit)
-7. Continuity Checker
-8. Story Integrity
-9. Director reviews all findings, writes revision notes if needed → writer revises → re-check
-10. Proofreader (end of manuscript/batch only)
-11. Assemble final manuscript
+**Current pipeline sequence** (`agent-generic-director.md`):
+1. Director drafts the chapter directly
+2. Director self-checks names/mechanical rules/obvious gaps
+3. Continuity Checker
+4. Story Integrity
+5. Director reviews findings, revises the chapter directly if needed → re-check
+6. Proofreader (end of manuscript/batch only)
+7. Assemble final manuscript
 
-**In practice, "Morning" through "Dinner" were not all run through this exact sequence** — see § 9 ("Pipeline Coverage Actually Received, Per Chapter") for the real, chapter-by-chapter record, including one live gap in "Dinner" that has not yet been closed.
+**Everything drafted before 2026-09-05 (through "Rhythm") was produced under the old, heavier pipeline** (Writer subagents, plus whichever of the now-retired review agents actually got run at the time — see § 9, "Pipeline Coverage Actually Received, Per Chapter," for the real record). That work is not being redone or re-reviewed retroactively under the new minimal pipeline — the cut applies going forward, from the next chapter on.
 
 ---
 
