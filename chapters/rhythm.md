@@ -4,9 +4,9 @@ Most of the color was already gone from the sky by the time she noticed them out
 
 She left the glass in the rack and went out.
 
-Tristan was saying something to Adrian in a low voice she couldn't catch, arms crossed, the posture of a man who had somewhere else to be and was choosing, for the moment, not to say so. He caught sight of her coming down the walk and didn't stop talking so much as finish faster.
+Tristan was saying something to Adrian in a low voice she couldn't catch, arms crossed, glancing once toward the street. He caught sight of her coming down the walk and didn't stop talking so much as finish faster.
 
-"Evening." Tristan said it in the tone he used for everyone who wasn't his brother — polite, efficient, giving nothing away.
+Tristan lifted his chin at her. "Evening."
 
 "You're not staying." It wasn't really a question, and she didn't dress it up as one.
 
@@ -22,7 +22,7 @@ She watched him round the corner before she looked back at Adrian. "Does he ever
 
 "That sounds exhausting."
 
-"It's efficient." He said it flatly enough that she couldn't tell if he meant it as a joke, which was becoming, she'd noticed, one of his more reliable qualities.
+"It's efficient." Flat enough that she still couldn't tell if he meant it as a joke — one of his more reliable qualities, she'd noticed.
 
 They stood there a moment on the emptying sidewalk, neither of them moving toward her porch or his usual step. The stillness of the night made staying outside feel less chosen than inevitable.
 
@@ -32,9 +32,9 @@ They stood there a moment on the emptying sidewalk, neither of them moving towar
 
 "The park. It's not far." She was already moving, which answered the question better than anything she could have said.
 
-He fell in beside her without further comment, hands in his pockets, matching her pace the way he always did — not behind her, not ahead, exactly level. He'd settled on this as the correct way to walk next to someone a long time ago and never once reconsidered it.
+He fell in beside her without further comment, hands in his pockets, matching her pace the way he always did — not behind her, not ahead, exactly level.
 
-The park was two streets over, close enough that they were through the gate before either of them had said much of anything. The lamps along the main path came on while they were crossing the grass toward it — the first one, then the next, then the whole line of them at once, catching the dark before it could really settle. She'd never actually watched that happen before. It made the place look staged, briefly, before it settled back into being the park again.
+The park was two streets over, close enough that they were through the gate before either of them had said much of anything. The lamps along the main path came on while they were crossing the grass toward it — the first one, then the next, then the whole line of them at once, catching the dark before it could really settle. She'd never actually watched that happen before. For a moment the light hit everything at once, too even to be natural, before it settled back into being the park again.
 
 "That's convenient timing."
 
@@ -50,7 +50,7 @@ They walked. The path curved past the fountain, dry for the season, and on towar
 
 "That's not really an answer."
 
-He walked a few more steps before he said anything else, which by now she recognized as him deciding something rather than avoiding it. "There isn't much new to say. We've been at this a long time. She's good at not being found — she always has been. I don't think there's a version of this where it happens quickly."
+He walked a few more steps before he said anything else. "There isn't much new to say. We've been at this a long time. She's good at not being found — she always has been. I don't think there's a version of this where it happens quickly."
 
 "How long is a long time?"
 
@@ -58,7 +58,7 @@ He walked a few more steps before he said anything else, which by now she recogn
 
 "Try me."
 
-"Not tonight." He said it without any edge to it — not a refusal, just not yet. "Ask me something specific. I'll tell you what I actually know."
+"Not tonight. Ask me something specific. I'll tell you what I actually know."
 
 She thought about it. "What does she look like? You've never said."
 
@@ -90,7 +90,7 @@ That one, unexpectedly, got a real answer. "Before all this — before Earth, be
 
 He was quiet long enough that she thought he might close this one off too. Then he didn't.
 
-"We used to sit around the Tree of Life, all of us, and just — be there. Eat, mostly. There was fruit on it that tasted like whatever you needed it to taste like that day, which sounds like a strange thing to build a memory around, but it wasn't really about the fruit. It was that everyone showed up. Every single time, without being asked. My brothers, my sisters — we'd sit out there for what felt like whole days and laugh about nothing. Nobody had anywhere else to be. Nobody had a reason to leave early." He said it plainly, but something under the plainness had gone warm, animated in a register she hadn't heard from him before. Whatever he was remembering was still bright to him, even after everything that came after. "It was the easiest thing in the world. I didn't understand at the time how rare that actually was."
+"We used to sit around the Tree of Life, all of us, and just — be there. Eat, mostly. There was fruit on it that tasted like whatever you needed it to taste like that day, which sounds like a strange thing to build a memory around, but it wasn't really about the fruit. It was that everyone showed up. Every single time, without being asked. My brothers, my sisters — we'd sit out there for what felt like whole days and laugh about nothing. Nobody had anywhere else to be. Nobody had a reason to leave early." Something under the plainness of it had gone warm, animated in a register she hadn't heard from him before. Whatever he was remembering was still bright to him, even after everything that came after. "It was the easiest thing in the world. I didn't understand at the time how rare that actually was."
 
 "That sounds nice." She meant it, and something in how quietly she said it seemed to let him keep going.
 
@@ -98,11 +98,11 @@ He was quiet long enough that she thought he might close this one off too. Then 
 
 He didn't say anything after that. He kept his eyes fixed on the path in front of them, though nothing about it had changed, and his hands had gone very still in his pockets.
 
-She didn't ask what happened next. She could see, without being told, that whatever came after that gathering wasn't a story he had any intention of finishing tonight — maybe not any night. The stopping itself had cost him something; she could see it in the set of his jaw, the half second too long before he started walking again. She let it be.
+She didn't ask what happened next. She could see, without being told, that whatever came after that gathering wasn't a story he had any intention of finishing tonight — maybe not any night. She could see it in the set of his jaw, the half second too long before he started walking again. She let it be.
 
 There was a bench a little further along, half in the light and half out of it, and she steered them toward it without making a thing of it. He sat when she sat, which wasn't a given with him, and for a while neither of them said anything at all.
 
-She put a hand on his arm, not asking permission, just there. He didn't pull away from it. After a moment he let his head come to rest against her shoulder, and stayed like that, not saying anything, not needing to. She didn't say anything either. It wasn't the start of something — it was exactly what it was: someone who'd run out of the words he'd been willing to spend, choosing to be quiet next to a person instead of alone with it.
+She put a hand on his arm, not asking permission, just there. He didn't pull away from it. After a moment he let his head come to rest against her shoulder, and stayed like that, not saying anything, not needing to. She didn't say anything either.
 
 They stayed that way long enough that a couple with a stroller passed twice on the same loop.
 
@@ -112,7 +112,7 @@ She laughed, a little surprised by the question landing exactly when it did. "Th
 
 "You don't have to answer."
 
-"No, I like it." She thought about where to start. "Sophie, probably, more than anything else. My best friend — you haven't met her yet, but you will. We've known each other since I was in third grade. She was a year ahead of me, fourth grade, and I have no idea why she decided I was worth the time, but she did, and that was it."
+"No, I like it." She thought about where to start. "Sophie, probably, more than anything else. My best friend — you haven't met her yet, but you will. We've known each other since we were twelve. She decided we were going to be best friends before I had any say in it, and I have no idea why she picked me, but she did, and that was it."
 
 "What does that mean, exactly? 'That was it.'"
 
@@ -130,7 +130,7 @@ He was quiet for a second. Then, dry, almost too quiet to catch: "A bookstore di
 
 She laughed before she'd fully processed that he'd made a joke — a real one, on purpose, aimed and everything. "Was that a joke? Did you just make a joke?"
 
-"No."
+He didn't answer.
 
 "You did. Oh my god, you smile and you tell jokes now. Who even are you?"
 

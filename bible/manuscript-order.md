@@ -27,7 +27,7 @@ A title with a filename below is written (`chapters/<file>`). A title with no fi
 9. **Garden** — `chapters/garden.md` — Elizabeth / Lucifer
 10. **Dinner** — `chapters/dinner.md` — Lucifer
 11. **Roof** *(Calm unlocks)* — `chapters/roof.md` — Elizabeth
-12. **Rhythm** — Elizabeth — settling into Calm; not yet drafted (one open item: whether Eve's name is finally spoken here — see `bible/unit-plans.md`)
+12. **Rhythm** — `chapters/rhythm.md` — Elizabeth — settling into Calm
 13. **Dress** — `chapters/dress.md` — Lucifer
 14. **Coffee** — Elizabeth
 15. **Class** — Lucifer
