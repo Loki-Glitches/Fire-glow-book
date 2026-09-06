@@ -265,6 +265,39 @@
 
 ---
 
+### Rhythm
+**POV:** Elizabeth
+**Inserted 2026-09-05** between "Roof" and "Dress" — author's intent: don't let the new Calm emotion register as a one-off flicker from "Roof." This chapter is him starting to settle into it, getting comfortable, falling into a rhythm — before "Dress" begins the next emotional-ladder stage (Beauty/Desire).
+
+**Must include:**
+- Late evening, the next night after "Roof." Azrael drops Lucifer off at Elizabeth's house; the sunset is basically gone, only remnants of color left. Elizabeth sees them outside from her house, comes out, joins them on the sidewalk. Azrael leaves.
+- Elizabeth and Lucifer walk to the park. When they arrive, the park lights turn on in the darkness (mundane/atmospheric, not supernatural).
+- They walk around the park for most of the chapter — this is the chapter's main activity, not a series of separate scenes.
+- They try to focus on the mission, since Lucifer has essentially stopped tracking Eve (per "Roof"'s continuity flag) — Elizabeth asks for more details about the woman they're looking for. Lucifer is forthcoming for most of the night. **[OPEN — flag the Director before drafting: does he finally say the name "Eve" here, or does she still not get the name? Author said "I'll change that later" — do not draft this beat until this is confirmed one way or the other.]**
+- She asks what the woman is like emotionally. Lucifer shuts it down — not a hard refusal, more a redirect/subject change. Elizabeth registers the deflection internally, doesn't press, and moves the conversation to Tristan instead.
+- Lucifer describes his relationship with Tristan and what Tristan's job was: keeper and guardian of the Garden of Eden, a role he genuinely loved (matches `bible/tristan_azrael_character_profile.md`'s established lore — this is not new information for the bible, just its first on-page disclosure to Elizabeth).
+- Lucifer describes, warmly and in real detail, how normal and happy their family was in the Garden before humans — all the siblings sitting around the Tree of Life, eating fruit, laughing. Then: one day God simply didn't show up to the gathering. God had been spending most of his nights in contemplation about bringing humans into existence. **Lucifer stops there** — this is the next scheduled escalation of the Genesis Deflection Pattern (see `notes/synthesis-current.md` § 3): further than "Garden"'s "She came later," but still stopping short of the actual wound (the Tree of Knowledge, Eve).
+- Elizabeth tries to comfort him on one of the park benches. He rests his head on her shoulder. **(Tentative beat, per author — write it, but it should read as him seeking comfort/stillness, not romantic charge; Beauty/Desire hasn't unlocked yet, that's reserved for "Dress.")**
+- Lucifer asks what she likes to do. This leads into Elizabeth telling him about Sophie: they met in elementary school (Elizabeth in 3rd grade, Sophie in 4th) and became inseparable — wandering town, shopping the small shops (they always got a small discount, partly from how often they came in, partly because they made the workers smile), watching movies and rom-coms together, playing in the park, still doing it now. Sophie became an honorary family member; she started dating Sam in junior year and they've been together ever since. Now Sophie is genuinely like Elizabeth's big sister, and the three of them try to do things together whenever they can.
+- Lucifer smirks. Elizabeth catches it and jokes that he does smile after all, laughing. He looks about to smile and stops suddenly. Elizabeth pretends not to notice, since he seems a little lost in that moment.
+- Elizabeth checks the time and realizes Sam will be waiting for her. Lucifer walks her home.
+- At her house, Elizabeth steps inside and waves goodbye. She glances down at the doorknob for a moment, looks back up, and he's simply gone — she never witnesses the mechanism, just the absence. She closes the door.
+
+**Craft notes:**
+- This chapter is about ease, not event. No new ability is unlocked or displayed — Power Bond (strength) is already an established fact between them since "Roof," and nothing here needs to demonstrate it again. Keep the register warm, unhurried, comfortable.
+- The near-smile-and-catch-himself beat mirrors the same thing that happened on the porch at the end of "Roof" (per its handoff note) — this is the second instance of that exact pattern, not a new one. It should read as recognizable, not repetitive: he's getting closer to the edge each time, not resetting.
+- Genesis Deflection Pattern: this is a real escalation from "Garden," costing him visibly more to get through than the first, clean, unescalated instance — but he still self-interrupts before reaching the actual wound. Do not let him go further than described above.
+- The final beat (he vanishes only once Elizabeth's line of sight breaks, and she never sees the mechanism) must stay consistent with the standing rule that the Travel Bond range/pull mechanic is never visible to an unbonded-to-that-knowledge human — see `bible/bond_system_reference.md` Stage 2, "Travel Bond Range."
+
+**Must NOT include:**
+- The Beauty/Desire flicker — that belongs entirely to "Dress," not here.
+- Any use of superhuman strength or other ability display.
+- Wings, flight, or transfiguration of any kind (Calm's own transfiguration output — restorative/stabilizing forms — is not used in this chapter; it's a separate future beat, not this one).
+- Elizabeth actually witnessing the vanishing mechanism itself, or drawing any supernatural conclusion from it.
+- Lucifer reaching the actual Genesis wound (the Tree of Knowledge, giving it to Eve) — he stops at "God didn't show up."
+
+---
+
 ### Dress
 **POV:** Lucifer
 **Must include:**

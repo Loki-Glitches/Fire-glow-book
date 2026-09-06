@@ -67,7 +67,8 @@ The pipeline changed materially on 2026-09-05. A session that still thinks the p
 | Garden | Elizabeth | (+ Lucifer/Azrael filler scene, same chapter file) |
 | Dinner | **Lucifer** | Changed from Elizabeth, 2026-09-04. |
 | Roof (Calm unlocks) | Elizabeth | **Written and reviewed clean, 2026-09-05.** Power Bond (strength) formed with Elizabeth back in "Park"; the roof scene is his first attempt at using it, written as genuinely uncertain on his side per Bond Tier Awareness. Calm unlocks (first real smile). See § 12.9–12.10. |
-| Dress | Lucifer | |
+| Rhythm | Elizabeth | **Inserted 2026-09-05, not yet drafted.** He settles into Calm rather than treating it as a one-off — a full night walking the park with Elizabeth: Genesis Deflection Pattern escalates (Tristan's Eden-keeper role, the happy pre-human family, God's absence — stops short of the actual wound), Sophie's full backstory shared, a near-smile he catches and closes off (second instance of the "Roof" porch pattern), ends with Elizabeth losing sight of him for a beat before he's pulled out of range. **[OPEN]** whether Eve's actual name is finally spoken here — see `bible/unit-plans.md`. |
+| Dress | Lucifer | Opening report to Azrael changed from referencing "Roof"'s sunset/roof scene to "We walked around the park for a while" (2026-09-05), since "Rhythm" is now the more recent night between them. |
 | Coffee | Elizabeth | |
 | Class | Lucifer | |
 | Ready | Elizabeth | |
@@ -244,7 +245,8 @@ Facts and mechanics established and confirmed across the pipeline. Treat as immu
 
 All resolved decisions live in full in `notes/author-questions.md`; this section surfaces only what's still genuinely open, plus a pointer to anything a future writer must actively flag before proceeding.
 
-- [ ] **PENDING INSERTION — new chapter between "Roof" and "Dress."** Author's intent (2026-09-05): a fun, light Elizabeth/Lucifer scene, doing something enjoyable together — no details yet, author will supply them later. *Blocking: yes, for "Dress" specifically* — do not treat "Dress" as immediately following "Roof" in the reading order until this is either filled in or explicitly waved off by the author. **Director: when the author gives details, follow the Step 0 insertion workflow in `agent-generic-director.md`** — add the new title to `bible/manuscript-order.md` between "Roof" and "Dress," write its unit-plan entry in `bible/unit-plans.md`, and double check whether anything in "Dress" (the Beauty/Desire flicker being the character's first real one, Azrael's "less holding it together" read, etc.) needs to shift or be re-earned by the new chapter first. See the matching marker left in `bible/manuscript-order.md`.
+- [x] **Insertion between "Roof" and "Dress" — RESOLVED 2026-09-05, titled "Rhythm."** Full scene worked out with the author (see `bible/unit-plans.md`'s new "Rhythm" entry) and added to `bible/manuscript-order.md`. Not yet drafted. One item still open within it — see below.
+- [ ] **"Rhythm" — does Lucifer finally say Eve's actual name to Elizabeth?** Author said "I'll change that later" when this was flagged. *Blocking: yes* — do not draft "Rhythm"'s Eve-details beat until this is answered; it changes the dialogue directly (either he names her, matching "Arrival"'s version, or he stays withheld, matching "Park"'s).
 
 - [ ] **Eve-eyes recognition — which chapter?** Not decided beyond "later, once a relationship already exists." *Blocking: no* (not needed until well past "Roof"). Whoever writes the chapter that surfaces this must flag the Director first.
 - [ ] **Porch light Act Three fix — which chapter?** Not decided beyond "Act Three." *Blocking: no* (Act Three doesn't start until "Watcher"). Flag the Director before drafting whichever chapter carries it — depends on precise timing and an untouched bulb in every prior chapter.

@@ -27,68 +27,68 @@ A title with a filename below is written (`chapters/<file>`). A title with no fi
 9. **Garden** — `chapters/garden.md` — Elizabeth / Lucifer
 10. **Dinner** — `chapters/dinner.md` — Lucifer
 11. **Roof** *(Calm unlocks)* — `chapters/roof.md` — Elizabeth
-    - **[PENDING INSERTION]** Author intent (2026-09-05): a new chapter goes here — a fun, light Elizabeth/Lucifer scene, doing something enjoyable together. No title or unit plan yet; author will supply details later. Do not treat "Dress" as immediately following "Roof" until this is filled in or explicitly waved off. See `notes/synthesis-current.md` § 7.
-12. **Dress** — `chapters/dress.md` — Lucifer
-13. **Coffee** — Elizabeth
-14. **Class** — Lucifer
-15. **Ready** — Elizabeth
-16. **Painting** *(Beauty/Desire deepens)* — Elizabeth
-17. **Aftermath** — Elizabeth
-18. **Overheard** — Lucifer
-19. **Door** — Lucifer
-20. **Apology** — Lucifer
-21. **Amends** — Elizabeth
-22. **Score** — Lucifer
-23. **Karaoke** *(Joy unlocks)* — Elizabeth
-24. **Ring** *(Generosity surfaces)* — Lucifer
-25. **Dots** — Elizabeth
-26. **Rose** — Lucifer
-27. **Delivery** *(Generosity deepens)* — Elizabeth
-28. **Flower** *(Generosity unlocks)* — Lucifer
-29. **Nice** — Elizabeth
-30. **Stirring** *(Love begins to stir)* — Lucifer
-31. **Truth** — Lucifer
-32. **Questions** *(Full Bond forms)* — Lucifer
-33. **Rehearsal** *(Love deepens)* — Elizabeth
-34. **Wedding** *(Love unlocks / Act Two closes)* — Elizabeth
+12. **Rhythm** — Elizabeth — settling into Calm; not yet drafted (one open item: whether Eve's name is finally spoken here — see `bible/unit-plans.md`)
+13. **Dress** — `chapters/dress.md` — Lucifer
+14. **Coffee** — Elizabeth
+15. **Class** — Lucifer
+16. **Ready** — Elizabeth
+17. **Painting** *(Beauty/Desire deepens)* — Elizabeth
+18. **Aftermath** — Elizabeth
+19. **Overheard** — Lucifer
+20. **Door** — Lucifer
+21. **Apology** — Lucifer
+22. **Amends** — Elizabeth
+23. **Score** — Lucifer
+24. **Karaoke** *(Joy unlocks)* — Elizabeth
+25. **Ring** *(Generosity surfaces)* — Lucifer
+26. **Dots** — Elizabeth
+27. **Rose** — Lucifer
+28. **Delivery** *(Generosity deepens)* — Elizabeth
+29. **Flower** *(Generosity unlocks)* — Lucifer
+30. **Nice** — Elizabeth
+31. **Stirring** *(Love begins to stir)* — Lucifer
+32. **Truth** — Lucifer
+33. **Questions** *(Full Bond forms)* — Lucifer
+34. **Rehearsal** *(Love deepens)* — Elizabeth
+35. **Wedding** *(Love unlocks / Act Two closes)* — Elizabeth
 
 ## ACT THREE — RECKONING
 
-35. **Watcher** *(Act Three opens / Eve POV)* — Eve
-36. **Spectacular** — Elizabeth
-37. **Terrified** *(Lucifer's Act Three opens)* — Lucifer
-38. **Square** — Elizabeth
-39. **Line** *(Tristan's take on the same call as "Phone")* — Lucifer
-40. **Phone** — Elizabeth
-41. **Exhausted** — Elizabeth
-42. **Orchard** — Lucifer
-43. **Porch** — Elizabeth
-44. **Girls** — Elizabeth
-45. **Loosen** — Lucifer
-46. **Supper** — Elizabeth
-47. **Informants** — Lucifer
-48. **Honeymoon** — Elizabeth
-49. **Home** — Lucifer
-50. **Couch** — Elizabeth
-51. **Waking** — Lucifer
-52. **Impress** — Elizabeth
-53. **Storming** — Lucifer
-54. **Figure** — Elizabeth
-55. **Frozen** — Elizabeth
-56. **Crowd** — Lucifer
-57. **Confusion** — Lucifer
-58. **Eve** — Elizabeth
-59. **Lucifer** — Elizabeth
-60. **Return** *(split POV: Elizabeth then Lucifer — emotional peak, do not underwrite)* — Elizabeth / Lucifer
-61. **Taken** — Elizabeth
-62. **Letter** — Lucifer
-63. **Plan** — Elizabeth
-64. **Storehouse** — Lucifer
-65. **No** *(bond breaks)* — Elizabeth
-66. **Wrath** — Lucifer
-67. **Testament** — Elizabeth
-68. **Wings** — Lucifer
-69. **Gone** — Elizabeth
+36. **Watcher** *(Act Three opens / Eve POV)* — Eve
+37. **Spectacular** — Elizabeth
+38. **Terrified** *(Lucifer's Act Three opens)* — Lucifer
+39. **Square** — Elizabeth
+40. **Line** *(Tristan's take on the same call as "Phone")* — Lucifer
+41. **Phone** — Elizabeth
+42. **Exhausted** — Elizabeth
+43. **Orchard** — Lucifer
+44. **Porch** — Elizabeth
+45. **Girls** — Elizabeth
+46. **Loosen** — Lucifer
+47. **Supper** — Elizabeth
+48. **Informants** — Lucifer
+49. **Honeymoon** — Elizabeth
+50. **Home** — Lucifer
+51. **Couch** — Elizabeth
+52. **Waking** — Lucifer
+53. **Impress** — Elizabeth
+54. **Storming** — Lucifer
+55. **Figure** — Elizabeth
+56. **Frozen** — Elizabeth
+57. **Crowd** — Lucifer
+58. **Confusion** — Lucifer
+59. **Eve** — Elizabeth
+60. **Lucifer** — Elizabeth
+61. **Return** *(split POV: Elizabeth then Lucifer — emotional peak, do not underwrite)* — Elizabeth / Lucifer
+62. **Taken** — Elizabeth
+63. **Letter** — Lucifer
+64. **Plan** — Elizabeth
+65. **Storehouse** — Lucifer
+66. **No** *(bond breaks)* — Elizabeth
+67. **Wrath** — Lucifer
+68. **Testament** — Elizabeth
+69. **Wings** — Lucifer
+70. **Gone** — Elizabeth
 
 ---
 

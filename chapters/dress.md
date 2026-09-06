@@ -8,7 +8,7 @@ Azrael was already at the corner by the hardware store when Lucifer got there, a
 
 "How did it go?"
 
-"Fine." Lucifer stopped beside him and watched the truck too, because it gave him somewhere to put his eyes that wasn't Azrael's face. "We watched the sunset. Went up on the roof for it."
+"Fine." Lucifer stopped beside him and watched the truck too, because it gave him somewhere to put his eyes that wasn't Azrael's face. "We walked around the park for a while."
 
 "That's all."
 
