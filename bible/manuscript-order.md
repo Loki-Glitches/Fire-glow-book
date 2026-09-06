@@ -27,6 +27,7 @@ A title with a filename below is written (`chapters/<file>`). A title with no fi
 9. **Garden** — `chapters/garden.md` — Elizabeth / Lucifer
 10. **Dinner** — `chapters/dinner.md` — Lucifer
 11. **Roof** *(Calm unlocks)* — `chapters/roof.md` — Elizabeth
+    - **[PENDING INSERTION]** Author intent (2026-09-05): a new chapter goes here — a fun, light Elizabeth/Lucifer scene, doing something enjoyable together. No title or unit plan yet; author will supply details later. Do not treat "Dress" as immediately following "Roof" until this is filled in or explicitly waved off. See `notes/synthesis-current.md` § 7.
 12. **Dress** — `chapters/dress.md` — Lucifer
 13. **Coffee** — Elizabeth
 14. **Class** — Lucifer
