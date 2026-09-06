@@ -29,8 +29,9 @@ This project spans 70+ chapters — don't run the whole book in one continuous c
 
 ## Agent Architecture
 
-### Roles (cut to a minimal pipeline, 2026-09-05 — author-directed)
-- **Director** (`.claude/agents/agent-generic-director.md`): Orchestrates AND writes chapter prose directly — there is no separate Writer subagent anymore. Also reviews and manages the bible.
+### Roles (second, larger cut, 2026-09-05 — author-directed: the author now writes every chapter themselves)
+- **Director** (`.claude/agents/agent-generic-director.md`): Orchestrates review of chapters the author writes. Does NOT write prose — not even as a fallback. Manages the bible.
+- **Creative Partner** (`.claude/agents/agent-creative-partner.md`): Reinstated. A brainstorming/planning collaborator for working out what conversations or beats a chapter needs before the author writes it — not a drafting agent.
 - **Continuity Checker** (`.claude/agents/agent-generic-continuity-checker.md`): Full sequential read, flags drift and seam problems.
 - **Story Integrity** (`.claude/agents/agent-generic-story-integrity.md`): Scores fidelity to the project's soul and style guide.
 - **Proofreader** (`.claude/agents/agent-generic-proofreader.md`): Fact-checks geography, physics, arithmetic, behavioral consistency. Runs once at the end of the manuscript, not per chapter.
@@ -39,9 +40,9 @@ This project spans 70+ chapters — don't run the whole book in one continuous c
 **Retired entirely, not just from routine use:** Writer, Normalcy, Identity Checker, Line Editor, World Builder, Tonal Calibration, Hedge Remover, Punctuation Checker. Their agent files remain on disk for reference but are not part of this project's pipeline. See `.claude/agents/agent-generic-director.md`'s Standing Rule for the full explanation.
 
 ### The Window Rule (CRITICAL)
-Still applies to the Director's own drafting, not to a separate writer role:
-- **Unit n-1** (READ ONLY) — preceding unit, for continuity of tone and timeline
-- **Unit n** (READ/WRITE) — the unit being written. The only file being written to for that chapter.
+No longer governs an agent's writing process — the author writes chapters themselves, outside this pipeline. Still useful as a reviewing frame: whoever reviews a chapter (Director, Continuity Checker) should have:
+- **Unit n-1** — preceding unit, for continuity of tone and timeline
+- **Unit n** — the chapter under review
 - **Unit n+1 outline** (READ ONLY) — next unit's plan, so they know where the story is going
 
 ### File Ownership

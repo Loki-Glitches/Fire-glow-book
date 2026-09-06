@@ -10,24 +10,27 @@
 
 ## 0. How the Pipeline Currently Works (read this before assigning any unit)
 
-**The pipeline was cut down to its minimal core on 2026-09-05, author-directed, after the multi-agent version proved too heavy.** A session that still thinks this project runs writer → normalcy → identity checker → line editor → world builder → tonal calibration → continuity → integrity → proofreader is working from a completely stale picture — that whole chain except two steps is gone. Current state, per `.claude/agents/agent-generic-director.md`:
+**The pipeline was cut twice on 2026-09-05, author-directed. The second cut is the current, binding state.** A session that thinks the Director drafts chapters, or that any agent rewrites chapter files based on its own findings, is working from a stale picture either way. Current state, per `.claude/agents/agent-generic-director.md`:
+
+**The author writes every chapter's prose themselves, by hand, entirely outside this pipeline.** No agent — Director included — drafts, rewrites, or edits chapter content based on review findings, ever, for any reason. Agents (Continuity Checker, Story Integrity) produce findings only; the Director compiles them into clear notes and hands them to the author, who decides what to change and makes the edit themselves. This is an explicit correction — earlier the same day, this session had the Director applying review fixes directly, which is exactly what the author does not want.
 
 **Retired entirely, not just from routine use:** Writer, Normalcy, Identity Checker, Line Editor, World Builder, Tonal Calibration, Hedge Remover, Punctuation Checker. None of these get spawned anymore, for any chapter, under any circumstance, unless the author explicitly asks for one back. Their agent files remain on disk for reference/history only. Historical per-chapter note files these produced (`notes/hedge-pass-ch*.md`, `notes/punctuation-pass-ch*.md`, `notes/identity-pass-ch*.md`, `notes/world-notes-*.md`, `notes/normalcy-*.md`) are kept as record of what was done under the old pipeline but nothing new of these kinds gets generated going forward.
 
-**The Director now drafts every chapter directly** — there is no separate Writer subagent. Name correctness (Lucifer/Adrian, Azrael/Tristan), mechanical line-editor rules, and any new world/texture detail are the Director's own responsibility while drafting and on self-review afterward, not a dedicated pipeline step.
+**Reinstated: Creative Partner** — a brainstorming/planning collaborator for working out what conversations or beats an upcoming chapter needs, before the author writes it. Does not draft finished prose into `chapters/*.md`.
 
-**Still run as real subagents:** Continuity Checker (every chapter) and Story Integrity (every chapter). Proofreader still runs once, at the end of the manuscript (or a large batch), not per chapter — **this is why no `notes/proofing-ch*.md` files exist yet for any chapter; that is expected, not a gap.**
+**Still run as real subagents, review-only:** Continuity Checker (every chapter) and Story Integrity (every chapter). Proofreader still runs once, at the end of the manuscript (or a large batch), not per chapter — **this is why no `notes/proofing-ch*.md` files exist yet for any chapter; that is expected, not a gap.**
 
 **Current pipeline sequence** (`agent-generic-director.md`):
-1. Director drafts the chapter directly
-2. Director self-checks names/mechanical rules/obvious gaps
-3. Continuity Checker
-4. Story Integrity
-5. Director reviews findings, revises the chapter directly if needed → re-check
-6. Proofreader (end of manuscript/batch only)
-7. Assemble final manuscript
+1. Author writes the chapter themselves
+2. Author brings it to the Director for review (or it's already committed)
+3. Director resolves the chapter's neighbors from `bible/manuscript-order.md`
+4. Continuity Checker (findings only, no edits)
+5. Story Integrity (findings only, no edits)
+6. Director compiles findings into notes for the author; author revises, or doesn't, on their own
+7. Proofreader (end of manuscript/batch only)
+8. Assemble final manuscript
 
-**Everything drafted before 2026-09-05 (through "Rhythm") was produced under the old, heavier pipeline** (Writer subagents, plus whichever of the now-retired review agents actually got run at the time — see § 9, "Pipeline Coverage Actually Received, Per Chapter," for the real record). That work is not being redone or re-reviewed retroactively under the new minimal pipeline — the cut applies going forward, from the next chapter on.
+**Everything drafted before 2026-09-05 (through "Rhythm") was produced under the old, heavier pipeline** (Writer subagents, plus whichever of the now-retired review agents actually got run at the time — see § 9, "Pipeline Coverage Actually Received, Per Chapter," for the real record) — and in "Rhythm"'s case specifically, the Director also applied review fixes directly, a practice that's now retired. None of that earlier work is being redone or re-reviewed retroactively under the current pipeline; the cut applies going forward. The author is now revising already-written chapters themselves.
 
 ---
 
