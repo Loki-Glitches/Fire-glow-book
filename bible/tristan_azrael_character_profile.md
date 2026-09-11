@@ -2,6 +2,16 @@
 
 *Companion document to the Master Story Bible. Captures backstory and emotional mechanics developed during outlining. Items marked **[OPEN]** are not yet locked.*
 
+## MAJOR REWORK IN PROGRESS (2026-09-11)
+
+Azrael's core job on Earth has changed. **The "FORMAL ROLE" section below is entirely stale** — it's built on the old Power Bond/Full Anchor system and the now-scratched chapters, and is kept only as historical record until it's rewritten to match the new outline. Everything else in this file that isn't specifically about the death-duty reassignment or the new containment role is still broadly accurate — his origin, his resentment of Lucifer, his relationship arc — just needs its specific chapter-beats (which no longer exist) mentally discarded.
+
+**What's changed:**
+- **His death-duty is reassigned, temporarily, to a different angel** for the duration of this arc (that angel is not yet named or detailed — open item). Azrael is not currently the one absorbing the pain of every human death.
+- **His new job is to contain Lucifer**, not evaluate whether he's fit to bond. Lucifer has power from the start now and is volatile/prone to abusing it (see `bible/lucifer_character_profile.md`) — Azrael's presence is active restraint, not passive oversight.
+- **He must be present in every Lucifer scene until Elizabeth knows the truth.** Hard scene-construction rule while she's still in the dark.
+- **They physically fight.** Azrael can genuinely hurt Lucifer — up to and including bringing him to the point of death — and Lucifer can do the same to him. Neither can actually die; whatever the injury, both heal within 24 hours. They can cripple each other in the meantime. Fights happen mainly at the house (the mansion, see `bible/story-bible.md`) or outside of town. This escalates their existing tension (see RELATIONSHIP TO LUCIFER, below) from friction to real physical stakes — the author's note was that the old version of this dynamic was "too tame."
+
 ---
 
 ## PERMITTED SIN — LYING
@@ -20,7 +30,7 @@ His true name is **Azrael**, one of the strongest angels. **"Tristan"** is an Ea
 
 This also resolves an earlier inconsistency in the master bible: "Tristan, Earth-side evaluator and enforcer" and "Azrael, divine monitoring enforcer" were originally written as two separate roles. They are the same being, the same job, described before this was reconciled.
 
-**Resolved:** The reveal happens during the anchor formation scene — Lucifer tells Elizabeth who "Tristan" really is as part of the full disclosure that precedes her choosing to bond. She's being asked to commit to something permanent, and he chooses to be completely honest about who everyone around her actually is before she does. Azrael is present for his own reveal, likely already in the room for the evaluation.
+**STALE 2026-09-11:** the original plan below tied this reveal to Full Anchor formation, which is cut. Exact new placement for when Elizabeth learns "Tristan" is Azrael is undecided — likely still tied to whenever she independently figures out the full truth (see `bible/lucifer_character_profile.md`'s power/secrecy rules), but needs a fresh decision once the new outline exists. *(Original, now-superseded plan: "The reveal happens during the anchor formation scene — Lucifer tells Elizabeth who 'Tristan' really is as part of the full disclosure that precedes her choosing to bond... Azrael is present for his own reveal, likely already in the room for the evaluation.")*
 
 ---
 
@@ -31,6 +41,8 @@ Before the Fall, Azrael was the keeper and guardian of the Garden of Eden — a 
 Someone had to remain on Earth to watch over humanity now that death existed as a consequence of the Fall. Azrael stayed behind for that duty. To compensate for the burden, God made him stronger — so the full weight of every death's pain doesn't destroy him. He feels the *entire* cost each time, in full, but his enhanced fortitude reduces what should be devastating down to something that registers as a flick.
 
 **Resolved — refined mechanic:** Azrael doesn't simply feel death's pain by proximity. At the moment of death, the human's pain itself is sent across to him — "the idea of the human's pain" — and he absorbs it, so the person can pass on in peace. This applies universally, to every human death, everywhere. In effect, it's a continuous, unglamorous mercy he provides to all of humanity, despite resenting both the role and the man he blames for putting him in it.
+
+**2026-09-11: temporarily reassigned.** For the duration of this arc, the death-duty has been passed to a different angel so Azrael can focus on containing Lucifer instead. The replacement angel is not yet named or detailed — open item for Creative Partner/author to fill in if the story ever needs to show or reference them directly. Whether this reassignment itself becomes a plot thread (resentment at losing the role he "hates but is his," worry about the substitute, the duty coming back to him) is undecided — flag to the author before assuming either way.
 
 ---
 
@@ -52,7 +64,7 @@ He is, in his own right, a warden — of death, the way Lucifer is warden of sin
 
 **The bonds he doesn't understand:** Lucifer forms numerous Travel Bonds with humans on Earth (Eden, James, and others) — low-oversight connections he can initiate without requiring Azrael's direct evaluation. Azrael is genuinely, professionally skeptical of this pattern: every bond is a fresh risk to the secrecy mandate he's personally responsible for upholding, and he doesn't understand why Lucifer keeps forming so many. What he doesn't realize is that Lucifer is doing this *deliberately* — specifically so Azrael isn't pulled away from his real work (absorbing the pain of every human death) to personally oversee each one. What reads to Azrael as recklessness is, in fact, an unacknowledged kindness aimed squarely at protecting his time. **Resolved:** Azrael does learn the real reason — but not through a planned confession. At some point he reaches a breaking point and confronts Lucifer directly, frustrated that he seems to be treating the bonds casually or joking around about something Azrael takes seriously. Lucifer tells him then, matter-of-factly, as a response to being called out rather than as a grand gesture. He wasn't keeping it secret to be modest — he just never thought it needed saying. This revelation softens Azrael gradually in the lead-up to the climax, but Wrath remains the final trigger for full forgiveness.
 
-**Standing craft rule (locked 2026-09-04): Tristan challenges every one of Lucifer's bonds, every time they are truly alone together — no exceptions, not just a periodic beat.** "Alone" includes telepathically, even with humans physically present, since the bond channel is silent and no one else hears it (per the Divine & Telepathic Speech formatting rule) — challenge him telepathically whenever a human is around and the objection needs to happen in real time, and aloud only when no human is present at all. This is a recurring texture beat, not a one-time confrontation building toward the "breaking point" scene above — that scene is where it finally boils over into something bigger, but the day-to-day skepticism should be visible well before that, starting with Elizabeth's Travel Bond in "Park".
+**Standing craft rule, reworked 2026-09-11: Tristan challenges/checks Lucifer's power use, every time they are truly alone together — no exceptions, not just a periodic beat.** This replaces the old "challenges every bond" version — the thing he's now watching for is power abuse, not bond formation (Power Bond/Full Anchor are cut; only Travel Bond remains, and it isn't the point of friction anymore). "Alone" includes telepathically, even with humans physically present, since the bond channel is silent and no one else hears it (per the Divine & Telepathic Speech formatting rule) — challenge him telepathically whenever a human is around and the objection needs to happen in real time, and aloud only when no human is present at all. This is recurring texture, escalating into the physical fights described above, not a one-time confrontation.
 
 **The turning point:** Azrael has to find it in himself to forgive Lucifer by accepting that Lucifer never knew what the gift would cost — extending, personally and emotionally, the grace the cosmology already grants him structurally ("not a rebel"). This is the moment Azrael's wall comes down, mirrored against Lucifer's own walls coming down with Elizabeth.
 
@@ -62,7 +74,9 @@ He is, in his own right, a warden — of death, the way Lucifer is warden of sin
 
 ---
 
-## FORMAL ROLE (per bible, now understood as one being)
+## FORMAL ROLE — STALE, 2026-09-11 (kept for historical record only, do not use for new chapters)
+
+*Everything below this line describes the old Power Bond/Full Anchor system and chapters that have since been scratched. It is preserved so the reasoning isn't lost, not because it's current. A rewritten version, matching the containment role above, is needed once the new outline exists.*
 
 - Earth-side evaluator and enforcer of tether safety.
 - Never leaves Earth — his death-duty (see Origin) is constant and universal, so he cannot travel to Hell even briefly. He does not accompany Lucifer there or back; he is assigned as chaperone by God's decree while Lucifer is still in Hell ("Breach") and is simply already waiting in the apple orchard when Lucifer lands ("Arrival").

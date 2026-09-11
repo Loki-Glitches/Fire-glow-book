@@ -4,9 +4,19 @@
 
 ---
 
-## HE IS NOT ALL-KNOWING (locked 2026-09-04, read before writing any Adrian/Lucifer scene on Earth)
+## MAJOR REWORK IN PROGRESS (2026-09-11) — read this before trusting anything below
 
-This has slipped into the prose repeatedly and needs to stop being a recurring problem. On Earth, before any bond, Lucifer has **zero abilities — none** (see `bible/bond_system_reference.md` Stage 1). Even after a Travel Bond forms, that stage unlocks nothing either. He is, mechanically and narratively, an ordinary person with no powers until a Power Bond forms. He does not get to be right about things he has no way of knowing, and he does not get to know things about a character (including Elizabeth) beyond what's been actually established as disclosed to him.
+The author is reworking Lucifer's core characterization and the power/bond system that governs him. **Everything below this notice is being revised; treat sections not yet updated with the 2026-09-11 tag as potentially stale, not authoritative, until Creative Partner has passed over them.** Chapters "Breach" through "Dress" have been scratched entirely because they were written under the old system. "Morning" is unaffected and stays as the author's own protected draft.
+
+**What's changed, in brief (full detail in the sections below and in `bible/bond_system_reference.md`):**
+- Lucifer has power from the start of the book. It is no longer gated by a Travel Bond → Power Bond → Full Anchor progression — Power Bond and Full Anchor are cut entirely.
+- The constraint on his power is behavioral/secrecy-based, not tier-based: he's under strict orders never to reveal his own divinity (unless a human arrives at the truth independently — that's allowed to stand), never to reveal why he's here, and never to use power where a human can physically witness it (if he must, he passes it off as stage magic).
+- His baseline personality is volatile — snide, sarcastic, angry, lashes out at small things — softening in small, informal beats over the book with a real acceleration once he falls for Elizabeth. The old named emotional ladder (Numbness→Calm→Beauty/Desire→...→Self-forgiveness) is retired entirely; there is no formal staged-unlock system replacing it.
+- Travel Bond survives as the only bond tier, same tether/range mechanic as before — he has to stay attached to either Azrael or Elizabeth once she knows the truth.
+
+## HE IS NOT ALL-KNOWING (epistemic rule — still fully in force, only the power-gating language below it is retired)
+
+This has slipped into the prose repeatedly and needs to stop being a recurring problem. He does not get to be right about things he has no way of knowing, and he does not get to know things about a character (including Elizabeth) beyond what's been actually established as disclosed to him. **(2026-09-11: this is now an epistemic rule only — he can have power, per the rework above, but that's separate from what he's allowed to know as fact.)**
 
 **Concrete failure modes already caught and fixed — do not repeat these:**
 - Correctly diagnosing a mechanical problem (a fountain's broken pump, by sound, in a town he'd been in for two hours) — cut from "Convergence". If he doesn't know something, the character should say so plainly, not produce an uncannily accurate guess.
@@ -19,6 +29,8 @@ This has slipped into the prose repeatedly and needs to stop being a recurring p
 ---
 
 ## ORIGIN / BACKSTORY
+
+**The original angel (added 2026-09-11).** Lucifer was the first angel — God gave him his form, and every angel made after was patterned in Lucifer's image. This is why he's the one being who can bond across both alignments (light and dark — his bond to Lillith, his bond to Azrael) when no other angel can: he's the template, not just an instance of it. Not God's literal offspring — a being God made, not fathered — but God's most devoted worshipper specifically because God could bring about existence from nothing, a thing no angel, Lucifer included, could do. His own gift was creation on a smaller scale — art, music, the things he made — and it was specifically that gift God loved him for.
 
 Before creation, Lucifer existed outside of time and space — present but powerless, with no context. God found him and took him along as He built everything. As God worked on humanity, Lucifer explored freely — a beautiful being who spent his days singing, dancing, and creating small things. God's son in this era. No other angels yet on Earth.
 
@@ -54,7 +66,7 @@ Elizabeth resembles Eve in exactly one place: **her eyes.** Nothing else. Person
 
 ---
 
-## EMOTIONAL ARC — STONE COLD TO JOYFUL
+## EMOTIONAL ARC — STONE COLD TO JOYFUL (reworked 2026-09-11 — no formal ladder)
 
 Lucifer's arc is not from broken to healed in a conventional sense. It is from **ancient and weathered back to something close to who he was before the Fall** — before the weight of everything landed on him permanently.
 
@@ -62,14 +74,11 @@ In the garden he sang, danced, created, gave freely, laughed. He was young in th
 
 The arc of this book is the recovery of that lightness. Not emotional maturity — he already has too much of that. Less guarded. Less controlled. More present. By the end he laughs, sings, dances on a sidewalk, cheers for someone without thinking. That is the destination. Elizabeth doesn't teach him to feel — she gives him permission to be young again.
 
-**The ladder in this context:**
-1. **Numbness / boredom** — stone cold. Ancient. Has been holding everything in place for so long he's stopped noticing the effort.
-2. **Calm** — the first crack. He stops holding quite so tightly.
-3. **Beauty / Desire** — the world has color again. He notices things.
-4. **Joy** — he laughs. He sings. He dances on a sidewalk. He cheers for her without thinking. This is the most visible shift — the reader sees it before he does.
-5. **Generosity** — he gives freely again, the way he did in the garden before giving cost him everything.
-6. **Love** — the full return. Not just warmth — the specific, terrifying joy of loving one person.
-7. **Self-forgiveness** — what happens when you've found your way back to yourself and finally stop punishing the person who got lost.
+**Shape of the arc (no named stages, informal, author's explicit call):**
+- **Baseline, start of book:** volatile and caustic — snide, sarcastic, angry, annoyed, lashes out at small things. Not numb/flat like the old system had him; actively prickly.
+- **Through most of the book:** small, ungoverned softening beats scattered throughout — little things, no fixed count, no required order, no name attached to any of them. A future Continuity Checker pass should be able to sanity-check "does this chapter read as before or after he's falling for her," not track a numbered stage.
+- **The hinge point:** falling in love with Elizabeth visibly accelerates the change — this is the moment "small things" becomes a real, noticeable shift toward being a better person, not just fewer sharp edges.
+- **Destination:** the joyful, unguarded version of himself from before the Fall — laughs, sings, dances, gives freely, cheers for someone without thinking.
 
 He once loved Eve. When that love collapsed after her betrayal, it didn't just end one relationship — it triggered a cascading collapse of every other positive emotion connected to it. **Love is the root system; sever it, and the whole canopy goes dark with it.**
 
@@ -116,21 +125,33 @@ Hell's containment system has been quietly failing for a long time — souls are
 
 ---
 
-## EMOTIONAL LADDER — HIS PATH BACK
+## POWER & SECRECY (replaces the old bond-tier power gating, locked 2026-09-11)
 
-**Resolved — full emotional ladder:**
-1. **Numbness / boredom** — opening state.
-2. **Calm** — first unlock, end of Section 2. Transfiguration output: restorative/stabilizing forms.
-3. **Beauty / Desire** — appreciation of beauty returns, then the capacity to want something for himself. Transfiguration output: aesthetic/attractive forms.
-4. **Generosity** — the capacity to give again; direct reversal of his origin wound. Transfiguration output: material abundance.
-5. **Love** — returns before the climax, meaning he fights for Elizabeth at full emotional capacity rather than on reflex alone.
-6. **Protective Rage (Wrath)** — fires at the climax. Not a recovered emotion — a reflex that never left, now backed by fully restored Love rather than firing from numbness. Transfiguration output: weapons/destructive constructs.
-7. **Self-forgiveness** — entirely separate from Love returning. Comes after Elizabeth falls in love with him and consoles him — being loved back, plainly, and letting himself receive it. He feels an enormous lift off his shoulders. Not earned through heroism or suffering, but through finally being on the receiving end of love without flinching from it. After an origin wound caused by a gift being weaponized against him, receiving love openly is the actual cure.
+Lucifer has power from the beginning of the book — it is not unlocked gradually by bond progression (see `bible/bond_system_reference.md`, Power Bond and Full Anchor are both cut). What constrains him is behavioral, not mechanical:
+
+- **Never reveals his own divinity himself.** Exception: if a human arrives at the truth independently — through belief or their own gathered evidence — that's allowed to stand; he doesn't have to deny it retroactively once someone has genuinely figured it out on their own.
+- **Never reveals why he's here** — his actual mission/purpose stays secret regardless of whether his divinity is known.
+- **Never uses power where a human can physically witness it.** If he has to use it somewhere he might be seen, he passes it off as stage magic/trickery rather than admit it's real.
+- **Still fully commandment-bound** (see Divine Purity & Truth, below) — but works their broadness deliberately and knowingly, more manipulative in intent than merely careful.
+- These are orders from above (God/the angelic hierarchy), not self-imposed caution — breaking them has consequences, which is part of why Azrael's new job is to contain him (see `bible/tristan_azrael_character_profile.md`) rather than just evaluate him.
+
+## ARTISTRY, IN PRACTICE (ties to the ARTISTRY section above — expanded 2026-09-11)
+
+Creation being "the one part of him the Fall never reached" (see ARTISTRY, above) means he never actually stopped making things, even at his most numb/caustic — it's not something that unlocks with emotional progress, it's something he's always privately done. Concretely, on Earth:
+
+- **Paints, first.** A private habit, not performed for anyone. Elizabeth discovers it before she knows the truth about him — stumbling on him mid-act, or finding something he made and didn't intend to leave out (not him volunteering it). This is her first real evidence that he's hurt rather than simply hostile, and it feeds directly into her core trait of being drawn to things she perceives as broken (see `bible/elizabeth_character_profile.md`).
+- **Sings, later — only after she knows who he is, and only because she pushes him into it.** A second, more vulnerable escalation: painting is something she catches him at; singing is something she has to coax out of him. Don't let this happen before disclosure, and don't let it happen without her actively forcing the issue.
+- **Why it matters this much:** it was never about competing with God — it's simply that creating (art, music, the small things he used to make) is innately who he is, and it was specifically the thing God loved him for, back before the Fall. When Elizabeth catches him painting, she's not looking at wound-tourism — she's looking at the one unbroken piece of who he was before everything else got taken.
 
 ---
+
+## RELATIONSHIP WITH ELIZABETH (reworked 2026-09-11)
+
+Purely transactional at first, on his side. She genuinely hates him early on — his baseline caustic personality (snide, sarcastic, angry) is aimed at her as much as anyone. Constant friction and open arguing is the default mode of their scenes, not an occasional beat — he can't kill her, so there's real heat but no real danger. She stays in his orbit anyway because she's drawn to what she reads as broken in him (see her own profile) — not because he's charming or because the plot needs her to. Once she independently figures out what he is, he's free to use power openly around her, per the secrecy rules above.
 
 ## WHAT THIS CHANGES ABOUT THE STORY
 
 - The book's real engine isn't just "stop Eve" — it's Lucifer's redemption, with self-forgiveness as the actual destination.
 - His pursuit of Eve in the early chapters isn't just duty; it carries an undercurrent of old guilt and grief he doesn't yet let himself examine.
 - His attraction to Elizabeth and to ordinary life in her town isn't just romance — it's him risking the exact catastrophe that broke him the first time, on purpose, without consciously admitting that's what he's doing.
+- **2026-09-11:** this attraction now starts from open hostility rather than quiet professional distance — the "risking catastrophe" framing above still holds, it's just buried under a lot more arguing before either of them would admit anything's happening.

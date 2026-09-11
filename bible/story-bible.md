@@ -2,9 +2,17 @@
 
 ---
 
+## MAJOR REWORK IN PROGRESS (2026-09-11) — read this before trusting §§3, 4, 5, 6, 7, 17 below
+
+The author is reworking Lucifer's characterization, the bond/power system, and Azrael's role. **The authoritative, up-to-date versions of these live in the companion docs** — `bible/lucifer_character_profile.md`, `bible/tristan_azrael_character_profile.md`, `bible/elizabeth_character_profile.md`, `bible/bond_system_reference.md` — all updated 2026-09-11. Sections §3 (Bond System), §4 (Transfiguration), §5 (Lucifer), §6 (Elizabeth), §7 (Azrael), and §17 (Lucifer's Artistry) below duplicate older versions of that same material and have NOT been individually reconciled yet — treat them as stale wherever they conflict with the companion docs, which win. §1 and §2 below have been lightly touched to stay accurate; the rest of the file (Eve, Sam, Sophie, Jack & Claire, Forgiveness Theme, Lillith, Vincent, God's Role, Timeline, Climax Mechanic) is believed unaffected but hasn't been individually re-verified against the rework either.
+
+Chapters "Breach" through "Dress" are scratched (written under the old system); "Morning" is unaffected.
+
 ## 1. CORE PREMISE
 
 Lucifer is a divine being assigned by God to rule Hell as an eternal executor of sin containment — not a rebel, but a warden who never asked for the job. When Eve escapes Hell's prison, Lucifer believes he is sent to Earth to recapture her. He is not. God did not engineer Eve's escape — she broke out on her own through brute force. But God recognized the opportunity it created and decided to work with it: placing Lucifer in a specific town, at a specific time, near a specific person. Elizabeth is not an accident. God saw the door open and walked through it. Lucifer falls for her and for the ordinary texture of human life in her town. Eve, still in love with Lucifer and unaware he stopped loving her the moment she betrayed him, attempts to kill Elizabeth and take her place. The story is fundamentally about forgiveness: Lucifer learning to forgive himself, Azrael learning to forgive Lucifer, and what happens to the one person — Eve — who never tries.
+
+**2026-09-11 additions, still compatible with the above:** Lucifer is under strict orders never to disclose his own divinity or his mission himself (an exception exists if a human works out the truth independently), and never to use power where a human can witness it. He has a shared home base with Azrael now — a vacant mansion at the top of the town hill, which he buys. Elizabeth starts out genuinely hating him rather than warily curious; see `bible/elizabeth_character_profile.md` for the reworked dynamic. Full detail on all of this lives in the companion docs referenced above.
 
 ---
 
@@ -19,6 +27,10 @@ Lucifer is a divine being assigned by God to rule Hell as an eternal executor of
 
 **Azrael never leaves Earth.** His duty — absorbing the pain of every human death, everywhere, so the dying can pass in peace — is constant and universal; there is no moment he can be spared from it. He does not enter Hell, not even briefly, not even for Lucifer. Any scene bringing them together while Lucifer is still in Hell must have Azrael addressed remotely (by God, or via the Lucifer–Azrael bond) rather than physically present. Once Lucifer is on Earth, Azrael is simply already there.
 
+**2026-09-11: this duty is temporarily reassigned** to a different, unnamed angel for the current arc, freeing Azrael to focus on containing Lucifer instead. See `bible/tristan_azrael_character_profile.md` § ORIGIN.
+
+**New location, 2026-09-11:** Lucifer buys a vacant mansion at the top of the town hill — a shared home base for him and Azrael. Site of at least some of their physical confrontations (see Azrael's profile).
+
 ### Divine Authority Hierarchy
 1. **God** — absolute authority. Final override. Authorizes Full Bonds when institutional revocation has occurred.
 2. **Azrael / "Tristan"** — Earth-side evaluator and enforcer. Approves Full Bonds on first-time formation. Cannot re-approve broken bonds (that goes to God). Can institutionally suspend bonds.
@@ -28,6 +40,8 @@ Lucifer is a divine being assigned by God to rule Hell as an eternal executor of
 Telepathic bonds exist only between beings of the same alignment — light to light, dark to dark. Beings of opposite alignments cannot hold a bond with each other. This is a hard cosmological rule, not a preference.
 
 **The exception is Lucifer.** As warden of Hell he exists on the boundary between light and dark — not fully one or the other. This is not just a job title; it is what he became when God cast him in and made him responsible for containing what is darkest in creation while remaining pure himself. Because he straddles both sides, he can hold bonds across the divide. No other being can.
+
+**2026-09-11 addition:** there's now a second, deeper reason this is uniquely true of him — he's the original angel. God gave him his form, and every angel made after was patterned in Lucifer's image. He's not just straddling both sides by function (Hell's warden); he's the template every other angel, on either side, was built from. See `bible/lucifer_character_profile.md` § ORIGIN / BACKSTORY.
 
 **Lucifer's bonds:**
 - **Lillith** (dark) — bidirectional but asymmetric. Lucifer contacts her when he needs something done from Hell's side (sourcing objects, managing the realm, delegating tasks). She contacts him only in emergencies. The ring commission in "Ring" is the model for how Lucifer uses this bond proactively.

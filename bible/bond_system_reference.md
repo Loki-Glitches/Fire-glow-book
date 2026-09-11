@@ -2,100 +2,67 @@
 
 *Companion document to the Master Story Bible. This is the authoritative version. Items marked **[OPEN]** need one more decision.*
 
----
+## MAJOR REWORK (2026-09-11) — read this first
 
-## BOND TIER AWARENESS (locked 2026-09-05)
-
-**Neither Lucifer nor Azrael can perceive a bond crossing into a new stage.** No physical sensation, no mental flag, nothing that announces "you can do X now." The only way either of them discovers a new threshold has been crossed is by attempting something and having it either work or not. This is already precedented on-page: the Travel Bond's ~20-foot range ("Garden" filler scene) was discovered exactly this way — neither brother knew the limit existed until Lucifer drifted past it and got yanked. The same blindness applies to every stage transition, Power Bond included.
-
-**Consequence:** a bond can cross a stage threshold in a given scene, and neither brother has any way of knowing it happened until Lucifer actually tries something that requires it — which may not be for several chapters, if nothing prompts him to try. Attempting an ability he does not yet have access to should read as a genuine, uncertain test on his part every time, never as a confident display he already knows will land — he can't tell the difference between "not yet unlocked" and "unlocked but untested" from the inside. Write these moments with real uncertainty on his side regardless of what the bible confirms will happen.
+**Power Bond and Full Anchor are cut entirely.** Lucifer has power from the start of the book — it is not gated by bond progression anymore. What constrains his power is behavioral/secrecy rules (never self-disclose divinity, never reveal the mission, never let a human witness power use) — see `bible/lucifer_character_profile.md` § "POWER & SECRECY." **Travel Bond is the only bond tier that survives**, and it now does one job only: it's the tether/proximity mechanic — who Lucifer has to stay near, not what he's allowed to do. Everything below Stage 2 in this file describes the old, cut system and is kept only as historical record.
 
 ---
 
-## STAGE 1 — NO BOND
+## STAGE 1 — NO BOND (retired as a power-gate, 2026-09-11)
 
-Lucifer has no ability whatsoever around an unbonded person. There should never be a circumstance where an unbonded person realizes Lucifer is an angel. If a thought begins to form in someone's mind, it dissolves automatically once he is far enough away — the person forgets the thought entirely without any dramatic intervention. Distance handles it on its own.
-
----
-
-## STAGE 2 — TRAVEL BOND
-
-**Unlocks:** Nothing. He is effectively a regular person. No power, no strength beyond human baseline.
-
-**Conditions:** Genuine friendship — the person just needs to know his personality and small details about him. No divine disclosure required.
-
-**Formation:** Self-initiated by Lucifer. Tristan does not oversee or approve these — he allows them without concern. This is how Lucifer builds his broader town network casually.
-
-### Travel Bond Range (established "Garden" filler scene; refined 2026-09-04)
-- **Effective range: approximately 20 feet from a bonded human anchor.** First discovered on-page when Lucifer drifted past it for the first time with Elizabeth as the anchor — neither he nor Azrael knew the limit existed beforehand, and they paced it out empirically afterward, testing repeatedly from different landmarks along Elizabeth's street (a mailbox, a fire hydrant, the far side of the street) until the boundary held consistent. Confirmed to be a full 20-foot radius around the anchor (tested from multiple directions), not a line-of-sight or straight-path trigger.
-- **With multiple Travel Bonds active, Lucifer can range between any of them.** He is not locked to a single anchor — if he drifts past 20 feet of one bonded person but is within 20 feet of a *different* Travel-Bonded person (any of them; see Stage 2's "expanding network of town residents"), nothing happens. He simply stays anchored to whichever bonded human he's currently near. This is why the mechanic can exist without hard-constraining every scene going forward: as his town network of Travel Bonds grows, the odds of him being outside all of their radii at once shrink. Early Act One/Two chapters, where Elizabeth may be his only Travel Bond in a given scene, are the ones most likely to actually trigger this.
-- **Only when NO Travel-Bonded person is within 20 feet of him does he get pulled to Azrael's current physical location** — the universal fallback. Experienced as violent, disorienting speed (distance collapsing almost instantly, not a clean teleport) rather than a controlled jump. This is not something Lucifer does himself — he has no self-directed ability at this stage (see Stage 1 above) — it is the bond/tether reacting on its own.
-- **This is NOT a "bond break."** No permanent consequence, no Memory Rule trigger (see "What Breaks a Bond" below) — keep the terminology distinct on the page. Use "pulled," "thrown," or "recalled" for this mechanic; reserve "broke/broken" exclusively for the three permanent conditions.
-- **Note on the "Garden" filler's own text:** the chapter's testing sequence concludes only that the range is "twenty feet in a circle, not twenty feet in a line" — it never asserts the anchor is Elizabeth *specifically* as opposed to any bonded human, since Elizabeth happened to be the only Travel Bond in range during that test. This is incomplete data on the characters' part, not a contradiction of the multi-anchor rule above. (An earlier draft of that scene had Azrael conclude aloud "It's not the direction, it's her" — that line was cut during a later comedic rewrite of the sequence and no longer appears on the page; this note is retained only so a future pass doesn't go looking for a line that isn't there.)
-- **[NARROWED, 2026-09-05] — the constraint is constant/always-active, not conditional.** "Dinner" establishes it firing every night Lucifer visits Elizabeth (Azrael escorting him back into range each time, growing more annoyed) — this settles the "always vs. conditional" question in favor of "always," at least for as long as Elizabeth is his only Travel Bond in a given scene (see the multi-anchor note above). Lucifer has since learned to manage it proactively: as of "Dinner" he leaves early enough to clear the distance out of sight of the house before the pull can trigger anywhere visible, which is why it hasn't caused a second near-miss with Sam or Elizabeth noticing. Still open: whether this fades in relevance once his town-wide Travel Bond network grows large enough that he's rarely outside every anchor's radius at once (per the multi-anchor note) — flag to the Director if a later chapter needs to establish that shift explicitly.
+**Old rule, no longer true:** "Lucifer has no ability whatsoever around an unbonded person." This is cut — he has power regardless of bond status now; the constraint is secrecy (see above), not bond tier. What still matters from the old Stage 1: an unbonded human has no special resistance to figuring things out, no different from anyone else — there's no longer a mechanic that makes an unbonded person "forget" a forming suspicion. Whether a human works out the truth is now just a matter of Lucifer's own secrecy discipline (or slips in it), same as with anyone he's tethered to.
 
 ---
 
-## STAGE 3 — POWER BOND
+## STAGE 2 — TRAVEL BOND (the only tier that survives)
 
-**Unlocks:** Superhuman strength (the ring reshape in "Arrival" is the model — see note below) plus the ability to pull small items from Hell (the ring in "Ring" is the model). **Not transfiguration** — that stays gated behind the emotional ladder's Calm stage ("Roof"+) regardless of bond tier, and even then only for that stage's own specific output type, never general utility.
+**Function, reworked 2026-09-11:** Travel Bond no longer "unlocks" anything — Lucifer's power isn't gated by it. Its only remaining job is the tether/proximity mechanic below: who he has to stay near, and what happens if he doesn't.
 
-**Conditions:** Lucifer must explain that he is divine AND what his mission is on Earth — **the name is part of this disclosure, not an optional extra (locked 2026-09-05).** Both disclosure halves (divine + mission, mission meaning the full "looking for someone named Eve") are required before Power Bond forms — not just one, and not a vaguer version of the mission half. **"Arrival"** has Lucifer name her directly to James and Claire ("Her name is Eve, but the name itself won't do you any good"). **"Park" was corrected to match (2026-09-05)** — it originally had Lucifer withhold the name from Elizabeth, but since Power Bond's strength was already demonstrated on-page in "Roof," the full disclosure (name included) has to have already happened by "Park," not later. Elizabeth has known the name "Eve" since "Park," same as James and Claire since "Arrival" — there is no divergence to track. **Sequencing matters: no ability display of any kind before both halves are actually disclosed, even within the same scene (corrected 2026-09-05 — "Arrival"'s ring reshape originally happened before the mission was disclosed, which isn't valid; fixed by reordering).**
+**Formation:** Self-initiated by Lucifer, friendship-based (he needs to know the person's personality and small details about them). Azrael doesn't oversee formation. **Once Elizabeth knows the truth about him, she becomes (or is confirmed as) a Travel Bond anchor** — he has to stay attached to either her or Azrael from that point on. Whether a Travel Bond exists between them *before* she knows is open — could be that the tether only locks in once she knows, or could be that ordinary friendship already formed one earlier and disclosure just makes it relevant. Flag to the author/Creative Partner before assuming either way.
 
-**Elizabeth's Power Bond forms at the end of "Park", not later (locked 2026-09-05).** Checked directly against the shipped text: at the park bench, Lucifer himself discloses the mission ("We're looking for someone... A young woman. I have a name, but it wouldn't do you any good..."); shortly after, Azrael — at Lucifer's own explicit telepathic instruction ("*Say it.*") — discloses the divine half ("We're angels."). Azrael speaking those words at Lucifer's direct request counts as Lucifer's own disclosure, not a proxy loophole around it; both halves are satisfied inside the same chapter. This means Elizabeth's bond advances straight through Stage 2 (Travel Bond, formed earlier the same chapter once the friendship threshold was met — see `bible/unit-plans.md` "Park") to Stage 3 (Power Bond) by the chapter's end. **The ability itself goes unused on-page through "Dinner"** — Lucifer has had superhuman strength available around her since "Park", he's simply had no occasion (or, pre-Calm, much inclination) to use it. "Roof"'s roof scene is the first *practical* use, not a new unlock — no fresh disclosure is needed to justify it.
-
----
-
-## STAGE 4 — FULL ANCHOR
-
-**Unlocks:** Lucifer's full transfiguration ability and all Hell mechanics.
-
-**All five conditions required:**
-1. The person truly believes he is Lucifer (genuine acceptance, not just intellectual awareness)
-2. The person explicitly agrees to see what he can do
-3. The person passes Tristan's formal evaluation
-4. The person has some positive emotional connection to him
-5. The person has not previously broken a bond with him
-
-**God's approval** is only required when reconnecting after a bond break — not for clean first-time bonds.
+### Travel Bond Range (established "Garden" filler scene, written under the old outline — mechanic itself still holds)
+- **Effective range: approximately 20 feet from a bonded human anchor.** Neither Lucifer nor Azrael knew this limit existed until Lucifer drifted past it once and got pulled — discovered empirically, not something either of them could have predicted in advance. Confirmed to be a full 20-foot radius around the anchor, not a line-of-sight or straight-path trigger.
+- **With multiple Travel Bonds active, Lucifer can range between any of them** — not locked to a single anchor. He stays anchored to whichever bonded human he's currently near; the pull only fires when he's outside 20 feet of *all* of them at once.
+- **Only when NO Travel-Bonded person is within 20 feet of him does he get pulled to Azrael's current physical location** — the universal fallback. Experienced as violent, disorienting speed (distance collapsing almost instantly, not a clean teleport), not something he does himself — the bond/tether reacting on its own. Given the new "attached to either Azrael or Elizabeth" framing, this fallback is likely to matter more directly now, not just as an edge case.
+- **This is NOT a "bond break."** No permanent consequence — keep the terminology distinct on the page. Use "pulled," "thrown," or "recalled"; reserve "broke/broken" for an actual permanent break (see below).
+- **[OPEN, 2026-09-11]** Whether the exact 20-foot figure and "escorted back by Azrael, growing more annoyed" texture from the old outline survive into the new plot, or whether this needs rebuilding now that containment (not evaluation) is Azrael's job — likely still usable as-is, but not yet confirmed against new chapter content.
 
 ---
 
-## WHAT BREAKS A BOND (personal failure — PERMANENT)
+## STAGE 3 — POWER BOND — CUT, 2026-09-11 (historical record only, do not use)
 
-All three require genuine, sustained intent — not a momentary reaction:
-1. The bonded person explicitly states they no longer want the bond
-2. The bonded person develops genuine, sustained hatred toward Lucifer
-3. The bonded person misuses the bond or idolizes Lucifer through it (Anti-Idolatry Rule)
+*The old system gated superhuman strength and small Hell-conjuring behind a dual disclosure (divine nature + mission) forming this tier. This tier no longer exists — Lucifer has power from the start regardless of any disclosure. Kept below only so the reasoning isn't lost.*
 
-### What the Bond Break Takes (Memory Rule — Revised)
+Old text: Unlocked superhuman strength plus the ability to pull small items from Hell. Required Lucifer to disclose both that he's divine and what his mission is — both halves, name included, before any ability display. Formed for Elizabeth by the end of "Park" under the old outline.
 
-When a bond breaks, the person does not lose all memory of Lucifer. They lose the **Lucifer** layer specifically — the divine truth, the full history, the Genesis story, the knowledge of what he really is. What remains is **Adrian** — the person they fell in love with, the ordinary version of him, every moment that happened before the full disclosure.
+---
 
-She remembers loving him. She just loves an incomplete version of him now.
+## STAGE 4 — FULL ANCHOR — CUT, 2026-09-11 (historical record only, do not use)
 
-This is a more specific and more devastating cost than full memory loss. She is reaching for something real that has been partially hollowed out. He knows exactly what she's missing and she doesn't.
+*The old system gated full transfiguration and all Hell mechanics behind five conditions (genuine belief, explicit agreement, Tristan's formal evaluation, positive emotional connection, no prior broken bond). This tier no longer exists.*
 
-**For Lucifer:** The grounds of his love for her were that she knew everything and chose him anyway. She saw the full picture — Lucifer, the Fall, all of it — and said yes. That specific yes is gone. What remains is her loving Adrian, not Lucifer. He has to decide whether that is enough.
+---
+
+## WHAT BREAKS A BOND (personal failure — PERMANENT) — **[OPEN, 2026-09-11] needs a fresh look**
+
+The old three conditions (explicit rejection, sustained hatred, misuse/idolization) may still be reasonable for breaking a Travel Bond, but the elaborate Memory Rule below was built specifically around Full Anchor's deep-disclosure premise (losing "the Lucifer layer" while keeping "the Adrian layer"). With Full Anchor cut, it's not yet decided whether losing a Travel Bond should cost any memory at all, a lesser version of it, or nothing mechanical — just relational damage. Flag to the author before writing a bond-break scene under the new system.
+
+*(Old text, preserved for reference: "When a bond breaks, the person does not lose all memory of Lucifer. They lose the Lucifer layer specifically — the divine truth, the full history, the Genesis story, the knowledge of what he really is. What remains is Adrian — the person they fell in love with, the ordinary version of him, every moment that happened before the full disclosure.")*
 
 ---
 
 ## INSTITUTIONAL REVOCATION (suspension — NOT permanent)
 
-Tristan and God can suspend a bond directly if they judge something is amiss. This is a suspension, not a break — it can be re-approved later if concerns resolve.
+Azrael and God can still suspend a bond directly if they judge something is amiss — reversible, not the same as a break. Still plausible under the new containment-focused role, though not yet used in any written chapter.
 
 ---
 
-## EVE'S PRISON ESCAPE — EARTH ROUTING RULE
+## EVE'S PRISON ESCAPE — EARTH ROUTING RULE (unaffected by this rework)
 
 When a soul escapes Hell's prison through brute force on its own, it is automatically routed to Earth — the same mechanic as a person who dies and is revived through CPR, just across a longer timeframe.
 
 ---
 
-## CURRENT BOND HOLDERS (as of "Terrified")
+## CURRENT BOND HOLDERS — RESET, 2026-09-11
 
-**Full Anchor:** Elizabeth (broken in Act Three — restored to Travel Bond by God)
-**Power Bond:** James, Claire, Sam, Sophie (all know he is divine and his mission)
-**Travel Bond:** Expanding network of town residents (friendship-based, no divine disclosure)
-
-*(Earlier state, for reference: Elizabeth held Power Bond from the end of "Park", well before Full Anchor forms in the outline — see the Stage 3 note above.)*
+The old holder list (James/Claire/Sam/Sophie on Power Bond, Elizabeth on Full Anchor) no longer applies — those chapters are scratched and those tiers are cut. As of this rework, no chapters exist yet under the new outline, so there's nothing to record here. Update this section once new chapters establish who's Travel-Bonded to whom.
