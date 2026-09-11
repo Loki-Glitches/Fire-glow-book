@@ -6,9 +6,9 @@ Keep entries short and concrete — what changed for this character in this chap
 
 ---
 
-## Baseline (before Chapter 2 — established in "Morning")
+## Baseline (before "Hell" — established in "Morning")
 
 - **Elizabeth:** Outwardly cheerful, forward-moving, has a life and places to be. Carries something she won't name — not depressed, quietly overextended. Sam is her caretaker, warm and teasing; she doesn't burden him with her own weight. Physically: a bump on her forehead (alarm/fall incident), late summer, pre-college.
-- **Lucifer, Azrael, Sebastian, Lillith:** Not yet on the page. First appearance is Chapter 2.
+- **Lucifer, Azrael, Sebastian, Lillith:** Not yet on the page. First appearance is "Hell."
 
 *(Add a new dated entry below after each chapter is written — a few lines per character who changed, not a scene recap.)*

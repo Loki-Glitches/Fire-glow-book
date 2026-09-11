@@ -52,9 +52,9 @@
 
 ---
 
-## [UNTITLED — second chapter, title TBD] — planning in progress (2026-09-11)
+## "Hell" — planning in progress (2026-09-11)
 
-**POV: Lucifer. Opens in Hell.** Raw outline from the author, not yet finalized into a Writer prompt. Referred to here as "the second chapter" only until it has a real title — per the no-numbers convention, it must not be called "Chapter 2" anywhere once titled.
+**POV: Lucifer.** Titled "Hell" (2026-09-11). Raw outline from the author, not yet finalized into a Writer prompt.
 
 - Sebastian bangs on the throne room door. Lucifer opens it lazily, waves his hand, doors fly open and throw Sebastian into the room. Lucifer is on his throne, head on hand, bored. **Sebastian should read as on edge** — dialing up his established "worrier underneath the competence" trait (see `bible/sebastian_character_profile.md`) — ideally rattled even before he has reason to be, so the later bad news lands as confirmation of a dread he already had.
 - Describe the throne room and the Tree of Knowledge (already established in `bible/story-bible.md` §2 and `bible/lucifer_character_profile.md` — the tree went to Hell with him, appears in the throne room as a permanent reference to his origin wound).
