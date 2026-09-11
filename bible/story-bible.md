@@ -4,7 +4,7 @@
 
 ## MAJOR REWORK IN PROGRESS (2026-09-11) — read this before trusting §§3, 4, 5, 6, 7, 17 below
 
-The author is reworking Lucifer's characterization, the bond/power system, and Azrael's role. **The authoritative, up-to-date versions of these live in the companion docs** — `bible/lucifer_character_profile.md`, `bible/tristan_azrael_character_profile.md`, `bible/elizabeth_character_profile.md`, `bible/bond_system_reference.md` — all updated 2026-09-11. Sections §3 (Bond System), §4 (Transfiguration), §5 (Lucifer), §6 (Elizabeth), §7 (Azrael), and §17 (Lucifer's Artistry) below duplicate older versions of that same material and have NOT been individually reconciled yet — treat them as stale wherever they conflict with the companion docs, which win. §1 and §2 below have been lightly touched to stay accurate; the rest of the file (Eve, Sam, Sophie, Jack & Claire, Forgiveness Theme, Lillith, Vincent, God's Role, Timeline, Climax Mechanic) is believed unaffected but hasn't been individually re-verified against the rework either.
+The author is reworking Lucifer's characterization, the bond/power system, and Azrael's role. **The authoritative, up-to-date versions of these live in the companion docs** — `bible/lucifer_character_profile.md`, `bible/tristan_azrael_character_profile.md`, `bible/elizabeth_character_profile.md`, `bible/bond_system_reference.md` — all updated 2026-09-11. Sections §3 (Bond System), §4 (Transfiguration), §5 (Lucifer), §6 (Elizabeth), §7 (Azrael), and §17 (Lucifer's Artistry) below duplicate older versions of that same material and have NOT been individually reconciled yet — treat them as stale wherever they conflict with the companion docs, which win. §1 and §2 below have been lightly touched to stay accurate; the rest of the file (Eve, Sam, Sophie, Jack & Claire, Forgiveness Theme, Lilith, Vincent, God's Role, Timeline, Climax Mechanic) is believed unaffected but hasn't been individually re-verified against the rework either.
 
 Chapters "Breach" through "Dress" are scratched (written under the old system); "Morning" is unaffected.
 
@@ -44,10 +44,10 @@ Telepathic bonds exist only between beings of the same alignment — light to li
 **2026-09-11 addition:** there's now a second, deeper reason this is uniquely true of him — he's the original angel. God gave him his form, and every angel made after was patterned in Lucifer's image. He's not just straddling both sides by function (Hell's warden); he's the template every other angel, on either side, was built from. See `bible/lucifer_character_profile.md` § ORIGIN / BACKSTORY.
 
 **Lucifer's bonds:**
-- **Lillith** (dark) — bidirectional but asymmetric. Lucifer contacts her when he needs something done from Hell's side (sourcing objects, managing the realm, delegating tasks). She contacts him only in emergencies. The ring commission in "Ring" is the model for how Lucifer uses this bond proactively.
+- **Lilith** (dark) — bidirectional but asymmetric. Lucifer contacts her when he needs something done from Hell's side (sourcing objects, managing the realm, delegating tasks). She contacts him only in emergencies. The ring commission in "Ring" is the model for how Lucifer uses this bond proactively.
 - **Azrael** (light) — a passive, always-present connection. Lucifer can pull information from Azrael with zero effort, which is precisely why God kept Azrael uninformed of the real plan.
 
-**Lillith and Azrael** cannot bond with each other. The rule holds for everyone except Lucifer.
+**Lilith and Azrael** cannot bond with each other. The rule holds for everyone except Lucifer.
 - Lucifer → **Adrian**
 - Azrael → **Tristan**
 These are enforced measures to keep divinity concealed from humanity, not improvised cover stories. Use "Tristan" and "Adrian" in all human-facing scenes.
@@ -250,9 +250,9 @@ She concludes that Lucifer must still love her, simply using Elizabeth as a subs
 She breaks out specifically to find Lucifer, still in love with him. The instant she exits her cell, she's automatically routed to Earth. She arrives in town, sees him with Elizabeth, and decides to remove the obstacle.
 
 ### Language
-Eve speaks modern English — taught during her imprisonment by Lillith, who is the only being permitted inside her cell and who knew her the second longest after Lucifer. Lillith taught her languages deliberately, as a method of torture: giving Eve the tools to understand precisely what she'd lost, what was being said around her, and exactly how long she was going to be there. Language as a precision instrument. It was not kindness or boredom — it was Lillith finding new ways to get inside Eve's head.
+Eve speaks modern English — taught during her imprisonment by Lilith, who is the only being permitted inside her cell and who knew her the second longest after Lucifer. Lilith taught her languages deliberately, as a method of torture: giving Eve the tools to understand precisely what she'd lost, what was being said around her, and exactly how long she was going to be there. Language as a precision instrument. It was not kindness or boredom — it was Lilith finding new ways to get inside Eve's head.
 
-The irony: Lillith armed the person she hates most. Eve's ability to communicate on Earth, to pursue Lucifer directly, to operate independently — all of it comes from Lillith.
+The irony: Lilith armed the person she hates most. Eve's ability to communicate on Earth, to pursue Lucifer directly, to operate independently — all of it comes from Lilith.
 
 ### The Divine Language — Once Only
 Eve knows the divine language — the original tongue spoken in Genesis, before written language existed. Lucifer speaks it natively. It is the language of before everything went wrong, of when they loved each other, and it reaches him in a way nothing else can.
@@ -311,7 +311,7 @@ Lucifer eventually connects the dots: souls fail to achieve forgiveness in Hell 
 
 Hell's regent in Lucifer's absence. The first demon. Strict, capable, and the only being in Hell permitted to alter its structure within the limits Lucifer allows — reinforcing cells, commanding demons, maintaining order.
 
-She is also the only person permitted inside Eve's cell. She knows Eve the second longest of anyone after Lucifer, and that proximity became its own form of expertise. She taught Eve languages as a method of torture — giving her the tools to understand precisely what she'd lost, what was being said around her, and how long she was going to be there. The irony: Eve's fluency on Earth, her ability to pursue Lucifer directly, is entirely Lillith's doing. Lillith armed the person she hates most.
+She is also the only person permitted inside Eve's cell. She knows Eve the second longest of anyone after Lucifer, and that proximity became its own form of expertise. She taught Eve languages as a method of torture — giving her the tools to understand precisely what she'd lost, what was being said around her, and how long she was going to be there. The irony: Eve's fluency on Earth, her ability to pursue Lucifer directly, is entirely Lilith's doing. Lilith armed the person she hates most.
 
 She carries a direct telepathic bond to Lucifer that she uses only when absolutely necessary. That restraint is what makes her end-of-book contact meaningful: if she's reaching out, something is genuinely wrong.
 
@@ -383,7 +383,7 @@ The only moment neither of them retreats. It works because the usual reasons to 
 | 21 | After the Apology | Elizabeth | He enters her room. She tells him to stop deflecting. He agrees. She asks about Eden. He answers honestly. She declares karaoke next Friday. |
 | 22 | Settle the Score | Lucifer | Lucifer punches Tristan. Explains he hasn't sung since Genesis. Tristan apologizes. They plan to go somewhere he can sing without prying eyes. |
 | 23 | Karaoke Night | Elizabeth | He sings MJ, crowd loves it. She sings, crushes it, wins pizza. He cheers for her unguarded. Dancing on the sidewalk home. **Joy unlocks.** |
-| 24 | The Wedding Ring | Lucifer | Visits James and Claire. Measures Claire's ring size covertly. Contacts Lillith at end — commissions wedding ring from Hell's jeweler. **Generosity surfaces.** |
+| 24 | The Wedding Ring | Lucifer | Visits James and Claire. Measures Claire's ring size covertly. Contacts Lilith at end — commissions wedding ring from Hell's jeweler. **Generosity surfaces.** |
 | 25 | Connecting Dots | Elizabeth | Sophie/karaoke recap. Painting moved upstairs to Elizabeth's room — used as evidence in art/identity discussion. Elizabeth spaces out connecting dots. |
 | 26 | The Rose | Lucifer | Ring arrives via Hell mechanics through a rose. Tristan grills Lucifer about using Hell mechanics for civilian purposes. Elizabeth walks in at the end, Tristan excuses himself. |
 | 27 | The Delivery | Elizabeth | James runs into Lucifer and Elizabeth in town. Ring delivered to James. Wedding invitations received (August 2nd, town park). **Generosity deepens.** |

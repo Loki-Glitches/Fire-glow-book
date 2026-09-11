@@ -143,7 +143,7 @@ Default to giving dialogue a physical action beat — cooking, eating, gesturing
 - **Eve:** Sounds like a clingy ex-girlfriend who does not fully read the room. She misses social cues, gets confused easily, gets frustrated easily. She is never suave or overly confident — she is someone who genuinely does not understand why things aren't going the way she expected. Her frustration is real and slightly bewildering to be around.
 
 ### Divine & Telepathic Speech — Formatting
-Non-audible speech — God's voice, and any telepathic bond traffic (Lucifer↔Lillith, Lucifer↔Azrael) — is set in *italics, without quotation marks*, to mark it as heard rather than spoken aloud. Standard quotation marks are reserved for speech that actually makes sound. Locked as of "Breach"; apply consistently to all future telepathic/divine exchanges ("Class", "Ring", "Rose", "Truth", and any others).
+Non-audible speech — God's voice, and any telepathic bond traffic (Lucifer↔Lilith, Lucifer↔Azrael) — is set in *italics, without quotation marks*, to mark it as heard rather than spoken aloud. Standard quotation marks are reserved for speech that actually makes sound. Locked as of "Breach"; apply consistently to all future telepathic/divine exchanges ("Class", "Ring", "Rose", "Truth", and any others).
 
 ### What Characters Do NOT Do
 - Speechify about themes (forgiveness, love, redemption)
@@ -292,7 +292,7 @@ Don't soften or complicate a plain statement with a hedging comparison — "he p
 **Retroactive cleanup:** "Hell" was swept for this on 2026-09-11, at the author's request, ahead of the original end-of-manuscript schedule — its similes and metaphors are gone as of that date. "Morning" has NOT been swept (author's protected file — not touched without explicit instruction). Any future chapter that predates this note by the time it's drafted follows the same on-request logic: swept only when the author asks, not automatically by any agent.
 
 ### The Divine Language — Once Only, Climax Only
-Eve speaks modern English throughout the book — taught by Lillith during her imprisonment. At the climax she uses the divine language exactly once: one line, either her first or her last to Lucifer. It is a deliberate weapon, not a communication need. The language of Genesis, of before everything went wrong, reaches him in a way English cannot. He shifts.
+Eve speaks modern English throughout the book — taught by Lilith during her imprisonment. At the climax she uses the divine language exactly once: one line, either her first or her last to Lucifer. It is a deliberate weapon, not a communication need. The language of Genesis, of before everything went wrong, reaches him in a way English cannot. He shifts.
 
 His response — *"You can speak English, so you better"* — closes the door. Write it plainly. The shift in him is the moment; everything else is just words.
 

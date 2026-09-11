@@ -40,16 +40,16 @@ Lucifer knows emotion is the missing mechanism. He has the material — he under
 ## HIERARCHY
 
 **Administrative/Authority chain:**
-Lucifer → Lillith → Demons (labor, seniority)
+Lucifer → Lilith → Demons (labor, seniority)
 Lucifer → Sebastian → Human Patrol (administration, reporting)
 
-Lillith sits above both structures. Demons outrank Sebastian and the human patrollers by nature — they are older and do more work — but Sebastian reports directly to Lucifer rather than through Lillith.
+Lilith sits above both structures. Demons outrank Sebastian and the human patrollers by nature — they are older and do more work — but Sebastian reports directly to Lucifer rather than through Lilith.
 
-### Lillith
-The first demon. Only being permitted inside Eve's cell. Full regent authority in Lucifer's absence. See Lillith character profile.
+### Lilith
+The first demon. Only being permitted inside Eve's cell. Full regent authority in Lucifer's absence. See Lilith character profile.
 
 ### Demons
-Always in cells, always torturing — reliving guilt with the souls they're assigned to. They do not leave their function. They are the oldest beings in Hell after Lillith and carry seniority over the human patrollers.
+Always in cells, always torturing — reliving guilt with the souls they're assigned to. They do not leave their function. They are the oldest beings in Hell after Lilith and carry seniority over the human patrollers.
 
 ### Sebastian
 Lucifer's first human patroller and closest friend in Hell. Receives reports from the human patrol and brings discrepancies directly to Lucifer. The two talk when Sebastian has nothing urgent to report — genuine companionship, not just professional contact.

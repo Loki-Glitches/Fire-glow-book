@@ -8,9 +8,9 @@
 
 Hell's regent in Lucifer's absence. The first demon. Strict, capable, and the only being in Hell permitted to alter its structure — within the limits Lucifer allows.
 
-She is also the only person permitted inside Eve's cell. She knows Eve the second longest of anyone — after Lucifer — and that proximity became its own form of expertise. She taught Eve languages as a method of torture: giving her the tools to understand precisely what she'd lost, what was being said around her, and how long she was going to be there. Language as a precision instrument. Lillith found new ways to use it regularly.
+She is also the only person permitted inside Eve's cell. She knows Eve the second longest of anyone — after Lucifer — and that proximity became its own form of expertise. She taught Eve languages as a method of torture: giving her the tools to understand precisely what she'd lost, what was being said around her, and how long she was going to be there. Language as a precision instrument. Lilith found new ways to use it regularly.
 
-This means Eve's fluency on Earth — her ability to communicate, to operate, to pursue Lucifer directly — is entirely Lillith's doing. Lillith armed the person she hates most. She would consider that its own kind of irony.
+This means Eve's fluency on Earth — her ability to communicate, to operate, to pursue Lucifer directly — is entirely Lilith's doing. Lilith armed the person she hates most. She would consider that its own kind of irony.
 
 ---
 
@@ -27,19 +27,19 @@ She does not act beyond her permitted scope. She doesn't need to be told twice a
 
 ## ORIGIN
 
-Lillith was Adam's first wife — created as a test of love before Eve. Adam rejected her. She predates Eve in the order of creation and carries that knowledge quietly. She was not sent to Hell as punishment; she became the first demon through a path the book does not need to fully explain. She simply is what she is, and has been for a very long time.
+Lilith was Adam's first wife — created as a test of love before Eve. Adam rejected her. She predates Eve in the order of creation and carries that knowledge quietly. She was not sent to Hell as punishment; she became the first demon through a path the book does not need to fully explain. She simply is what she is, and has been for a very long time.
 
 ---
 
 ## HER RELATIONSHIP TO EVE
 
-She hates Eve. Not abstractly — personally and specifically. Eve replaced her in the world's story, and Eve's sin is what set everything that followed in motion. Lillith's hatred of Eve is ancient, justified, and entirely consistent with the universal rule that no character in this cast forgives Eve for anything.
+She hates Eve. Not abstractly — personally and specifically. Eve replaced her in the world's story, and Eve's sin is what set everything that followed in motion. Lilith's hatred of Eve is ancient, justified, and entirely consistent with the universal rule that no character in this cast forgives Eve for anything.
 
 ---
 
 ## IN THIS BOOK
 
-Lillith appears minimally — referenced in "Breach" when Lucifer assigns her as regent, and surfacing at the very end of the book when she uses the telepathic bond to contact Lucifer about a new problem in Hell. That contact is the sequel hook — a new crisis, distinct from the forgiveness system, pointing toward Book Two.
+Lilith appears minimally — referenced in "Breach" when Lucifer assigns her as regent, and surfacing at the very end of the book when she uses the telepathic bond to contact Lucifer about a new problem in Hell. That contact is the sequel hook — a new crisis, distinct from the forgiveness system, pointing toward Book Two.
 
 She does not appear on Earth. She does not interact with Elizabeth, Azrael, or any human character. Her world is Hell and she stays in it.
 

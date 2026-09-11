@@ -24,7 +24,7 @@ In the Genesis-era past, Lucifer gave Eve the fruit from the Tree of Knowledge a
 
 ## LANGUAGE
 
-Eve speaks modern English — taught by Lillith during her imprisonment, as a method of torture. Lillith is the only being permitted inside her cell and knew her the second longest after Lucifer. Language was a precision instrument: giving Eve the tools to understand exactly what she'd lost and how long she'd be there.
+Eve speaks modern English — taught by Lilith during her imprisonment, as a method of torture. Lilith is the only being permitted inside her cell and knew her the second longest after Lucifer. Language was a precision instrument: giving Eve the tools to understand exactly what she'd lost and how long she'd be there.
 
 ### The Divine Language — Once Only, Climax Only
 Eve also knows the divine language — the original tongue spoken in Genesis, before written language existed. At the climax she uses it exactly once: one line to Lucifer, either her first or her last. It is a deliberate weapon, not a communication need. The language of before everything went wrong reaches him in a way English cannot. He shifts.
@@ -65,4 +65,4 @@ The dark mirror. Lucifer and Azrael both move toward forgiveness. Eve never star
 
 ## HOW EVERYONE RELATES TO EVE
 
-Universal, permanent resentment. No character forgives her — not Lucifer, not Azrael, not Elizabeth, not Lillith, not Sam, not anyone. This is a hard rule: do not write any character softening toward Eve or finding sympathy for her at any point.
+Universal, permanent resentment. No character forgives her — not Lucifer, not Azrael, not Elizabeth, not Lilith, not Sam, not anyone. This is a hard rule: do not write any character softening toward Eve or finding sympathy for her at any point.
