@@ -89,6 +89,8 @@ Severity definitions:
 
 Do not maintain a running cross-chapter summary file unless the author asks for one — with two chapters on the books and one written at a time, a summary document is overhead this project doesn't need yet. If that changes once there's a real backlog, the Director will say so.
 
+**Note on what actually gets fixed (2026-09-11):** the author makes style-only fixes (similes/metaphors, grammar, wording) directly in their own personal Doc outside this repo — those never get repasted into `chapters/<title>.md`, so the repo file can permanently lag behind the author's real final prose on cosmetic issues. Only a Continuity or Fact-Check finding that's actually plot-affecting will produce a repaste and a chapter revision. Report Soul/style findings the same as anything else, but don't expect or wait on a repaste to resolve them.
+
 ---
 
 ## Critical Reminder
