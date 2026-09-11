@@ -14,6 +14,14 @@ The author is reworking Lucifer's core characterization and the power/bond syste
 - His baseline personality is volatile — snide, sarcastic, angry, lashes out at small things — softening in small, informal beats over the book with a real acceleration once he falls for Elizabeth. The old named emotional ladder (Numbness→Calm→Beauty/Desire→...→Self-forgiveness) is retired entirely; there is no formal staged-unlock system replacing it.
 - Travel Bond survives as the only bond tier, same tether/range mechanic as before — he has to stay attached to either Azrael or Elizabeth once she knows the truth.
 
+## NAMES / FORMS OF ADDRESS (added 2026-09-11)
+
+Full name **Lucifer**. Earth alias **Adrian** (see the identity-alias convention — narration/dialogue use whichever name matches the POV character's actual knowledge state). On top of that, people close to him use their own variants, and these are personal to the speaker — don't mix them up or let other characters borrow one:
+
+- **Azrael calls him "Lucy"** — a teasing nickname, needling rather than affectionate-soft. Azrael-only.
+- **God calls him "Luc."** Not used by anyone else.
+- Everyone else (Sebastian, Lilith, Elizabeth, the general cast) uses "Lucifer" or "Adrian" per the standard alias rule — no nickname privileges assumed until the author says otherwise.
+
 ## HE IS NOT ALL-KNOWING (epistemic rule — still fully in force, only the power-gating language below it is retired)
 
 This has slipped into the prose repeatedly and needs to stop being a recurring problem. He does not get to be right about things he has no way of knowing, and he does not get to know things about a character (including Elizabeth) beyond what's been actually established as disclosed to him. **(2026-09-11: this is now an epistemic rule only — he can have power, per the rework above, but that's separate from what he's allowed to know as fact.)**

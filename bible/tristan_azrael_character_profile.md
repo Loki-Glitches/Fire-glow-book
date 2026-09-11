@@ -28,6 +28,8 @@ His true name is **Azrael**, one of the strongest angels. **"Tristan"** is an Ea
 
 *Drafting note: use "Tristan" in any scene/POV involving humans (Elizabeth, Eden, James, Sam). "Azrael" can be used in Hell-only or divine-only contexts — e.g., Lucifer addressing him privately.*
 
+**Nickname (added 2026-09-11): Azrael calls Lucifer "Lucy"** — a teasing needle, not affectionate-soft. Azrael-only; see `bible/lucifer_character_profile.md` § "Names / Forms of Address" for the full set (God calls him "Luc," no one else uses either nickname).
+
 This also resolves an earlier inconsistency in the master bible: "Tristan, Earth-side evaluator and enforcer" and "Azrael, divine monitoring enforcer" were originally written as two separate roles. They are the same being, the same job, described before this was reconciled.
 
 **STALE 2026-09-11:** the original plan below tied this reveal to Full Anchor formation, which is cut. Exact new placement for when Elizabeth learns "Tristan" is Azrael is undecided — likely still tied to whenever she independently figures out the full truth (see `bible/lucifer_character_profile.md`'s power/secrecy rules), but needs a fresh decision once the new outline exists. *(Original, now-superseded plan: "The reveal happens during the anchor formation scene — Lucifer tells Elizabeth who 'Tristan' really is as part of the full disclosure that precedes her choosing to bond... Azrael is present for his own reveal, likely already in the room for the evaluation.")*
