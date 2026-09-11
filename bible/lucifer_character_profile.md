@@ -113,7 +113,9 @@ On Earth, as his emotions return, this surfaces again without announcement. He d
 
 ## LUCIFER & GOD
 
-Their relationship is ancient and layered. God is simultaneously Lucifer's oldest companion — their essences pre-date creation and are, in that sense, friends — and his father, in that Lucifer's body and physical existence are God's work. He did not choose to exist. God made him. That is a complicated kind of love.
+**Corrected 2026-09-11: God is NOT Lucifer's father. Their bond reads as closer to siblings than parent-child** — do not use "father" language for God from Lucifer's side going forward; this reverses the line below, which is now superseded.
+
+Their relationship is ancient and layered. God is Lucifer's oldest companion — their essences pre-date creation and are, in that sense, friends, closer to siblings in register than anything parental. He did not choose to exist; God made him — that origin is still real and still shapes the relationship's weight — but it does not make God a father figure to him. *(Superseded text, kept for record: this used to also describe God as "his father, in that Lucifer's body and physical existence are God's work... a complicated kind of love" — that framing is retired.)*
 
 Lucifer does not rage at God. He is not a rebel and he is not bitter in the way mythology has painted him. But he is not without frustration. When he notices one of God's jokes — the apple orchard landing, the girl with Eve's eyes and nothing else of hers, the too-convenient timing of things — he has one response: he glances at the sky. Just that. A single look upward that means *"seriously."* No words. No performance. Just the look one old friend gives another when they've been had and they know it.
 
