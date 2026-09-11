@@ -1,8 +1,11 @@
-# Character Development Synopsis — Writer's Only Continuity Source
+# Character & Plot Synopsis — Shared Continuity Source (Writer + Revision)
 
-**This file exists so Writer doesn't have to read the previous chapter.** It tracks where each character actually stands, emotionally and behaviorally, after each chapter — updated as chapters are written. Writer reads this file plus the author's prompt for the chapter it's drafting. Nothing else (no previous chapter text, no bible, no other chapters).
+**This file exists so neither Writer nor Revision has to read the previous chapter's full text.** It tracks two things after each chapter, in two separate subsections: where each character actually stands emotionally/behaviorally, and what actually happened plot-wise. Updated as chapters are written.
 
-Keep entries short and concrete — what changed for this character in this chapter, not a summary of plot events. Plot/continuity mistakes are not what this file is guarding against; character drift is.
+- **Writer** reads this file plus the author's prompt for the chapter it's drafting. Nothing else (no previous chapter text, no bible, no other chapters). Character drift is the risk this guards against for Writer — see the Character Development subsections.
+- **Revision** reads this file instead of the full previous chapter for continuity/flow checking (broadened 2026-09-11, author decision, to cut token cost — same trick already used for Writer). See the Plot Points subsections. Revision still reads the current chapter it's actually reviewing in full, and still reads the bible.
+
+**Whoever finishes a chapter (Writer, or the author after their own edit pass) appends both subsections below** — Character Development (a few lines per character who changed, not a scene recap) and Plot Points (a short bullet list of what actually happened/was established — the compiled facts a later chapter or a later review would otherwise need the full text to know). Keep both short and concrete.
 
 ---
 
@@ -16,6 +19,10 @@ Keep entries short and concrete — what changed for this character in this chap
 ---
 
 ## After "Hell" (2026-09-11)
+
+**Plot Points:** Not filled in yet — "Hell" is still being hand-edited by the author and hasn't been locked (pending the current Revision pass for plot holes). Add this subsection once the chapter is finalized, before the next chapter's Writer or Revision run needs it.
+
+### Character Development
 
 - **Lucifer:** First appearance. Baseline established as bored/imperious/lazily powerful in his own domain — casual, economical with effort (redirects a falling apple without looking up), quick to cold command the instant real danger lands. Eve's escape hit him hard enough to slam him bodily into a wall; he doesn't show that rattled state to Sebastian or Lillith, keeps it clipped and procedural in front of them, but the Eve moment (her eyes, her hand reaching for him, missing her by inches) is clearly a live wound, not a settled one — he doesn't examine it on the page, just moves past it into action. Chafes hard against restriction: argued at length with God over the no-divinity/Tristan-minder terms and lost, same as (per God's own line) he apparently always does. Leaving for Earth chapter's end carrying real anger at the leash he's been put on, alongside genuine urgency to recapture Eve. Holding a fruit from the Tree of Knowledge as he crosses over — didn't eat it, just carried it through.
 - **Sebastian:** First appearance. Established as Lucifer's report-and-operations aide, normally composed/professional. Written visibly on edge for this whole chapter *before* the bad news arrives (throat-clearing, flinching, a lie about having "checked twice" that he hadn't) — so when the runner confirms Eve's cell is failing, it reads as a dread he already had, not a surprise. End of chapter: given a direct, urgent task (reinforce every cell in sector one by next watch change) and an implicit rebuke hanging over him about how the failing wall went undetected for an hour on his watch.
