@@ -11,4 +11,6 @@
 1. **Morning** — `chapters/morning.md` — Elizabeth — protected file, no agent may edit without author approval. Unaffected by the 2026-09-11 rework.
 2. **Hell** — Lucifer — drafted and locked (2026-09-11), author's own hand-edited final text in `chapters/hell.md`. Sebastian's report, the throne room/Tree of Knowledge, Eve's escape and Lucifer's failed catch, Lilith installed as regent, God's terms for Earth (no divinity, commandment limits, Azrael accompanying him). No Revision pass run — author judged it unnecessary since it's the only Lucifer chapter so far, nothing yet to check it against.
 
+3. **Breakfast** — Elizabeth — in progress. Elizabeth comes downstairs (floral dress), smells Sam's cooking, sits at the kitchen table; Sam notices the cut on her head from the alarm/fall incident in "Morning," she deflects it as losing a fight with the table; small talk about college prep; she notices a new London postcard on the fridge, doesn't press for more than what's on it; she finishes eating first, offers to grocery-shop, Sam asks for the usual plus a chocolate croissant from the cafe she's going to with Sophie ("Soph") — he already knows her routine. She leaves.
+
 *(Add each new chapter here, in order, as it's written — one line per title, no number attached to the title itself.)*
