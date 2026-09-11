@@ -20,7 +20,15 @@
 
 ## After "Hell" (2026-09-11)
 
-**Plot Points:** Not filled in yet — "Hell" is still being hand-edited by the author and hasn't been locked (pending the current Revision pass for plot holes). Add this subsection once the chapter is finalized, before the next chapter's Writer or Revision run needs it.
+**Plot Points:**
+- Sebastian gives Lucifer his routine sector report in the Hell throne room; Lucifer is visibly bored/lazily powerful (deflects a falling fruit from the Tree of Knowledge without looking), Sebastian is visibly on edge before any bad news arrives.
+- A runner reports Eve's containment cell wall has been failing for an hour, undetected. Lucifer slows time across the whole realm and drops to sector one.
+- A portal has opened in Eve's cell wall. Lucifer reaches her right as she's being pulled through — she reaches back toward him, not away — but the portal closes on empty air before he can catch her hand; the momentum throws him into the cell's inner wall.
+- Evidence at the wall (worn claw marks, layered over each other) shows Eve had been clawing at it for millennia before it finally gave.
+- Lucifer puts Lilith in charge of Hell with full authority in his absence, orders the cell resealed with brimstone, and tells Sebastian to reinforce every cell in sector one before the next watch change.
+- Back in the throne room, Lucifer asks God for permission to go to Earth after Eve. Granted, on conditions: no revealing his divinity, every commandment still applies, and Azrael comes with him (not to help catch Eve — to make sure Lucifer doesn't "make a mess again"). Lucifer argues the terms and loses, as he apparently always does.
+- The portal to Earth forms and pulls Lucifer through mid-protest — not a clean, composed crossing; he's dragged in with no grip, apple still in his mouth/fist. Chapter ends as the portal seals behind him.
+- **Naming note:** the chapter spells her **Lilith** (one L) throughout; the existing bible file is `bible/lillith_character_profile.md` (two Ls) — unresolved spelling conflict, flagged to the author rather than silently picked.
 
 ### Character Development
 

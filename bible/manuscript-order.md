@@ -9,6 +9,6 @@
 ---
 
 1. **Morning** — `chapters/morning.md` — Elizabeth — protected file, no agent may edit without author approval. Unaffected by the 2026-09-11 rework.
-2. **Hell** — Lucifer — outline in progress, not yet drafted. Opens in Hell: Sebastian's report, the throne room/Tree of Knowledge, Eve's escape and Lucifer's failed catch, Lillith installed as regent, God's ground rules for Earth (no divinity, commandment limits, Tristan keeping him in check). Full outline in `notes/creative-partner-session.md`.
+2. **Hell** — Lucifer — drafted and locked (2026-09-11), author's own hand-edited final text in `chapters/hell.md`. Sebastian's report, the throne room/Tree of Knowledge, Eve's escape and Lucifer's failed catch, Lilith installed as regent, God's terms for Earth (no divinity, commandment limits, Azrael accompanying him). No Revision pass run — author judged it unnecessary since it's the only Lucifer chapter so far, nothing yet to check it against.
 
 *(Add each new chapter here, in order, as it's written — one line per title, no number attached to the title itself.)*
