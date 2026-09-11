@@ -49,3 +49,27 @@
 - Who is the new angel holding the death duty? Named, detailed, appears on-page or stays off-page?
 - Does Eve's role/mission framing change at all given Lucifer's new "hates Earth, uses humans" motivation, or does the Eve-hunt premise stay intact underneath the new characterization?
 - What does "figures it out" actually take, mechanically, for Elizabeth specifically — same disclosure-style trigger as before, or something new given TB is now the only bond tier?
+
+---
+
+## [UNTITLED — second chapter, title TBD] — planning in progress (2026-09-11)
+
+**POV: Lucifer. Opens in Hell.** Raw outline from the author, not yet finalized into a Writer prompt. Referred to here as "the second chapter" only until it has a real title — per the no-numbers convention, it must not be called "Chapter 2" anywhere once titled.
+
+- Sebastian bangs on the throne room door. Lucifer opens it lazily, waves his hand, doors fly open and throw Sebastian into the room. Lucifer is on his throne, head on hand, bored. **Sebastian should read as on edge** — dialing up his established "worrier underneath the competence" trait (see `bible/sebastian_character_profile.md`) — ideally rattled even before he has reason to be, so the later bad news lands as confirmation of a dread he already had.
+- Describe the throne room and the Tree of Knowledge (already established in `bible/story-bible.md` §2 and `bible/lucifer_character_profile.md` — the tree went to Hell with him, appears in the throne room as a permanent reference to his origin wound).
+- Sebastian reads through a report. An apple falls from the tree toward him; Lucifer pulls it back toward himself instead (small, casual power display — fine in Hell, no secrecy constraint applies here).
+- A (different) demon sprints in, panting, reports Eve's section is weakening.
+- Lucifer gets up, slows Hell's time to near-standstill, opens a ravine in the ground, jumps in, falls for a long time, reaches the bottom.
+- Sees a portal already open, Eve being pulled through it, almost gone. Catches her eyes as she reaches for him. He runs, dives for extra reach at the last second — too late. Portal closes. Time speeds back up. He flies into the cell wall from the force, leaving a divot.
+- Snaps his fingers — Sebastian and Lillith rise from the shadows (summoned to him). He explains what happened; both are shocked.
+- Notices blood on the inner cell wall — Eve clawing herself free over millennia (matches the established Earth Routing Rule: she escaped through brute force, on her own).
+- Tells Lillith she's in charge, full authority until he returns (matches the pre-existing "Lillith assigned as regent in his absence" beat already in the bible). Tells Sebastian to get all hands on deck, reinforce every cell in the first sector.
+- Jumps back up the ravine; it closes behind him.
+- At the top, plucks a fruit from the tree, speaks aloud to God, asks to be sent to Earth to capture Eve and bring her back.
+- God responds with the ground rules: no divinity, commandment limits, and that Tristan will be there keeping him in check (matches the reworked Azrael containment role). Lucifer argues, gets nowhere.
+- Pulled into a second rift to Earth — much more stable than the Hell-side ravine. Portal closes. End chapter.
+
+**Continuity check (done during this conversation):** this outline threads cleanly through pre-existing, still-valid lore — the throne room/tree imagery, the ravine origin, Lillith-as-regent, Eve's brute-force escape, God being the only one who can move Lucifer between realms, and Azrael/Tristan's new containment role. No contradictions found. Sebastian already has a full character profile (`bible/sebastian_character_profile.md`) and didn't need to be added fresh.
+
+**Not yet done:** turning this into the actual short paragraph/prompt for Writer, and seeding `notes/character-synopsis.md` with a Chapter 2 entry once it's drafted.

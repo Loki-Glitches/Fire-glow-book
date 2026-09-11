@@ -31,9 +31,9 @@ This project spans 70+ chapters — don't run the whole book in one continuous c
 
 ## Agent Architecture
 
-### Roles (third pipeline revision, 2026-09-11 — Writer reinstated with a hard narrow-context restriction)
+### Roles (fourth pipeline revision, 2026-09-11 — Writer's context narrowed further, same day)
 - **Director** (`.claude/agents/agent-generic-director.md`): Orchestrates the pipeline. Does NOT write prose itself and does NOT edit chapters based on review findings. Manages the bible.
-- **Writer** (`.claude/agents/agent-generic-writer.md`): Reinstated. Drafts a chapter from the author's short paragraph description. **Sees ONLY that paragraph plus the immediately previous chapter — never the rest of the book, never the bible.** This is a deliberate, hard restriction specific to this project; see that agent file's override note at the top.
+- **Writer** (`.claude/agents/agent-generic-writer.md`): Reinstated. Drafts a chapter from the author's short paragraph description. **Sees ONLY that paragraph plus `notes/character-synopsis.md` — not the previous chapter's text, not the rest of the book, not the bible.** Updates the synopsis itself after drafting. This is a deliberate, hard restriction specific to this project, explicitly a trial ("we'll see how this works"); see that agent file's override note at the top.
 - **Creative Partner** (`.claude/agents/agent-creative-partner.md`): A brainstorming/planning collaborator for working out what conversations or beats a chapter needs before the author writes its paragraph — not a drafting agent.
 - **Continuity Checker** (`.claude/agents/agent-generic-continuity-checker.md`): Full sequential read, flags drift and seam problems. Findings only, never edits.
 - **Story Integrity** (`.claude/agents/agent-generic-story-integrity.md`): Scores fidelity to the project's soul and style guide. Findings only, never edits.
@@ -43,8 +43,8 @@ This project spans 70+ chapters — don't run the whole book in one continuous c
 **Retired entirely, not just from routine use:** Normalcy, Identity Checker, Line Editor, World Builder, Tonal Calibration, Hedge Remover, Punctuation Checker. Their agent files remain on disk for reference but are not part of this project's pipeline. See `.claude/agents/agent-generic-director.md`'s Standing Rule for the full explanation.
 
 ### The Window Rule (CRITICAL — reworked, much narrower than the generic version)
-- **Writer's window is deliberately tiny:** the author's paragraph for this chapter + the previous chapter's full text. Nothing else — not the bible, not a unit-plan outline, not the chapter after this one.
-- Whoever reviews a chapter after it's drafted (Director, Continuity Checker) can use a wider frame — previous chapter for continuity, the chapter under review — but still doesn't need or use a full-book read for a single-chapter review.
+- **Writer's window is deliberately tiny:** the author's paragraph for this chapter + `notes/character-synopsis.md`. Nothing else — not the previous chapter's text, not the bible, not a unit-plan outline, not the chapter after this one. The synopsis exists specifically to guard against character drift, which the author identified as the real risk of this approach.
+- Whoever reviews a chapter after it's drafted (Director, Continuity Checker) can use a wider frame — but still doesn't need or use a full-book read for a single-chapter review.
 
 ### File Ownership
 | Path              | Who Writes         | Who Reads                              |
