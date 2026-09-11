@@ -275,8 +275,8 @@ Don't soften or complicate a plain statement with a hedging comparison — "he p
 **Wrong:** *Unless a soul goes wrong in a way nothing else will hold.*
 **Right:** *Unless a soul cannot be held any other way.*
 
-### No Similes in Narration (locked 2026-09-05 — supersedes the word-reuse/cliché test below)
-**Writers do not get to use similes.** Not "the way [X] does [Y]," not a bare "like a ___," not any construction that compares the thing being described to a separate image or process. This applies to narration only — dialogue is exempt, the same as the hedge-phrase rule below, since a character reaching for a comparison in their own speech is natural and untouched. State the observed fact directly instead.
+### No Similes, No Metaphors in Narration (locked 2026-09-05, broadened 2026-09-11)
+**Writers do not get to use similes or metaphors.** Not "the way [X] does [Y]," not a bare "like a ___," not "X was a [separate thing]," not any construction — comparison or substitution — that describes the thing in front of the reader in terms of a separate image or process. This applies to narration only — dialogue is exempt, the same as the hedge-phrase rule below, since a character reaching for a comparison or a metaphor in their own speech is natural and untouched. State the observed fact directly instead.
 
 **Wrong:** *It was fanned — thrown outward from a point, the way sand throws when something strikes it.*
 **Right:** *It was fanned, thrown outward from a single point.*
@@ -284,9 +284,12 @@ Don't soften or complicate a plain statement with a hedging comparison — "he p
 **Wrong:** *She watched him settle into the step — like a man choosing a position and then not moving from it for an hour.*
 **Right:** *She watched him settle into the step — one position, chosen once, held for the rest of the hour without adjustment.*
 
-**Historical note:** this rule used to allow a simile through if it passed two tests (no word/root reused between the two halves of the comparison, and not simply obvious or cliché) — those tests are retired as of this decision, not because they were wrong, but because in practice writers kept reaching for similes that technically passed both tests and still needed cutting on sight (several were caught and cut from "Roof"'s first draft even after passing the old tests). The simpler standing rule now: no similes in narration, full stop. If a comparison feels necessary to land an image, that's a signal to find the plain, direct statement of the fact instead.
+**Wrong:** *He was a weight draped across the throne.*
+**Right:** *He was draped across the throne.*
 
-**Retroactive cleanup, author-scheduled:** existing similes already published in "Morning" through "Roof" are NOT being swept now. Author's decision (2026-09-05): a full-manuscript simile sweep happens once at the very end, when the book is done — the same timing as the Proofreader's own once-at-the-end pass (see `notes/synthesis-current.md` § 0). Don't spend effort retrofitting old chapters against this rule chapter-by-chapter; just stop introducing new ones.
+**2026-09-11 broadening:** the original rule (2026-09-05) named similes specifically. The author has now extended it to metaphors too — the same complaint applies to both: writers kept reaching for a figurative substitute ("a leash with extra steps," "a wound that healed itself shut," "knitting closed") instead of the plain fact, and it was piling up. Conventional, near-invisible personifying verbs (the wind "screamed," torches "guttered") are not what this rule is aimed at and don't need hunting down — the target is a comparison or substitution doing real descriptive work, the kind the reader has to pause and translate. Author's own words: *"I will add some in later"* — this is a floor, not a permanent zero; the author will reintroduce specific figurative language deliberately later, not have it accumulate by default.
+
+**Retroactive cleanup:** "Hell" was swept for this on 2026-09-11, at the author's request, ahead of the original end-of-manuscript schedule — its similes and metaphors are gone as of that date. "Morning" has NOT been swept (author's protected file — not touched without explicit instruction). Any future chapter that predates this note by the time it's drafted follows the same on-request logic: swept only when the author asks, not automatically by any agent.
 
 ### The Divine Language — Once Only, Climax Only
 Eve speaks modern English throughout the book — taught by Lillith during her imprisonment. At the climax she uses the divine language exactly once: one line, either her first or her last to Lucifer. It is a deliberate weapon, not a communication need. The language of Genesis, of before everything went wrong, reaches him in a way English cannot. He shifts.
