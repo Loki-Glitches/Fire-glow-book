@@ -20,6 +20,14 @@ This wound directly explains her established trait of needing truth firsthand: s
 
 ---
 
+## THE EYEBROW CUT / CONCUSSION — LOCKED PLOT THREAD (added 2026-09-12)
+
+**The head injury introduced in "Breakfast" is a concussion, not a minor cut.** She hit her head on the bedside table the morning of that chapter (per her own account to Sam) and is visibly downplaying it on the page — "mostly sore now," barely remembers it happening, calls it "better" when it likely isn't. That grogginess/memory fuzziness is a real early symptom, not just a light-comedy beat, even though it plays as one in "Breakfast" itself. Nobody in-story (including Elizabeth) has identified it as a concussion yet — she and Sam both treat it as a minor bump. Future chapters should NOT casually resolve or forget this injury; it's active until the payoff below, and can resurface earlier as small symptom beats (headache, brief dizziness, sensitivity to noise/light) at the author's discretion.
+
+**Locked payoff:** When Elizabeth figures out who Lucifer/"Adrian" actually is, the emotional overwhelm of that reveal is what pushes the untreated concussion into a real medical event — she ends up hospitalized. Exact chapter/placement undecided (this necessarily lands at or after the identity reveal — see `bible/lucifer_character_profile.md` § POWER & SECRECY and Elizabeth's own reworked trust arc below for how that reveal happens). This gives the reveal scene real physical stakes on top of the emotional ones, and gives Lucifer something concrete and urgent to react to in the immediate aftermath.
+
+---
+
 ## MAJOR REWORK (2026-09-11): starts from genuine hatred, not wary interest
 
 **The section below this notice describes the old trust arc (wary but curious from early on) and is superseded for tone/starting-point — the underlying wound and endpoint logic mostly still holds, just starting from a much colder place.** New baseline: Elizabeth genuinely hates Lucifer at first. He's volatile, caustic, and openly hostile toward her (see `bible/lucifer_character_profile.md`) — this isn't a slow-burn "finds him intriguing" opening, it's real animosity on both sides, with constant arguing as their default mode. He can't kill her, so there's no actual danger in the friction, just heat.

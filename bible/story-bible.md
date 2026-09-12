@@ -8,6 +8,12 @@ The author is reworking Lucifer's characterization, the bond/power system, and A
 
 Chapters "Breach" through "Dress" are scratched (written under the old system); "Morning" is unaffected.
 
+## PLANTED THREADS / OWED PAYOFFS (tracking list, added 2026-09-12)
+
+Anything planted deliberately for a later payoff goes here so it doesn't get lost in per-chapter notes. Check this list before treating a thread as forgotten or coincidental; update it (don't just delete the line) once a payoff actually lands, noting which chapter paid it off.
+
+- **Elizabeth's eyebrow cut → concussion → hospitalization.** Planted in "Breakfast" (bedside table, downplayed as minor). It's a real concussion, not identified as one in-story yet. Payoff: when Elizabeth figures out who Lucifer is, the emotional overwhelm tips the untreated concussion into a hospitalization. Full detail: `bible/elizabeth_character_profile.md` § "The Eyebrow Cut / Concussion." **Status: planted, not yet paid off.**
+
 ## 1. CORE PREMISE
 
 Lucifer is a divine being assigned by God to rule Hell as an eternal executor of sin containment — not a rebel, but a warden who never asked for the job. When Eve escapes Hell's prison, Lucifer believes he is sent to Earth to recapture her. He is not. God did not engineer Eve's escape — she broke out on her own through brute force. But God recognized the opportunity it created and decided to work with it: placing Lucifer in a specific town, at a specific time, near a specific person. Elizabeth is not an accident. God saw the door open and walked through it. Lucifer falls for her and for the ordinary texture of human life in her town. Eve, still in love with Lucifer and unaware he stopped loving her the moment she betrayed him, attempts to kill Elizabeth and take her place. The story is fundamentally about forgiveness: Lucifer learning to forgive himself, Azrael learning to forgive Lucifer, and what happens to the one person — Eve — who never tries.
