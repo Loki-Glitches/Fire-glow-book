@@ -14,6 +14,10 @@
 - **Elizabeth:** Outwardly cheerful, forward-moving, has a life and places to be. Carries something she won't name — not depressed, quietly overextended. Sam is her caretaker, warm and teasing; she doesn't burden him with her own weight. Physically: a bump on her forehead (alarm/fall incident), late summer, pre-college.
 - **Lucifer, Azrael, Sebastian, Lilith:** Not yet on the page. First appearance is "Hell."
 
+## Standing habits (apply to every chapter, not just the one that introduced them)
+
+- **Lucifer eats apples constantly, as a habit (added 2026-09-19).** Ordinary apples — separate from the specific Tree of Knowledge fruit thread. He likes them, and eating one is how he manages anger/boredom in the moment. Include him holding, eating, or destroying an apple often in mundane/low-stakes scenes, especially early in the book while he's at his most volatile. **He can't just set one down once he's picked it up — he has to eat it or destroy it.** A real compulsion, not a preference; don't have him casually hold one and walk away from it, and don't explain the habit on the page.
+
 *(Add a new dated entry below after each chapter is written — a few lines per character who changed, not a scene recap.)*
 
 ---
