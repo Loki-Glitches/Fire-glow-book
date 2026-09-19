@@ -56,6 +56,8 @@ Adam realized which tree it was and told Eve to stop. She didn't believe him —
 
 Lucifer understands Adam was not the villain. He is not at peace with the decision. Those are not the same thing.
 
+**Eating it himself is safe (locked 2026-09-19).** The Fall's danger was specific to a human gaining forbidden knowledge and what that cost them with God — it isn't a property of the fruit that reactivates on every bite by anyone who touches it. Lucifer built the tree and already carries the knowledge it grants; eating it himself, including carrying one across from "Hell" and slowly finishing it over the chapters that follow (see the "Planted Threads" entry in `bible/story-bible.md`), has no special effect on him and does not risk repeating the Fall. **The one real rule: he must never give a bite of it to a human.** That's the specific mechanic that broke the world the first time — a human receiving it from him — not anything about his own consumption.
+
 In rage, he vowed every descending soul would face their grief in containment. He built Hell around that vow. Eventually Eve descended. He placed her cell beneath a mountain of brimstone and sat on top of it, overseeing the realm. From below, her soul called out: *"I love you."* He said nothing. She was the one thing left that could reach him, and silence was the only protection he had left.
 
 The ring he wears reads: *"Cursed by love's cruel decree, forced to bear the weight for an eternity."* The love that cursed him was not recklessness. It was generosity itself.

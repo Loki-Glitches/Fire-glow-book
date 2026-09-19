@@ -26,7 +26,7 @@ Nothing answered him. No voice. No weight shifting in the air. No sign at all th
 
 "You'll want to lower your voice," Tristan said, not moving from where he stood. "Before you've been here five minutes."
 
-Lucifer looked down at his own hand. The one from Hell was still in it, smaller and darker than the ones on the ground, its skin gone slightly translucent — crossing over did that to things, always had. He turned it over once, then dropped it into the grass with the rest, wiping his palm hard on his thigh.
+Lucifer looked down at his own hand. The one from Hell was still in it, smaller and darker than the ones on the ground, its skin gone slightly translucent — crossing over did that to things, always had. He turned it over once, bit into it instead of answering, and wiped the juice from his palm hard on his thigh.
 
 "You could have caught me," he said.
 
@@ -37,6 +37,8 @@ Lucifer looked down at his own hand. The one from Hell was still in it, smaller 
 "Trees don't."
 
 "This one did." Lucifer straightened his jacket, found it torn at one shoulder, and left it. "Twice."
+
+He bit into the fruit again, unhurried, and let Tristan sit with that.
 
 Tristan's jaw worked. "You remember the terms."
 
@@ -106,7 +108,7 @@ Tristan's exhale was audible — he'd already lost this argument once today and 
 
 ---
 
-The blanket was spread in the shade past the last row of standing trees, a basket beside it with sandwiches wrapped in wax paper and a jug of something pale yellow sweating in the heat. Lucifer sat because sitting was easier than arguing about it, and because some low, curious part of him — a part he didn't examine too closely — wanted to watch how this went.
+The blanket was spread in the shade past the last row of standing trees, a basket beside it with sandwiches wrapped in wax paper and a jug of something pale yellow sweating in the heat. Lucifer sat because sitting was easier than arguing about it, and because some low, curious part of him — a part he didn't examine too closely — wanted to watch how this went. He didn't touch the sandwiches. He had his own fruit for that, and took another bite of it now, unhurried, while Claire got the basket open.
 
 "So," Claire said, handing out sandwiches, entirely at ease with four strangers on a blanket at noon, "where *are* you two from, if not around here?"
 
@@ -240,7 +242,7 @@ Eventually the light started shifting toward afternoon, and Tristan stood, and L
 
 "Thank you," Lucifer said, which was true, and left it there, which was as close to kind as he had any intention of being to this town on his first day in it.
 
-They walked back through the broken row of trees, apples still scattered thick across the grass, and neither of them said anything until the orchard was well behind them and the shape of a town had started to come up over the next rise, all rooftops and one thin church spire and, somewhere in it, a girl neither of them had met yet.
+They walked back through the broken row of trees, apples still scattered thick across the grass, and Lucifer took another bite of the one still in his hand, smaller now than it had been that morning in the throne room, and said nothing about it. Neither of them said anything else until the orchard was well behind them and the shape of a town had started to come up over the next rise, all rooftops and one thin church spire and, somewhere in it, a girl neither of them had met yet.
 
 "Elizabeth," Tristan said finally, careful with it, testing the shape of the name before he committed to it.
 
