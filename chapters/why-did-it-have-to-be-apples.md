@@ -244,7 +244,9 @@ Eventually the light started shifting toward afternoon, and Tristan stood, and L
 
 "Thank you," Lucifer said, which was true, and left it there, which was as close to kind as he had any intention of being to this town on his first day in it.
 
-They walked back through the broken row of trees, apples still scattered thick across the grass, and Lucifer took another bite of the one still in his hand, smaller now than it had been that morning in the throne room, and said nothing about it. Neither of them said anything else until the orchard was well behind them and the shape of a town had started to come up over the next rise, all rooftops and one thin church spire and, somewhere in it, a girl neither of them had met yet.
+They walked back through the row of trees, apples still scattered thick across the grass. Lucifer stopped at the shattered trunk long enough to set it right — the splintered wood drawing back together, the trunk standing whole again in the time it took to blink — and kept walking without checking whether anyone behind them had noticed. Tristan noticed. He didn't say anything about it, which was its own kind of answer.
+
+Lucifer took another bite of the fruit still in his hand, smaller now than it had been that morning in the throne room, and said nothing about that either. Neither of them said anything else until the orchard was well behind them and the shape of a town had started to come up over the next rise, all rooftops and one thin church spire and, somewhere in it, a girl neither of them had met yet.
 
 "Elizabeth," Tristan said finally, careful with it, testing the shape of the name before he committed to it.
 
