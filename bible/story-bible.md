@@ -4,7 +4,7 @@
 
 ## MAJOR REWORK IN PROGRESS (2026-09-11) — read this before trusting §§3, 4, 5, 6, 7, 17 below
 
-The author is reworking Lucifer's characterization, the bond/power system, and Azrael's role. **The authoritative, up-to-date versions of these live in the companion docs** — `bible/lucifer_character_profile.md`, `bible/tristan_azrael_character_profile.md`, `bible/elizabeth_character_profile.md`, `bible/bond_system_reference.md` — all updated 2026-09-11. Sections §3 (Bond System), §4 (Transfiguration), §5 (Lucifer), §6 (Elizabeth), §7 (Azrael), and §17 (Lucifer's Artistry) below duplicate older versions of that same material and have NOT been individually reconciled yet — treat them as stale wherever they conflict with the companion docs, which win. §1 and §2 below have been lightly touched to stay accurate; the rest of the file (Eve, Sam, Sophie, Jack & Claire, Forgiveness Theme, Lilith, Vincent, God's Role, Timeline, Climax Mechanic) is believed unaffected but hasn't been individually re-verified against the rework either.
+The author is reworking Lucifer's characterization, the bond/power system, and Azrael's role. **The authoritative, up-to-date versions of these live in the companion docs** — `bible/lucifer_character_profile.md`, `bible/tristan_azrael_character_profile.md`, `bible/elizabeth_character_profile.md`, `bible/bond_system_reference.md` — all updated 2026-09-11. Sections §3 (Bond System), §4 (Transfiguration), §5 (Lucifer), §6 (Elizabeth), §7 (Azrael), and §17 (Lucifer's Artistry) below duplicate older versions of that same material and have NOT been individually reconciled yet — treat them as stale wherever they conflict with the companion docs, which win. §1 and §2 below have been lightly touched to stay accurate; the rest of the file (Eve, Sam, Sophie, James & Claire, Forgiveness Theme, Lilith, Vincent, God's Role, Timeline, Climax Mechanic) is believed unaffected but hasn't been individually re-verified against the rework either.
 
 Chapters "Breach" through "Dress" are scratched (written under the old system); "Morning" is unaffected.
 
@@ -292,9 +292,11 @@ Elizabeth's best friend. She and Sam are dating. She eases Sam's protectiveness,
 
 ---
 
-## 11. JACK & CLAIRE
+## 11. JAMES & CLAIRE
 
-A couple, newly engaged (he proposed during the picnic scene in "Arrival" — Lucifer replaced the ring). They know "the gist" of Lucifer's life and that he and Azrael are divine. Claire was previously referred to as "Eden" in early drafts — she is Claire throughout. **Power Bond holders** — they know he is divine (satisfying the Power Bond disclosure condition) and are ongoing companions.
+*(Heading corrected 2026-09-19 — was "Jack," a stale typo; body text and every other reference in the bible already say James.)*
+
+A couple, newly engaged (he proposed during the picnic scene in "Arrival" — Lucifer replaced the ring). They know "the gist" of Lucifer's life and that he and Azrael are divine. Claire was previously referred to as "Eden" in early drafts — she is Claire throughout. **Pre-rework text, not yet reconciled:** "Power Bond holders — they know he is divine (satisfying the Power Bond disclosure condition)" — Power Bond is cut per the 2026-09-11 rework; treat "they know he's divine and are ongoing companions" as the still-valid part of this line, not the Power Bond framing.
 
 *Note: Do NOT confuse Claire with "Eden" the Garden — those are entirely separate references.*
 
