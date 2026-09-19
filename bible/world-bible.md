@@ -8,6 +8,9 @@
 
 ## LOCATIONS
 
+### James's Engagement Ring for Claire ("Why Did It Have to Be Apples")
+Gold, deep-set stone with many facets, throws light even in shade. Lucifer's own — produced via sleight-of-hand in front of James and Claire, staged specifically as a magician's "removal" trick (see that chapter for exact business: he holds up an empty left hand, closes two fingers of his right hand around his own ring finger and draws them down and off it as if sliding a ring free, then opens his palm to reveal it — not a "conjured from nothing" effect). Replaces James's original cheap ring (glass set in tin), which is discarded/forgotten once Claire has the new one. Where Lucifer's own supply of rings comes from is deflected on the page ("I collect things. Old habit.") — not actually explained.
+
 ### James's Family Orchard ("Why Did It Have to Be Apples")
 Apple orchard on the edge of town — James's father owns it, James and Claire work it. Rows of trees in careful lines; this is where Lucifer's portal from Hell dropped him, destroying two trees on impact (splintered trunk, fruit knocked loose across the grass). Site of the brothers' first meeting with James and Claire, the picnic lunch, and the ring-swap proposal scene. Between here and the town proper is enough distance that the town itself ("rooftops and one thin church spire") is visible from a rise on the walk back.
 

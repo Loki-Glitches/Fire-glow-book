@@ -164,15 +164,17 @@ It didn't hurt exactly — nothing on this side of the portal had found a way to
 
 "Lucy," Tristan said, and it came out as a warning more than a name.
 
-"I'm not finished." Lucifer got to his feet, and something about the way he did it — unhurried, almost theatrical — pulled every eye on the blanket toward him whether they wanted it there or not. He held up his left hand, fingers spread, turning it once so the light caught nothing at all, because there was nothing on it to catch. "Watch."
+Lucifer's eyes cut to him, flat and pointed, and held there just long enough to land.
 
-"Lucy—"
+"I'm not finished." He got to his feet, and something about the way he did it — unhurried, almost theatrical — pulled every eye on the blanket toward him whether they wanted it there or not. He lifted the fruit to his mouth and bit down hard, anchoring it between his teeth, both hands free now. He held up his left hand, fingers spread, bare, exactly as it had been all morning. "Watch."
 
-He closed his hand into a fist, then walked two fingers of the other hand slowly around his bare knuckle, working at nothing there, milking the pause for every second it was worth — and opened his palm.
+"Adrian—"
+
+He closed two fingers of his right hand around the base of his ring finger and drew them slowly down and off it, the unmistakable motion of a man sliding a ring free, milking the pause for every second it was worth — and opened his palm.
 
 A ring sat in it. Gold, not glass. A stone set deep enough not to snag, cut with more facets than the eye wanted to count at once, throwing light back in a dozen directions even in the shade of the trees.
 
-He held it out to James.
+He took the fruit from his mouth with his free hand and held the ring out to James with the other.
 
 "That one isn't a lie," he said.
 

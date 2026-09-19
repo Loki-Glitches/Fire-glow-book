@@ -18,7 +18,7 @@ The author is reworking Lucifer's core characterization and the power/bond syste
 
 Full name **Lucifer**. Earth alias **Adrian** (see the identity-alias convention — narration/dialogue use whichever name matches the POV character's actual knowledge state). On top of that, people close to him use their own variants, and these are personal to the speaker — don't mix them up or let other characters borrow one:
 
-- **Azrael calls him "Lucy"** — a teasing nickname, needling rather than affectionate-soft. Azrael-only.
+- **Azrael calls him "Lucy"** — a teasing nickname, needling rather than affectionate-soft. Azrael-only. **Risk, demonstrated on the page (2026-09-19, "Why Did It Have to Be Apples"):** Azrael can slip and use it even in front of humans when he's rattled/impatient enough — Lucifer catches it with a look, and Azrael self-corrects to the cover name ("Adrian") on his next attempt. Play this as a real, live risk of the nickname, not a rule that only applies when they're alone.
 - **God calls him "Luc."** Not used by anyone else.
 - Everyone else (Sebastian, Lilith, Elizabeth, the general cast) uses "Lucifer" or "Adrian" per the standard alias rule — no nickname privileges assumed until the author says otherwise.
 
