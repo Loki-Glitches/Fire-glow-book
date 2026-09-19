@@ -106,6 +106,8 @@ What he can do is find the loophole inside truth itself. He engineers technicall
 
 This is distinct from what Azrael does. Lucifer works in precision — finding the true thing that serves the same purpose as a lie. Azrael works in falsehood when no true framing exists. Both are necessary. Neither does the other's job.
 
+**Technique, named (added 2026-09-19): answering the nearby question instead of the asked one.** When a direct question has no answer he can afford to give truthfully, he doesn't dodge it outright — he silently substitutes it for a different, adjacent question that *does* have a safe honest answer, and answers that one instead, as though it were the one asked. The substitution has to be genuinely nearby, not a wild swerve — close enough that the answer reads as responsive, not evasive. First on-page example ("Why Did It Have to Be Apples"): James asks his *name*; Lucifer privately reframes it as what he *wants to be called*, and answers "Adrian" — true, since it's the name he's choosing to go by, even though it isn't an answer to the literal question asked. This is the mechanism behind "Adrian" entering use as his Earth name — not an alias assigned to him by anyone, but one he essentially picks for himself in the moment, using this exact technique. Write it as long practice, not improvisation under pressure — he's had six thousand years to get fast at finding the nearby question.
+
 ### The Commandment System
 Angels follow nine of the ten commandments. The tenth is unique to each angel's nature — a permitted sin that matches what they are. Lucifer has no tenth. Purity has no exception of any kind.
 

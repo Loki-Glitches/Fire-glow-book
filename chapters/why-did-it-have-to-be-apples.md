@@ -80,7 +80,7 @@ Tristan took the offered hand. "Tristan."
 
 James looked at Lucifer, waiting.
 
-"Luc," Lucifer said. It cost him nothing. It was true, as far as it went, and it went exactly as far as he intended it to.
+"Call me Adrian," Lucifer said. James had asked his name; Lucifer answered a different, nearby question instead — what he wanted to be called — and that one had an honest answer sitting right there waiting for him. It cost him nothing. He'd had six thousand years to get good at finding the version of a question he could actually afford to answer.
 
 "You two aren't from around here," Claire said. Not a question, more an observation offered to fill space while she crouched to pick up one of the fallen apples, turning it in her hand, checking it for bruising out of what looked like pure habit.
 
@@ -160,11 +160,11 @@ It didn't hurt exactly — nothing on this side of the portal had found a way to
 
 "I'm not wrong, though," he said, rubbing his jaw with two fingers, undeterred, apparently unable to help himself even with James still frozen on one knee and Claire staring somewhere between horrified and furious. "Look at it. That's glass set in tin, dressed up to catch light from an angle. You can tell from here." He tilted his head, studying the ring with the same flat, critical eye he'd have given a lazily assembled report. "It's an insult, honestly, to propose to someone with a lie on your hand."
 
-"Luc," Tristan said, and it came out as a warning more than a name.
+"Lucy," Tristan said, and it came out as a warning more than a name.
 
 "I'm not finished." Lucifer got to his feet, and something about the way he did it — unhurried, almost theatrical — pulled every eye on the blanket toward him whether they wanted it there or not. He held up his left hand, fingers spread, turning it once so the light caught nothing at all, because there was nothing on it to catch. "Watch."
 
-"Luc—"
+"Lucy—"
 
 He closed his hand into a fist, then walked two fingers of the other hand slowly around his bare knuckle, working at nothing there, milking the pause for every second it was worth — and opened his palm.
 
