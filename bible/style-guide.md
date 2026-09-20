@@ -71,7 +71,7 @@ Third person limited, tight to him.
 
 **Act One and early Act Two:** Almost clinical. Observational like a diagnostic. He notices things the way a system notes input — without attachment. Formal register, slightly archaic phrasing ("very well," "I suppose," "rather") — not performed, just how he thinks. There is no lightness here. He has been holding everything in place for so long he's stopped noticing the effort.
 
-**No banter with Azrael before Calm unlocks.** This includes their scenes together specifically — it's tempting to write their friction as witty back-and-forth, but trading dry comebacks is a form of engagement, and he doesn't have that to give yet. He asks what he needs to, pushes back at most once, and disengages rather than sparring — brooding and annoyed, not playful. Azrael's own annoyance at this is real and can show physically (a tightened jaw, a flattened voice) but stays unremarked on by both of them; he doesn't call it out, and Lucifer doesn't acknowledge causing it. Once Calm unlocks, real back-and-forth between them can start to show up — this restriction is Act One/early Act Two only.
+**SUPERSEDED 2026-09-20 (author-confirmed):** ~~No banter with Azrael before Calm unlocks... this restriction is Act One/early Act Two only.~~ This rule was keyed to the named emotional-ladder system ("Calm" as a formal unlock stage), which the 2026-09-11 rework retired entirely — see `bible/lucifer_character_profile.md` § EMOTIONAL ARC. It was left unmarked here and Revision correctly flagged it as contradicting "Why Did It Have to Be Apples," which has real sparring/banter between Lucifer and Azrael from their very first scene together. Author's ruling: they're brothers, they're going to argue — real back-and-forth between them is fine from the start of the book, no staged unlock required. This paragraph is kept for historical record only; do not follow it.
 
 **Interiority during report/briefing scenes (e.g., Sebastian's ledger updates):** When a scene leans on dialogue to convey Hell's mechanics (rotations, capacity, cycles), thread in short, plain internal-context lines from Lucifer rather than leaving it as pure exposition-via-dialogue — one clipped sentence translating the stakes, not a paragraph. Keep it factual and unemotional, never a feeling. See "Breach" for the pattern.
 
@@ -245,15 +245,18 @@ Escalating pressure from Eve's arrival. Her presence makes existing scenes more 
 | Over-worded posture/expression similes | Interrupts the read — see below |
 | Explicit physical description of a character's looks | Only outfit and facial expression are fair game — see below |
 
-### No Explicit Physical Description
-Never describe what a character actually looks like — no hair color/texture, eye color, build, height, skin, freckles, or any other physical trait. The reader builds their own image. This applies to every character, not just leads, and to new characters on introduction as much as established ones.
+### No Explicit Physical Description (narrowed 2026-09-20)
+**The actual target is identifying/unique features — specifically hair color and eye color.** Don't describe those, for any character, on introduction or later. The reader builds their own image of the parts that make someone recognizably *them*.
 
-What's allowed instead:
+**Generic, could-apply-to-many-people descriptors are fine** — sunburn, build, a general skin tone, a scar, being visibly built from physical work, and similar traits that don't pin down a specific, singular image the way hair/eye color do. Example locked as acceptable (Revision-flagged, author-confirmed 2026-09-20): *"He was sunburned across the nose, built from actual physical work rather than vanity."* This is not a violation.
+
+What's always allowed:
 - **Outfit** — what someone is wearing, holding, or has on them.
 - **Facial expression** — what a face is doing in the moment (a raised eyebrow, a tight jaw, a grin), not what it looks like at rest.
+- **Generic physical traits** — build, general coloring/skin tone, sunburn, scars, and similar, as long as they're not hair or eye color specifically.
 
-**Wrong:** *Sophie fell into step beside her — sunglasses shoved up into a mess of dark curls, freckles standing out against a sunburn she'd clearly ignored the advice about.*
-**Right:** *Sophie fell into step beside her — sunglasses shoved up onto her head, a coffee in each hand.*
+**Wrong:** *Sophie fell into step beside her — sunglasses shoved up into a mess of dark curls, her green eyes catching the light.*
+**Right:** *Sophie fell into step beside her — sunglasses shoved up onto her head, a coffee in each hand.* (Still avoid hair/eye color even when other generic detail is present.)
 
 ### No Overwritten Posture, Expression, or Action
 Don't dress up a plain beat — physical or otherwise — with a clause explaining what it means or why it matters. State it and move on. The extra clause slows the sentence down and breaks flow; the reader doesn't need the interpretation spelled out.
@@ -306,6 +309,8 @@ When Lucifer notices one of God's jokes — the apple orchard, the resemblance, 
 **Revised 2026-09-04 — no fixed cap.** This is now a recurring beat, used across the book whenever God's timing turns something into a joke. **The glance is genuine annoyance, not shared amusement.** Lucifer is not in on the joke with a smile — he's irritated that God is making one at all, especially (often specifically) when the moment is serious, tense, or a crisis. The comedy belongs to the reader alone, who gets to see God's sense of humor land on someone who very much does not appreciate it right now; Lucifer's own reaction is exasperation, not delight. It doubles as a window into the oldest relationship in the story — familiar enough with God to be irritated rather than afraid — but the annoyance is the real content of the beat, not a knowing wink. Keep it precise per instance even though it's no longer rationed.
 
 Use it precisely each time — it should always land as a specific, earned reaction to a specific too-convenient thing, never as a tic or a reflex he does on a schedule. Do not over-explain it. Do not have another character notice it or share the gesture — it stays Lucifer's alone. It exists only in his POV, only for the reader.
+
+**Locked exception (author-confirmed 2026-09-20): "Why Did It Have to Be Apples."** The chapter's title moment breaks the silent/unwitnessed default on purpose — Lucifer shouts an actual line up at God ("Really? Apples?...") and Azrael hears it and comments on it directly. This is a one-time, deliberate exception for this specific beat (the chapter's whole premise is built around it), not a new default. Future Sky-Glance instances should return to the normal silent, unwitnessed, POV-only version unless the author says otherwise for that specific instance too.
 
 The relationship runs on push-and-pull. Every intimate scene is opened by an honest, unguarded exchange — something true gets said that neither planned to say. This is what breaks the pattern each time. The scene gets close. Then one of them retreats.
 

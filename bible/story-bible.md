@@ -165,7 +165,7 @@ In his rage, Lucifer vowed that every soul who descended would face their grief 
 Eventually Eve died and descended. He placed her cell beneath a mountain of brimstone and sat on top of it, overseeing the realm. From below, her soul called out: *"I love you."* He said nothing. She was the one thing left that could still reach him, and silence was the only protection he had.
 
 ### The Ring
-He wears a ring on his left hand with an inscription in a dead language: *"Cursed by love's cruel decree, forced to bear the weight for an eternity."* The love that cursed him was not recklessness. It was generosity itself.
+He wears a ring on his right hand with an inscription in a dead language: *"Cursed by love's cruel decree, forced to bear the weight for an eternity."* The love that cursed him was not recklessness. It was generosity itself. **Corrected 2026-09-20** (was misstated as left hand; right hand confirmed by author — this is why the sleight-of-hand ring trick in "Why Did It Have to Be Apples," staged on his left hand, doesn't involve or need to account for this ring).
 
 ### The Porch Light (locked 2026-09-04)
 Elizabeth's porch light burns out in "Routine" and stays dead — she buys a replacement bulb in "Sighting", but it sits unused on the porch step through "Convergence" and "Contact", and stays that way for a long time after. This is deliberate: **nobody fixes it until Lucifer does, in Act Three.**
