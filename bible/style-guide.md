@@ -278,8 +278,8 @@ Don't soften or complicate a plain statement with a hedging comparison — "he p
 **Wrong:** *Unless a soul goes wrong in a way nothing else will hold.*
 **Right:** *Unless a soul cannot be held any other way.*
 
-### No Similes, No Metaphors in Narration (locked 2026-09-05, broadened 2026-09-11)
-**Writers do not get to use similes or metaphors.** Not "the way [X] does [Y]," not a bare "like a ___," not "X was a [separate thing]," not any construction — comparison or substitution — that describes the thing in front of the reader in terms of a separate image or process. This applies to narration only — dialogue is exempt, the same as the hedge-phrase rule below, since a character reaching for a comparison or a metaphor in their own speech is natural and untouched. State the observed fact directly instead.
+### No Similes, No Metaphors in Narration (locked 2026-09-05, broadened 2026-09-11, permission explicitly revoked 2026-09-19)
+**Writers do not have permission to use similes or metaphors, none, zero exceptions.** This was already the rule; it's restated in stronger terms because instances kept slipping through drafts even with the rule in place — treat this as fully closed, not a soft guideline. Not "the way [X] does [Y]," not a bare "like a ___," not "X was a [separate thing]," not any construction — comparison or substitution — that describes the thing in front of the reader in terms of a separate image or process. This applies to narration only — dialogue is exempt, the same as the hedge-phrase rule below, since a character reaching for a comparison or a metaphor in their own speech is natural and untouched. State the observed fact directly instead.
 
 **Wrong:** *It was fanned — thrown outward from a point, the way sand throws when something strikes it.*
 **Right:** *It was fanned, thrown outward from a single point.*
