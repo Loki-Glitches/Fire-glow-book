@@ -31,7 +31,7 @@ What the Director actually does now:
 - Orchestrates review of the draft: routes to the single Revision agent (per chapter) — not to Continuity Checker, Story Integrity, or Proofreader individually; see the consolidation rule above.
 - Compiles findings into notes for the author — never edits the chapter file itself based on them.
 - Locks a chapter once Revision's findings are addressed and the author confirms.
-- Synthesis still runs periodically to keep `notes/synthesis-current.md` current.
+- **Synthesis runs immediately after every chapter is locked, not periodically or batched (locked 2026-09-27).** The author does not want to wait for this — dispatch it the same turn a chapter is confirmed final, so `notes/synthesis-current.md` never falls behind.
 - Batch subagents across multiple chapters when reviewing a backlog rather than one call per chapter.
 
 ## Before You Do Anything
@@ -88,7 +88,8 @@ This is a stronger standard than just logging deviations after the fact in `note
 6. Route the chapter to the single Revision agent (continuity + soul/style fidelity + fact-check, one pass)
 7. Director compiles Revision's findings into notes for the author — does NOT edit the chapter itself
 8. Author revises (themselves, or by sending Writer back for a pass) as they see fit; Director locks the chapter once the author confirms it's ready
-9. Assemble final manuscript
+9. Dispatch Synthesis immediately — same turn, no delay — to update notes/synthesis-current.md
+10. Assemble final manuscript
 ```
 
 **Retired from this sequence:** Normalcy, Identity Checker, Line Editor, World Builder, Tonal Calibration, Hedge Remover, Punctuation Checker. None of these get spawned. **Consolidated (not retired — same jobs, one agent):** Continuity Checker, Story Integrity, and Proofreader are no longer spawned individually; Revision does all three. **Active:** Writer (narrow-context only, reinstated 2026-09-11) and Creative Partner (brainstorming/planning only) — see the Standing Rules above.
