@@ -16,6 +16,8 @@
 
 ## Standing habits (apply to every chapter, not just the one that introduced them)
 
+- **Not every character reads people (locked 2026-09-25).** Only two characters in this cast get an analytical read on others, and only in this specific narrow way: **Elizabeth** knows when someone is being untruthful (that's the whole of it — not a general perceptiveness), and **Tristan/Azrael** knows how Lucifer emotes — reads his brother's specific moods and tells, not people in general. Nobody else (Sophie, James, Claire, Sam, or anyone else) catches subtext, clocks a tell, or reads what someone's not saying. Write everyone else as ordinary and a little oblivious by default.
+
 - **Lucifer eats apples constantly, as a habit (added 2026-09-19).** Ordinary apples — separate from the specific Tree of Knowledge fruit thread. He likes them, and eating one is how he manages anger/boredom in the moment. Include him holding, eating, or destroying an apple often in mundane/low-stakes scenes, especially early in the book while he's at his most volatile. **He can't just set one down once he's picked it up — he has to eat it or destroy it.** A real compulsion, not a preference; don't have him casually hold one and walk away from it, and don't explain the habit on the page.
 
 ## Chekhov's guns — planted threads with a payoff owed (added 2026-09-25)
