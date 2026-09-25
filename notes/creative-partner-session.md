@@ -73,3 +73,24 @@
 **Continuity check (done during this conversation):** this outline threads cleanly through pre-existing, still-valid lore — the throne room/tree imagery, the ravine origin, Lillith-as-regent, Eve's brute-force escape, God being the only one who can move Lucifer between realms, and Azrael/Tristan's new containment role. No contradictions found. Sebastian already has a full character profile (`bible/sebastian_character_profile.md`) and didn't need to be added fresh.
 
 **Not yet done:** turning this into the actual short paragraph/prompt for Writer, and seeding `notes/character-synopsis.md` with a Chapter 2 entry once it's drafted.
+
+---
+
+## Session 2026-09-25: planning the chapter after "Introductions Are In Order"
+
+**Where things stand:** the manuscript ends at "Introductions Are In Order." Nothing is planned after it. It is still the same day as "Morning" (roughly lunchtime). No phone numbers were exchanged. Elizabeth finds Lucifer "exhausting." That is annoyance, not hatred yet. The mansion hasn't appeared on the page, and neither has a fight.
+
+**Opening questions put to the author (not yet answered):**
+1. POV: the chapters have alternated E/L/E/L/E/L, which makes the next one Elizabeth. Is alternation a rule, or has it just happened that way?
+2. She doesn't hate him yet, and she hasn't had her first read of him as "broken." Everything that could have given her that read (the father line, the crushed apple) happened in front of Sophie, not her. What earns the hate, and what gives her the first crack? Failure mode: he's cruel, she sticks around anyway, and it reads as plot convenience.
+3. Reconnection: the grocery window and the collision were both coincidences, and Sophie pointed it out on the page. A third coincidence would strain. Who chooses to move? Lucifer has a motive (she's his only lead). She has none yet.
+4. The search can't succeed: Eve is off-page until Act Three. Why do the brothers think she's in this town at all? What keeps the search from feeling like a treadmill in Acts 1–2?
+5. The first night: where do they sleep? Buying the mansion needs money. Does the money come from power use, and does that make it Azrael's first check or first fight?
+6. Big picture: there's no current act map (`bible/unit-plans.md` is stale). The book covers about a month, and orientation is four weeks out. Is her leaving for college the clock? I offered to sketch a light list of hinge points before planning chapter by chapter.
+
+**Continuity snags noticed while reading (flagged to the author, not fixed):**
+- The "Introductions Are In Order" Plot Points entry in `notes/character-synopsis.md` misquotes the chapter on disk. It has "My father and I don't speak much these days" and "Not from around here, not for a very long time." The chapter actually says "I don't have a father" and "Not from around here." The synopsis wording brings back the retired God-as-father framing, and Writer reads the synopsis, not the chapter.
+- `chapters/introductions-are-in-order.md` has "the past week" (line 3) and "three days carrying fruit" (line 7). They contradict each other, conflict with the 2026-09-27 no-elapsed-time rule, and don't fit Sophie's "twenty minutes" timing.
+- Same chapter, line 37: "what 'other someone' might mean" refers to nothing earlier in the chapter. It looks left over from a draft.
+- Parts of `bible/style-guide.md` contradict the friction dynamic: "Elizabeth pressing Lucifer when he deflects — she pauses, registers it, moves on," "[Lucifer] never evasive when addressed," "Act One: almost clinical... stone cold," and the Calm-keyed "What to Avoid" rows. Revision reads the style guide and will flag correct friction as a violation. Updating it is the Director's job, with the author's say-so.
+- The standing-habits line "Tree of Knowledge fruit... Status: ongoing" in `notes/character-synopsis.md` is stale. The thread closed in "Introductions Are In Order."
