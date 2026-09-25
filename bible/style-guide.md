@@ -90,6 +90,8 @@ Azrael does not have his own POV chapters. He is always seen from outside — th
 
 **The exception:** When a death occurs in a scene, something registers in him that the POV character can observe without fully understanding. A stillness. A slight absence. A moment where he stops being brisk and just — stops. The POV character notices it and moves on without knowing what it means. These moments are brief and never explained.
 
+**Currently dormant (clarified 2026-09-27):** Azrael's death-duty is temporarily reassigned to another angel for this arc (see `bible/tristan_azrael_character_profile.md`) — he isn't the one absorbing deaths right now, so this specific stillness-at-a-death signature has nothing to trigger it during this stretch of the book. That frees "a stillness, a slight absence" as a general description of him going quiet/serious for other reasons without it being confused for the death-device — it isn't reserved right now. Revisit this note if/when the death-duty reassignment ends.
+
 ---
 
 ## 3. DIALOGUE RULES
