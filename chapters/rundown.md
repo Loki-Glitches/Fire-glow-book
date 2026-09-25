@@ -4,7 +4,7 @@ Sophie drove with one hand on the wheel and the other holding her phone up at th
 
 "So what's the plan," she said. "We just wait around and hope they walk past us again?"
 
-"I don't know." Elizabeth had her knees pulled up against the glove box, her sandals braced on the dash edge out of habit more than comfort. "Nobody thought to trade numbers. We spent an hour with them and nobody thought of it."
+"I don't know." Elizabeth had her knees pulled up against the glove box, her sandals braced on the dash edge out of habit more than comfort. "Niether of them wanted to trade numbers. We spent an hour with them and neither one thought of it."
 
 "I noticed that too, after the fact."
 
@@ -20,13 +20,13 @@ Sophie glanced over at a stop sign, waited for a truck to clear the intersection
 
 Sophie didn't answer that one, just hummed something noncommittal and took the turn onto Elizabeth's street.
 
-The grocery bags were still in the back seat, where they'd been sitting since before any of it — since before the coffee house, since before the spill, since before four people ended up on two benches talking about a woman none of them had ever seen. Elizabeth reached back and got a hand on the milk jug through the plastic. It was warm all the way through.
+The grocery bags were still in the back seat, where they'd been sitting since before any of it — since before the coffee house, since before the spill, since before four people ended up on two benches talking about a woman neither she or Sophie had ever seen. Elizabeth reached back and got a hand on the milk jug through the plastic. It was warm all the way through.
 
-"Oh, that's bad."
+"Oh, that's not great." Elizabeth said.
 
 "What?"
 
-"The milk. It's been sitting in your car in this heat since before we even got to the coffee house." She hauled the bag into her lap and started a mental count — milk, eggs, the loaf of bread Sam actually liked, a bag of peaches she'd grabbed on impulse because they'd looked good by the register. "The peaches are probably fine. Everything else is a lost cause."
+"The milk. It's been sitting in your car in this heat since before we even got to the coffee house." She hauled the bag into her lap and started a mental count — milk, eggs, the loaf of bread Sam actually liked, a bag of peaches she'd grabbed on impulse because they'd looked good by the register. "The peaches are probably fine. Everything else needs to get to the fridge, stat."
 
 "I'll take the blame for the milk if Sam gives you grief about it."
 
@@ -40,19 +40,19 @@ Sam met them at the door before they'd even gotten it open, which meant he'd hea
 
 Elizabeth made a face and edged past them into the kitchen with her bags. "Hi to you too, I guess."
 
-"Hi, Liz." Sam didn't even look over, already pulling the melted croissant free of its sleeve. "This is somehow still a croissant."
+"Sorry, Liz." Sam didn't even look over, already pulling the melted croissant free of its sleeve. "This is somehow still a croissant."
 
 "Barely."
 
 "I appreciate the effort regardless." He took a bite of it standing there, unbothered by the state of it, and Elizabeth rolled her eyes and started unloading the warm milk into the fridge, refusing to admit yet that it was probably already ruined.
 
-"Oh — Mr. Higgins wanted me to tell you something." She said it over her shoulder, already reaching for the eggs. "He said to tell your brother his invoice from last month cleared, no rush on the next one. His exact words, I think. He made me repeat it back to him."
+"Oh — Mr. Higgins wanted me to tell you something." She said it over her shoulder, already reaching for the eggs. "He said to tell your brother his invoice from last month cleared, no rush on the next one. His exact words, I think."
 
 "Good." Sam said it around the last of the croissant, unconcerned — his usual tone whenever the store account came up, the extra cases of things Higgins kept in the back for them, the specialty stuff nobody else in town bothered stocking, all of it running on the same standing arrangement that predated Elizabeth caring enough to ask about it. "Good, that's done then."
 
-He set the drink carrier down, peered into the second bag, and announced he was making lunch for the three of them, grilled cheese probably, unless anyone had objections. Nobody did. He disappeared into the kitchen with the bread and left the two of them to the living room.
+He set the drink carrier down, peered into the second bag, and announced he was making lunch for the three of them, grilled cheese probably, unless anyone had objections. Nobody did. He disappeared into the kitchen with the bread and left the two of them in the living room.
 
-Sophie dropped onto the couch and put her feet up on the coffee table without asking. She was here most weekends anyway. "Okay. So. Eve."
+Sophie dropped onto the couch and put her feet up on the coffee table. "Okay. So. Eve."
 
 Elizabeth sat sideways in the armchair, one leg tucked under her. "Eve."
 
@@ -62,7 +62,7 @@ Elizabeth sat sideways in the armchair, one leg tucked under her. "Eve."
 
 "Sure."
 
-"We know she's a woman, we know her name is Eve, and we know she looks out of place. Old-fashioned. Tristan said 'out of time,' like she'd dress or talk like she wasn't from now."
+"We know she's a woman, we know her name is Eve, and we know she looks out of place. Old-fashioned. Tristan said 'out of time,' like she'd dress or talk like she wasn't from now." Elizabeth recalled.
 
 "That's vague."
 
@@ -74,7 +74,7 @@ Elizabeth sat sideways in the armchair, one leg tucked under her. "Eve."
 
 "Drink some water when Sam brings lunch out." Sophie said it without much concern, already moving past it, already onto the next thought. "Okay, so — old-fashioned, no photo, no police. That's not much to go on."
 
-"It's basically nothing to go on." The ache faded as fast as it had come, and Elizabeth let it go, blamed the walk home in the sun and the general exhaustion of the day, and didn't think about it again. "Which is part of why I don't want Adrian involved if I don't have to be. I can't stand his personality."
+"It's nothing to go on." The ache faded as fast as it had come, and Elizabeth let it go, blamed the walk home in the sun and the general exhaustion of the day, and stopped thinking about it. "Which is part of why I don't want Adrian involved if he doesn't have to be. I can't stand him."
 
 Sophie laughed, short and surprised. "Okay, tell me how you really feel."
 
@@ -84,7 +84,7 @@ Sophie laughed, short and surprised. "Okay, tell me how you really feel."
 
 "That's it? No context?"
 
-"None. And then he crushed the apple he was eating. Just — closed his fist around it, right there walking down the street, like it personally offended him." Sophie shrugged. "I don't know. Weird thing to say to someone you just met."
+"None. And then he crushed the apple he was eating. Just — closed his fist around it, right there walking down the street, like it personally offended him." Sophie shrugged. "I don't know. Weird thing to do with someone you just met."
 
 "He's a weird person. I don't need to know why he said it to know that." Elizabeth said it without much interest, already reaching for a throw pillow to prop behind her back. Whatever was behind a line like that belonged to him, not to her, and she wasn't going to spend any part of her afternoon wondering about it. "Some people are just strange and you don't get an explanation, you just get the strange part."
 
@@ -100,15 +100,15 @@ Sophie laughed, short and surprised. "Okay, tell me how you really feel."
 
 "We go sit in the park and see. It's not nothing."
 
-Sam came back in with three plates balanced badly, caught the last half of that on his way through the doorway, and stopped with his eyebrows up.
+Sam came back in with three plates balanced badly, catching the last half of that on his way through the doorway, and stopped with his eyebrows up.
 
 "Sit in the park and see what?"
 
-"Nothing bad." Elizabeth took her plate off the top of the stack before it slid. "There's a missing woman two guys we met today are trying to find. We're going to go see if we run into them again, because we forgot to get their numbers like idiots."
+"Nothing bad." Elizabeth took her plate off the top of the stack before it slid. "There's a missing woman two guys we met today are trying to find. We're going to go see if we run into them again, because we didn't get their numbers."
 
 Sam set the other two plates down slower than he needed to, his easy manner gone. "What two guys?"
 
-"Adrian and Tristan." Sophie took hers, already halfway through a bite before she'd fully sat back down. "They collided with me outside the coffee house, knocked my coffee everywhere, it's fine, we ended up talking. They're looking for someone named Eve."
+"Adrian and Tristan." Sophie took hers, already halfway through a bite before she'd fully sat back down. "One of them collided with me outside the coffee house, knocked my coffee everywhere, it's fine, we ended up talking. They're looking for someone named Eve."
 
 "And they wanted your help finding her? Specifically yours?" Sam was looking at Elizabeth now, not Sophie, his voice lower and tighter than it had been a moment ago. "Two guys you've never met before today asked you, by name, to help them find a missing woman."
 
@@ -124,7 +124,7 @@ Sam set the other two plates down slower than he needed to, his easy manner gone
 
 Sam shook his head. "That doesn't mean much."
 
-"I know it doesn't mean much." Elizabeth set her own plate down, done with pretending to eat through this part of it. "I'm not saying trust them blindly. I'm saying they weren't scary, they were just a little odd, and there's an actual missing person involved, and I'd rather go look than not."
+"I know it doesn't mean much." Elizabeth set her own plate down, done with pretending to eat through this part of it. "I'm not saying trust them blindly. I'm saying they weren't scary, they were just a little odd, and if there's an actual missing person involved, I'd rather go look than not."
 
 Sam didn't say anything to that for a second, just looked at her, clearly deciding how much of an argument was worth having, then picked his fork back up.
 
@@ -134,6 +134,6 @@ Sam didn't say anything to that for a second, just looked at her, clearly decidi
 
 "No," he agreed, "I don't." He took a bite, chewed it slower than the sandwich required, clearly still uneasy about it. "But you're going to go to the park either way."
 
-"Probably, yeah."
+"Probably, yeah. Don’t worry, we will be careful."
 
 He didn't answer that. He just went back to his sandwich and let it go.
