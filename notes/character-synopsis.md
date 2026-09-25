@@ -18,6 +18,13 @@
 
 - **Lucifer eats apples constantly, as a habit (added 2026-09-19).** Ordinary apples — separate from the specific Tree of Knowledge fruit thread. He likes them, and eating one is how he manages anger/boredom in the moment. Include him holding, eating, or destroying an apple often in mundane/low-stakes scenes, especially early in the book while he's at his most volatile. **He can't just set one down once he's picked it up — he has to eat it or destroy it.** A real compulsion, not a preference; don't have him casually hold one and walk away from it, and don't explain the habit on the page.
 
+## Chekhov's guns — planted threads with a payoff owed (added 2026-09-25)
+
+**Mirrors `bible/story-bible.md` § "Planted Threads / Owed Payoffs," kept here too so Writer actually sees it** (Writer never reads the bible). Anything planted for a later payoff goes here. Before writing a chapter, check whether it should be touching one of these — a live thread shouldn't quietly vanish just because the chapter drafting it doesn't happen to reread the bible. Whoever adds a new one here should also add it to the bible copy (Director's job if Writer doesn't have bible access to do it directly) so the two stay in sync.
+
+- **Elizabeth's eyebrow cut → concussion → hospitalization.** Planted in "Breakfast." A real concussion, not identified as one by anyone in-story yet. Payoff: when Elizabeth learns who Lucifer is, the emotional overwhelm tips the untreated concussion into a hospitalization. Don't have anyone diagnose or resolve it before then — small symptom beats (headache, brief dizziness) are fine to plant along the way. **Status: planted, not yet paid off.**
+- **Lucifer's Tree of Knowledge fruit from "Hell."** He keeps carrying and biting it — a few bites per chapter — **until he meets Elizabeth**. Distinct from the ordinary-apples habit above. Don't let it quietly disappear from a chapter he's in before that meeting. **Status: ongoing.**
+
 *(Add a new dated entry below after each chapter is written — a few lines per character who changed, not a scene recap.)*
 
 ---
