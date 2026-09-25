@@ -135,7 +135,17 @@ Questions I opened with (not yet answered):
 - Being pulled aside and whispered to is not the bible's rule that Azrael challenges him telepathically when humans are present. The two sit uneasily together but don't flatly contradict each other; the author's version stands.
 - The name: "Black" has to come from some true, nearby answer (the burnt house?), since Lucifer can't lie on a contract.
 
-**My proposed back half:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
+**Fight trigger, replaced by the author:** "When the agent leaves I kind of want lucifer to reveal his plan making an illusion to the inside. Azrael will simply throw him into the main support beam and the ceiling will crumble into it." My call on timing, still to be confirmed: the same visit, after signing, the deposit paid and the keys handed over, once the agent has driven off. No one is within earshot.
+
+Pushback:
+- **An illusion versus "cannot lie in any form."** A visual falsehood is arguably a lie. I recommend treating it as staging (like the ring trick) and exactly the kind of loophole that sets Azrael off, but it needs locking as lore.
+- **The illusion is power built to be seen by humans**, every time anyone walks in. That's Azrael's clean reason to react.
+- **The irony:** Azrael's throw causes the kind of damage that now needs fast repair.
+- **Healing:** someone visibly badly hurt who is fine within 24 hours is itself suspicious, so by the park they should have only faint marks.
+- **Open:** is the throw the whole fight or the opening of it, and does the illusion plan survive?
+- **Locked (author):** injuries at the park next morning show "just a little," faint lingering marks only.
+
+**Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
 
 - **Superseded, kept for the record:** The optional concussion beat (not addressed; left optional). Whether the brothers own phones: the author only said there's no way to contact them, so the paragraph says no numbers were swapped and doesn't claim they have no phones.
 - **Weak point in the plan:** the brothers have never been to the park, and no park exists on the page since the rework. The paragraph gives Elizabeth her own reason for the park: it's the place strangers passing through town end up. The author should confirm that's what "see things there" meant.
