@@ -94,3 +94,16 @@
 - Same chapter, line 37: "what 'other someone' might mean" refers to nothing earlier in the chapter. It looks left over from a draft.
 - Parts of `bible/style-guide.md` contradict the friction dynamic: "Elizabeth pressing Lucifer when he deflects — she pauses, registers it, moves on," "[Lucifer] never evasive when addressed," "Act One: almost clinical... stone cold," and the Calm-keyed "What to Avoid" rows. Revision reads the style guide and will flag correct friction as a violation. Updating it is the Director's job, with the author's say-so.
 - The standing-habits line "Tree of Knowledge fruit... Status: ongoing" in `notes/character-synopsis.md` is stale. The thread closed in "Introductions Are In Order."
+
+### The author's partial outline for the next chapter (Elizabeth POV), relayed by the coordinator
+Verbatim: "I'd like it to start with them driving back to the house and wonder how they are going to find the brothers again. Unload groceries and go inside. Sam will probably grab his food and drink. And he will kiss Soph to show that they are a couple. Then I need some dialogue with the three of them. Liz needs to tell Sam about the invoice at some point in the conversation. now im out"
+
+**My pushback and the options I gave back (the author hasn't decided anything yet):**
+- As outlined, the chapter has no plot progress. The kiss and the invoice are texture. The one real event on offer is Sam hearing that two strangers came to town asking for his sister by name, which gives his protectiveness something to grow from before he's met Adrian. That should be the core of the chapter.
+- Why would she want to find them again when she can't stand him? Suggested split: she cares about the missing woman, not about Adrian.
+- Sophie could pass on "I don't have a father" and the crushed apple. Elizabeth wasn't there for either. That gives her a first secondhand glimpse of something broken, but she should push it away rather than soften toward him.
+- The invoice line is ambiguous. "Tell your brother his invoice from last month cleared, no rush on the next one" doesn't say who billed whom, and Sam's job isn't established anywhere. Writer can't see "My Usual," so the paragraph needs to quote the line and say what it means.
+- The groceries sat in a hot car and Sam's iced coffee went through the whole walk. The melted coffee is a natural reason for Sam to ask what took so long, which gets the story told without Elizabeth volunteering it.
+- Phones: nobody pulled one out at the car. Do the brothers even have phones? The answer decides how they can reach anyone for the rest of the book.
+- Ending options: A, a quiet domestic close with the question left open; B, Sam: "if they come looking for you, I want to be here" (my recommendation); C, town gossip about the empty mansion being sold (riskier).
+- Small concussion symptom beat available while unloading, e.g. a head rush she blames on the heat.
