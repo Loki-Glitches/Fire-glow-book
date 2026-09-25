@@ -147,6 +147,23 @@ Pushback:
 - **Author, ending:** "they will just leave and go into town toward thee bank to set up an account not known now." Read as the new ending: they leave the wrecked house heading for the bank to open an account, with how the account works and where its money comes from still undecided. The charcoal-drawing ending is dropped for this chapter.
 - **Pushback:**
   - End on the way to the bank, not inside it. Opening an account needs ID, an address and truthful forms, and Lucifer can't lie; those are the mechanics that are "not known now."
+  - **Author batch (locked):**
+    - The illusion is a new capability, based on the biblical temptation in the desert. It's an immaterial vision, not a lie, and the witness rules still apply, which is why it's interior only.
+    - No fight as such: Azrael, annoyed, throws Lucifer into a column, which crumbles along with part of the ceiling.
+    - Same visit: they watch the agent (female) drive away until she's out of sight, then go back in.
+    - The $1,000 is ten $100 bills, shown as a demonstration of how he'll pay.
+    - "Black": he felt creative. No justification needed.
+    - No sky glance.
+    - The agent needs a name.
+    - Fire history: a 1950s bombing during a city hall function started the fire, killing ten and injuring many.
+  - **Still open:**
+    - Does Lucifer actually project the illusion before the throw? His "only did the inside" suggests yes.
+    - The column and ceiling afterwards.
+    - Cleaning up before the bank.
+    - How they get back inside if the cash was only a demonstration (keys? an unlocked wreck?).
+    - The agent's name.
+    - Why a city hall function was held at a private mansion.
+    - Does Azrael have a personal link to the ten deaths? He held the death-duty in the 1950s. Offered as an option only.
   - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
 **Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
