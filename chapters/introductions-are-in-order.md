@@ -178,7 +178,7 @@ He looked ahead, at the back of Tristan's head, at the shopfronts sliding by. "S
 
 "Are your parents around? Do they live near here, or —"
 
-He felt the question land somewhere it had no business landing, a sudden ache of something old and complicated, and took a beat before answering that one too, weighing each word carefully before he let it out. "My father and I don't speak much these days."
+He felt the question land somewhere it had no business landing, a sudden ache of something old and complicated, and took a beat before answering that one too. "I'd rather not get into that."
 
 Something in his voice must have shifted, because Sophie, to her credit, didn't push it further. "Sorry. Didn't mean to hit a nerve."
 
