@@ -1,4 +1,4 @@
-# No Place Like Home
+# No Place Like Home — Lucifer
 
 The parking lot had mostly cleared out by the time Sophie's car turned the corner and disappeared. Lucifer watched the last of it go, then started walking, not toward anything in particular, just away from standing still.
 
@@ -10,17 +10,15 @@ Azrael fell into step beside him. "You're quiet."
 
 Lucifer ignored it. "We need a place."
 
-"We have a place. The motel on the highway has rooms."
+"We don't need a place." Azrael countered.
 
-"We need a place of our own."
-
-Azrael's stride didn't change, but his voice sharpened. "We need somewhere to sleep until we find Eve and go home. That's all we need. A rented room. Something small, something nobody notices, something we walk away from without a second thought when this is over."
+Azrael's stride didn't change, but his voice sharpened. "We just need somewhere to sleep until we find Eve and go home. That's all we need. A rented room. Something small, something nobody notices, something we walk away from without a second thought when this is over."
 
 "No."
 
 "No?"
 
-"No." Lucifer kept his eyes on the street ahead. "I'm not spending however long this takes sharing walls with humans. Hearing them through the plaster. Smelling whatever they're cooking two doors down. Listening to them argue, or worse, listening to them not argue and wondering why. I've done six thousand years in a place I built to my own specifications. I'm not doing this one in a box some stranger owns."
+"No." Lucifer kept his eyes on the street ahead. "I'm not spending however long this takes sharing walls with humans. Hearing them through the plaster. Smelling whatever they're cooking two doors down. Listening to them argue, or worse, listening to them not argue and wondering why. I've done six thousand years in a place I built to my own specifications. I'm not doing this job in a box some stranger owns."
 
 "It's temporary."
 
@@ -28,11 +26,11 @@ Azrael's stride didn't change, but his voice sharpened. "We need somewhere to sl
 
 Azrael exhaled through his nose. "A house is a commitment. Records. Neighbors who'll remember your face. Paperwork with your name on it, sitting in a filing cabinet somewhere for anyone to find later."
 
-"Then I'll pick a name that doesn't matter."
+"Then I'll pick a name that doesn't matter. And money has never failed to get around a papertrail."
 
 "That's not the point and you know it."
 
-"The point," Lucifer said, "is that I am not renting a single room from a human being and listening to him breathe through the wall for however long God decides this takes. I'd rather sleep outside."
+"The point," Lucifer said, "is that I am not renting a single room from a human being and listening to him breathe through the wall for however long it takes to find Eve. I'd rather sleep outside."
 
 "Fine. Sleep outside."
 
@@ -52,13 +50,11 @@ Azrael studied him for a moment. Something crossed his face too quickly to name 
 
 "It's what you're getting."
 
-They found the real estate office two blocks down, a narrow storefront with a hand-painted sign and a bell over the door that Lucifer's shoulder set off before he'd fully stepped inside.
+They found a real estate office two blocks down, a narrow storefront with a hand-painted sign and a bell over the door that Lucifer's shoulder set off before he'd fully stepped inside.
 
----
+The woman behind the desk looked up and smiled. "Welcome in. I'm Emma Brock — can I help you two find something?"
 
-The woman behind the desk looked up and smiled the smile of someone paid to be pleased to see anyone who walked in. "Welcome in. I'm Emma Brock — can I help you two find something?"
-
-"A house," Lucifer said, dropping into the chair across from her without being asked. "Vacant. The one with the most square footage you've got listed."
+"A house," Lucifer said, dropping into the chair across from her without being asked. "A vacant one if you don't mind. Could you give me a list of the ones with the most square footage you've got listed."
 
 Emma's pen paused over her notepad. "Square footage specifically?"
 
@@ -66,7 +62,7 @@ Emma's pen paused over her notepad. "Square footage specifically?"
 
 "Not — I usually ask about budget first, or bedrooms, or —"
 
-"Square footage."
+"Square footage. I'm not concerned about the cost—"
 
 Azrael's hand caught the back of Lucifer's head hard enough to knock him forward over the desk. Emma's eyebrows went up.
 
@@ -90,19 +86,19 @@ Lucifer reached into his pocket and came back out with a fold of hundred-dollar 
 
 Azrael's jaw tightened. "You shouldn't do that."
 
-"Why not. It worked."
+"Why not. She didn't see anything," Lucifer kept his voice down.
 
 "That's not — " Azrael glanced past him at Emma, who was still bent over her folder, apparently having seen nothing more remarkable than a man taking money out of his own pocket. "That's not the point."
 
 Lucifer was already turning back toward the desk. "How many square feet, exactly —"
 
-Azrael's fist closed on his collar and hauled him back a full step before his next word came out. "Sit down," he said, low, "and stop asking her to admire it."
+Azrael's fist closed on his collar and hauled him back a full step before his next word came out. "Sit down," he said, low, "and stop asking her for square footage."
 
 "I'm allowed to be curious about what I'm buying."
 
 "You're allowed to not draw a line under yourself in a town this size before we've been here a week."
 
-Lucifer leaned in close enough that only Azrael would catch it. "If we're doing this — if we're stuck here however long God decides to make us stuck here — I intend to be comfortable while I do it. And I asked for vacant because nobody watches a place nobody lives in. No neighbors peering through curtains. No landlord dropping by to check the pipes. An empty house is the one thing in this town nobody's paying attention to."
+Lucifer leaned in close enough that only Azrael would catch it. "If we're doing this — if we're stuck here however long it takes — I intend to be comfortable while I do it. And I asked for vacant because nobody watches a place nobody lives in. No neighbors peering through curtains. No landlord dropping by to check the pipes. An empty house is the one thing in this town nobody's paying attention to. The house I am currently agreeing to also is an evident fixer upper which means no one will buy it in the near future."
 
 Azrael held his eyes a moment longer, then let go of the collar. He didn't say Lucifer was right. He didn't have to.
 
@@ -122,7 +118,7 @@ Emma blinked. "A phone?"
 
 "Everyone has a phone."
 
-"I don't like them," Lucifer said, and reached across the desk to the small bowl of apples sitting beside a stack of business cards — a bowl clearly meant for waiting clients, the kind of thing offices put out to look welcoming — and took one without asking.
+"I don't like them," Lucifer said, and reached across the desk to the small bowl of apples sitting beside a stack of business cards — a bowl clearly meant for waiting clients and took one without asking.
 
 "He means we're between numbers right now," Azrael said. "New to town, like I said. We'll have one sorted soon."
 
@@ -138,9 +134,7 @@ Emma watched the exchange with the mild patience of someone who'd stopped being 
 
 "Tristan and Adrian. Alright. I'll note you're between numbers, we can work out the details once we're further along. Should we head up and take a look at the place, then, before we go any further on paperwork?"
 
-"Yes," Lucifer said, standing, apple already half gone. "Now."
-
----
+"Yes," Lucifer said, standing, apple already half gone. "Now would work best."
 
 Emma drove them up herself, her car climbing a road that switched back twice before it leveled out at the top of the town's tallest hill. She parked at the edge of a wide, overgrown lawn, and the house came into view all at once.
 
@@ -152,7 +146,7 @@ There was no front door. The frame where one had hung stood open onto a dark hal
 
 Inside, the damage only got more thorough. The entry hall had once been floored in pale stone; now half of it was scorched black, the other half buckled and split where water had gotten in through the open door for years. A staircase curved up along the far wall, its bannister intact on one side and missing entirely on the other, several of the upper steps burned down to their supports.
 
-"To the left's what would've been the front parlor," Emma said, leading them through an archway. The room beyond had tall windows, most of the glass long gone, and a marble fireplace still standing at one end, its mantel cracked straight through the middle. Wallpaper hung in long strips off every wall, the pattern beneath it — something floral, once expensive — visible only in patches.
+"To the left's what used to be the front parlor," Emma said, leading them through an archway. The room beyond had tall windows, most of the glass long gone, and a marble fireplace still standing at one end, its mantel cracked straight through the middle. Wallpaper hung in long strips off every wall, the pattern beneath it — something floral, once expensive — visible only in patches.
 
 "To the right," she went on, crossing back through the hall, "the dining room."
 
@@ -166,7 +160,7 @@ A long room, empty except for the warped remains of a table too heavy or too rui
 
 Lucifer glanced at Azrael, waiting for something — a flicker, a tightening around the eyes, anything. There was nothing. Azrael's face held the same mild, unbothered attention he'd have given a description of the plumbing.
 
-They kept moving. Through the dining room and into a kitchen that had fared slightly better than the rest of the ground floor, cabinets still hanging though warped from heat, a cast-iron stove sitting rusted and cold in the corner. A pantry off the back held shelves collapsed under their own rot. Beyond the kitchen, a smaller room Emma called the servants' hall, empty except for a stack of chairs someone had piled against one wall long ago and never come back for.
+They kept moving. Through the dining room and into a kitchen that had fared slightly better than the rest of the ground floor, cabinets still hanging though warped from heat, a cast-iron stove sitting rusted and cold in the corner. A pantry off the back held shelves collapsed under their own rot. Beyond the kitchen, a smaller room Emma called the servants' hall, empty except for a stack of chairs someone had piled against one wall long ago and never came back for.
 
 Further along, the room that had clearly been built to hold the gala itself — a ballroom running the length of the house's east side, ceiling twice the height of any other room, tall arched windows down both walls with most of their glass still miraculously in place on the side that faced away from the blast. A row of columns ran down the center of the room, thick stone pillars meant to look ornamental as much as structural, though it was plain from the cracks running up two of them that they were carrying real weight. The floor here had been parquet once; scorch patterns radiated from several points across it, dark patches scattered across the lighter wood.
 
@@ -174,7 +168,7 @@ Further along, the room that had clearly been built to hold the gala itself — 
 
 Upstairs, the second floor held a long hallway of bedrooms, most doors missing or hanging from a single hinge, water damage staining the ceilings brown in long streaks that followed old leaks down through multiple floors. The primary bedroom faced the town, a wide window frame with no glass left in it at all, wind moving freely through the room. A bathroom attached to it still had its clawfoot tub, blackened but intact, sitting in the corner. The third floor was worse — the section Emma had mentioned being closed off, a cluster of small connected rooms under a roofline that had partially given way, sky visible through one section of ceiling, rain damage pooled dark across the boards below it.
 
-"I won't take you all the way up there," Emma said at the base of the last stairwell. "Structurally it's not what I'd call safe yet. But it's included in the square footage, obviously."
+"I won't take you all the way up there," Emma said at the base of the last stairwell. "Structurally it's not what I'd call safe. But it's included in the square footage, obviously."
 
 By the time they came back down to the ground floor, Lucifer had made up his mind twice over. "I'll take it," he said. "Whatever the paperwork requires, we can —"
 
@@ -190,13 +184,15 @@ Azrael's hand closed around his arm and pulled him a short distance off, toward 
 
 Azrael held his eyes. "Slow. However long slow actually takes. I mean it."
 
-"Fine. Slow." Lucifer pulled his arm free. "Now let me finish this before she thinks we've changed our minds."
+"Fine. Slow." Lucifer pulled his arm free. "Now let me finish this before she thinks we've changed our minds." Lucifer held his hand out to shake hands with Azrael.
+
+"Pfft," Azrael scoffed. "Still the same old Lucifer. Always making deals."
 
 Emma looked up as they came back. "Everything alright?"
 
 "Everything's fine," Lucifer said. "I'll take the house."
 
-The paperwork took longer than the tour had. Emma produced forms from a folder in her bag, balanced against the one flat section of the dining room's warped table, and walked him through what needed signing. Where it asked for a name, Lucifer wrote *Adrian Black* — a name he'd simply chosen on the spot, with no more thought behind it than needing one.
+The paperwork took longer than the tour had. Emma produced forms from a folder in her bag, balanced against the one flat section of the dining room's warped table, and walked him through what needed signing. Wherever it asked for a name, Lucifer wrote Adrian Black — a name he'd simply chosen on the spot, with no more thought behind it than needing one.
 
 "I'll come by with the money," he told her, once the last page was signed. "Once I've got it together."
 
@@ -220,39 +216,33 @@ They walked her out to her car. She lingered a moment at the driver's door, look
 
 They went back inside.
 
----
-
 The light in the ballroom had shifted while they were out at the car, sliding further down the tall windows, and it caught the standing columns at an angle that made the cracks in them look deeper than they had before. Lucifer walked its length once, slow, taking in what was actually there — the scorched parquet, the warped bannister visible through the archway beyond, the whole ruined shape of the place — and then stopped near the center of the room, facing the row of columns, and let himself see what wasn't there yet.
 
-"Watch," he said.
+"I have many plans for this place," he said.
 
-He didn't move his hands. He didn't need to. He held the shape of it in his mind — the ballroom whole, floor restored to a pale, unbroken gold, the columns clean white stone without a single crack running through them, the windows glassed floor to ceiling and throwing late light across a room set and ready for guests, chandeliers hung and lit where the old one had fallen, walls papered in something dark and rich instead of the ruin of what was actually there — and pushed it outward, and the illusion took hold across the room.
+He didn't move his hands. He didn't need to. He held the shape of it in his mind — the ballroom's floor restored to a pale, unbroken gold, the columns clean white stone without a single crack running through them, the windows glassed floor to ceiling and throwing late light across a room set and ready for guests, chandeliers hung and lit where the old one had fallen, walls papered in something dark and rich instead of the ruin of what was actually there — and pushed it outward, and the illusion took hold across the room.
 
 Nothing physical changed. A picture formed directly over the house instead, whole and bright, every detail exactly as he meant it: the staircase beyond the archway restored, bannister running unbroken to the top floor; the front door back in its frame, dark wood with glass insets; the whole structure complete again, exactly as it must have looked the night before the bomb went off, and better than that — built to his own eye instead of some dead mayor's.
 
-"It's not real," Azrael said, watching it with no particular wonder in his voice. "Any of it."
-
-"It's a picture. Nothing more. Can't be touched, doesn't hold if I stop thinking about it. It's the plan. I wanted you to see the plan."
-
-"I don't need to see a plan I'm not going to let you build at speed."
+"You do realize there is no way you are finishing this project in the time that we are here right?" Azrael questioned.
 
 "I'm not building anything yet. I'm showing you what it's for."
 
 Azrael didn't answer that. Instead he crossed the room in three strides and shoved him, hard, both hands flat against his chest, and Lucifer went backward into the nearest column with the full weight of the throw behind it.
 
-The illusion vanished the instant the impact broke his concentration — one moment the ballroom was whole, gold-floored, chandelier-lit, and the next it was gone entirely, the burned and buckled room underneath it the only thing left standing.
+The illusion vanished the instant the impact broke his concentration — one moment the ballroom was whole, gold-floored, chandelier-lit, and the next it was gone entirely, the burned and buckled room underneath it was the only thing left standing.
 
-The column didn't hold. Cracked as it already was, the impact of Lucifer's back hitting it square finished what the fire had started decades ago; it folded at its base and came down in a slow collapse of stone that took a section of the ceiling above it with it, plaster and old timber crashing down and throwing dust out across the ballroom floor.
+The column didn't hold. Cracked as it already was, the impact of Lucifer's back hitting it square finished what the bomb had started decades ago; it folded at its base and came down in a slow collapse of stone that took a section of the ceiling above it with it, plaster and old timber crashing down and throwing dust out across the ballroom floor.
 
 Lucifer went down with the column, landing hard on his back amid the rubble, pain lancing up his spine sharp enough that he couldn't draw a full breath for a second before he got his elbows under himself and pushed up out of the debris.
 
-"You could have just told me to stop," he said, once he had air enough to say it.
+"You could have just told me to stop," he said, once he had enough air to say it.
 
 "I did tell you. Twice." Azrael hadn't moved from where he'd thrown him, standing untouched at the edge of the dust settling around them, not a mark on him, not so much as his collar out of place. "You don't listen to telling."
 
 "You broke a column."
 
-"You were already going to break it eventually. I just moved the schedule up."
+"You'll fix it anyway. Like you said, you haven't started building it yet," Azrael smirked.
 
 Lucifer got to his feet slowly, one hand pressed to the small of his back, and looked at the wreckage — the fallen column, the hole punched through the ceiling above it, plaster dust settling over what had, seconds ago, been a room whole and lit and finished in his own head. Nobody was going to clean any of it up. It could sit there exactly as it had fallen for as long as it needed to.
 
@@ -263,8 +253,6 @@ Lucifer got to his feet slowly, one hand pressed to the small of his back, and l
 "I said point taken."
 
 Azrael looked satisfied enough to let it go.
-
----
 
 They left through the empty doorframe, out onto the overgrown lawn, the sun sitting high and hard overhead, well past noon but with hours of daylight still ahead of it. Lucifer's back ached with every other step going down the slope, a dull, deep pull he didn't bother mentioning again, and Azrael didn't ask.
 
