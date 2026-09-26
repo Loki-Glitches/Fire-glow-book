@@ -174,6 +174,16 @@ Pushback:
     7. It was the mayor's house in the fifties, and the function was a gala.
     8. No stillness beat: Azrael doesn't care about the ten deaths, because whose deaths he took isn't his business to know.
   - The paragraph is final. Bible text has been proposed for the Director: the illusion in Lucifer's profile, a pointer from the synopsis's standing habits, the house's history in the story and world bibles, and optionally Azrael's "doesn't track individual deaths."
+  - **Author corrections, 2026-09-26:**
+    1. Add a real conversation before the estate agent's office in which Lucifer proposes getting a place.
+    2. He wants the biggest place, not the most expensive.
+    3. Only Lucifer is hurt (his back, from the column); Azrael is fine.
+    4. The chapter ends with them leaving the house. No bank, no town trip; the money/account thread is held for later.
+  - **Knock-on effects:**
+    - The "no cleanup before town" concern no longer applies.
+    - The next morning's "just a little" now means Lucifer's back (stiffness, hidden under clothes) rather than visible marks.
+    - Where they spend the night is unstated. The park chapter mustn't contradict that.
+    - The conversation before the office must argue about *whether* to get a place; the office whisper argues about *why the biggest*. They mustn't repeat each other.
   - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
 **Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
