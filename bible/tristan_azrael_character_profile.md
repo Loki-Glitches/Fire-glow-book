@@ -46,6 +46,8 @@ Someone had to remain on Earth to watch over humanity now that death existed as 
 
 **2026-09-11: temporarily reassigned.** For the duration of this arc, the death-duty has been passed to a different angel so Azrael can focus on containing Lucifer instead. The replacement angel is not yet named or detailed — open item for Creative Partner/author to fill in if the story ever needs to show or reference them directly. Whether this reassignment itself becomes a plot thread (resentment at losing the role he "hates but is his," worry about the substitute, the duty coming back to him) is undecided — flag to the author before assuming either way.
 
+**Characterization note, 2026-09-26 (author, re: the ten gala deaths at the mansion):** Azrael absorbs the pain of every human death but does not track whose or where. Individual deaths aren't his business to know, and he gives them no thought — this holds even for deaths tied to a place he now has a personal stake in.
+
 ---
 
 ## RELATIONSHIP TO LUCIFER

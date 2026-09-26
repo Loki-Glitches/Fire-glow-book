@@ -38,6 +38,8 @@ Lucifer is a divine being assigned by God to rule Hell as an eternal executor of
 
 **New location, 2026-09-11:** Lucifer buys a vacant mansion at the top of the town hill — a shared home base for him and Azrael. Site of at least some of their physical confrontations (see Azrael's profile).
 
+**Detail locked 2026-09-26 (chapter following "Rundown"):** The house: a fire-blackened mansion on top of the biggest hill in town, at its edge; no front door. It was the mayor's house in the 1950s; a bomb went off during a gala held there, starting the fire, killing ten people and injuring many others. The town remembers it. Price about $250,000 because of its condition and history. Agent: **Emma Brock**. Signed for by "Adrian Black" in that chapter; **not legally owned until the remaining payment is made.** Part of the living-area ceiling and one main support column collapsed in that chapter (Azrael threw Lucifer into the column) — the rubble is left in the living area, unrepaired. **Only Lucifer was hurt (his back); Azrael was unhurt.**
+
 ### Divine Authority Hierarchy
 1. **God** — absolute authority. Final override. Authorizes Full Bonds when institutional revocation has occurred.
 2. **Azrael / "Tristan"** — Earth-side evaluator and enforcer. Approves Full Bonds on first-time formation. Cannot re-approve broken bonds (that goes to God). Can institutionally suspend bonds.

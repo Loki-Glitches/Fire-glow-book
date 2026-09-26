@@ -151,6 +151,12 @@ Lucifer has power from the beginning of the book — it is not unlocked graduall
 - **Still fully commandment-bound** (see Divine Purity & Truth, below) — but works their broadness deliberately and knowingly, more manipulative in intent than merely careful.
 - These are orders from above (God/the angelic hierarchy), not self-imposed caution — breaking them has consequences, which is part of why Azrael's new job is to contain him (see `bible/tristan_azrael_character_profile.md`) rather than just evaluate him.
 
+**Illusion (added 2026-09-26, author-locked).** Lucifer can project an immaterial illusion: a visual picture of his own vision (first use: a restored, designed version of the mansion's burned interior, in the chapter following "Rundown"). Grounded in the biblical temptation in the desert, where he shows Jesus "all the kingdoms of the world." **It is not a lie:** it makes no claim; it is a projected vision, and it does not alter anything physically.
+- **Purely visual.** It cannot be touched or physically interacted with in any way; it is a projection only.
+- **Humans can see it.** The standard rule therefore applies without exception: no human may witness it being cast or held. In practice this means he cannot run it with any human present, at least until a human knows the truth about him (the same rule that governs all his power use).
+- **Concentration-bound.** It lasts only as long as he actively keeps it in mind. The moment his concentration breaks (distraction, impact, pain) it vanishes instantly; he doesn't have to choose to end it. First on-page demonstration: Azrael throws him into a support column, he loses his train of thought, and the illusion drops.
+- *Implication, not locked:* once a human knows the truth (see Power & Secrecy), showing them an illusion becomes possible. A potential later use; flag to the author before writing it.
+
 ## ARTISTRY, IN PRACTICE (ties to the ARTISTRY section above — expanded 2026-09-11)
 
 Creation being "the one part of him the Fall never reached" (see ARTISTRY, above) means he never actually stopped making things, even at his most numb/caustic — it's not something that unlocks with emotional progress, it's something he's always privately done. Concretely, on Earth:
