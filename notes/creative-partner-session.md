@@ -242,6 +242,25 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 - **Language:** the author objects to anything that frames Elizabeth's questioning as a power. My "lie-sense" phrasing in earlier rounds was wrong shorthand. From now on describe it only as an ordinary skeptical-questioning habit.
 - **Park details:** the author will supply them. Don't re-ask.
 - **Still pending from the author:** the order of events (bank and phone shop) and their own paragraph.
+
+**The author's own paragraph (2026-10-01), still planning, NOT for Writer yet:**
+1. Open in town. Lucifer explains they're going to the bank because $250K in cash is suspicious.
+2. Azrael stops at a phone shop ("we need a line of communication"). Lucifer haggles over ID, then bribes the clerk $5,000 and pays $1,200 for the phone, all cash from his pocket.
+3. On the way to the bank, Azrael can't work the phone. Lucifer brings up the contacts menu: "I don't like phones. That doesn't mean I don't know how to use them."
+4. At the bank, Lucifer asks for an account as Adrian Black, signs, and finds the account already exists. He "curses" **Gabriel** (a new character; he knows it was him).
+5. He has the money wired to Azrael's phone, snatching the phone; collateral is an artifact or diamond as a loan.
+6. A few blocks to Emma's office; he taps the phone on the card reader; Emma hands over the deed and he puts it in his inner jacket pocket.
+7. On leaving, they're met by a very annoyed Elizabeth and Sophie. End.
+
+**Questions I raised:**
+- **Gabriel:** who is he, and how does Lucifer know it was him (the not-all-knowing rule)? Lucifer only chose "Black" today, so how could the account already exist? Is it funded? Is Gabriel the unnamed sibling covering the death-duty? Did Gabriel also set up an ID, which would make the bribe pointless? Or did Azrael arrange it?
+- **The park:** is it cut? How do Elizabeth and Sophie find them outside the estate agent's (a third coincidence), and why are they annoyed (waited at the park?)? Being seen coming out of an estate agent's exposes the house, which conflicts with keeping it secret and with the phone cover story.
+- **Does the meeting itself now play in the next, Elizabeth-POV chapter?** The avoidance, the limp line, asking Tristan and swapping numbers would move there.
+- **The limp:** is it still in? It wasn't mentioned.
+- **Bribery versus "cannot sin in any way":** the tension needs ruling on. Also Azrael's reaction to the bribe.
+- **The phones:** what's the basis for Lucifer knowing phones (Hell? souls?) while Azrael, on Earth all along, doesn't?
+- **Payment:** tapping a phone to pay $250K is implausible. The diamond's source, and the pocket cash's source, are still undefined.
+- **Cursing Gabriel aloud:** is it muttered in front of the clerk?
 - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
 **Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
