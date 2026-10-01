@@ -38,11 +38,11 @@ Azrael exhaled through his nose. "A house is a commitment. Records. Neighbors wh
 
 Azrael stopped walking. Lucifer went two more steps before he noticed and turned back.
 
-"You understand what you're asking for," Azrael said. "A house means staying. It means roots. It means this stops looking like a errand and starts looking like a life, and the longer it looks like a life, the harder it is to leave when we find her."
+"You understand what you're asking for," Azrael said. "A house means staying. It means roots. It means this stops looking like an errand, and starts looking like a life, and the longer it looks like a life, the harder it is to leave when we find her."
 
 "Or," Lucifer said, "it means I sleep, which I intend to start doing at some point, in a place with no one else's heartbeat in it. That's the whole of my reasoning. It isn't complicated."
 
-Azrael studied him for a moment. Something crossed his face too quickly to name — not agreement, not quite, but the particular stillness Lucifer had learned to read off him over six thousand years, the look of a man deciding a fight wasn't worth finishing. "Fine," he said. "A house. Small. Cheap. Nothing that draws eyes."
+Azrael studied him for a moment. Something crossed his face too quickly to name — not agreement, not quite, but the particular stillness Lucifer had learned to read off him over six thousand years, Azrael decided the fight wasn't worth finishing. "Fine," he said. "A house. Small. Cheap. Nothing that draws eyes."
 
 "We'll see."
 
@@ -134,9 +134,9 @@ Emma watched the exchange with the mild patience of someone who'd stopped being 
 
 "Tristan and Adrian. Alright. I'll note you're between numbers, we can work out the details once we're further along. Should we head up and take a look at the place, then, before we go any further on paperwork?"
 
-"Yes," Lucifer said, standing, apple already half gone. "Now would work best."
+"Yes," Lucifer said, standing, the apple already half gone. "Now would work best."
 
-Emma drove them up herself, her car climbing a road that switched back twice before it leveled out at the top of the town's tallest hill. She parked at the edge of a wide, overgrown lawn, and the house came into view all at once.
+Emma drove them up herself, Lucifer finished the apple and tossed it out of the car window subtly. The car climbed a road that switched back twice before it leveled out at the top of the town's tallest hill. She parked at the edge of a wide, overgrown lawn, and the house came into view all at once.
 
 It stood at the very top of the rise, positioned so the whole town spread out below it — the kind of house built specifically to be looked up at. Even ruined, it still held that effect. Three full stories of stone and old brick, a roofline broken in places where sections had clearly burned through and been left, black streaks running up the walls from every window frame that still held one. Ivy covered one whole side of the house, growing directly over the scorch marks.
 
@@ -172,9 +172,9 @@ Upstairs, the second floor held a long hallway of bedrooms, most doors missing o
 
 By the time they came back down to the ground floor, Lucifer had made up his mind twice over. "I'll take it," he said. "Whatever the paperwork requires, we can —"
 
-Azrael's hand closed around his arm and pulled him a short distance off, toward the empty doorframe where the front door should have hung. Emma, tactfully, found something to study in her folder.
+Azrael's hand closed around his arm and pulled him a long distance off, toward the empty doorframe where the front door should have stood. Emma, tactfully, found something to study in her folder.
 
-"You cannot fix this fast," Azrael said, low and clipped. "Not the door, not the roof, not one column of that ballroom. A wreck this bad gets fixed inch by inch by ordinary people with ordinary tools, or it gets noticed. If this place goes from what we just walked through to whole in any span of time a human would call fast, somebody in this town starts asking exactly how, and the answer isn't one either of us can give."
+"You cannot fix this fast," Azrael said, low and clipped, quiet enough not to have Emma overhear. "Not the door, not the roof, not one column of that ballroom. A wreck this bad gets fixed inch by inch by ordinary people with ordinary tools, or it gets noticed. If this place goes from what we just walked through to whole in any span of time a human would call fast, somebody in this town starts asking exactly how, and the answer isn't one either of us can give."
 
 "I know how to be patient."
 
@@ -186,7 +186,7 @@ Azrael held his eyes. "Slow. However long slow actually takes. I mean it."
 
 "Fine. Slow." Lucifer pulled his arm free. "Now let me finish this before she thinks we've changed our minds." Lucifer held his hand out to shake hands with Azrael.
 
-"Pfft," Azrael scoffed. "Still the same old Lucifer. Always making deals."
+"Pfft," Azrael scoffed. "Still the same old Lucifer. Always making deals." He met Lucifer's hand in the middle and shook once.
 
 Emma looked up as they came back. "Everything alright?"
 
