@@ -65,10 +65,14 @@ ISSUE: Per the locked 2026-09-25/27 rule, only Elizabeth (reads untruth) and Luc
 SUGGESTED FIX: Describe the action without the interpretive label — e.g. "Emma looked back down at her folder."
 
 CATEGORY: Continuity
-SEVERITY: VERIFY
-LOCATION: "and reached across the desk to the small bowl of apples... took one without asking" / "apple already half gone" (last mention).
-ISSUE: The locked apple-habit rule states he can't just set an apple down once picked up — he has to eat or destroy it. The chapter never shows this one finished or destroyed; it simply drops out of the narration after "apple already half gone." Likely fine as an off-page completion, but flagging since this is a locked compulsion detail the author has been tracking carefully elsewhere.
-SUGGESTED FIX: A one-line beat finishing the apple (or crushing it) before the tour would close the loop cleanly if the author wants it explicit.
+SEVERITY: MINOR (author-confirmed 2026-10-01 — was VERIFY, now a concrete fix request)
+LOCATION: Transition sentence between the office scene and the house tour: "'Yes,' Lucifer said, standing, apple already half gone. / Emma drove them up herself, her car climbing a road that switched back twice before it leveled out at the top of the town's tallest hill. She parked at the edge of a wide, overgrown lawn, and the house came into view all at once."
+ISSUE: The locked apple-habit rule states he can't just set an apple down once picked up — he has to eat or destroy it. The apple is last referenced as "already half gone" when he stands to leave the office, then never mentioned again through the tour, signing, the illusion/fight, or the walk out. The author has confirmed this should be shown finishing on the page.
+RECOMMENDED INSERTION POINT: The car ride up the hill, inside the existing "Emma drove them up herself..." sentence, is the cleanest spot — it's a beat that's already there, happens before he needs his hands free for the tour, and doesn't require carrying a half-eaten apple through fourteen paragraphs of room-by-room exploration (which would be a stranger, more distracting detail to silently drop later than simply finishing it now). Specifically, insert a short clause or sentence between "apple already half gone" and the drive itself:
+
+Emma drove them up herself. Lucifer finished the apple somewhere on the first switchback and let the core drop out the window without comment, her car climbing a road that switched back twice before it leveled out at the top of the town's tallest hill.
+
+This keeps the beat to a single clause, ties it to a moment of idle downtime that's already in the scene (riding in the car, nothing else happening), closes the loop before the tour begins, and requires no restructuring of anything else in the chapter. (A destruction beat — crushing it instead of finishing it — would fit the same slot equally well if the author prefers that register here over the eating one; either satisfies the rule.)
 
 CATEGORY: Continuity
 SEVERITY: VERIFY
