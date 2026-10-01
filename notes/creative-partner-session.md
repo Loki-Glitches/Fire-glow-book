@@ -224,6 +224,17 @@ Questions I opened with (not yet answered):
 6. They head on toward the bank (not shown).
 
 Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has no such sense. It could come back as her noticing an inconsistency.
+
+**Author round 2 (2026-10-01). DO NOT WRITE THIS CHAPTER YET; the author hasn't given their own paragraph.**
+- **No conscious recognition of the eyes.** Lucifer avoids looking at her without knowing why; nobody knows about the resemblance yet. Conscious recognition comes in a later chapter, placement still [OPEN]. This is closer to the original 2026-09-04 lock than my last draft, so it no longer reads as replacing that decision. It adds a subconscious lead-up before the recognition.
+- **Unresolved:** the author answered "yes" to Eve being named in his thoughts. That conflicts unless it means a half-formed, unexamined flicker. Asked to clarify.
+- **Park features:** the author will supply them.
+- **Azrael notices nothing at all.**
+- **No sky glance.**
+- **Elizabeth asks Azrael why Lucifer won't look at her.** Azrael: "that's just who he is" (not fully sure).
+- **No ending line yet.**
+- **No hill house.** Asked why they were at the bank, Tristan says he was getting money for a phone. This is his first lie to Elizabeth. It implies the bank came before the park; the order needs confirming.
+- **Azrael pays for the phone with Lucifer's pocket cash:** yes.
 - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
 **Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
