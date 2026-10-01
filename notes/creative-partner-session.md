@@ -185,7 +185,20 @@ Pushback:
     - Where they spend the night is unstated. The park chapter mustn't contradict that.
     - The conversation before the office must argue about *whether* to get a place; the office whisper argues about *why the biggest*. They mustn't repeat each other.
   - **Author correction, 2026-09-26:** everything happens the same day in quick succession, and they leave the house at late midday, heading toward town. There's no night framing. The ending shows them leaving toward town and nothing beyond that. The rest of the afternoon, up to the park chapter the next morning, is unaccounted for (perhaps where the bank happens off-page).
-  - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
+  - **"No Place Like Home" is settled** (`chapters/no-place-like-home.md`). The fight is Azrael's shove into a ballroom column; Lucifer's back is hurt.
+
+### Planning the park chapter (Lucifer POV) — opened 2026-10-01
+Questions I opened with (not yet answered):
+- **Timing:** the next morning, or the same afternoon?
+- **The brothers' own reason for being at the park:** avoid a third coincidence.
+- **The house as a contact point:** they have no phones, but Lucifer could tell them they bought "the old place on the hill." The town knows its history, it gives Sam a fresh worry, and it opens the house for Elizabeth to come to later (where she could find his painting).
+- **Friction:** Elizabeth said she'd rather deal only with Tristan, so she freezes Lucifer out and he can't stand being dismissed. What's the cutting line that turns annoyance into hate?
+- **Her lie-sense works the opposite way to what she assumes.** Azrael is the one who lies (his permitted sin), and Lucifer never does. When does Azrael first lie in front of her and get caught by her sense? A possible turning point, maybe later.
+- **The back:** someone asks why he's stiff, and Lucifer says truthfully "my brother threw me into a pillar." It reads as a joke, but Elizabeth's lie-sense doesn't fire.
+- **Who's there:** Sam, or only Elizabeth and Sophie?
+- **The Eve search:** no real progress is allowed. Elizabeth could have asked around (Higgins' regulars) and found nothing.
+- **Ending, and the next chapter's POV.**
+- Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
 **Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
 
