@@ -261,6 +261,14 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 - **The phones:** what's the basis for Lucifer knowing phones (Hell? souls?) while Azrael, on Earth all along, doesn't?
 - **Payment:** tapping a phone to pay $250K is implausible. The diamond's source, and the pocket cash's source, are still undefined.
 - **Cursing Gabriel aloud:** is it muttered in front of the clerk?
+
+**Author: Elizabeth and Sophie are cut from this chapter.** It's the errands only (phone shop, bank, Emma's office) and ends with the deed in his pocket.
+- **Knock-on effects:**
+  - Their park plan from "Rundown" now has to be dealt with in Elizabeth's next chapter. Suggested: they waited and the brothers never came, so she goes asking around, gets nowhere and is infuriated.
+  - The meeting beats (avoidance, the limp line, asking Tristan, swapping numbers) move to whichever chapter has the next meeting.
+  - The bible text on the eye avoidance should say "from their next meeting," not this chapter.
+  - Optional irony: the brothers pass the edge of the green on the way between errands and don't go in.
+- **Still open:** Gabriel, bribery, the phone-knowledge basis, the payment, and the limp (assumed yes).
 - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
 **Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
