@@ -198,6 +198,32 @@ Questions I opened with (not yet answered):
 - **Who's there:** Sam, or only Elizabeth and Sophie?
 - **The Eve search:** no real progress is allowed. Elizabeth could have asked around (Higgins' regulars) and found nothing.
 - **Ending, and the next chapter's POV.**
+
+**Author answers (locked):**
+- Same afternoon, so the back injury is fresh: a limp.
+- They're heading to the bank (he can't pay $250K in cash), and Azrael gets a phone as his own errand. Lucifer still has no phone.
+- Escalation: Lucifer engages with Sophie and avoids looking at Elizabeth because her eyes remind him of Eve. She takes it as a slight. Not jealousy.
+- **Correction: Elizabeth has NO lie-detection ability.** She asks pointed questions and watches for inconsistencies, which is a skill, not a power. Wording needs fixing in:
+  - `bible/style-guide.md` lines 56, 58 and 239
+  - `bible/story-bible.md` line 424
+  - `notes/character-synopsis.md` line 21
+  - `notes/synthesis-current.md` line 66
+  - `.claude/agents/agent-generic-writer.md` line 20 (agent file: the author has to edit it)
+- The limp: Sophie asks, and Lucifer says "my brother threw me into a pillar." Elizabeth registers only that he answered Sophie directly, and is frustrated by it.
+- Sam is not there. The "asked around beforehand" beat is dropped.
+- Next chapter is Elizabeth's: she asks around, gets nowhere, and ends more infuriated.
+
+**This changes a locked decision about the eyes.** `bible/lucifer_character_profile.md` § THE EVE RESEMBLANCE (2026-09-04) says the recognition comes only later, after real time getting to know her, with placement [OPEN]. It now happens at the second meeting, and his response is avoidance. Log both the old and new statements.
+
+**My structure:**
+1. Down the hill.
+2. A phone shop on Main Street (Azrael's prepaid phone; Azrael can't leave Lucifer, so both go).
+3. Cross the park toward the bank on its far side (the "bank with a flag out front" from Intro).
+4. Sophie spots them, the eye recognition, the limp line, Elizabeth calls out his avoidance.
+5. Numbers exchanged via Azrael's new phone, so contact runs through Tristan, which is what Elizabeth wants.
+6. They head on toward the bank (not shown).
+
+Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has no such sense. It could come back as her noticing an inconsistency.
 - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
 **Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
