@@ -86,7 +86,7 @@ Behind them, Azrael had found the display model he wanted and was pressing at it
 
 Kevin counted the money out and slid the boxed phone across the counter along with a slip of paper for Lucifer to sign â€” not a name this time, just an acknowledgment that he understood the terms of service, which Lucifer did not read. He signed it anyway. Twelve hundred dollars changed hands for the phone itself, counted out with the same lack of concern as before; Kevin rang it up without comment, already visibly working on not thinking about any of this again.
 
-"You're all set. Both of them are already activated, you should get a signal the second you step outside."
+"You're all set. It should already be activated, you should get a signal the second you step outside."
 
 "Good." Lucifer picked up the box before Azrael could reach for it, and turned to face him. "Don't you dare make me regret this later," he warned him. And handed it over
 
@@ -142,11 +142,11 @@ She typed it, and her smile dropped away into real concentration. "Huh. That's â
 
 Beside him, Azrael was still fiddling with the phone. He didn't say anything. He just giggled to himself knowingly.
 
-"Gabriel," he whispered forcefully, low enough that it didn't carry past his own jaw, and with real feeling behind it.
+"Gabriel," Lucifer whispered forcefully, low enough that it didn't carry past his own jaw, and with real feeling behind it.
 
 Denise didn't catch it. "Sorry, what was that?"
 
-"Nothing to concern you. It's fine. Use the account that's already there."
+"Nothing to concern you. It's fine. Use the account that's already there please."
 
 "Sure thing. I'll just need you to sign for access, since it's showing no prior card issued." She slid a form and a pen across the counter. He signed Adrian Black under the line of text he didn't read again.
 
