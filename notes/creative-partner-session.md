@@ -286,6 +286,16 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 - **The girls:** recommended that they only watch from the park, with Lucifer's POV not noticing them, and that Elizabeth's next chapter replays the same afternoon from the bench. Her "asking around" hits the bribed clerk, the bank and Emma, and gets nothing.
 - **Unanswered:** is Gabriel covering the death-duty? Was Azrael aware?
 - Azrael's "always making deals" line in "No Place Like Home" fits the bribe framing.
+
+**Locked (author, 2026-10-02):**
+- **Gabriel** is the biblical Gabriel. He is the angel who *typically* acts physically in the human world. Lucifer and Azrael are excepted because of their special task. Lucifer is allowed anyway, because he isn't tied only to God's power and has the most free will of any angel.
+- **Mortal-desires knowledge** is general, from ruling Hell (worldly desires, money as a driver), never a read on individuals.
+- **The girls:** option (a). They don't appear in this chapter; any watching from the park belongs to Elizabeth's chapter.
+- **The build is final, pending the author's go-ahead.** Remaining small choices:
+  - diamond or artifact
+  - Azrael's distraction during the bribe: browsing the display phones, since he doesn't have one yet
+  - whether the curse is muttered
+  - the chapter title
 - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
 **Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
