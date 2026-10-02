@@ -269,6 +269,23 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
   - The bible text on the eye avoidance should say "from their next meeting," not this chapter.
   - Optional irony: the brothers pass the edge of the green on the way between errands and don't go in.
 - **Still open:** Gabriel, bribery, the phone-knowledge basis, the payment, and the limp (assumed yes).
+
+**Author answers (2026-10-02):**
+- **Gabriel:** God's messenger on Earth, a sibling, carries out God's will on Earth. He is "the only angel allowed to do physical things on earth," which is how Lucifer knows the account was him. The account is empty and holds only Lucifer's identity.
+- **The bribe:** a deal, not a sin. Azrael is distracted by the phone and treats it as minor.
+- **Phones:** Lucifer knows them because, as ruler of Hell, he knows every mortal desire.
+- **Tap to pay:** settled.
+- **The limp:** in. He presses a hand to his back through the chapter and opens with "I think you broke my back."
+- **No apple** in this chapter.
+- **The girls:** "everything is around the park"; Elizabeth and Sophie grow annoyed watching the brothers do random errands.
+
+**Flags I raised:**
+- **"Only angel allowed to do physical things" taken literally contradicts locked canon.** Azrael physically fights Lucifer (locked), punched him at the orchard, and threw him into the column; Lucifer repaired the tree. A narrower reading is needed, e.g. only Gabriel physically changes the human world or its records on God's behalf.
+- **"Knows every mortal desire" needs limits** against the not-all-knowing rule and the rule that nobody reads people. General human wants, not reading individuals such as Elizabeth.
+- **The name timing ("Black" was chosen today):** still unanswered.
+- **The girls:** recommended that they only watch from the park, with Lucifer's POV not noticing them, and that Elizabeth's next chapter replays the same afternoon from the bench. Her "asking around" hits the bribed clerk, the bank and Emma, and gets nothing.
+- **Unanswered:** is Gabriel covering the death-duty? Was Azrael aware?
+- Azrael's "always making deals" line in "No Place Like Home" fits the bribe framing.
 - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
 **Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
