@@ -314,6 +314,10 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
   - How does that square with Azrael being able to badly hurt him (locked fight dynamic)?
   - Why doesn't he simply find Eve? Answer: power isn't knowledge; the not-all-knowing rule still applies.
   - Proposed reconciliation: near-God power is his full, unleashed celestial scope; inside the form, day to day, he's bounded.
+- **Power, settled:** God deliberately built limits into Lucifer's body to restrict his divine power. Full power exists only outside his body, outside time and space, the way God exists.
+  - **This contradicts "present but powerless"** (Lucifer profile line 43) and "present, but with no power" (story-bible line 147). Rewording proposed.
+  - **Also to fix:** story-bible line 418, "did not choose to exist."
+  - The final bible package has been delivered to the coordinator.
 - **Author refinement:** the form is a **gift**, a vessel God gave him to use, not authorship or ownership. God can still revoke it. The FORM & SOUL wording has been revised to match.
 - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
