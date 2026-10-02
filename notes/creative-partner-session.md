@@ -296,6 +296,10 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
   - Azrael's distraction during the bribe: browsing the display phones, since he doesn't have one yet
   - whether the curse is muttered
   - the chapter title
+- **Locked cosmology (author, 2026-10-02):** God made Lucifer's form and can take it away if he sins. His soul was not made by God and can't be altered. This fits the existing ORIGIN text ("existed outside of time and space... God found him").
+- **It conflicts with** `bible/lucifer_character_profile.md` line 41 ("a being God made") and line 132 ("He did not choose to exist; God made him"). Both need narrowing to his form.
+- **Open:** is purity an inability or a prohibition with stakes? My suggested reconciliation: purity is built into the God-made form (matching the "refusal... built into him" line in "Introductions Are In Order"), and overriding it costs the form. Also open: does this apply to other angels?
+- **Existing stale lines:** "God's son in this era" (Lucifer profile line 43, story-bible line 147).
 - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
 **Superseded back half (the "breaks his promise" trigger), kept for the record:** that night in the house (the deposit gets the keys), Lucifer breaks his "not too fast" promise almost straight away. Azrael stops him physically and it escalates. Underneath: Lucifer gets the mansion while Azrael loses his job again. The damage goes unnoticed in an already-burnt house. Optional ending: Lucifer draws on the wall with charcoal from the burns, the first sign that he makes art. Other options: a silent glance at the sky when he sees the fire-blackened house, and the phone refusal at the agent's office.
