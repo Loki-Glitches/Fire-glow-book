@@ -300,6 +300,10 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 - **It conflicts with** `bible/lucifer_character_profile.md` line 41 ("a being God made") and line 132 ("He did not choose to exist; God made him"). Both need narrowing to his form.
 - **Open:** is purity an inability or a prohibition with stakes? My suggested reconciliation: purity is built into the God-made form (matching the "refusal... built into him" line in "Introductions Are In Order"), and overriding it costs the form. Also open: does this apply to other angels?
 - **Existing stale lines:** "God's son in this era" (Lucifer profile line 43, story-bible line 147).
+- **Purity, settled (author):**
+  - **On the page:** his form is purely divine and without sin, so he cannot physically sin. Flat inability.
+  - **Underlying cosmology:** fully unleashing his celestial power, outside existence, would make sin possible. He never does it, because God would revoke his form and because it's "a lot of work, not worth it." This is inert worldbuilding, not a struggle.
+  - **Flag:** keep the unleashed-state fact out of the synopsis so Writer never reads it as temptation or restraint.
 - **Author refinement:** the form is a **gift**, a vessel God gave him to use, not authorship or ownership. God can still revoke it. The FORM & SOUL wording has been revised to match.
 - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
