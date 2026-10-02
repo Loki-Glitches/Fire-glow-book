@@ -304,6 +304,16 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
   - **On the page:** his form is purely divine and without sin, so he cannot physically sin. Flat inability.
   - **Underlying cosmology:** fully unleashing his celestial power, outside existence, would make sin possible. He never does it, because God would revoke his form and because it's "a lot of work, not worth it." This is inert worldbuilding, not a struggle.
   - **Flag:** keep the unleashed-state fact out of the synopsis so Writer never reads it as temptation or restraint.
+- **Author final answers (2026-10-02):**
+  - **Power:** he "can do anything except create from nothing... almost on the same level as God." Asked to clarify: does that power survive losing his form?
+  - **The uncreated soul** is unique to Lucifer.
+  - **Fix "God's son"** in both places.
+  - **Collateral:** anything not previously discovered. I picked a large uncut diamond.
+  - **The phone clerk is named and male:** my pick is **Kevin Marsh**. The bank clerk is also named: **Denise Harlow** (my pick, swappable).
+- **Flags raised on "almost God-level":**
+  - How does that square with Azrael being able to badly hurt him (locked fight dynamic)?
+  - Why doesn't he simply find Eve? Answer: power isn't knowledge; the not-all-knowing rule still applies.
+  - Proposed reconciliation: near-God power is his full, unleashed celestial scope; inside the form, day to day, he's bounded.
 - **Author refinement:** the form is a **gift**, a vessel God gave him to use, not authorship or ownership. God can still revoke it. The FORM & SOUL wording has been revised to match.
 - Walking into town straight after a ceiling collapse means strangers see fresh injuries, so the fight's scale and the brothers' state on leaving need settling. One throw rather than a brawl fits better.
 
