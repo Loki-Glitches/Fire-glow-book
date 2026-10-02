@@ -22,6 +22,10 @@
 
 - **Lucifer eats apples constantly, as a habit (added 2026-09-19, broadened 2026-09-29).** Ordinary apples — separate from the specific Tree of Knowledge fruit thread. **This should show up constantly, not just as an anger/boredom coping mechanism — bored, frustrated, or simply because he feels like it are all equally valid reasons for him to have one in hand.** Don't ration this to only tense/negative moments; it's a near-constant low-level tic, not a stress response exclusively. Include him holding, eating, or destroying an apple often in mundane/low-stakes scenes, especially early in the book while he's at his most volatile. **He can't just set one down once he's picked it up — he has to eat it or destroy it.** A real compulsion, not a preference; don't have him casually hold one and walk away from it, and don't explain the habit on the page.
 - **Lucifer's illusion power (locked 2026-09-26).** He can project a purely visual illusion of his own vision. It can't be touched, it lasts only while he concentrates, and it vanishes the instant his concentration breaks. Humans can see it, so he never casts or holds it with any human present. First used in the chapter following "Rundown."
+- **Lucifer cannot sin or lie (locked 2026-10-02).** It isn't a temptation he resists; it's impossible for him. Never write him straining against it, tempted by it, or choosing not to do it — there's no internal struggle to dramatize here.
+- **Lucifer is always operating inside deliberate limits on his power while in his body (locked 2026-10-02).** He's powerful, but beatable in a fight — Azrael can genuinely hurt him.
+- **Gabriel (locked 2026-10-02).** The biblical archangel, Lucifer's sibling, God's messenger. He handles God's physical arrangements on Earth — e.g., Lucifer discovering a bank account already set up in "Errands."
+- **Lucifer knows human desire in general, and how money and human things (like phones) work, because he rules Hell (locked 2026-10-02).** He never reads what a specific individual wants or is thinking.
 
 ## Chekhov's guns — planted threads with a payoff owed (added 2026-09-25)
 

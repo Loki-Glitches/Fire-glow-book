@@ -34,13 +34,17 @@ This has slipped into the prose repeatedly and needs to stop being a recurring p
 
 **Before writing any line where Adrian/Lucifer states something as fact:** check whether he's actually in a position to know it — through direct observation in the current scene, something already disclosed to him on-page, or an ability he's actually unlocked. If none of those apply, he doesn't know it, and the honest answer is "I don't know" or silence, not a lucky guess dressed up as insight.
 
+**General knowledge of human desire (added 2026-10-02, author).** As ruler of Hell he knows worldly desire in general: what damned souls wanted, and that money drives human nature. That's why things like a phone or a bribe hold no mystery for him. It's institutional knowledge from his role, **never a read on any individual.**
+
 ---
 
 ## ORIGIN / BACKSTORY
 
-**The original angel (added 2026-09-11).** Lucifer was the first angel — God gave him his form, and every angel made after was patterned in Lucifer's image. This is why he's the one being who can bond across both alignments (light and dark — his bond to Lilith, his bond to Azrael) when no other angel can: he's the template, not just an instance of it. Not God's literal offspring — a being God made, not fathered — but God's most devoted worshipper specifically because God could bring about existence from nothing, a thing no angel, Lucifer included, could do. His own gift was creation on a smaller scale — art, music, the things he made — and it was specifically that gift God loved him for.
+**The original angel (added 2026-09-11).** Lucifer was the first angel — God gave him his form, a vessel given as a gift, and every angel made after was patterned in Lucifer's image. This is why he's the one being who can bond across both alignments (light and dark — his bond to Lilith, his bond to Azrael) when no other angel can: he's the template, not just an instance of it. Not God's offspring, and not God's creation in full: his soul pre-existed; his form was God's gift — but God's most devoted worshipper specifically because God could bring about existence from nothing, a thing no angel, Lucifer included, could do. His own gift was creation on a smaller scale — art, music, the things he made — and it was specifically that gift God loved him for.
 
-Before creation, Lucifer existed outside of time and space — present but powerless, with no context. God found him and took him along as He built everything. As God worked on humanity, Lucifer explored freely — a beautiful being who spent his days singing, dancing, and creating small things. God's son in this era. No other angels yet on Earth.
+Before creation, Lucifer existed outside of time and space — present, with all of his power and nothing yet to use it on — no world, no context. God found him and took him along as He built everything. As God worked on humanity, Lucifer explored freely — a beautiful being who spent his days singing, dancing, and creating small things. God's closest companion in this era. No other angels yet on Earth.
+
+*Superseded (kept for record): "present but powerless" and "God's son in this era." See FORM & SOUL and POWER SCOPE, below.*
 
 **Timeline clarification (locked 2026-09-04):** This entire era — singing, dancing, watching siblings and the creatures of the earth arrive, creating small things freely — happens *before* Adam and Eve exist. His wound is not with this period, and it is not with Adam and Eve's existence or arrival either. It is specifically with what happens the day he gives Eve the Tree of Knowledge and the fall that follows. Any scene where he reminisces warmly about "the garden" or his younger self should stay scoped to this pre-Adam/Eve creation era; once Adam and Eve enter the story, his tone can stay neutral (he genuinely disliked Adam from the start, unrelated to the tree) but should not sour into the actual wound until the tree/betrayal itself is what's being approached — that's the one specific event he can't go near, not the two people themselves.
 
@@ -61,6 +65,38 @@ Lucifer understands Adam was not the villain. He is not at peace with the decisi
 In rage, he vowed every descending soul would face their grief in containment. He built Hell around that vow. Eventually Eve descended. He placed her cell beneath a mountain of brimstone and sat on top of it, overseeing the realm. From below, her soul called out: *"I love you."* He said nothing. She was the one thing left that could reach him, and silence was the only protection he had left.
 
 The ring he wears reads: *"Cursed by love's cruel decree, forced to bear the weight for an eternity."* The love that cursed him was not recklessness. It was generosity itself.
+
+---
+
+## FORM & SOUL — WHAT GOD GAVE, AND WHAT WAS ALWAYS HIS (foundational cosmology, added 2026-10-02, author)
+
+**His soul was not made by God, and this is unique to him.** Before creation, Lucifer existed outside of time and space, until God found him (see ORIGIN). His soul already existed; it is uncreated and his own, and therefore **permanently unalterable: beyond God's power to change or take, unconditionally.** No other angel shares this; their souls were made along with their forms.
+
+**His form was a gift from God:** a vessel to use, the original angelic form every later angel was patterned on. A gift, not a claim of authorship or ownership. But because it was given, **it can be taken back.**
+
+**The form is also a deliberate limiter.** God built limits into it specifically to restrict Lucifer's access to his divine power while he is in it. See POWER SCOPE, below.
+
+**Purity — what happens on the page.** In his given form, Lucifer **cannot sin. Physically, literally.** The vessel is purely divine, made without sin; inside it, sin is not a temptation he resists but something that cannot happen. This is how he functions in every scene of the book. The "refusal" he feels rise when a lie gets close ("Introductions Are In Order") is the form itself working, not him holding back. **Never write him tempted to sin, straining against his purity, or choosing not to sin.** It isn't a choice in front of him.
+
+**Purity — the underlying cosmology (narratively inert; reference only).** The inability belongs to the form, not the soul. Outside the form, outside time and space, sin would become possible. He never goes there, for two reasons: God would take back the form He gave, and doing so is an enormous amount of work that isn't worth it to him. To Lucifer it's a non-issue, not a struggle or a held-back temptation. **Not a plot lever.** Flag to the author before any chapter goes near it.
+
+**Free will.** Because his soul was never God's work, Lucifer has the greatest free will of any angel. He isn't tied only to God's power, and may act physically on Earth regardless of task (see `bible/gabriel_character_profile.md`).
+
+*Superseded wording (kept for record): "a being God made, not fathered" (ORIGIN) and "He did not choose to exist; God made him" (LUCIFER & GOD). His soul pre-existed; what God gave him was his form, as a gift.*
+
+---
+
+## POWER SCOPE (locked 2026-10-02, author)
+
+**His full power:** Lucifer can do anything except create from nothing, which remains God's alone. Short of that, he is almost on the same level as God.
+
+**Where that power lives.** He has that full power only **outside his body, outside time and space, the way God exists** — the state he was in before God found him. It isn't simply "losing the body"; it means existing in that register.
+
+**In his body, he is deliberately limited.** God built limits into his form specifically to restrict his divine power while he's in it. Everything he does on Earth and in Hell happens inside those limits. He's still enormously powerful there (slowing time across Hell, the illusion, the ring, the orchard repair) but far below his full scope. That's why Azrael can genuinely hurt him in a fight, and why he can be caught off guard.
+
+**On the page:** he is always in his form. His full, outside-time power is never shown or used (see FORM & SOUL, "narratively inert").
+
+**Power is not knowledge.** Nothing here makes him all-knowing. He can't find Eve by power, can't know what he hasn't observed or been told, and doesn't read individuals (see HE IS NOT ALL-KNOWING). On Earth his power is further constrained by his standing orders (POWER & SECRECY).
 
 ---
 
@@ -104,7 +140,7 @@ He once loved Eve. When that love collapsed after her betrayal, it didn't just e
 
 ## DIVINE PURITY & TRUTH
 
-Lucifer cannot sin in any way. He is purity itself — an absolute, with no exceptions and no permitted tenth commandment. This includes lying in any form.
+Lucifer cannot sin in any way. He is purity itself — an absolute, with no exceptions and no permitted tenth commandment. This includes lying in any form. *(A property of his God-given form; see FORM & SOUL. On the page it is absolute.)*
 
 What he can do is find the loophole inside truth itself. He engineers technically-true statements that point someone in the wrong direction without ever leaving the territory of what is actually real. He finds the angle on a fact, the framing that deflects without deceiving, the answer that is entirely accurate and entirely misleading at the same time. He has had an eternity to get very good at this.
 
@@ -129,7 +165,7 @@ On Earth, as his emotions return, this surfaces again without announcement. He d
 
 **Corrected 2026-09-11: God is NOT Lucifer's father. Their bond reads as closer to siblings than parent-child** — do not use "father" language for God from Lucifer's side going forward; this reverses the line below, which is now superseded.
 
-Their relationship is ancient and layered. God is Lucifer's oldest companion — their essences pre-date creation and are, in that sense, friends, closer to siblings in register than anything parental. He did not choose to exist; God made him — that origin is still real and still shapes the relationship's weight — but it does not make God a father figure to him. *(Superseded text, kept for record: this used to also describe God as "his father, in that Lucifer's body and physical existence are God's work... a complicated kind of love" — that framing is retired.)*
+Their relationship is ancient and layered. God is Lucifer's oldest companion — their essences pre-date creation and are, in that sense, friends, closer to siblings in register than anything parental. He existed before God found him; what God gave him was his form. That gift — limits and all, and the fact that it can be taken back — is part of the relationship's weight. But it does not make God a father figure to him. *(Superseded text, kept for record: this used to also describe God as "his father, in that Lucifer's body and physical existence are God's work... a complicated kind of love" — that framing is retired. It also used to read "He did not choose to exist; God made him" — see FORM & SOUL.)*
 
 Lucifer does not rage at God. He is not a rebel and he is not bitter in the way mythology has painted him. But he is not without frustration. When he notices one of God's jokes — the apple orchard landing, the girl with Eve's eyes and nothing else of hers, the too-convenient timing of things — he has one response: he glances at the sky. Just that. A single look upward that means *"seriously."* No words. No performance. Just the look one old friend gives another when they've been had and they know it.
 
@@ -156,6 +192,8 @@ Lucifer has power from the beginning of the book — it is not unlocked graduall
 - **Humans can see it.** The standard rule therefore applies without exception: no human may witness it being cast or held. In practice this means he cannot run it with any human present, at least until a human knows the truth about him (the same rule that governs all his power use).
 - **Concentration-bound.** It lasts only as long as he actively keeps it in mind. The moment his concentration breaks (distraction, impact, pain) it vanishes instantly; he doesn't have to choose to end it. First on-page demonstration: Azrael throws him into a support column, he loses his train of thought, and the illusion drops.
 - *Implication, not locked:* once a human knows the truth (see Power & Secrecy), showing them an illusion becomes possible. A potential later use; flag to the author before writing it.
+
+**Deals aren't sins (added 2026-10-02, author).** Bribes and similar transactions are deals, not sins. They don't conflict with his purity.
 
 ## ARTISTRY, IN PRACTICE (ties to the ARTISTRY section above — expanded 2026-09-11)
 

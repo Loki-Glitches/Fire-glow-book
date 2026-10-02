@@ -50,7 +50,7 @@ Telepathic bonds exist only between beings of the same alignment — light to li
 
 **The exception is Lucifer.** As warden of Hell he exists on the boundary between light and dark — not fully one or the other. This is not just a job title; it is what he became when God cast him in and made him responsible for containing what is darkest in creation while remaining pure himself. Because he straddles both sides, he can hold bonds across the divide. No other being can.
 
-**2026-09-11 addition:** there's now a second, deeper reason this is uniquely true of him — he's the original angel. God gave him his form, and every angel made after was patterned in Lucifer's image. He's not just straddling both sides by function (Hell's warden); he's the template every other angel, on either side, was built from. See `bible/lucifer_character_profile.md` § ORIGIN / BACKSTORY.
+**2026-09-11 addition:** there's now a second, deeper reason this is uniquely true of him — he's the original angel. God gave him his form, as a gift, and every angel made after was patterned in Lucifer's image. He's not just straddling both sides by function (Hell's warden); he's the template every other angel, on either side, was built from. See `bible/lucifer_character_profile.md` § ORIGIN / BACKSTORY. **Lucifer's soul is uncreated and unalterable; his form is God's gift and a deliberate limiter on his power.** See that profile's § FORM & SOUL and § POWER SCOPE.
 
 **Lucifer's bonds:**
 - **Lilith** (dark) — bidirectional but asymmetric. Lucifer contacts her when he needs something done from Hell's side (sourcing objects, managing the realm, delegating tasks). She contacts him only in emergencies. The ring commission in "Ring" is the model for how Lucifer uses this bond proactively.
@@ -144,7 +144,7 @@ Lucifer reshapes sin-influenced matter into temporary purified forms. Cannot cre
 A divine executor of Hell's containment system who becomes emotionally altered through Earth exposure. Not a villain — a warden who never rebelled and carries the blame for someone else's sin.
 
 ### Origin Story
-Before creation, Lucifer existed outside of time and space — present, but with no power and no context. God found him and took him along as He built everything. As God worked on humanity, Lucifer explored the world freely — a beautiful being who spent his days singing, dancing, and creating small things. He was God's son in this era. No other angels were yet on Earth.
+Before creation, Lucifer existed outside of time and space — present, with all of his power and nothing yet to use it on — no world, no context. God found him and took him along as He built everything. As God worked on humanity, Lucifer explored the world freely — a beautiful being who spent his days singing, dancing, and creating small things. He was God's closest companion in this era. No other angels were yet on Earth.
 
 As a gift of gratitude — for being allowed to witness creation — Lucifer built the Tree of Knowledge. He took an apple from an apple tree, found gold underground, and crafted something that would bless God's creation with knowledge of good and evil. He meant it as an offering. He did not know what it would cost.
 
@@ -305,6 +305,17 @@ A couple, newly engaged (he proposed during the picnic scene in "Arrival" — Lu
 
 ---
 
+## GABRIEL (added 2026-10-02)
+
+See `bible/gabriel_character_profile.md`. The biblical archangel, Lucifer's sibling; God's messenger, and the angel who typically handles physical arrangements on Earth on God's behalf. First evidenced in "Errands," where Lucifer discovers a bank account already set up for "Adrian Black."
+
+## MINOR NAMED CHARACTERS — TOWN (added 2026-10-02)
+
+- **Kevin Marsh** — phone shop clerk; Lucifer bribes him to skip an ID requirement ("Errands").
+- **Denise Harlow** — bank clerk ("Errands").
+
+---
+
 ## 12. THE FORGIVENESS THEME
 
 The book operates on three simultaneous forgiveness arcs:
@@ -415,7 +426,7 @@ The only moment neither of them retreats. It works because the usual reasons to 
 God is not passive in this story. He has been quietly engineering Lucifer's redemption the entire time, knowing Hell's forgiveness system is broken and understanding that Lucifer cannot fix it without first fixing himself.
 
 ### God & Lucifer's Relationship
-**Corrected 2026-09-11: God is NOT Lucifer's father — their bond reads closer to siblings than parent-child. Do not use "father" language for God from Lucifer's side.** Their essences are friends — ancient, pre-dating creation, closer to siblings in register than anything parental. He did not choose to exist; God made him — that origin still shapes the weight of the relationship, but doesn't make God a father figure. Lucifer is not a rebel and does not rage at God. But when he notices one of God's jokes — the apple orchard, Elizabeth's resemblance to Eve, the timing of things — he glances at the sky. Once. A look that means *"seriously."* The oldest shorthand between two beings who know each other too well for anything more.
+**Corrected 2026-09-11: God is NOT Lucifer's father — their bond reads closer to siblings than parent-child. Do not use "father" language for God from Lucifer's side.** Their essences are friends — ancient, pre-dating creation, closer to siblings in register than anything parental. He existed before God found him; what God gave him was his form, as a gift — that gift, limits and all, still shapes the weight of the relationship, but doesn't make God a father figure. Lucifer is not a rebel and does not rage at God. But when he notices one of God's jokes — the apple orchard, Elizabeth's resemblance to Eve, the timing of things — he glances at the sky. Once. A look that means *"seriously."* The oldest shorthand between two beings who know each other too well for anything more.
 
 ### What God Actually Did
 - **Eve's escape** was not something God arranged — she broke out on her own through brute force. God simply recognized the opportunity it created and decided to work with it.
