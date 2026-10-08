@@ -104,7 +104,7 @@ Elizabeth shot her a look. Sophie didn't return it; she was already herding them
 
 Sophie accepted that with a small shrug, apparently satisfied just to have asked, and Elizabeth bit down on the urge to ask what kind of disagreement ended in somebody's back getting thrown out, because she didn't actually want to know anything about these two that would make them more interesting to her.
 
-The sun had gotten low enough that the sun was beaming down on into their vision, and Elizabeth had to squint hard the rest of the way to the benches massaging the bridge of her nose. When they reached the ring of benches around the fountain, she picked the one facing roughly west and sat with her back to the glare rather than into it, which at least meant she could glare properly at the person she actually wanted to glare at instead of fighting her own eyes the whole time.
+The sun had gotten low enough that the sun was beaming down on into their vision, and Elizabeth had to squint hard the rest of the way to the benches massaging the bridge of her nose. When they reached the ring of benches around the fountain, she picked the one facing roughly east and sat with her back to the glare rather than into it, which at least meant she could glare properly at the person she actually wanted to glare at instead of fighting her own eyes the whole time.
 
 Adrian sat across from her, Tristan beside him. Sophie dropped down next to Elizabeth, perfectly at ease, nothing in her manner giving away any of what had just happened.
 
@@ -152,7 +152,7 @@ Adrian rolled his eyes and took another bite of apple.
 
 "There," Tristan said, when it was done, handing the phone back.
 
-Adrian pocketed it and stood, and Tristan rose a beat after him, and that was apparently that — no goodbye beyond a short nod from Tristan, no word at all from Adrian, who was already turning toward the south path, hands back in his pockets, the whole conversation seeming to have cost him something.
+Adrian pocketed it and stood, and Tristan rose a beat after him, and that was apparently that — no goodbye beyond a short nod from Tristan, no word at all from Adrian, who was already turning toward the south path, hands back in his pockets, the whole conversation seeming to have exhausted him.
 
 Elizabeth watched them go until they'd crossed back out past the fountain and onto the storefront path, and didn't say anything until they were out of earshot.
 
