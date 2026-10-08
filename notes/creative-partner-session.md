@@ -325,3 +325,27 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 
 - **Superseded, kept for the record:** The optional concussion beat (not addressed; left optional). Whether the brothers own phones: the author only said there's no way to contact them, so the paragraph says no numbers were swapped and doesn't claim they have no phones.
 - **Weak point in the plan:** the brothers have never been to the park, and no park exists on the page since the rework. The paragraph gives Elizabeth her own reason for the park: it's the place strangers passing through town end up. The author should confirm that's what "see things there" meant.
+
+---
+
+### Planning the chapter after "Errands" (Elizabeth POV) — opened 2026-10-08
+
+**Where things stand:** "Errands" is locked. It states twice that Elizabeth and Sophie "do not appear" and are "not seen by either brother" — the park stand-up from "Rundown" produced no sighting either direction. Timing lines up for a single-day structure: "Rundown," "No Place Like Home," and "Errands" are all the same day, continuing from the parking lot through the same afternoon. If this chapter is also that afternoon, four chapters cover one day from two non-overlapping angles.
+
+**My opening questions (sent 2026-10-08, before the author's outline arrived):**
+1. Does Sophie stay with her the whole chapter, or peel off (she has a job)?
+2. Who does she ask, and what can they plausibly tell her? Eve hasn't arrived in town, so the failure is guaranteed by the premise. Proposed 2-3 concrete stops (Higgins', one new stop, back to the empty park) rather than a montage.
+3. Does any hint of the mansion reach her, even obliquely (background town gossip, unconnected to the brothers in her mind)?
+4. Does Sam factor into the ending — told-you-so, neutral, or more protective?
+5. How infuriated, and at what (the brothers specifically, Eve, herself)? Recommended: mostly at the brothers, to keep the friction alive.
+6. Pacing flag: after this chapter the search will have gone nowhere across four chapters in a row. Is the next chapter the reconnection, or more material first?
+7. Optional: a small concussion symptom beat (heat, a headache) fits an afternoon of walking around town.
+
+**The author backtracked to a direct-confrontation structure (2026-10-08), overriding the "no sighting" premise above.** Elizabeth and Sophie enter the park and see the brothers approaching/entering Emma's real estate office — the exact moment "Errands" already covers. Elizabeth goes livid ("I'm gonna kill 'em"), tells Sophie she's "tired of it," storms toward the office. Sophie physically holds her back; they argue, Sophie staying level-headed, telling her to take a beat. Elizabeth wins the argument by naming the real grievance: house shopping while a scared missing woman is out there. She stomps over just as the brothers open the door and scolds them. Sophie approaches more slowly, shaking her head, then pulls Elizabeth back by the hair and tells her to give them space, insisting they probably have a good reason. Elizabeth points a finger at Lucifer, blaming him specifically for her not being able to do the job they need her to do. He's annoyed, takes a bite of an apple (timing — already holding one, or reaches for one here — unresolved, author hasn't said), swallows, gestures to the benches and asks if they can sit for this. Elizabeth opens her mouth to object; Sophie shuts her up and tells her to accept. Sophie starts apologizing to the brothers for Elizabeth's attitude — **the author's message trailed off with "..." here, which is their own convention for "more is coming," not an incomplete thought to fill in.**
+
+**Flagged to the author, not yet answered:**
+- **Direct contradiction with locked "Errands."** This scene happens at the same moment "Errands" already covers, and "Errands" explicitly says the girls aren't seen. My recommended fix, offered as an option only: splice the confrontation into "Errands" right before its "Emma Brock's office was a few blocks further on" scene break, cut the two contradicting lines, let the existing paying/deed scene happen once the confrontation resolves and the girls leave. I can't make that edit myself — it's the author's/Director's call, not mine.
+- **Knock-on if spliced in:** the "Errands" synopsis note "No fruit of any kind appears in this chapter" becomes wrong, since the new scene has an apple. The limp (his back, same afternoon, still fresh) would also be on stage during this confrontation — does anyone reference it, or does it stay unremarked the way "Errands" played it?
+- **Apple timing** — the outline asks this itself; flagged back to the author rather than decided.
+
+**On hold, 2026-10-08: the author's outline for this chapter is not finished — more is coming.** Per the author's explicit instruction, I am not raising my build-out questions (the blame-line reading, whether this is the "hate crystallizes" moment, the hair-pull's tone, Azrael's role, whether numbers finally get exchanged, whether the held eye-avoidance beat belongs here) until the rest of the outline arrives. Waiting for the continuation before doing anything further on this chapter.
