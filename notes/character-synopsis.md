@@ -26,6 +26,7 @@
 - **Lucifer is always operating inside deliberate limits on his power while in his body (locked 2026-10-02).** He's powerful, but beatable in a fight — Azrael can genuinely hurt him.
 - **Gabriel (locked 2026-10-02).** The biblical archangel, Lucifer's sibling, God's messenger. He handles God's physical arrangements on Earth — e.g., Lucifer discovering a bank account already set up in "Errands."
 - **Lucifer knows human desire in general, and how money and human things (like phones) work, because he rules Hell (locked 2026-10-02).** He never reads what a specific individual wants or is thinking.
+- **Lucifer avoids looking directly at Elizabeth's eyes (standing habit, locked 2026-10-15).** It's subconscious and inadvertent — not a choice, and he doesn't understand it himself. First broken on the page in "Ambush," mid-confrontation, when he looks at her directly for the first time (she's the one thrown by it, not him). **He does not consciously recognize anything about her eyes when this happens or has happened since — she was furious with him in "Ambush," and anger is specifically why nothing registered.** Keep playing this as an ongoing, occasionally-broken pattern that neither of them understands yet, not a single resolved moment. Never describe what her eyes look like (no color, no shape) if this comes up again — only that he's avoiding or, rarely, not avoiding them.
 
 ## Settings (physical layouts Writer needs, since it never reads the bible)
 

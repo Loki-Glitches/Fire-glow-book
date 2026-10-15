@@ -108,6 +108,8 @@ Elizabeth resembles Eve in exactly one place: **her eyes.** Nothing else. Person
 
 **Exact placement of the recognition beat: [OPEN]** — not yet decided which later chapter carries it. Whoever writes that chapter should flag it to the Director before implementing, since it's a significant character beat that needs to land deliberately, not casually.
 
+**Subconscious avoidance precedes the recognition (added 2026-10-15, author).** Before he ever consciously registers why, Lucifer develops a habit of not looking directly at Elizabeth's eyes — an inadvertent, unexplained tic, not a choice, and not something he understands himself yet. **First on-page break in "Ambush":** mid-confrontation, the instant he offers to sit at the benches, he looks directly at her for the first time since they've known each other — it's Elizabeth who's thrown by the sudden eye contact, not him. **He still does not consciously recognize the eyes as Eve's in this moment** — she's furious with him at the time, and that anger is specifically why nothing registers; it isn't the right condition for the recognition to land. Treat this as one data point in an ongoing pattern (the avoidance habit continues after "Ambush," broken occasionally, recognized by neither of them) rather than the recognition itself. The actual conscious recognition is still unscheduled — see above.
+
 **Craft note (still applies once the beat is written):** Per the style guide's "No Explicit Physical Description" rule, this must never be rendered by describing what her eyes look like (no color, no shape) — only that he recognizes them, the way "Convergence"'s original draft handled it before being scratched. That mechanic is still correct; only the timing changed.
 
 ---
