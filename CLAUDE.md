@@ -48,7 +48,7 @@ This project spans 70+ chapters — don't run the whole book in one continuous c
 | Path              | Who Writes         | Who Reads                              |
 | ----------------- | ------------------ | -------------------------------------- |
 | `chapters/<title>.md` | That chapter's writer only | Director, Revision, adjacent writers |
-| `notes/*`         | Any agent          | Any agent                              |
+| `notes/*`         | Any agent          | Any agent, **except `notes/book-3.md` — author-only, no agent may read it until the author explicitly says to start Book 3** |
 | `bible/*`         | Director only      | All agents                             |
 
 ## Writing Rules
