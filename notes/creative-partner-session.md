@@ -404,3 +404,31 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 **Status: fully settled, nothing outstanding.** Ready to hand to Writer as-is, or for the author to use directly as their own reference.
 
 **Author's clarification, 2026-10-08: "Ambush" is unaffected.** It still ends exactly as planned — brothers stand up and leave, Elizabeth and Sophie left alone at the benches. A separate, later chapter will cover what comes after (their debrief, possibly heading home, possibly Sam) — noted here only so it isn't forgotten or assumed to be skipped; nothing about that chapter needs planning yet.
+
+---
+
+## New project pitch, 2026-10-19 — a possible second book (early-stage, premise-only)
+
+**Status: this is a separate, new project, not a chapter of "Beneath the Fire's Glow."** The author is starting it from scratch, "I have an idea" style, the same way BTFG itself started on 2026-09-11. It may or may not connect to BTFG — the author's own word was "may," not confirmed. Everything below is conversation only. No bible file in this repo has been touched or will be until the author confirms specific decisions, and nothing here should be read as part of BTFG's own canon unless and until the connection question is answered and the author says so explicitly.
+
+**Author's premise, verbatim (2026-10-19):**
+> I'm developing a dark romantic fantasy with Lucifer as the main character. It may connect to a book I'm already writing.
+>
+> Premise
+> - Lucifer falls in love with a soul and breaks heaven's laws to bring her back to life, with her consent.
+> - She's given a body as beautiful as her soul, and they live on Earth.
+> - He keeps her alive by sharing his own life with her, which weakens him for the entire book.
+> - He isn't strong enough to sustain her fully, so things start going wrong with her. Possibilities: she fades (losing warmth, memories, sensation), his traits bleed into her (his temper, memories of the Fall, uncontrolled light or fire), or her human body rejects his life.
+>
+> Conflict
+> - Heaven, his angelic family, wants to return her to bodiless form and restore the natural order.
+> - They aren't simply evil; by their law they're right, so it's love vs. law.
+> - He has to protect her from them while operating at reduced strength.
+>
+> Climax and ending
+> - Lucifer is about to die, and she jumps in front of an attack to save him.
+> - Her death returns the life he'd been sharing, restoring him to full strength.
+> - He unleashes it and brings the angels hunting them to the brink of death.
+> - Her soul appears and asks him to stop. He spares them and withdraws to his domain with her soul.
+
+**My opening read and questions sent to the author — see handoff message for full text.** Core open items: whether/how this connects to BTFG's own Lucifer and timeline; a direct tension with BTFG's own locked rule that Lucifer "can do anything except create from nothing, which remains God's alone" (`bible/lucifer_character_profile.md` § POWER SCOPE) — does resurrecting a soul into a new body count as creation from nothing, and if so, how does the premise avoid that, or is that exactly the law he's breaking; which single mechanic for "things going wrong" (fading / trait-bleed / rejection) the author wants, since the three imply different genres; who enforces Heaven's law on the page; whether angels can die in this universe; and whether, if this is a direct sequel to Elizabeth's story, re-running "falls in love, nearly destroyed by it" as his core engine a second time risks feeling repetitive rather than a development of him.
