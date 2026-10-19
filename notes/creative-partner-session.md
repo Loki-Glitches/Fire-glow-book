@@ -408,3 +408,17 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 ---
 
 **Housekeeping, 2026-10-19: unrelated project material relocated.** A separate project's planning conversation was briefly logged in this file and has been moved to its properly access-controlled location (`notes/book-3.md`, author-only per `CLAUDE.md`'s file ownership table — not to be read by any agent, this one included, until the author says otherwise). Nothing about that conversation belongs in this file, which any agent can read, so it's been removed from here rather than left in place. BTFG's own planning resumes below with no carryover from it.
+
+---
+
+### Planning the chapter after "Ambush" (Elizabeth POV) — opened 2026-10-19
+
+**Confirmed by the author:** structure is park bench (where "Ambush" ends) → car → house → Sam at the window → upstairs → debrief → text exchange with Tristan → ending beat. Sam's beat: he asks how it went, Elizabeth deflects with "I don't even know," he doesn't push, peels off to the couch — small, consistent with his established pattern. The text exchange with Tristan is shown on-page as literal texts, bolded as a temporary formatting placeholder (author will fix formatting themselves once the chapter's done — not a style-guide change). No grocery continuity issue — that thread closed in "Rundown"; Sam's reason for coming outside doesn't need an object, just his established protective concern.
+
+**Two contradictions with locked rules flagged to the author, not resolved — see handoff message for full detail:**
+1. **"Long wavy black hair" for Eve** directly contradicts the locked no-hair-color rule (`bible/style-guide.md` § "No Explicit Physical Description" — hair color named as the specific target, no stated exception). Asked: override and log as a new exception, or reword to avoid hair color (old-fashioned manner, clothing, build, speech — all already fair game)?
+2. **"She speaks in a language that isn't English"** risks contradicting the HARD rule that Eve speaks modern English throughout the book and the divine language appears exactly once, at the climax, as a deliberate weapon (`bible/style-guide.md` § "The Divine Language — Once Only, Climax Only"). Offered the likely benign reading — archaic/old-fashioned speech pattern, not literally a different language, consistent with already-established "talks like she's out of it" — and asked which was meant.
+
+**My recommendation on the eye-rub (point 6, author hadn't weighed in):** keep it purely emotional/exasperated, not doubling for the concussion thread this time — flagged as a recommendation, not a decision.
+
+**Still fully open:** the personal-angle-on-Lucifer content from Tristan (point 5), and the title.
