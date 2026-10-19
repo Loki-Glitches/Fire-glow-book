@@ -422,3 +422,12 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 **My recommendation on the eye-rub (point 6, author hadn't weighed in):** keep it purely emotional/exasperated, not doubling for the concussion thread this time — flagged as a recommendation, not a decision.
 
 **Still fully open:** the personal-angle-on-Lucifer content from Tristan (point 5), and the title.
+
+**Author resolved both flagged conflicts and locked point 5 (2026-10-19):**
+- **Eve's hair color:** explicit, deliberate override — author's reasoning: Eve carries a shared pop-cultural mental image already, so describing her doesn't introduce new identifying description the way it would an original character. Written into the bible as a narrow, named exception scoped to Eve only (`bible/style-guide.md` § "No Explicit Physical Description" and `bible/eve_character_profile.md`, new § "Physical Description — Exception to Style Guide").
+- **The "language" detail:** no contradiction — Eve actually knows several languages (Lilith taught her more than just English), and on Earth this surfaces as an ordinary, slightly comic mix-up (defaulting to Spanish with a non-Spanish-speaker, etc.), not the divine language. Written into `bible/eve_character_profile.md` § LANGUAGE.
+- **Point 5, locked content, not just a direction:** Elizabeth asks Tristan three things via Sophie's texts — why Lucifer stays so quiet all the time, why he always has the apple, why he cares about finding Eve when he doesn't seem to care about anything else. Tristan's answers need drafting in his established voice (true, vague, no divinity/mission reveal, doesn't soften Elizabeth toward Lucifer) — see the consolidated paragraph for suggested answers.
+- **Point 6:** confirmed purely emotional, pure exasperation, no concussion-adjacent doubling. Settled.
+- **Both bible files edited and confirmed written** (see above); `notes/character-synopsis.md` standing habits updated with both new Eve facts so Writer (who doesn't read the bible) has them too.
+
+**Consolidated paragraph assembled — see handoff for full text.** Title still open; everything else resolved.

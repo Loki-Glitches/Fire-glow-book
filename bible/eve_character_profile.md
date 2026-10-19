@@ -26,10 +26,18 @@ In the Genesis-era past, Lucifer gave Eve the fruit from the Tree of Knowledge a
 
 Eve speaks modern English — taught by Lilith during her imprisonment, as a method of torture. Lilith is the only being permitted inside her cell and knew her the second longest after Lucifer. Language was a precision instrument: giving Eve the tools to understand exactly what she'd lost and how long she'd be there.
 
+**Added 2026-10-19 (author): Eve actually knows many languages, not just English** — Lilith's teaching covered more than one. On Earth this surfaces as an ordinary, slightly comic mix-up rather than anything supernatural: because of modern slang, regional accents, and other variation she isn't used to, she doesn't always judge correctly which language or register to use with a given person, and will sometimes default to trying Spanish with someone who isn't a Spanish speaker, adding to the confusion. Played as mundane multilingual code-switching — not the divine language, and no risk to the climax rule below. First referenced secondhand (Tristan describing her to Sophie and Elizabeth) in the chapter after "Ambush," before she's ever on the page herself.
+
 ### The Divine Language — Once Only, Climax Only
 Eve also knows the divine language — the original tongue spoken in Genesis, before written language existed. At the climax she uses it exactly once: one line to Lucifer, either her first or her last. It is a deliberate weapon, not a communication need. The language of before everything went wrong reaches him in a way English cannot. He shifts.
 
 **HARD RULE: This is the only time the divine language appears in the book. It does not appear in any other scene, flashback, or exchange. Once. Climax only.**
+
+---
+
+## PHYSICAL DESCRIPTION — EXCEPTION TO STYLE GUIDE (locked 2026-10-19, author)
+
+Eve is the one character in this cast who may be given explicit physical description, including hair color — a deliberate, narrow exception to the project's otherwise-universal no-hair/eye-color rule (see `bible/style-guide.md` § "No Explicit Physical Description"). Scoped to her alone; nobody else's description rules change. First used in the chapter after "Ambush": Tristan describes her to Sophie and Elizabeth (secondhand — she isn't physically on the page yet) as having long, wavy black hair.
 
 ---
 

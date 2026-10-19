@@ -262,6 +262,8 @@ What's always allowed:
 **Wrong:** *Sophie fell into step beside her — sunglasses shoved up into a mess of dark curls, her green eyes catching the light.*
 **Right:** *Sophie fell into step beside her — sunglasses shoved up onto her head, a coffee in each hand.* (Still avoid hair/eye color even when other generic detail is present.)
 
+**Exception, Eve only (locked 2026-10-19, author).** Eve may be given explicit physical description, including hair color, as a deliberate, narrow exception to the rule above — scoped to her alone, never extended to any other character. Author's reasoning: Eve, as a named figure with wide shared cultural resonance, already carries a common mental image for most readers before the page ever describes her; describing her doesn't introduce new identifying description the way it would for an original character. First used in the chapter after "Ambush," where Tristan describes her to Sophie and Elizabeth (secondhand, not on-page sight of her) as having long, wavy black hair. This does not loosen the rule for anyone else — Elizabeth, Lucifer, Sophie, and the rest of the cast remain fully bound by the no-hair/eye-color rule above.
+
 ### No Overwritten Posture, Expression, or Action
 Don't dress up a plain beat — physical or otherwise — with a clause explaining what it means or why it matters. State it and move on. The extra clause slows the sentence down and breaks flow; the reader doesn't need the interpretation spelled out.
 
