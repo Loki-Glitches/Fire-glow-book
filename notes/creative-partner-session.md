@@ -407,34 +407,4 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 
 ---
 
-## New project pitch, 2026-10-19 — a possible second book (early-stage, premise-only)
-
-**Status: this is a separate, new project, not a chapter of "Beneath the Fire's Glow."** The author is starting it from scratch, "I have an idea" style, the same way BTFG itself started on 2026-09-11. It may or may not connect to BTFG — the author's own word was "may," not confirmed. Everything below is conversation only. No bible file in this repo has been touched or will be until the author confirms specific decisions, and nothing here should be read as part of BTFG's own canon unless and until the connection question is answered and the author says so explicitly.
-
-**Author's premise, verbatim (2026-10-19):**
-> I'm developing a dark romantic fantasy with Lucifer as the main character. It may connect to a book I'm already writing.
->
-> Premise
-> - Lucifer falls in love with a soul and breaks heaven's laws to bring her back to life, with her consent.
-> - She's given a body as beautiful as her soul, and they live on Earth.
-> - He keeps her alive by sharing his own life with her, which weakens him for the entire book.
-> - He isn't strong enough to sustain her fully, so things start going wrong with her. Possibilities: she fades (losing warmth, memories, sensation), his traits bleed into her (his temper, memories of the Fall, uncontrolled light or fire), or her human body rejects his life.
->
-> Conflict
-> - Heaven, his angelic family, wants to return her to bodiless form and restore the natural order.
-> - They aren't simply evil; by their law they're right, so it's love vs. law.
-> - He has to protect her from them while operating at reduced strength.
->
-> Climax and ending
-> - Lucifer is about to die, and she jumps in front of an attack to save him.
-> - Her death returns the life he'd been sharing, restoring him to full strength.
-> - He unleashes it and brings the angels hunting them to the brink of death.
-> - Her soul appears and asks him to stop. He spares them and withdraws to his domain with her soul.
-
-**My opening read and questions sent to the author — see handoff message for full text.** Core open items: whether/how this connects to BTFG's own Lucifer and timeline; a direct tension with BTFG's own locked rule that Lucifer "can do anything except create from nothing, which remains God's alone" (`bible/lucifer_character_profile.md` § POWER SCOPE) — does resurrecting a soul into a new body count as creation from nothing, and if so, how does the premise avoid that, or is that exactly the law he's breaking; which single mechanic for "things going wrong" (fading / trait-bleed / rejection) the author wants, since the three imply different genres; who enforces Heaven's law on the page; whether angels can die in this universe; and whether, if this is a direct sequel to Elizabeth's story, re-running "falls in love, nearly destroyed by it" as his core engine a second time risks feeling repetitive rather than a development of him.
-
-**Major clarification, 2026-10-19: this is a trilogy, and the "soul" is Elizabeth.** Author, verbatim: "it is with the storyline The girl is elizabeth. she is dead. this might be book 3 actually so she will die in book 2." Structure as the author is now thinking of it: **Book 1** = "Beneath the Fire's Glow" (in progress, Elizabeth alive, nothing retroactively required to change). **Book 2** = not yet conceived at all — a real gap, ends with Elizabeth's death. **Book 3** = the resurrection premise above.
-
-**Safeguard, stated plainly for my own and any future instance's benefit: none of this trilogy information may leak into BTFG's own active pipeline.** `notes/character-synopsis.md` (which Writer and Revision both read) must never contain anything about Elizabeth's eventual death or any Book 2/3 material — that file's job is character drift prevention for the chapter being drafted *now*, not foreshadowing. This working notes file (`creative-partner-session.md`) is not read by Writer or Revision under the current pipeline config, which is why trilogy planning is being kept here, clearly headed and separated from BTFG's own chapter-by-chapter entries above. If this project matures, it will likely want its own dedicated file or repo rather than living inside BTFG's working notes indefinitely — a future consideration, not urgent now.
-
-**My response sent to the author — see handoff message for full text.** Covers: the fridging risk (Elizabeth's only two moments of agency in the Book 3 outline both serve protecting/redeeming him, not her own arc — pushed for her having real interiority, ideally her own POV chapters, and for her Book 2 death to be her own chosen act rather than something that just happens to her, mirroring her Book 3 sacrifice); the strong available thematic rhyme (Book 1 already locks the belief that love is what ruins everything he touches — Book 2 could cost him love again, and Book 3's ending, mercy instead of wrath, would directly answer that wound, meaning BTFG's own ending likely doesn't need any retroactive foreshadowing, by design); re-raised with full weight now that the connection is confirmed: the "create from nothing" tension, the three-way mechanic choice, who enforces Heaven's law (floated Gabriel, already established in BTFG's bible as the angel who physically intervenes on Earth on God's behalf), whether Azrael has a role and which side he'd land on, and whether angels can die in this universe; and the sequencing question — sketch Book 2's ending/cause of death first since Book 3 depends on it, or does the author want to flesh out Book 3 independently first.
+**Housekeeping, 2026-10-19: unrelated project material relocated.** A separate project's planning conversation was briefly logged in this file and has been moved to its properly access-controlled location (`notes/book-3.md`, author-only per `CLAUDE.md`'s file ownership table — not to be read by any agent, this one included, until the author says otherwise). Nothing about that conversation belongs in this file, which any agent can read, so it's been removed from here rather than left in place. BTFG's own planning resumes below with no carryover from it.
