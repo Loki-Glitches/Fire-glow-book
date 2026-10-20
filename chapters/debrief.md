@@ -10,9 +10,23 @@ Sophie didn't argue the point. She bent down to pick up her bag from the bench, 
 
 "I was there for the whole thing," Sophie said. "I'm not going to stand here and tell you he's a delight."
 
-They didn't talk much on the drive. Elizabeth kept replaying it — the house, the apple, the one second he'd actually looked at her instead of past her, which still didn't make any sense and which she was doing her best not to think about. By the time Sophie pulled into the driveway, Elizabeth had mostly stopped being angry and started just being tired of being angry, which wasn't the same thing but felt close enough.
+They didn't talk much on the drive. Sophie kept both hands on the wheel and didn't bother with the radio. Outside, the storefronts went by in their familiar order — the grocery, the bank, the coffee house — the afternoon sun low enough now that it flared off the windows every few seconds. Elizabeth stared out at all of it without really registering any of it.
 
-Sam was already coming down the porch steps before Sophie had the car fully in park. He must have been watching from the front window — he does that, pretends he isn't, and then he's outside before anyone's even cut the engine. He didn't say anything, just opened Elizabeth's door for her and then Sophie's, and fell into step between them on the way up the walk.
+"You're doing the thing," Sophie said, eyes on the road, "where you go quiet instead of yelling. That's usually worse."
+
+"I'm not doing anything."
+
+"Okay."
+
+At the stop sign before the turn onto Elizabeth's street, Sophie glanced over instead of pulling through right away. "For what it's worth, I don't think he did it to be cruel. I think he's just like that."
+
+"That's not actually comforting."
+
+"I know. I wasn't trying to comfort you. I was trying to explain him." Sophie eased through the intersection.
+
+Elizabeth kept replaying it — the house, the apple, the one second he'd actually looked at her instead of past her, which still didn't make any sense and which she was doing her best not to think about. By the time Sophie pulled into the driveway, Elizabeth had mostly stopped being angry and started just being tired of being angry, which wasn't the same thing but felt close enough.
+
+Sam was already coming down the porch steps before Sophie had the car fully in park. He must have been watching from the front window — he does that, pretends he isn't, and then he's outside before anyone's even cut the engine. The porch light was already on even though it wasn't fully dark yet, and down the street somebody's sprinkler was still ticking back and forth across a lawn. He didn't say anything, just opened Elizabeth's door for her and then Sophie's, and fell into step between them on the way up the walk, close enough that his shoulder knocked hers once.
 
 "So," he said, once they were on the porch. "How'd it go?"
 
@@ -35,6 +49,24 @@ Elizabeth turned her head sideways so she wasn't talking directly into the mattr
 "He does that a lot," Sophie said, not unkindly. "I don't think it's personal."
 
 "Everything he does is personal. It's personal that he won't look at anyone. It's personal that he won't answer a straight question. The fact that he ate an apple instead of saying sorry is extremely personal, Sophie."
+
+Sophie didn't say anything to that, just let her keep going.
+
+"And the house." Elizabeth threw an arm over her eyes. "He just stood there with that stupid apple like none of it mattered. Like I haven't been going up to total strangers describing a woman we know basically nothing about, because they asked me to. And this whole time they already had money sitting around for a house."
+
+"I know. I was standing right there."
+
+"I know you were there. I'm just saying it again because saying it out loud makes it make slightly more sense, and it still doesn't."
+
+Sophie reached over and patted her knee, which wasn't really comfort so much as acknowledgment that she'd heard it.
+
+"And then he did the thing," Elizabeth said, quieter than the rest of it.
+
+"What thing?"
+
+Elizabeth lowered her arm just enough to look at Sophie, then put it back over her eyes. "Nothing. Forget it."
+
+Sophie didn't forget it, exactly, but she let it go without pushing.
 
 Sophie let her go a while longer — the house, the apple, the single unbearable second of actual eye contact, which Elizabeth left vaguer than the rest, not totally sure why — and when Elizabeth finally stopped talking, Sophie just sat there with a hand resting on her ankle until her breathing evened back out.
 
@@ -80,6 +112,8 @@ This one took longer. Long enough that Elizabeth sat up to see the screen hersel
 
 **Mostly. She knows a lot of languages, actually — more than she needs. She doesn't always pick the right one for whoever she's talking to. Don't be surprised if she tries Spanish on you for no reason. She does that to people who don't speak a word of it.**
 
+Neither of them said anything right away. Elizabeth read it over again, trying to picture it — a total stranger walking up to someone at a register or a bus stop and just launching into Spanish for no reason anyone could follow. It didn't fit with anything else they'd been told about this woman, but then again they'd barely been told anything at all, so there wasn't much for it to clash with.
+
 Elizabeth made a face at the phone. "That's bizarre."
 
 "It's something, at least." Sophie didn't look up from the screen. "More than we had before."
@@ -115,6 +149,8 @@ The reply came faster this time.
 This reply took the longest of all of them. Long enough that Sophie set the phone face-up on the comforter between them and they both just watched it, waiting, which felt a little stupid once Elizabeth noticed they were doing it.
 
 **It's complicated. She matters to him. That's about as much as I can tell you.**
+
+Neither of them reached for the phone right away. Elizabeth lay there with her eyes on the six words, turning them over, looking for an actual fact buried somewhere inside them, and not finding one. It didn't explain why he cared or what this woman was to him — it just confirmed that there was a reason, which somehow felt worse than getting nothing at all.
 
 Elizabeth read it twice. "That is the least helpful sentence I have ever received."
 
