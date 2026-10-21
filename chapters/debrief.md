@@ -42,17 +42,13 @@ Upstairs, Elizabeth didn't bother with the lights. She just went straight across
 
 "I noticed."
 
-Elizabeth turned her head sideways so she wasn't talking directly into the mattress. "He didn't even apologize. He just ate an apple at me."
+Elizabeth turned her head sideways so she wasn't talking directly into the mattress. "He didn't even apologize. He just ate an apple at me. Like that was an answer."
 
 "I don't think it's personal," Sophie encouraged her.
 
-"Everything he does is personal. It's personal that he won't look at anyone. It's personal that he won't answer a straight question. The fact that he ate an apple instead of saying sorry is extremely personal, Sophie."
+"Everything he does is personal, Sophie."
 
 Sophie didn't say anything to that, just let her keep going.
-
-"And the house." Elizabeth threw an arm over her eyes. "This whole time they already had money sitting around for a house."
-
-Sophie reached over and patted her knee, which wasn't really comfort so much as acknowledgment that she'd heard it.
 
 "And then he did the thing," Elizabeth said, quieter than the rest of it.
 
@@ -60,7 +56,7 @@ Sophie reached over and patted her knee, which wasn't really comfort so much as 
 
 Elizabeth lowered her arm just enough to look at Sophie, then put it back over her eyes. "Nothing. Forget it."
 
-Sophie let her go a while longer — the house, the apple, the single unbearable second of actual eye contact, which Elizabeth left vaguer than the rest, not totally sure why — and when Elizabeth finally stopped talking, Sophie just sat there with a hand resting on her ankle until her breathing evened back out.
+Sophie didn't push it, and when Elizabeth finally ran out of things to say, she just sat there with a hand resting on her ankle until Elizabeth's breathing evened back out.
 
 "Feel better?" Sophie said.
 
@@ -154,9 +150,9 @@ Elizabeth lay back and stared at the ceiling. "So. We know she has black hair an
 
 "We know more than we did before," Sophie said. "That's something."
 
-"It's barely anything."
+"Is it, though?" Elizabeth said. "Feels like a lot of back-and-forth for a hair color and bad Spanish."
 
-"It's not nothing, though."
+"It's not nothing."
 
 Elizabeth didn't answer that one, because Sophie wasn't wrong, exactly — it just didn't seem to matter much compared to everything it hadn't told them. She pressed the heels of her hands into her eyes and held them there, she genuinely did not understand how two brothers could manage to say so many words and leave someone knowing almost nothing at all.
 
