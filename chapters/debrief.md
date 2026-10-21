@@ -128,7 +128,7 @@ The reply came faster this time.
 
 **What's the apple thing? Does he always have one on him? Is that a whole thing?**
 
-**I am not actually sure why he does it. He hasn't done it around me before we got here.**
+**No idea, honestly. Never saw him do it before we came back. Didn't ask — didn't seem like it mattered enough to.**
 
 "See, that one I actually believe," Elizabeth said. "I would also stop asking."
 
@@ -140,11 +140,15 @@ This reply took the longest of all of them. Long enough that Sophie set the phon
 
 **It's not something I am able to explain to you. She is someone that he would like to forget but she needs to be found quickly.**
 
-Neither of them reached for the phone right away. Elizabeth lay there with her eyes on the words, turning them over, looking for an actual fact buried somewhere inside them, and not finding one. It didn't explain why he cared or what this woman was to him — it just confirmed that there was a reason, which somehow felt worse than getting nothing at all.
+Neither of them reached for the phone right away. Elizabeth read it over again, slower the second time. *Someone he would like to forget.* That wasn't nothing, whatever else it was — that was history, the kind of thing people didn't hand out by accident. And underneath it was the part that actually mattered: *needs to be found quickly.* Not someday. Not eventually. Quickly, like there was a clock running somewhere nobody had bothered to mention.
 
-Elizabeth read it twice. "That is the least helpful sentence I have ever received."
+"He said quickly," Elizabeth said, like saying it out loud might make it sit right.
 
-"Agreed." Sophie picked the phone back up, typed a quick **thanks, let us know if anything changes**, and set it face-down on the nightstand, done with it for the night.
+"I saw that." Sophie had stopped typing anything else.
+
+"And 'someone he'd like to forget.' That's not nothing either. That's not what you say about a stranger you're helping out of the goodness of your heart."
+
+Sophie didn't have an answer for that one. She picked the phone back up anyway, typed a quick **thanks, let us know if anything changes**, and set it face-down on the nightstand, done with it for the night.
 
 Elizabeth lay back and stared at the ceiling. "So. We know she has black hair and apparently bad language skills."
 
