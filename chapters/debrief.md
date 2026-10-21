@@ -72,7 +72,7 @@ Elizabeth pushed herself up onto her elbows. "What."
 
 "I know. That's why I said I'd do it." Sophie was already thumbing through to find the thread. "You don't have to do anything except tell me what to ask."
 
-Elizabeth flopped back down, but she was listening now, which Sophie was able to notice, because she was still going without needing to wait for Elizabeth to agree out loud.
+Elizabeth flopped back down, listening now whether she meant to admit it or not. Sophie kept going anyway, not waiting for her to agree out loud.
 
 "Okay. Eve stuff first, since that's the actual point." Sophie started typing, reading each line back to Elizabeth half under her breath before she sent it.
 
@@ -118,7 +118,7 @@ Elizabeth made a face at the phone. "That's bizarre."
 
 The reply came faster this time.
 
-**He's not much of a talker. He hasn't been not for a very long time.**
+**He's not much of a talker. He hasn't been, not for a very long time.**
 
 "Well it's more information," Sophie shrugged.
 
@@ -136,9 +136,9 @@ This reply took the longest of all of them. Long enough that Sophie set the phon
 
 **It's not something I am able to explain to you. She is someone that he would like to forget but she needs to be found quickly.**
 
-Neither of them reached for the phone right away. Elizabeth read it over again, slower the second time. *Someone he would like to forget.* That wasn't nothing, whatever else it was — that was history, the kind of thing people didn't hand out by accident. And underneath it was the part that actually mattered: *needs to be found quickly.* Not someday. Not eventually. Quickly, like there was a clock running somewhere nobody had bothered to mention.
+Neither of them reached for the phone right away. Elizabeth read it over again, slower the second time. *Someone he would like to forget.* That wasn't nothing, whatever else it was — that was history, the kind of thing people didn't hand out by accident. And underneath it was the part that actually mattered: *needs to be found quickly.* Not someday. Not eventually. Quickly. Nobody had mentioned a timeline before now.
 
-"He said quickly," Elizabeth said, like saying it out loud might make it sit right.
+"He said quickly." Elizabeth said it again out loud, needing to hear it a second time.
 
 "I saw that." Sophie had stopped typing anything else.
 
