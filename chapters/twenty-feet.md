@@ -40,7 +40,7 @@ Azrael had stopped walking. He was looking at Lucifer's hand.
 
 "The apple. That apple. You've had one in your hand more mornings than not since we got here and I have never once seen you carry one with you, and your pocket was empty two seconds ago. What is it?"
 
-Lucifer bit into it before he answered. "It's the fruit." He said it like that should be the whole answer, and when Azrael just kept looking at him, he gave the rest of it, shorter than he wanted to. "The tree. Still standing in the throne room. Still bearing. I don't carry anything across — I just reach in and pull a piece off it." He held it up, turned it once in the light from the doorframe. Unnaturally red, if anyone had bothered to look. "Anywhere else, it's just an apple. This is the only kind that comes out of my pocket."
+Lucifer bit into it before he answered. "It's the fruit." He said it like that should be the whole answer, and when Azrael just kept looking at him, he gave the rest of it, shorter than he wanted to. "The tree. Still standing in the throne room. Still bearing. I don't carry anything across — I just reach in and pull a piece off it." He held it up, turned it once in the light from the doorframe. Unnaturally red, if anyone had bothered to look.
 
 He watched it land on Azrael's face in real time — not confusion, not the slow catching-up look of a joke landing wrong. Something harder than that, real shock settling into something worse right behind it.
 
