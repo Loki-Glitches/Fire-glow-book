@@ -66,3 +66,15 @@ When a soul escapes Hell's prison through brute force on its own, it is automati
 ## CURRENT BOND HOLDERS — RESET, 2026-09-11
 
 The old holder list (James/Claire/Sam/Sophie on Power Bond, Elizabeth on Full Anchor) no longer applies — those chapters are scratched and those tiers are cut. As of this rework, no chapters exist yet under the new outline, so there's nothing to record here. Update this section once new chapters establish who's Travel-Bonded to whom.
+
+**As of "Twenty Feet": still only Azrael.** No Travel Bond with any human has formed yet.
+
+---
+
+## PLANNED ARC MILESTONE — Elizabeth's Travel Bond (locked 2026-10-22, author, not yet due)
+
+**This is a planned future endpoint, not a near-term event.** The author has mapped the book's current section (opening with the chapter after "Twenty Feet," working title TBD) around a throughline: Eve is confirmed not yet in town, so the group stays on the lookout, and Lucifer begins deliberately building a network of Travel Bonds with people around town (friendship-based self-initiation, per the existing Stage 2 mechanic above). **By the end of this section, he has acquired a few such bonds, and the section concludes with Elizabeth herself becoming Travel-Bonded to him.**
+
+**This must not be rushed.** Per `.claude/agents/soul.md` § 4, "Earned trust. Nothing comes quickly. Not the bond, not the love, not the forgiveness." Elizabeth currently has no reason to want any kind of bond with Lucifer — she dislikes him, and Travel Bond formation is self-initiated by *him*, friendship-based, requiring him to actually know her personality and small details about her. Nothing about the immediate next chapter (the park/canvass/Q&A chapter) should seed or gesture toward this directly — her TB is the section's *destination*, not an early beat. Flag to the author/Creative Partner before any chapter drafts toward it, so it lands deliberately rather than accidentally arriving early.
+
+**Open, not yet decided:** who the "few" other TBs are (townspeople met during the network-building — possibly seeded from minor characters introduced along the way, e.g. the store owners from the canvass chapter), and the exact chapter where Elizabeth's own bond actually forms.
