@@ -12,7 +12,7 @@ One board. The house wasn't going to tell anyone.
 
 His hand drifted to his pocket, and came back with an apple already in it. He bit into the fruit and started walking around the house.
 
-In full daylight the house was in genuine ruins: the dining room's chandelier half-swallowed by its own fallen ceiling, the kitchen cabinets swollen and warped, the pantry shelves gone soft and grey, the ballroom still holding its one broken column exactly where it had lain since the disaster. He could have fixed every inch of it before the sun cleared the ridge. That was never the problem. The problem sat at the bottom of the hill, in every window that could look up and watch a burned shell turn whole in less than a week and start asking, reasonably, why. So: slow. Believable. Surrendered to the town's own pace, so nobody down there ever had cause to look up here twice.
+In full daylight the house was in genuine ruins: the dining room's chandelier half-swallowed by its own fallen ceiling, the kitchen cabinets swollen and warped, the pantry shelves gone soft and grey, the ballroom still holding its one broken column exactly where it had lain since the old gala disaster. He could have fixed every inch of it before the sun cleared the ridge. That was never the problem. The problem sat at the bottom of the hill, in every window that could look up and watch a burned shell turn whole in less than a week and start asking, reasonably, why. So: slow. Believable. Surrendered to the town's own pace, so nobody down there ever had cause to look up here twice.
 
 He was still turning that over — still, if he was honest, still faintly furious about the stairs underneath everything else, a splinter standing in for the whole of his attention long after the wound itself had closed — when Azrael's feet found the staircase behind him.
 
@@ -40,13 +40,13 @@ Azrael had stopped walking. He was staring at the hand.
 
 Lucifer bit into it before answering — not stopping mid-compulsion for a question. "It's the fruit," he said.
 
-"What fruit," Azrael leaned against the wall.
+"What fruit?" Azrael leaned against the wall.
 
 "Well, if you must know. This particular fruit was conjured by me from Hell," Lucifer explained slowly.
 
-Lucifer realized Azrael's circling the same thought for a few seconds and finally settled on the only logical conclusion. "You mean you've been eating the fruit from the Tree of Knowledge of Good and Evil this entire time?"
+Azrael circled the same thought for a few seconds before finally settling on the only logical conclusion. "You mean you've been eating the fruit from the Tree of Knowledge of Good and Evil this entire time?"
 
-"Yes," He held it up to the light from the doorframe. Too red. Nobody down here had ever once looked closely enough to notice. "But for your information I have been eating regular apples when I come across them but they pale in comparison to this lovely red," Lucifer turned it over in the light more.
+"Yes." He held it up to the light from the doorframe. Too red. Nobody down here had ever once looked closely enough to notice. "But for your information I have been eating regular apples when I come across them but they pale in comparison to this lovely red," Lucifer turned it over in the light more.
 
 "And I had no way of telling which was which, did I. I haven't been close enough to that fruit to know it on sight since the garden. Every apple I've watched you eat since we got here could have been either one, and you never once thought that was worth mentioning."
 
@@ -56,7 +56,7 @@ Lucifer realized Azrael's circling the same thought for a few seconds and finall
 
 The hit landed clean across Lucifer's jaw, full weight, and put him back a step into the wall hard enough that the hallway seemed to carry the sound of it. It hurt — properly, honestly. Lucifer didn't swing back. He worked his jaw once, tasted blood where his own teeth had caught his cheek, and said nothing. Underneath it, something that had been simmering since the stairs climbed another rung with nowhere yet to go.
 
-"It's not like I am going to give it to a human." he said, once the tingling had settled. "I only ever eat it. Trust me, I have learned my lesson since Eden."
+"It's not like I am going to give it to a human," he said, once the tingling had settled. "I only ever eat it. Trust me, I have learned my lesson since Eden."
 
 Something behind Azrael's eyes loosened, even with his fist still closed. "That's not a joke?"
 
@@ -98,7 +98,7 @@ Azrael looked down at him, apple still in hand, watching the idea land.
 
 "Azrael!"
 
-"Hold on. I'm working something out." He walked out again, shorter, came back, went out further, Lucifer being pulled abruptly to Azrael's side each time — sideways, backward, once nearly into the same patch of grass — until his joints ached from being set so hard and whatever had been irritating since the stairs stopped being quiet about it.
+"Hold on. I'm working something out." He walked out again, shorter, came back, went out further, Lucifer being pulled abruptly to Azrael's side each time — sideways, backward, once nearly into the same patch of grass — until his joints ached from being set so hard and his patience ran out entirely.
 
 "If you walk out there one more time—"
 
@@ -142,7 +142,7 @@ He worked it under his palms instead of in his head: the gold paper, the pale co
 
 If Azrael wandered now, it would cost him one wall. Not the room.
 
-The anger that had been climbing since the stairs had nowhere left to go once his hands were occupied one piece at a time. It drained out slowly instead, the longer he stayed patient with a single wall.
+The anger had nowhere left to go once his hands were occupied one piece at a time. It drained out slowly instead, the longer he stayed patient with a single wall.
 
 Partway through the third, Azrael came and stood in the doorway, arms crossed.
 
