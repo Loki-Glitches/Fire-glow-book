@@ -1,8 +1,6 @@
-# "Twenty Feet" — Author Feedback Log (in progress)
+# "Twenty Feet" — Author Feedback Log (superseded — chapter now locked)
 
-**Status: the author considers this the weakest chapter in the manuscript so far.** Not locked, not finalized — the author is still working through it and intends to go slowly, one note at a time, rather than deliver a single full critique. This file tracks that feedback as it comes in, for Writer's attention once the chapter is eventually finalized or redrafted.
-
-Do not treat this chapter as representative of target quality until the author says otherwise.
+**Status: closed.** This file captured early-stage hand-edit feedback while the chapter was still being worked through. The chapter has since gone through a full style experiment, extensive author hand-editing, a Revision pass, further fixes, and is now locked (`bible/manuscript-order.md`, 2026-10-22). The early "weakest chapter so far" assessment below reflects an in-progress snapshot, not the final verdict — kept for historical record only, not a live unresolved critique.
 
 ## Notes so far (2026-10-21)
 
