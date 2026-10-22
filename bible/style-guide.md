@@ -85,6 +85,22 @@ Third person limited, tight to him.
 
 **Never melodramatic** at any stage.
 
+**REVISED PROSE PERMISSIONS — LUCIFER CHAPTERS ONLY (locked 2026-10-22, author, worked out via a full rewrite of "Twenty Feet").** Developed and refined over several passes specifically for Lucifer's POV register — not yet extended to Elizabeth's chapters; treat as scoped to him unless the author says otherwise. This **loosens** several rules above for his chapters specifically, and **confirms others still apply even in the loosened register:**
+
+- **Similes and metaphors in narration are now permitted for Lucifer's POV**, superseding § 7's zero-tolerance ban for his chapters specifically. Two failure modes were caught and corrected in testing — both matter:
+  - *Frequency:* keep it to roughly one figurative instance every few paragraphs, not stacked every 2–3 lines. Density cuts flow fast.
+  - *Architecture:* vary the sentence construction delivering the comparison, not just the image. Don't default to one connector phrase ("the way X," "like Y") as the go-to move — mix flat statement with no connector, straight juxtaposition, an occasional true "like" simile, metaphor without any connector. A reader's ear catches a repeated joint before it catches repeated content.
+  - *When in doubt, take the plainer, more concrete option.* Several ornate/poetic attempts got corrected toward plain, direct verbs in testing ("the rot simply stopped having happened" → "the rot simply faded"; cut asides like "uninterested in whether he'd earned an apology first"). The goal is texture, not cleverness for its own sake.
+- **No Overwritten Posture/Expression/Action still fully applies, even here.** A beat stands alone; don't tack on a clause explaining what it means. This did not loosen.
+- **Italics stay reserved for telepathic/divine speech only — do not use italics for dialogue emphasis**, even for raised-voice intensity. Use punctuation or word choice instead (a bare exclamation point, not *italicized* emphasis, for a shouted word).
+- **Prefer dialogue over narrated summary when a fact, rule, or realization is being established between two characters.** Let a character state an agreed-upon rule as a line of dialogue rather than having the narration summarize it after the fact. Let a realization land as a character's own brief reaction rather than narration spelling out the deduction.
+- **A reveal can be drawn out through the listener's own guesswork** rather than delivered as one uninterrupted statement from the POV character — give the other party in the scene room to work toward the conclusion themselves.
+- **Dry, deadpan, conversational understatement is encouraged as voice — this is distinct from ornate figurative language**, which stays under the frequency/architecture limits above. ("It didn't feel great" instead of a flatter "it hurt" is the right kind of looser; an ornate extended simile in the same spot is not.)
+- **Concrete, specific nouns over vague placeholders** in description — a named object or detail beats a generic one ("a charred wall," not "something in the yard").
+- **Ground a large magical/power action in a small physical or bodily beat first** (a breath, a glance) before the big unreal effect — a brief anchor in the mundane before the extraordinary.
+- **No continuity-explaining callbacks to earlier chapters.** Don't cross-reference how a current action relates to or differs from an earlier established power/event by naming the earlier scene ("the same trick he used on the ballroom the first day," "the same thing he did to the tree in the orchard"). Just show the present action. Trust the reader's memory — and trust that a book worth finishing gets reread anyway.
+- **"Go big or go home" is a genuine, standing Lucifer trait, not situational — see `bible/lucifer_character_profile.md` § ARTISTRY.** When he builds, fixes, or creates anything, even a version meant to read as humble or lived-in should still come out grand, bright, more than strictly needed. This is a real, ongoing source of (minor-key, non-plot-critical) friction with Azrael.
+
 ### Azrael / "Tristan"
 Azrael does not have his own POV chapters. He is always seen from outside — through Elizabeth's or Lucifer's eyes.
 
