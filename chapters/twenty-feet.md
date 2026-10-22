@@ -1,197 +1,181 @@
 # Twenty Feet — Lucifer
 
-The phone was on the floor by the mattress, screen dark. Lucifer picked it up, thumbed it awake — he'd watched Azrael fumble through this a dozen clumsy times before simply taking over doing it himself — and checked. Nothing. No message, no missed call, nothing from Sophie or anyone else. He set it face-down on the floorboards and lay there another moment in the grey light coming through the paneless window of the room he'd claimed for himself, the one with the blackened clawfoot tub still bolted to the wall across from the bed, the only fixture in the room the fire hadn't taken.
+The phone lay dead on the floorboards, and Lucifer thumbed it awake with the particular resentment of a man checking a door he already knows is locked. Nothing new from the girls needed attention. He let the device go dark again and lay there a moment in the grey light coming through the paneless window. The room was his now, by right of having claimed it first, and the fire had left it exactly one thing: a blackened clawfoot tub attached along the wall across from the bed, the house's one stubborn memory of having been something gracious once.
 
-He got up anyway. There wasn't a reason to stay lying there once he was awake, and he wasn't going to sleep again.
+He got up. There was no version of lying there longer that made the morning any better.
 
-He came down the curved staircase still half somewhere else, thinking about nothing in particular, and his foot caught on the third step from the bottom. The board gave under his weight in a way it hadn't the last ten times he'd used these stairs, some warped edge catching his heel and nearly putting him on his face in the entry hall. He caught the ruined banister post instead, swore under his breath, and stood there a second with his jaw tight, irritated out of all proportion to a loose board, before he'd even finished waking up.
+The staircase curved down through the wreckage of the house, and his foot found the one ruined board — patient, unhurried, a grudge that had simply been waiting its turn. It gave under his heel. He caught the banister hard enough to feel a hitch in his shoulder and swore under his breath at his near embarrassment.
 
-He crouched and put his hand flat against it.
+He crouched a few steps below and turned to face the wrecked stair, putting his hand flat to the wood. The rot simply faded. The split closed. He bounced on it to be sure, and it held his weight without a sound.
 
-It wasn't the trick he'd used on the ballroom the day they'd first walked through this place — no holding a picture of the thing in his head, no need to keep looking at it to keep it there. This was the same thing he'd done to the tree he'd wrecked in James's orchard: his hand against wood that had rotted and split and simply wasn't rotted or split anymore, the split closing seamlessly, the warp pulling flat and staying flat. Real. He stood on it to check. It held his weight without a sound.
+One board. The house wasn't going to tell anyone.
 
-Fine. One board. Nobody was going to notice one board.
+His hand drifted to his pocket, and came back with an apple already in it. He bit into the fruit and started walking around the house.
 
-He went looking for something to eat, because thinking about the house meant he wanted his hands doing something else at the same time, and his hand found its way into his jacket pocket out of habit before he'd consciously decided he wanted anything. There was an apple in it when his fingers closed. There hadn't been a second before. He took it out and bit into it and started walking, because now that he was up and moving he might as well actually look at what he was dealing with.
+In full daylight the house was in genuine ruins: the dining room's chandelier half-swallowed by its own fallen ceiling, the kitchen cabinets swollen and warped, the pantry shelves gone soft and grey, the ballroom still holding its one broken column exactly where it had lain since the disaster. He could have fixed every inch of it before the sun cleared the ridge. That was never the problem. The problem sat at the bottom of the hill, in every window that could look up and watch a burned shell turn whole in less than a week and start asking, reasonably, why. So: slow. Believable. Surrendered to the town's own pace, so nobody down there ever had cause to look up here twice.
 
-The house was a wreck in every direction he turned. He walked the ground floor with the apple in one hand, cataloguing as he went: the dining room's half-buried chandelier, the warped kitchen cabinets, the pantry shelves gone soft with water damage, the ballroom with its one collapsed column still lying where it had fallen and a section of ceiling with it. He could fix all of it today if he wanted to. That was never the problem. The problem was that the house sat at the top of a hill that the whole town could see, and a wreck like this didn't go from three stories of scorched brick to whole in one week without somebody in town noticing the pace and starting to ask why, and asking why was the one thing he could not afford from anyone down there. So: slow. Believable. A little at a time, spread across days long enough that nobody watching from the road below would clock the pace as anything but ordinary work, even though no hands but his were going to touch any of it.
+He was still turning that over — still, if he was honest, still faintly furious about the stairs underneath everything else, a splinter standing in for the whole of his attention long after the wound itself had closed — when Azrael's feet found the staircase behind him.
 
-He was still turning that over, still faintly, pointlessly annoyed about the stairs underneath all of it, when he heard Azrael's feet on the staircase behind him.
-
-Azrael came down rubbing at his face, clearly not fully awake yet, until his foot landed on the third step from the bottom and didn't catch on anything, and he stopped dead with his hand still on the banister post.
+Azrael came down half-asleep, rubbing his face, until his footsteps stopped squeaking on the steps. He stopped dead in his tracks, hand still on the banister and looked at his feet.
 
 "This wasn't like this yesterday."
 
-"I tripped on it," Lucifer said, around the apple. "Fixed it. It's one board."
+"I tripped. Fixed it. It's one board, not a house."
 
 "We agreed. No fast work. Nothing that draws eyes."
 
-"Nobody's going to see a stair tread from the road, Azrael, it's inside the house." He kept walking, because stopping to have this argument properly meant giving it more weight than one board deserved. "I'm not rebuilding the dining room overnight. I tripped, I fixed it, and if you want to stand there and have a conversation about a single step I will gladly let you win that argument while I go look at something that actually matters."
+"Show me the window in this town with a clear line to my staircase and I'll board it shut myself." He kept walking. "Stand here building a case about a single plank if you want — I'll lose that argument happily while I go look at something that matters."
 
-Azrael followed him instead of letting it go, which Lucifer had expected and still found irritating.
+Azrael followed him, which Lucifer had expected and still found irritating.
 
-He'd finished most of the apple by the time Azrael caught up with him in the front hall, and without thinking about it his hand went back into his own pocket again. There was a fresh one there when it came out, whole, no core left over from the first, nothing in his hand a second before his fingers closed around it.
+He'd finished most of his apple by the time Azrael caught up in the front hall, and his hand went back to his pocket without thinking. A second one, whole, no core left from the first.
 
-Azrael had stopped walking. He was looking at Lucifer's hand.
+Azrael had stopped walking. He was staring at the hand.
 
 "What is the deal with that?"
 
 "With what?"
 
-"The apple. That apple. You've had one in your hand more mornings than not since we got here and I have never once seen you carry one with you, and your pocket was empty two seconds ago. What is it?"
+"The apple. That apple. You've had one in your hand more mornings than not since we landed in this town, and I've never once seen you carrying it, and your pocket was empty two seconds ago. What is it?"
 
-Lucifer bit into it before he answered. "It's the fruit." He said it like that should be the whole answer, and when Azrael just kept looking at him, he gave the rest of it, shorter than he wanted to. "The tree. Still standing in the throne room. Still bearing. I don't carry anything across — I just reach in and pull a piece off it." He held it up, turned it once in the light from the doorframe. Unnaturally red, if anyone had bothered to look.
+Lucifer bit into it before answering — not stopping mid-compulsion for a question. "It's the fruit," he said.
 
-He watched it land on Azrael's face in real time — not confusion, not the slow catching-up look of a joke landing wrong. Something harder than that, real shock settling into something worse right behind it.
+"What fruit," Azrael leaned against the wall.
 
-"You've been eating that." Azrael's voice had gone very flat. "This whole time. Since we got here. However many of those I've watched you go through."
+"Well, if you must know. This particular fruit was conjured by me from Hell," Lucifer explained slowly.
 
-"Most of them weren't that. I pick plenty up from wherever they already are."
+Lucifer realized Azrael's circling the same thought for a few seconds and finally settled on the only logical conclusion. "You mean you've been eating the fruit from the Tree of Knowledge of Good and Evil this entire time?"
 
-"And I had no way of knowing which was which, did I. I haven't touched that fruit closely enough to tell it apart from an ordinary one by looking at it since before the Fall. Every single apple I've watched you eat since we landed in that orchard could have been either one, and I never had a single way of telling, and you never once thought that was worth mentioning to me."
+"Yes," He held it up to the light from the doorframe. Too red. Nobody down here had ever once looked closely enough to notice. "But for your information I have been eating regular apples when I come across them but they pale in comparison to this lovely red," Lucifer turned it over in the light more.
+
+"And I had no way of telling which was which, did I. I haven't been close enough to that fruit to know it on sight since the garden. Every apple I've watched you eat since we got here could have been either one, and you never once thought that was worth mentioning."
 
 "It never occurred to me that it needed mentioning."
 
-"That's the problem." Azrael's hand had closed into a fist at his side, and Lucifer registered it a half second too late to do anything about it. "Not that you have a habit. That you still, after everything, after the entire reason we are standing in this house instead of somewhere else, do not think before you put something like that in your mouth. You learned nothing."
+"That's the problem. Not that you have a habit. That you still, after everything, don't think before you put something like that in your mouth. You learned nothing." His hand had already closed into a fist. Lucifer clocked it half a second too late to do anything useful about it.
 
-The hit landed square across his jaw — a real one, weight behind it, Azrael's full strength and none of the restraint he used when he was only making a point. It snapped Lucifer's head sideways and put him back a step against the wall, and it hurt, genuinely, not performed. He didn't swing back. He let his jaw work once, tasting blood where his teeth had caught the inside of his cheek, and didn't say anything, which was its own kind of answer. Underneath it, though, something in him that had already been simmering since the stairs went up another notch, quiet and ugly, with nowhere to go yet.
+The hit landed clean across Lucifer's jaw, full weight, and put him back a step into the wall hard enough that the hallway seemed to carry the sound of it. It hurt — properly, honestly. Lucifer didn't swing back. He worked his jaw once, tasted blood where his own teeth had caught his cheek, and said nothing. Underneath it, something that had been simmering since the stairs climbed another rung with nowhere yet to go.
 
-"I can't put it down once I've picked it up," he said finally, once his jaw had stopped ringing. "Either one. Doesn't matter which kind. I have to finish it or destroy it. I don't get a choice in that part. I never have."
+"It's not like I am going to give it to a human." he said, once the tingling had settled. "I only ever eat it. Trust me, I have learned my lesson since Eden."
 
-Azrael's fist didn't unclench right away, but something behind his eyes did. "That's not a joke."
-
-"No."
-
-"You've never once set one down and walked off."
+Something behind Azrael's eyes loosened, even with his fist still closed. "That's not a joke?"
 
 "No."
 
-He watched Azrael work through it — not an excuse, Lucifer hadn't offered it as one and wasn't going to, but something that changed what it actually was. Reckless was a choice. This wasn't.
+"You've never once put one down and walked away."
 
-Lucifer broke what was left of the apple in half without being asked, more out of wanting the conversation to end than any real generosity, and held one piece out.
+"No."
 
-Azrael looked at it a moment before he took it. He didn't ask if it was safe, didn't turn it over checking for anything, just bit into it, and whatever crossed his face then had nothing to do with the fight they'd just had. His eyes went somewhere else briefly — a long way off, further back than either of them talked about out loud.
+He broke what was left of the apple and held half of it out, mostly so the conversation would end. Azrael took it, bit in without checking it first, and something crossed his face that had nothing to do with the fight. His eyes went somewhere else — further back than either of them talked about.
 
-"I remember this," he said, quieter. "Before any of it went wrong. Before it meant anything." He looked down at the piece in his hand a moment longer than the bite needed. "You're an idiot, Lucy."
+"I remember this," he said, quieter. "Before any of it went wrong." He looked at the piece a moment longer than the bite required. "You're an idiot, Lucy."
 
-None of it touched the thing still sitting under Lucifer's ribs since the stairs. If anything the hit had only added to it. He didn't say so.
+"What am I actually allowed to fix?" he asked to change the topic. "Give me something to hold onto."
 
-"What am I actually allowed to fix," he said instead, because standing around picking at it further wasn't going to get the house livable. "Give me something concrete. Not 'don't draw eyes.' A number."
+They walked the mansion, room by room, Azrael finishing his half of the apple a step behind, and settled on a limit. "One true repair a day. Small enough that a whole town glancing up at the hill would read it as ordinary labor, and nothing done where it could be seen from the road while your hands are actually in it."
 
-They walked it room by room, Azrael trailing a step behind eating the rest of his own piece, and settled on it without much more arguing than that: one real repair a day. One. Something a town full of people glancing up at the hill wouldn't register as faster than a normal crew could manage, and nothing done anywhere it could be seen from outside while he was doing it.
+"Ok. I can work with that. Then I am going to work on the ballroom, today" Lucifer said, pointing down the hall at the gaping, doorless frame. "Not with that standing open the whole time though. Anyone could walk straight through while I've got both hands in a wall."
 
-"Today's the ballroom," Lucifer said, looking down the hall at the open, empty doorframe the front door should have been sitting in. "But not with that standing wide open the whole time I'm working. Anyone could walk straight through it while I've got my hands in the middle of a wall."
-
-"So the door first."
+"The door, first then."
 
 "The door first."
 
-It took him less than a minute, hand against the ruined frame, wood and hinge and a slab of actual door rising into it whole and solid, dark-stained, a real handle under his palm when he pulled it shut to test it. Small. Nothing anyone passing on the road below would have caught even if they'd been staring straight at the hill at the exact second it happened.
+He fixed the door in under a minute — wood and hinge and a slab of solid door rising whole into the frame, a real handle settling under his palm when he swung it shut to test the weight. Small enough that nobody on the road below would have caught it even staring straight at the hill at the exact second it happened.
 
-Azrael, still working on his piece of apple, pushed the new door open again and went to stand on the front step, looking down at the town. "I'm going to get some air while you start."
+Azrael, still working his piece of apple, pushed the new door open and stepped onto the front step to look down at the town. "Getting some air while you start."
 
 "Fine."
 
-He'd gotten perhaps twenty feet past the threshold, out past the first dead flowerbed, when Lucifer vanished out from under himself mid-stride in the front hall and landed hard on his hip beside him, already pitching sideways before he'd even registered moving.
+Lucifer watched Azrael walk into the front yard past the threshold when the ground suddenly arrived under Lucifer from an entirely different angle than the one he'd been standing in a half-second before his face slamming into the ground with a soft thud— the hall gone, the lawn in its place, his forehead taking the landing badly.
 
-It hurt. Not much — a short, sharp jolt through his whole body, there and gone, the kind of thing that happened to almost nothing else that touched him — but it was real, and it put him flat on the ground beside his brother's feet in the open air not two seconds after he'd been standing in the front hall deciding where to start on a wall.
+It didn't feel great. A short, bright jolt through the whole of him, there and gone — but real, and it put him flat in the grass two seconds after standing indoors deciding which wall to start on.
 
-Azrael looked down at him, apple still in hand, and Lucifer watched the understanding arrive.
+Azrael looked down at him, apple still in hand, watching the idea land.
 
-"You're tied to me."
+"Interesting"
 
-"Get up—" Lucifer started, pushing himself off the ground, but Azrael had already turned and was walking further out across the overgrown lawn, counting something under his breath, and the pull yanked Lucifer off his feet again before he'd gotten both knees under him, dropping him in the grass this time, elbow first.
+"What the —" Lucifer started, already pushing upright, but Azrael had turned and was walking further out across the lawn, counting something under his breath, and the pull dropped Lucifer a second time before both knees were under him again — elbow-first.
 
-"Azrael."
+"Azrael!"
 
-"Hold on." He walked further still, turned, walked back in a different direction entirely, out toward the side of the house, and Lucifer went down a third time, this one catching him across the shoulder on an exposed root.
-
-"Stop doing that."
-
-"I'm working something out." He went out again, a shorter distance this time, came back in, went out again further.
-
-Lucifer hit the ground four more times within the space of a few seconds — sideways, backward, once nearly face-first into the same dead flowerbed — and by the fourth his teeth were set so hard together he could feel it in his skull, and whatever had been sitting under his ribs since the stairs had stopped being quiet about it.
+"Hold on. I'm working something out." He walked out again, shorter, came back, went out further, Lucifer being pulled abruptly to Azrael's side each time — sideways, backward, once nearly into the same patch of grass — until his joints ached from being set so hard and whatever had been irritating since the stairs stopped being quiet about it.
 
 "If you walk out there one more time—"
 
-"One more." Azrael walked out one more time, further than before, stopped, and Lucifer didn't fall this time — stayed exactly where he was, apparently well inside whatever the line actually was. Azrael took two steps back in the direction he'd come, testing the near edge of it, then paced off a wide loop around the whole front of the house in a rough circle, in and out of range four or five more times, Lucifer dropping every single time the distance tipped over whatever it was, until by the end of it he was simply lying in the grass not bothering to get fully up between falls, glaring at nothing.
+"One more." Azrael stepped again. Lucifer didn't fall this time — stayed exactly where he was. Once Azrael found the near edge of it, he paced a slow loop around the whole front of the house, in and out of range four or five more times, Lucifer dropping every time the distance tipped over, until he simply stopped standing all the way up between falls.
 
-"That's enough," he said, when Azrael started off toward the side of the house again. "That's enough. You've got a rough shape of it. I have a room to fix and I would like to do it without being thrown on my back every forty seconds."
+"That's enough. You've got a rough shape of it. I have a room to fix, and I'd like to do it without being thrown every which way over again."
 
 Azrael, to his credit, stopped. "Fair."
 
-Lucifer got up, brushed grass and old leaves off himself, and went back inside without waiting to see if his brother followed.
+Lucifer got up, pulled dead grass off his sleeves, and went back inside, waiting to see if his brother followed.
 
----
+Lucifer stood in the ballroom's wreckage — the fallen column, the heap of ceiling it had taken with it — took a breath and pulled the whole room up at once, every piece of it held together in a single act of attention.
 
-He stood in the middle of the ballroom with the collapsed column and its heap of ceiling rubble still exactly where it had fallen weeks ago, and pulled the whole room up in his head at once, all together, the same method he'd used the first day they'd walked through this place — except that first time it had only ever been a picture held in the air for as long as he kept looking at it. This time it was going into the stone.
+A floor of pale gold-veined marble, radiating from the center in a pattern polished to a mirror's honesty. Columns rising fluted and whole, gold catching at their capitals. A ceiling closing clean into a painted dome, a crystal chandelier dead-center and lit. Tall arched windows filled with glass that had never been broken, heavy red drapery falling beside them, walls rising dark and gilt-edged under a pale cornice, a row of empty gilt chairs waiting on guests who had never been invited —
 
-He pushed it all out together: marble floor radiating out from the center in a pale gold-veined pattern polished to a full mirror shine, the columns whole again and fluted, gold leaf catching at their capitals, the ceiling closing clean overhead in a painted dome with a crystal chandelier hanging dead-center and lit, tall arched windows filling with unbroken glass under heavy drapery in deep red, the walls rising in a dark, gilt-edged paper beneath a white cornice, gilt chairs lined along the walls, waiting on guests who hadn't arrived yet. All of it at once, in one continuous push, every inch of it alive under his attention at the same moment —
+and then none of it, faded out from under him the instant his body wasn't where it had stood, because Azrael had drifted again, thinking of something else, and Lucifer came back to himself on his knees in the dead flowerbed with blackened stone behind him.
 
-and then it was gone. All of it. Every piece of it dropped out from under his concentration in the same half second his body wasn't where it had been standing, and he came back into himself on his knees twenty feet outside the front door with no ballroom behind him at all, just the blackened stone and the rubble, exactly as it had been.
+He got up slower than he wanted. "You cannot wander while I'm in the middle of that."
 
-He got up slower than he wanted to, found Azrael a few steps further off than that, apparently drifting while he thought about something else entirely, and didn't bother keeping his voice level. "You cannot wander off while I'm in the middle of that."
+"I wasn't thinking," Azrael shrugged.
 
-"I wasn't thinking."
+"Then think." He went back in without waiting for an answer dragging Azrael with him. The second attempt went the other direction entirely: bare pale stone, cold and without pattern, columns left smooth and plain, the ceiling flat with no chandelier, only a skylight's worth of daylight, the same tall windows bare of any drapery, no furniture anywhere in the whole emptiness of it — pushed out faster than the first, harder, something close to spite behind it —
 
-"Then think." He went back inside without waiting for a response, and this time he didn't bother with anything soft. Bare pale stone instead, cold and plain, no pattern to the floor at all, the columns left smooth and undecorated, the ceiling closing flat with no chandelier, light from nothing but a plain skylight, the same tall windows left completely bare, the walls raw and unpapered, no furniture of any kind anywhere in the room — pushed out faster than the first attempt, harder, something close to spite behind it, trying to finish it before Azrael could wander anywhere at all —
+and lost the same way, because Azrael had drifted once again, this time toward the side of the house to look at a charred wall.
 
-and it collapsed again, all of it gone in the same instant, because Azrael had drifted again, this time toward the side of the house to look at something in the yard.
-
-Lucifer did not get up slowly this time. He came up off the ground already furious, more furious than he'd been in longer than he wanted to think about — the same loose, ugly anger he'd come through the rift with, the day he'd crashed through two of James's family's apple trees with nowhere yet to put it. "Twice," he said. "Twice, Azrael."
+Lucifer did not get up slowly. He jumped off the ground already furious — loose, directionless, older than this morning by a good margin. "Twice," he said. "Twice, Azrael."
 
 "I didn't realize I'd gone that far."
 
-"Then stop *moving*."
+"Then stop moving!"
 
-Azrael didn't answer that one, which was, Lucifer registered somewhere underneath the anger, probably the correct choice.
+Azrael, wisely, said nothing back to that.
 
-He stood in the doorway of the ballroom a long moment, not moving either, feeling the whole thing sitting hot and useless in his chest, and made himself stop before he tried casting the whole room again. Twice was the room gone. Doing it a third time, whole, would only prove he hadn't learned anything either, and he'd had quite enough of being told that today.
+Lucifer stood in the doorway, not moving, the whole of it sitting hot and useless in his chest. A third attempt cast the same reckless way would only prove he'd learned exactly as little as he'd just been accused of.
 
-So: not the whole room at once. Not held in his head and pushed out from a distance where one wrong step from his brother could drop the entire thing in a single breath. He'd do it by hand.
+So, not the whole room held at arm's length, a single misstep away from collapse. He'd do it with his hands, a little bit at a time.
 
-It meant his hands needed to be free, and the apple he still hadn't quite finished — a new one, pulled fresh from his pocket somewhere in the last several minutes without his noticing he'd reached for it — had nowhere to go if he wasn't going to set it down, so he put it between his teeth instead, holding it off to one side of his mouth, and went to the first wall.
+Which meant his hands needed to be free, and the apple he hadn't finished — another one, pulled sometime in the last few minutes without his thinking — had nowhere else to go, so he held it between his teeth and went to the first wall.
 
-He put both hands flat against the stone and worked it there, under his palms, instead of holding a picture of the whole room in his head — the pale gold paper, the cornice, close and real under his hands, finished before he let go and moved down the wall to meet the next. Second wall. Third. Fourth, around the room in order, each one whole and settled under his hands before he turned to the next, and by the time all four met each other at the corners the ceiling simply closed over on its own, no separate step needed, sealed shut the instant the walls finished meeting it overhead. The floor he left for last, honey-toned wide planks worn smooth under his palm as he went, section by section, until the whole thing lay finished beneath him.
+He worked it under his palms instead of in his head: the gold paper, the pale cornice, close and real and finished before he let go and moved to the next. Second wall. Third. Fourth, around in order, each one settled before he turned from it, and when the four of them met at the corners the ceiling closed over on its own, no separate act required. The floor came last — wide honey-toned planks, already worn soft from real use, not polish.
 
-If Azrael wandered now, it would cost him one wall. Whatever he had his hands on. Not the room.
+If Azrael wandered now, it would cost him one wall. Not the room.
 
-He felt the difference almost immediately — not just in the stakes of it, but in himself. The anger that had been climbing since the stairs, spiking twice over since, had nowhere left to go once his hands were actually occupied, section by section, one piece finished before the next one started. It didn't vanish. It drained out of him slowly instead, the longer his hands stayed busy with one piece at a time.
+The anger that had been climbing since the stairs had nowhere left to go once his hands were occupied one piece at a time. It drained out slowly instead, the longer he stayed patient with a single wall.
 
-Partway through the third wall, Azrael came and stood in the doorway, arms crossed, watching.
+Partway through the third, Azrael came and stood in the doorway, arms crossed.
 
-"Once you're done with this," he said, "will you stop and actually help me work out the range properly? Pace it off, mark it, know the real number instead of guessing from you falling on your face."
+"Once you're done with this, will you actually help me map it properly? Pace it, mark it, get the real number instead of guessing from you falling on your face."
 
-"No." Lucifer didn't look up from the wall under his hands. "House first. The boundary can wait."
+"Fine," He didn't look up. "House first though. The boundary can wait."
 
-Azrael looked at him a moment, and something in his face settled rather than pushed back. "All right."
+Something in Azrael's face settled rather than pushed back. "All right."
 
-He didn't move again after that. Lucifer worked the rest of the walls, the ceiling, and the floor with his brother standing still in the doorway the whole time, apple core long since gone from his own hand, and finished without a single interruption.
+He didn't move again. Lucifer finished the remaining walls, the ceiling, the floor, Azrael standing still in the doorway the whole time, without a single interruption.
 
-They stood together afterward, looking at it. Wide honey-toned floorboards underfoot, worn smooth from actual use. The columns softened into plain wood beams instead of stone. Light falling soft and even from simple fixtures rather than one chandelier trying to do all the work. The same tall windows, dressed now in nothing but plain linen, open to whatever daylight was actually coming through them. Two worn armchairs angled near the glass, a low table between them, a rug underfoot that didn't match anything and didn't need to. A white piano sat where the light from the windows reached it, the finish worn pale at the edges of the keys, the kind of wear that only came from actually being played, more than once, for longer than an afternoon.
+They looked at what it had become. Wide honey-toned floorboards. Columns softened into plain wood beams. Light falling evenly from a few simple fixtures instead of one chandelier carrying the whole room alone. The same tall windows dressed now in nothing but plain white linen, open to whatever daylight wanted through them. Two red armchairs angled near the glass, a low table between them, a dark rug that matched nothing else for a contrast. A sparkling white piano set where the window's light fell across it, the paint glistening at the edges of the keys.
 
-Nobody had told him to put a piano there. He hadn't decided on it any more deliberately than he'd decided on anything else in the room — it had simply arrived with the rest of it, the one piece that turned the whole room into somewhere a single person could actually live rather than a space built only to be looked at. He didn't examine that any further than noticing it.
+The room shone bright with the morning sun and sunlight streamed in from the windows, bouncing off every surface leaving almost no shadows in the room.
 
 "That one's staying," Azrael said.
 
 "Obviously."
 
----
+Lucifer kept his word on the other matter once the ballroom was finished. They went back out onto the lawn, and this time he actually watched Azrael move around — tracking the exact place the pull took hold instead of only registering the ground rising to meet him.
 
-He kept his word on the other thing once the room was done. They went back out onto the lawn, and this time he let himself actually pay attention — tracking exactly where the pull took hold instead of only registering it as the ground coming up to meet him.
+Azrael walked it in every direction: toward the front gate, toward the tree line along the property's edge, around the back where the kitchen windows looked over nothing but grass, out along the slope of the hill road. Lucifer called the distance the instant it fired, and Azrael marked each spot — a loose stone, a length of broken fence, the toe of his own boot dragged once through the dirt.
 
-Azrael walked it out in every direction in turn: toward the front gate, toward the tree line at the side of the property, around the back where the kitchen windows looked out over nothing but overgrown grass, out along the hill road itself. Lucifer called the distance each time the second it fired, and Azrael marked it with whatever was lying around — a loose stone, a broken length of fence post, the toe of his own boot dragged through the dirt.
+Twenty feet. Every direction. Not roughly twenty — exactly twenty, the same number no matter where Azrael started from.
 
-Twenty feet. Every direction. Front, back, both sides, the slope toward the road. Not roughly twenty, not somewhere close to it depending on which way you measured — exactly twenty, the same number every single time, no matter which way Azrael walked out from the house.
+Azrael didn't find that especially remarkable, once they'd confirmed it a third time and a fourth. "Interesting."
 
-Azrael didn't seem to find that especially remarkable, once they'd confirmed it a third and fourth time — a number was a number, and he moved on to asking what it meant for how far apart they could reasonably stand before he had to come back to check on him.
+"This blows I really can't do anything in this forsaken place."
 
-Lucifer didn't answer right away.
+A figure that clean didn't happen by accident. This wasn't the first time something had lined up a little too neatly since he'd come here, and he doubted it would be the last. He couldn't prove any of it of course. He never could. But he recognized the hand behind it, and recognized, too, that it belonged to someone who apparently still couldn't resist a joke at His own family's expense.
 
-A number that clean didn't happen by accident. Twenty feet, from every side of a house, exactly, no matter where you started measuring from, wasn't the kind of thing that simply worked out that way on its own. He'd thought the same thing about landing in an apple orchard specifically, and about this particular town fitting the two of them so neatly that nobody down there had asked a single real question yet. He couldn't prove any of it. He never could. But he recognized it again when he saw it, and he wasn't about to say so out loud to Azrael, who would only ask him to explain it and get nothing useful back for the trouble.
-
-He looked up instead, past the roofline, at nothing in particular.
+He looked up, past the roofline, at nothing in particular.
 
 *Seriously, God.*
 
-Azrael, still talking about the practical uses of knowing the exact number, didn't notice he'd stopped listening.
+Azrael, still talking logistics, never noticed he'd stopped listening.
