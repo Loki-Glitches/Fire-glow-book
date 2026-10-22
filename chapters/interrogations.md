@@ -18,17 +18,27 @@ Her reasoning, when she'd thought it through at all, was simple: the park sat at
 
 Nobody had.
 
-They went store to store — the bakery, the hardware place, the little pharmacy with the bell over the door — and got the same answer every time, phrased a dozen different ways. No, sorry. Haven't seen anybody like that. You could try the diner. Elizabeth described her the only way she had to go on, vague as it was, and watched each face come up blank in turn.
+First stop was the bakery, Mrs. Okafor behind the counter wiping flour off her hands before she'd even properly looked up. "Dark hair, foreign-sounding? No, sweetheart, nobody like that's been in. You check with Hank at the hardware store yet? He sees everybody eventually."
 
-One stop broke the pattern, if only slightly. The flower shop on the corner, overflowing pots crowding the sidewalk out front, was run by a woman named Ruth who looked to be somewhere in her sixties and seemed entirely unbothered by anything. She didn't recognize Eve's description either — but she lingered on Adrian a moment longer than the question required, the way you'd look at someone you'd decided you liked without needing a reason for it yet.
+Hank hadn't seen her either, but he had opinions about it. "Woman wandering around not knowing anybody — somebody would've called the sheriff's office by now, I'd think. Small town. We notice things." He eyed Tristan and Adrian both while he said it — not unkindly, just doing the arithmetic on strangers out loud, the sort of thing a man says before he's decided whether it's actually suspicious.
 
-"You two new in town?" Ruth asked him directly, ignoring Tristan and Elizabeth both for a second.
+The pharmacist, a tired-looking younger guy named Collins, barely glanced up from the register. "Nobody matching that's come through here. Sorry. Hope you find her."
+
+Elizabeth described her the only way she had to go on, over and over, vague as it was, and watched each face come up blank in its own particular way — Mrs. Okafor's sympathetic, Hank's faintly suspicious, Collins's simply too busy to care much either way.
+
+One stop broke the pattern. The flower shop on the corner had pots overflowing onto the sidewalk, and the woman running it — somewhere in her sixties, entirely unbothered by anything, introduced herself as Ruth before anyone asked — didn't recognize Eve's description either. But she didn't just say no and move on. She wanted to know how long they'd been looking, whether they'd tried the church bulletin board ("half this town finds out everything from that corkboard before they find out from each other"), whether Eve had family who might be looking too.
+
+"You two new in town?" she asked, squinting at Adrian specifically, ignoring Tristan and Elizabeth for the moment.
 
 "Something like that."
 
-"Well. Come back if you ever want anything that isn't dying in a pot." She smiled at him, easy, nothing behind it but plain goodwill, and went back to watering.
+"Mm. Didn't think I recognized you." She considered him a second longer than the question strictly needed — the look of someone deciding she liked a person before she had a reason for it. "You look like you could use a plant that isn't trying to die on you. Half my stock's near-impossible to kill. Come back sometime, I'll find you something that survives neglect."
 
-It was such a small thing Elizabeth almost didn't register it as anything at all. Nobody else in this town had managed to be simply nice to him without an agenda riding underneath it. She filed it away without deciding what to do with it and kept walking.
+"I'll keep that in mind."
+
+"You say that to be polite. I mean it." She waved them off toward the next block, already turning back to her watering can, and that was that.
+
+It stuck with Elizabeth longer than it should have. Nobody else in this whole town had managed to be simply nice to him without something else riding underneath it — curiosity, suspicion, the low hum of small-town accounting. She didn't do anything with the thought. She just kept it, and kept walking.
 
 By the time they'd covered every storefront on the square, they had exactly nothing to show for it.
 
@@ -38,9 +48,9 @@ By the time they'd covered every storefront on the square, they had exactly noth
 
 "Is there?"
 
-"I watched her leave," Adrian said — flat, matter-of-fact, the kind of thing he said like it cost him nothing to admit. "That doesn't tell you when she gets here. Or if."
+"I watched her leave," Adrian said. Flat. Matter-of-fact. Nothing else offered.
 
-"We don't know her timing," Tristan added. "We know she's coming. Eventually. Probably here, specifically."
+Tristan picked up the rest of it without being asked. "That doesn't tell us when she lands, or if she has yet. We don't know her timing. We just know she's coming, and that she's probably coming here specifically."
 
 "That's not an answer, that's a vibe."
 
@@ -48,13 +58,15 @@ By the time they'd covered every storefront on the square, they had exactly noth
 
 Elizabeth looked between them, caught in whatever this actually was — some private math the two of them seemed to be running without bothering to show their work. "Okay, but what does that mean. Like, logistically. Do we just stand around a park for a week?"
 
-"We wait," Adrian said. "In town. Keep an eye out the way you have been."
+"We wait in town," Tristan said. "Keep doing what you've been doing."
+
+Adrian said nothing to that, just looked out at the fountain like the conversation had already used up his contribution for the hour.
 
 "Great. Riveting plan."
 
-"It's the plan we have."
+"It's the plan we have," Tristan said.
 
-She couldn't entirely tell if he was being short with her or just being short, period, but either way it was an actual answer, delivered directly, instead of whatever runaround she usually got out of him. That alone was almost worth the walk.
+She couldn't entirely tell if Adrian's silence was him being short with her or just being short, period, but at least Tristan was giving her something direct to work with. That alone was almost worth the walk.
 
 Eventually Tristan stood, and Adrian followed half a beat later, the two of them already halfway into a goodbye Elizabeth hadn't agreed to.
 
@@ -64,23 +76,25 @@ Tristan sat first, more out of surprise than obedience. Adrian took a second lon
 
 "I have questions," Elizabeth said. "Real ones. The kind Sophie tried to get out of you over text and got absolutely nowhere."
 
-Adrian's hand went to his jacket pocket and came back out holding something small and red, whole, that hadn't been there a second before as far as Elizabeth had noticed. He split it clean down the middle with his bare hands — no knife, no visible effort, just pressure and then two halves — and held one out to Tristan without looking at him.
-
-"You're giving her the personal stuff now too?" Adrian said to his brother, already biting into his own half.
+"That," Adrian said, before Elizabeth had even gotten to a question, "is a separate problem. He shouldn't have answered anything over text in the first place." He wasn't looking at Elizabeth when he said it. He was looking at Tristan.
 
 "I answered what she asked."
 
 "That's the problem. You answer things."
 
-Tristan took the offered half and ate it without comment, which Elizabeth took as agreement with absolutely nothing in particular.
+"You could just not let it bother you."
 
-"Fine," she said. "Then answer me directly. Why don't you have a phone?"
+Adrian didn't respond to that directly. His hand went to his jacket pocket instead and came back out holding something small and red, whole, that hadn't been there a second before as far as Elizabeth had noticed. He split it clean down the middle with his bare hands — no knife, no visible effort, just pressure and then two halves — and held one out to Tristan without a word.
+
+Tristan took it and ate it without comment, which Elizabeth took as agreement with absolutely nothing in particular.
+
+"Fine," Elizabeth said. "Then answer me directly this time. Why don't you have a phone?"
 
 She expected a shrug, or nothing, or some version of *I don't like them* she'd already half-heard secondhand. What she got instead actually had weight to it.
 
-"I've watched a lot of people waste away staring at those things," Adrian said. "Decided I didn't want one."
+"I've watched a lot of people waste away staring at those things," Adrian said, around his first bite. "Decided I didn't want one."
 
-It wasn't the kind of answer that invited a follow-up, so she didn't give it one. She filed it next to the flower shop moment and kept going.
+It wasn't the kind of answer that invited a follow-up, so she didn't give it one. She just kept going.
 
 They kept eating as the conversation went on — unhurried, both of them, a bite here and there between sentences — and somewhere in the middle of it Elizabeth noticed something she couldn't immediately name. Tristan had gone looser in his shoulders, easier with his own jokes. Adrian, meanwhile, was talking more than she'd ever once heard him talk voluntarily, answering things she hadn't even fully asked yet.
 
