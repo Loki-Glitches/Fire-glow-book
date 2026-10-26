@@ -118,7 +118,7 @@ She caught herself staring, trying to do the math on what exactly had changed.
 
 Now that she was paying attention, she realized he'd been doing it this entire conversation — looking at her forehead, her hairline, somewhere comfortably north of her actual eyes, every single time.
 
-"Why don't you ever look at me when we talk?" Elizabeth raised an eyebrow to incur a straight answer.
+"Why don't you ever look at me when we talk?" Elizabeth raised an eyebrow to elicit a straight answer.
 
 He didn't answer right away. And Elizabeth opened her mouth to ask a different question.
 
