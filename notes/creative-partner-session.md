@@ -431,3 +431,17 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 - **Both bible files edited and confirmed written** (see above); `notes/character-synopsis.md` standing habits updated with both new Eve facts so Writer (who doesn't read the bible) has them too.
 
 **Consolidated paragraph assembled — see handoff for full text.** Title still open; everything else resolved.
+
+### Final brief for "What Just Happened?" (Lucifer POV) — 2026-10-27
+
+The author locked the outline (the day after "Interrogations"; no apple in the chapter; no repair today; the studio idea is only talked about; Safe Ground test succeeds; chapter ends there). I built it into a Writer paragraph and sent it back to the coordinator. No bible files were touched this pass.
+
+**Open flags sent with the brief (author/Director to resolve):**
+1. **MUST RESOLVE:** "Tristan gives them a little more info than Sam/Liz currently have" is ambiguous. If it means *more than Elizabeth has*, the author has to name the detail, or the Writer will invent Eve canon (only hair color and the language mix-ups are allowed). The brief uses the safe reading: James/Claire get caught up to what Elizabeth already knows, and nothing past that.
+2. Studio: painting or music? Music runs into the locked singing thread (he sings only after she knows, and only because she pushes him). Recommended leaving it unspecified, or making it painting.
+3. Title risk: a Writer who sees "What Just Happened?" may add a stunned or uncanny closing beat, which brushes the forbidden missing-ability mystery. The brief says plainly that the ending is a plain success.
+4. Lucifer stays inside the house during the test, so the open question of whether Safe Ground covers just the house or the grounds too isn't accidentally answered.
+5. The bible disagrees with itself on the No Place Like Home collapse site. `bible/world-bible.md` and `bible/manuscript-order.md` say the living area; the synopsis says the ballroom. The off-page living-room redo clears it either way. Director should reconcile.
+6. "Grocery store" = Higgins' is my assumption.
+7. Character bar passes narrowly. The boredom is an established trait. What actually carries the bar is Lucifer turning complaint into a direct request to God, the studio as passion stirring, and Azrael siding with Elizabeth's judgment in public. Optional clause offered: Lucifer doesn't contest "it's fair."
+8. Director housekeeping: STAGE 2B is still "[date pending]", and its no-reply line is still marked as a recommendation. It needs a `bible/manuscript-order.md` entry. Synthesis still says "next chapter not planned."
