@@ -4,15 +4,15 @@ He was in the larger of the two armchairs, upholstered in the same oxblood as th
 
 "You redid the whole thing." Azrael didn't sound surprised so much as resigned to it.
 
-"I redid one room."
+"I redid one room. It needed redoing. I'm not going to apologize for owning a tasteful sideboard."
 
 Azrael walked a slow circuit of it, running two fingers along the sideboard's carved edge, glancing up at the mirror, at the drapes pooled a full foot onto the floor. "Nobody asked for a palace."
 
-"Nobody has to ask."
+"Nobody has to ask me for anything. That's rather the appeal of a house being mine."
 
 "Go big or go home. Is that the idea."
 
-"Something like it."
+"It's not an idea. It's a policy. You've met me."
 
 Azrael looked at the chandelier — smaller than the ballroom's, but still more fixture than the room needed — for a moment longer, then let out a breath through his nose and dropped the subject, same as always, not because he'd lost the argument but because arguing about it had never once worked. He crossed to the window instead and stood there with his back to the light.
 
@@ -24,11 +24,13 @@ Lucifer let the quiet run a while longer before he broke it. "One of the rooms u
 
 Azrael turned his head. "A studio for what."
 
-"Does it matter?"
+"For whatever I feel like putting in it. That's the entire advantage of calling it a studio instead of committing to a use."
 
-"It usually does, with you."
+"It usually does, with you. You said something just like that about the ballroom, and look what the ballroom turned into."
 
-Lucifer didn't answer that. He looked instead at the ceiling, where he hadn't yet decided whether to leave the plaster as it was or do something about it, and let the idea sit there unexamined, exactly as he'd meant to leave it for now. It was only talk. Nothing about it needed deciding this morning, or any morning soon.
+"The ballroom is the best room in this house, and you know it, so that comparison is doing me a favor and not you."
+
+He let the idea sit there after that, unargued either way — he still hadn't decided whether to leave the upstairs plaster as it was or do something about it, and for once he didn't mind not deciding. It was only talk. Nothing about it needed settling this morning, or any morning soon.
 
 Azrael let it go too, same as he had the room, and moved on to the thing he'd actually come downstairs to say. "We should go into town today."
 
@@ -36,7 +38,7 @@ Azrael let it go too, same as he had the room, and moved on to the thing he'd ac
 
 Azrael said it flat and unbothered, arms crossed, more like a man reading off a list than making a case. "We should go again. Watch the square, see if she's shown herself. And I want a better read on this place before she does — who's who, what passes for strange here, what doesn't. It's recon. Nothing more."
 
-"I don't want to go."
+"I don't want to go. I want to sit in this chair, in this room I built with my own two hands, and do nothing at all for the rest of the morning. That's the whole plan. It's a very good plan."
 
 "I didn't ask what you wanted."
 
@@ -44,7 +46,7 @@ Azrael said it flat and unbothered, arms crossed, more like a man reading off a 
 
 "That's the job."
 
-"It's a waste of a morning."
+"It's a waste of a morning, and I intend to waste it loudly enough that you'll know exactly how I feel about it the whole time we're down there."
 
 They went back and forth on it a few more rounds, Lucifer's objections getting shorter and more irritated as Azrael's stayed exactly as even as they'd started — which was its own kind of provocation, the fact that nothing Lucifer said ever seemed to cost his brother anything. Eventually Azrael simply stood up.
 
@@ -136,7 +138,7 @@ Nothing answered him. No voice, no weight in the air, no sign that the request h
 
 Azrael considered the empty ceiling a moment. "Well. No harm in finding out."
 
-"None at all."
+"None at all, and if it doesn't work, you get to watch me fall over in my own front hall, which should make your whole morning."
 
 "I'll walk it off, then."
 
