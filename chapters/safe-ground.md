@@ -10,7 +10,7 @@ Azrael walked a slow circuit of the room, trailing two fingers along the sideboa
 
 "Something like that."
 
-Azrael looked up at the chandelier a moment longer, its crystal drops still faintly swaying, then let out a breath through his nose and dropped the subject, same as always — not resignation exactly, just the long practice of knowing which things were worth saying more about. He crossed to the window instead and stood there with his back to the light.
+Azrael looked up at the chandelier a moment longer, its crystal drops still faintly swaying, then let out a breath through his nose and dropped the subject, same as always. He crossed to the window instead and stood there with his back to the light.
 
 Lucifer waved him toward the other armchair. "Sit down. I'm not craning my neck at you all morning."
 
@@ -116,7 +116,7 @@ By the time they reached the drive, Lucifer had decided he wasn't going to touch
 
 Azrael, who'd come to expect the one-repair rule to hold every day without exception, raised an eyebrow at that but didn't object.
 
-Lucifer stood in the middle of the front hall instead, under a ceiling that was plaster in some places and open sky in others, a web of old scorch marks still crawling up one wall from the fire that had gutted the place decades before he'd ever bought it. He spread one hand upward, speaking out loud, same as always, with no particular faith it would be heard.
+Lucifer stood in the middle of the front hall instead, under a ceiling half scorched black and half water-buckled from decades of weather getting in through the roof above, a web of old scorch marks still crawling up one wall from the fire that had gutted the place long before he'd ever bought it. He spread one hand upward, speaking out loud, same as always, with no particular faith it would be heard.
 
 "I want this house to hold me. Not the way a wall holds anything up. The way an anchor does. Somewhere I don't need him within twenty feet of me to stay standing in — and somewhere he can walk off from without dragging me after him like a dog on a line." He paused. "If you're listening. Which you usually aren't."
 

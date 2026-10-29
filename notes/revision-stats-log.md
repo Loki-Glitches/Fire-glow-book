@@ -33,4 +33,10 @@ The Director over-read three of its own observations from comparing drafts to th
 
 The other eight patterns from that diff still stand as described.
 
+### "Safe Ground" (2026-10-29)
+- 1 continuity note, no fix owed: both "tether going taut"/bracing passages checked against the 2026-10-29 pull-sensory lock and confirmed covered by the explicit "left as-is" exception.
+- 1 editorializing-aside clause ("which was its own kind of provocation, the fact that nothing Lucifer said ever seemed to cost his brother anything") — borders on telling, consistent with the pattern already being trimmed elsewhere this chapter. Not actioned, logged for awareness.
+- 1 continuity nit, likely intentional: "still between places" sitting next to "we found somewhere to live" in the Higgins' scene — plausibly deliberate cover-maintaining vagueness toward James/Claire. Not actioned.
+- 1 punctuation VERIFY: "A studio for what." — genuine clarifying question closed with a period instead of a question mark; doesn't obviously read as the flat-delivery-exception type. Not actioned, flagged for the full copyedit pass.
+
 *(Append a new dated subsection per chapter as Revision passes come in.)*
