@@ -1,4 +1,4 @@
-Morning light came into the mansion's front room through glass that was, for once, actually glass, and it landed on more red than any room had a right to hold. Lucifer had redone the space from nothing — a pair of deep wingback armchairs facing each other across a rug too fine to put feet on, a mahogany sideboard carved along its edges with vines that weren't there for any reason except that he'd wanted them there, a mirror in a gilt frame large enough to double the room. Every piece of it was more than it needed to be. He'd known that while he was doing it and done it anyway.
+Morning light came through the windows of the mansion's front room and spread across a floor of deep red and gold. Lucifer had redone the space from nothing: a pair of wingback armchairs in oxblood velvet, facing each other across a rug woven in garnet and black; a mahogany sideboard carved along its edges with climbing vines, its surface holding a crystal decanter and two matching glasses; a gilt-framed mirror hung above a swept, cold fireplace flanked by a pair of bronze candlesticks taller than his forearm. Heavy damask curtains the color of dried wine pooled a foot onto the floor at each window, and a chandelier hung low over the center of the room, its crystal drops catching the light and scattering it in small, moving pieces across the ceiling.
 
 He was in the larger of the two armchairs, upholstered in the same oxblood as the other, when Azrael came down the stairs and stopped in the doorway to take the room in.
 
@@ -6,7 +6,7 @@ He was in the larger of the two armchairs, upholstered in the same oxblood as th
 
 "I redid one room. It needed redoing. I'm not going to apologize for owning a tasteful sideboard."
 
-Azrael walked a slow circuit of it, running two fingers along the sideboard's carved edge, glancing up at the mirror, at the drapes pooled a full foot onto the floor. "Nobody asked for a palace."
+Azrael walked a slow circuit of the room, trailing two fingers along the sideboard's carved edge, pausing at the cold fireplace, tipping his head to study a framed landscape painting hung between the windows that he didn't remember from before. "Nobody asked for a palace."
 
 "Nobody has to ask me for anything. That's rather the appeal of a house being mine."
 
@@ -14,7 +14,7 @@ Azrael walked a slow circuit of it, running two fingers along the sideboard's ca
 
 "It's not an idea. It's a policy. You've met me."
 
-Azrael looked at the chandelier — smaller than the ballroom's, but still more fixture than the room needed — for a moment longer, then let out a breath through his nose and dropped the subject, same as always, not because he'd lost the argument but because arguing about it had never once worked. He crossed to the window instead and stood there with his back to the light.
+Azrael looked up at the chandelier a moment longer, its crystal drops still faintly swaying, then let out a breath through his nose and dropped the subject, same as always, not because he'd lost the argument but because arguing about it had never once worked. He crossed to the window instead and stood there with his back to the light.
 
 Lucifer waved him toward the other armchair. "Sit down. I'm not craning my neck at you all morning."
 
@@ -130,7 +130,7 @@ By the time they reached the drive, Lucifer had decided he wasn't going to touch
 
 Azrael, who'd come to expect the one-repair rule to hold every day without exception, raised an eyebrow at that but didn't object.
 
-Lucifer stood in the middle of the front hall instead, looked up at the ceiling — at the sky beyond it, more accurately, since the ceiling itself was only plaster — and spread one hand toward it, speaking out loud, same as always, with no particular faith it would be heard.
+Lucifer stood in the middle of the front hall instead, under a ceiling that was plaster in some places and open sky in others, a web of old scorch marks still crawling up one wall from the fire that had gutted the place decades before he'd ever bought it. He spread one hand upward, speaking out loud, same as always, with no particular faith it would be heard.
 
 "I want this house to hold me. Not the way a wall holds anything up. The way an anchor does. Somewhere I don't need him within twenty feet of me to stay standing in — and somewhere he can walk off from without dragging me after him like a dog on a line." He paused. "If you're listening. Which you usually aren't."
 
