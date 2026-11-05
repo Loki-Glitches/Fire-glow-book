@@ -11,6 +11,6 @@
 - **Day 2 (approx.) — "Interrogations."** Author-confirmed: this chapter takes place about 2 days after "Twenty Feet."
 - **Author-confirmed, "Interrogations": total elapsed time since the brothers' arrival in town (the orchard chapter) is "almost a week" as of this chapter** (Tristan's line: "We've been here for almost a week"). This is the *total* gap since arrival, not since "Twenty Feet" specifically — both figures coexist: ~a week since arrival, ~2 days since "Twenty Feet." Use this as the anchor figure for total elapsed time going forward; the per-chapter day count above is a subset of it, not a conflicting measurement.
 
-- **Day 3 (the day after "Interrogations") — "What Just Happened?"** Author-corrected: this chapter is actually the *next day* after "Interrogations," not the same day. **The new living room is still that prior gap's one allowed repair** (filling one of the previously-open "Days 1-2" slots), shown already-finished when the brothers return to it. **No new repair happens on this chapter's own day** — Lucifer isn't in the mood for house work today.
+- **The chapter formerly tracked here as "What Just Happened?"/"Safe Ground" was deleted from canon (2026-11-05, author)**, along with its living-room repair and its location-based anchor mechanic. No chapter currently exists for the day after "Interrogations" — the "Days 1-2" off-page repair slots above are open again.
 
 *(Update this log each time a new chapter's time gap since the last one is confirmed, and log any new repair shown on the page.)*

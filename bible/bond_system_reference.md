@@ -29,21 +29,7 @@
 
 ---
 
-## STAGE 2B — SAFE GROUND (location-based tether, genuinely new mechanic, locked 2026-10-27, author, chapter "What Just Happened?")
-
-**This is not a pre-existing concept — checked, nothing like it exists anywhere in this file before now.** Every anchor described above is a person. This is the first time a *place* can satisfy the same role.
-
-**What happens on the page:** after the grocery-store scene with James and Claire, back at the house, Lucifer asks God directly to declare the mansion itself "safe ground" — effectively a location that functions as a standing anchor the same way a Travel-Bonded person does. If this works, two things follow at once: (1) Lucifer can remain at the house without being pulled to Azrael's location, even if Azrael is more than 20 feet away or gone entirely; (2) Azrael is correspondingly free to leave and go anywhere in town without dragging Lucifer along, since the "no anchor within 20 feet" trigger condition is no longer true as long as Lucifer stays on the grounds. They wait, then test it (Azrael simply leaves) — it works.
-
-**How the request plays out, formatting-wise — author-confirmed 2026-10-27:** Lucifer addresses the request aloud (Tristan is present; this is a shared plan, not a private telepathic exchange) and gets **no audible reply from God** — consistent with the established default pattern (see the Sky-Glance rule, and "Why Did It Have to Be Apples," where a direct address to God gets "no answer at all — no voice, no sign — played as a real, deliberate beat of silence"). Success is only confirmed empirically: they wait, then test it (Azrael walks past 20 feet while Lucifer stays inside the house; no pull comes) — the same "discovered empirically" methodology already used for the 20-foot range itself. The chapter ends immediately on the successful test — no aftermath, no odd feeling, no realization follows on the page.
-
-**Genuinely open, flagged rather than invented:**
-- Does "safe ground" cover the house structure only, or the house and its immediate grounds (matching the existing "stays inside the house or its immediate grounds" framing used since "Twenty Feet")? I'd default to the latter for consistency, but it's not confirmed.
-- Is this permanent, or could it be revoked/suspended the way a Travel Bond can be (see "Institutional Revocation," below)? Not specified.
-- Can any other location ever become "safe ground," or is this a one-time, house-specific grant? Not specified.
-- Does this stack with person-based Travel Bonds normally, or does being on "safe ground" temporarily override/suspend the person-anchor mechanic entirely while Lucifer's there? Not specified.
-
-**The planted mystery — deliberately NOT resolved here, and must not be hinted at anywhere on the page:** gaining this option (to stay at the house, untethered from Azrael) reveals that Lucifer lacks some specific ability he apparently expected to have as a result. **What that ability is must stay completely unspecified** — no narration, no internal speculation from Lucifer, nothing that narrows it down. This is an intentional hook for a future reveal, per the author's own framing ("we will find out later"). Flag to the author before any future chapter goes near resolving it.
+**STAGE 2B — SAFE GROUND: proposed, then deleted (2026-11-05, author).** A location-based tether was briefly drafted (a chapter where Lucifer asks God to declare the mansion a standing anchor, freeing Azrael to range town without him) and written into a chapter. The author ruled it out — Lucifer does not get to stay out of the world — and had the mechanic and the chapter itself removed from canon entirely. There is no location-based anchor; every Travel Bond anchor is a person. Do not reintroduce this concept or reference a chapter by this description.
 
 ---
 
