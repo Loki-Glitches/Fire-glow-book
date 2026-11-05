@@ -281,11 +281,7 @@ Every character in the cast holds permanent resentment toward Eve. There is no a
 
 ## 10. SOPHIE
 
-**Want:** Sam.
-**Need:** To keep Lucifer and Elizabeth together (so she and Sam have more time together).
-**Lie:** None. Sophie is the one character without a hidden wall. She's the person everyone goes to for honest advice — valuable precisely because she's the exception in a cast full of people hiding something.
-
-Elizabeth's best friend. She and Sam are dating. She eases Sam's protectiveness, which creates space for the Lucifer/Elizabeth relationship to breathe. Will earn a Travel Bond — knows what they are (divine beings), not who (she doesn't have the specific mythology or history).
+**Full character profile, locked 2026-11-05 (author): see `bible/sophie_character_profile.md`.** Sophie is being expanded into a fuller character than this section originally described — this entry is kept only as a short pointer; treat the dedicated file as authoritative for anything about her.
 
 ---
 

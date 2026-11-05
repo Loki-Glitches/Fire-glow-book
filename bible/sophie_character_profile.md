@@ -1,35 +1,55 @@
 # SOPHIE — Character Profile
 
-*Companion document to the Master Story Bible. Items marked **[OPEN]** are not yet locked.*
+*Companion document to the Master Story Bible. Sophie was thin and mostly functional under the old outline (see the superseded fragment in `bible/story-bible.md` § 10) — expanded into a fuller character as of 2026-11-05 (author). This file is authoritative for anything about her going forward.*
 
 ---
 
 ## WANT / NEED / LIE
 
-**Want:** Sam — she's romantically involved with him and genuinely invested in him.
-**Need:** To keep Lucifer and Elizabeth together, because a stable Lucifer/Elizabeth relationship means more time with Sam, who is otherwise pulled toward hovering protectively over his sister.
-**Lie:** None. Sophie is deliberately the one character in this story without a hidden wall or false belief propping her up. She's the person everyone can go to for honest, reliable advice — valuable precisely because she's the exception in a cast otherwise full of people hiding something.
+**Want:** Sam.
+**Need:** To keep Lucifer and Elizabeth together (so she and Sam have more time together).
+**Lie:** None. Sophie is the one character without a hidden wall — the person everyone goes to for honest advice, valuable precisely because she's the exception in a cast full of people hiding something.
 
 ---
 
-## ROLE & RELATIONSHIPS
+## CORE CHARACTERIZATION
 
-Elizabeth's best friend — close enough to be a genuine confidante. Recurring presence throughout the book, not limited to her "Sighting" introduction.
+**The angel on everyone's shoulder.** Her defining function in the group is peacekeeping — she actively tries to keep everyone civil with each other, stepping in to smooth friction rather than letting it sit. A glass-half-full person by nature, not naive, just genuinely inclined to look for the generous read before the suspicious one.
 
-She and Sam are dating. Both care deeply about Elizabeth. Sophie uses her pull on Sam — she has a calming effect on him — to help ease his protectiveness, which in turn creates more space for Elizabeth's relationship with Lucifer to breathe. Her motivations are genuine but also quietly self-serving in the most human way possible: she wants what's best for Liz, and it happens to also be what's best for her.
+**Only child; sees Elizabeth as a younger sister** (two years younger), which is where her protectiveness of Elizabeth actually comes from — not performed best-friend loyalty, a real sibling-shaped attachment. Loves Sam deeply and without complication; see RELATIONSHIP WITH SAM below for how that holds up under pressure.
 
-**Sam's redemption thread:** Sophie is the person Sam's unresolved arc is anchored to. His near-miss at the book's end — getting close to stepping into his own life and then pulling back — is a near-miss with her specifically, not just a vague future. That makes the beat more painful and more concrete than an abstract "he almost changed."
+**She tries to see Adrian in a positive light on purpose** — actively taking his point of view to understand him, in direct contrast to Sam's suspicion. This isn't blind cheerleading; it's the same optimism-by-choice that defines her elsewhere, aimed at the one person in the cast everyone else finds hardest to read generously.
 
----
+**When Elizabeth starts warming to Lucifer, Sophie notices and leans into it on purpose** — she sees an opportunity to actively feed the relationship along, not just tolerate it or passively create space for it. Her reasoning is simple and specific: Elizabeth needs someone in her life. This replaces the old, thinner framing ("eases Sam's protectiveness, which creates space for the relationship") — she isn't managing Sam so much as actively rooting for Elizabeth.
 
-## KNOWLEDGE & BOND
-
-**Power Bond** with Lucifer from "Door". She knows what they are (divine beings) but not who — not that he is specifically Lucifer. Initial Travel Bond granted by Tristan in "Door", immediately upgraded to Power Bond when Lucifer discloses his divine nature to Sam and Sophie at the door.
+**She lives at Elizabeth and Sam's house full-time** — not "stays over most nights" as earlier chapter-level text had it; this is her actual residence. Update any future scene-setting accordingly.
 
 ---
 
-## PERSONALITY
+## RELATIONSHIP WITH SAM
 
-Clear-eyed, warm, and steady. Perceptive enough to notice when Elizabeth is holding back, and secure enough not to take it personally. The one person in the cast who says what she actually thinks without an agenda behind it — which is exactly why people listen to her.
+Loves him fully; this does not waver anywhere in the book, including through the Act Three rupture (see below) where she and Sam land on opposite reactions to the same information. Their relationship is explicitly unaffected by that disagreement — it holds, and by the author's account strengthens, regardless of what's happening between Sam and Elizabeth/Lucifer.
 
-**Resolved:** Elizabeth does not fully open up to Sophie in this book. She lets her closer than almost anyone else, but the full truth stays held back. That door opens eventually — possibly Book Two. Sophie likely senses the distance and doesn't push, which is part of why Elizabeth trusts her as much as she does.
+---
+
+## THE ACT THREE REVEAL
+
+**Sophie learns the truth — that Adrian is Lucifer — at the same moment Sam does.** Where Sam fully rejects Lucifer and pushes him away (see `bible/sam_character_profile.md`), Sophie's reaction is fundamentally different: **she already knows Lucifer is kind, and doesn't believe the revelation makes him someone different from who they've actually gotten to know.** The name and the mythology don't overwrite months of direct, lived evidence for her. She does not turn on him, does not withdraw support from Elizabeth, and does not change her read of him at all.
+
+**She is the one character in the entire cast who does not change over the course of the book.** This is a deliberate, locked trait — not an oversight to be corrected in a later pass. Her stability is the point: she's the fixed reference everyone else (Sam, Elizabeth, Lucifer, Azrael) moves around and is measured against. Do not give her an arc, a reversal, or a crisis of faith in a future chapter without flagging it to the author first — any apparent inconsistency with this rule should be treated as a continuity error, not a character beat to explore.
+
+---
+
+## STANDING FACTS (unchanged from prior material)
+
+- Will earn a Travel Bond — knows **what** the brothers are (divine beings), not **who** specifically (no mythology, no Genesis history, no names beyond "Tristan"/"Adrian" until the Act Three reveal).
+- Texts Tristan directly on Elizabeth's behalf when Elizabeth doesn't want to deal with either brother herself (established "Debrief").
+- Physically calming rather than just verbal in how she settles Elizabeth down (a hand on the ankle, not just talking her through it).
+- Blunt, matter-of-fact reads on Adrian when asked ("I think he's just like that") — offered without much investment in being right, consistent with her general ease.
+
+---
+
+## OPEN / NOT YET DECIDED
+
+- Whether Sophie gets any POV presence at all, or stays visible only through Elizabeth's and Lucifer's POV (same open question as Sam's).
+- Exactly how/when her active "feeding the flame" of Elizabeth/Lucifer plays out on the page — not yet placed in any specific chapter.
