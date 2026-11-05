@@ -234,13 +234,13 @@ Resents Lucifer because Lucifer's gift set off the chain that cost him his garde
 ### The Core Lie
 "I'm better off keeping Lucifer at a distance — I don't need him."
 
-### Arc: Resentment → Forgiveness
+### Arc: Resentment → Forgiveness (two separate tracks — reworked 2026-11-05, author)
 - Wants the Eve mission done fast so he can return to his real work.
-- Skeptical of the Lucifer/Elizabeth relationship on principle — divinity and humanity have a known failure history, and he watched the original version firsthand.
+- Skeptical of the Lucifer/Elizabeth relationship on principle — divinity and humanity have a known failure history, and he watched the original version firsthand. **This disapproval never resolves** — see below.
 - Skeptical of Lucifer's Travel Bonds — reads them as recklessness. Doesn't know Lucifer forms them deliberately to spare him the oversight work.
 - At some point confronts Lucifer about the bonds angrily; Lucifer tells him the real reason matter-of-factly. This softens Azrael gradually.
-- Sam (softened by Sophie) eventually tells Azrael he's made peace with the relationship — the person who loves Elizabeth most giving his blessing.
-- Forgiveness fully lands at the climax when Wrath fires: watching Lucifer act from genuine love rather than duty is the thing that finally cracks it open.
+- **Track one (personal, toward Lucifer): resolves.** Forgiveness for the Eden guilt lands at the climax when Wrath fires — watching Lucifer act from genuine love rather than duty is the thing that finally cracks it open.
+- **Track two (institutional, toward the Elizabeth relationship): does not resolve.** There is no blessing from Sam — that beat is cut (see `bible/sam_character_profile.md`). Azrael forgives his brother and still disapproves of him being with Elizabeth, to the end. The book closes on that unreconciled split, not a clean family resolution.
 
 ### Formal Role
 Earth-side evaluator and enforcer. Accompanies Lucifer as divine chaperone ("Breach"). Conducts formal bond evaluation ("Dress"). Oversees Full Bond formation ("Ready" — where Elizabeth also learns "Tristan" is Azrael, told by Lucifer as part of full disclosure).
@@ -275,13 +275,7 @@ Every character in the cast holds permanent resentment toward Eve. There is no a
 
 ## 9. SAM
 
-**Want:** Elizabeth to get everything she wants in life.
-**Need:** To get his own life back on track.
-**The lie:** Lucifer is not good for Liz.
-
-Protective older brother who stepped into a caretaker role at real cost to himself — the parents left before he was 18, which means he gave up enjoyment and being a kid. Not one specific sacrifice but the whole texture of a normal adolescence, handed over without being asked. His distrust of Lucifer is genuine, well-intentioned, and based purely on not knowing him — not malice. Sophie softens him enough that he eventually seeks out Tristan privately — in a rare POV chapter — and tells him the truth: Lucifer makes her better. The lie drops. He gives his blessing, just not to the right person.
-
-At the departure he watches Lucifer leave, having already said the thing that needed saying — just too late and in the wrong room. That is its own quiet sadness.
+**Full character profile, locked 2026-11-05 (author): see `bible/sam_character_profile.md`.** Sam is being expanded into a much bigger character than this section originally described — this entry is kept only as a short pointer; treat the dedicated file as authoritative for anything about him.
 
 ---
 
