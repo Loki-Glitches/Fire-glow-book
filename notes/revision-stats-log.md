@@ -1,5 +1,9 @@
 # Revision Stats Log
 
+**MOOT, 2026-11-12 — second ground-up rework.** Every chapter this log tracks ("Interrogations," the deferred items referencing "Ambush," the Yarros-style diff analysis) belonged to the first rework's manuscript, which has been deleted in full except for "Morning" (see `bible/story-bible.md` § "SECOND MAJOR REWORK IN PROGRESS" and `notes/synthesis-current.md`). None of the chapters these entries describe exist anymore. Kept on disk for record/reference only, same treatment as the "Safe Ground" cleanup on 2026-11-05 — not deleted, but nothing below should be treated as live or actionable. A fresh log should be started once a new chapter under the second rework actually goes through Revision.
+
+---
+
 **Purpose, locked 2026-10-26 (author):** Grammar/proofing-level findings from Revision do not get reported conversationally to the author anymore. They get logged here instead, as plain statistics/counts per chapter, for a full copyedit pass after the whole manuscript is drafted. Only CRITICAL/MODERATE continuity, soul, POV, or plot-affecting findings get reported directly going forward.
 
 **Also tracked here: deferred style items** — findings the author has acknowledged but explicitly wants addressed only in a final full-book pass, not chapter by chapter.

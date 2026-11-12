@@ -1,5 +1,9 @@
 # Mansion Repair Log — Director's day-count tracker
 
+**MOOT, 2026-11-12 — second ground-up rework.** This entire log tracks the one-real-repair-per-day mechanic from "Twenty Feet," a chapter that no longer exists (deleted along with every chapter except "Morning" — see `bible/story-bible.md` § "SECOND MAJOR REWORK IN PROGRESS"). The mechanic itself is also now suspect on its own terms: the second rework makes Lucifer mortal/powerless on Earth by default, with restraints breaking only at the climax, so the transfiguration-based repair mechanism this log assumes (Lucifer using his own power to fix the house day by day) has no clear basis anymore unless/until the author decides how — or whether — the mansion gets restored at all under the new mechanics. Flagged as one of the open reconciliation items in `notes/synthesis-current.md` § 7. Kept on disk for record only, same treatment as the "Safe Ground" cleanup on 2026-11-05 — not deleted, not live.
+
+---
+
 **Purpose:** The house rule locked in "Twenty Feet" is one real (non-illusory) repair per day, kept hidden from locals. This file tracks elapsed days and which repairs have actually happened on the page vs. what the day-count implies could have happened off-page, so later chapters don't contradict the timeline. This is Director/continuity bookkeeping — not meant to dictate on-page prose unless a chapter specifically calls for house-repair content.
 
 **No specific elapsed-time markers go on the page** (standing rule) — this log exists so *I* can keep the math straight privately; it doesn't mean future chapters need to state day-counts.
