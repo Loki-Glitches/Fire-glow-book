@@ -4,7 +4,7 @@
 
 ## SECOND REWORK IN PROGRESS (2026-11-12) — read this FIRST
 
-**`bible/story-bible.md` § "SECOND MAJOR REWORK IN PROGRESS" takes precedence.** The new draft introduces a different kind of limitation on Lucifer entirely: **restraints from God that make him mortal/powerless on Earth by default, breaking only at the climax.** It does not mention Travel Bonds at all. Per the author's explicit instruction, the Travel Bond system is NOT explicitly removed, so it carries over by default — but whether it coexists with "restraints," is superseded by them, or needs to be reconciled some other way is genuinely undecided. **Do not assume both mechanics apply simultaneously to a scene without checking with the author first.**
+**`bible/story-bible.md` § "SECOND MAJOR REWORK IN PROGRESS" takes precedence.** The new draft introduces a different kind of limitation on Lucifer entirely: **restraints from God that make him mortal/powerless on Earth by default, breaking only at the climax.** **Resolved 2026-11-12 (author): no supernatural ability is active on Earth, for anyone, until those restraints break.** This settles the earlier open question — the Travel Bond's teleportation-pull mechanic (20-foot range, the pull-to-Azrael fallback, the pain it causes) is simply inactive for most of the book, not in unresolved tension with "restraints." The bond concept itself isn't deleted, but nothing in this file that depends on an active supernatural effect can happen on the page until the climax. Whether the bond mechanic resumes functioning once restraints break, or whether it's relevant at all in this version, is still open.
 
 ---
 
