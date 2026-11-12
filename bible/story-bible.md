@@ -289,9 +289,15 @@ Every character in the cast holds permanent resentment toward Eve. There is no a
 
 *(Heading corrected 2026-09-19 — was "Jack," a stale typo; body text and every other reference in the bible already say James.)*
 
-A couple, newly engaged (he proposed during the picnic scene in "Arrival" — Lucifer replaced the ring). They know "the gist" of Lucifer's life and that he and Azrael are divine. Claire was previously referred to as "Eden" in early drafts — she is Claire throughout. **Pre-rework text, not yet reconciled:** "Power Bond holders — they know he is divine (satisfying the Power Bond disclosure condition)" — Power Bond is cut per the 2026-09-11 rework; treat "they know he's divine and are ongoing companions" as the still-valid part of this line, not the Power Bond framing.
+**Function, locked 2026-11-12 (author): warm recurring texture, not an arc.** They're a couple, engaged since "Why Did It Have to Be Apples," doing early/vague wedding planning and wanting it in town. Kept deliberately as a unit for now rather than differentiated into two distinct personalities — fine as-is for texture-level characters. No character development is owed to them beyond what naturally happens in scenes they appear in.
 
-*Note: Do NOT confuse Claire with "Eden" the Garden — those are entirely separate references.*
+**Function with Sam, specifically:** old high-school friends who graduated without him while he stayed behind as caretaker. **They know about his family situation (parents leaving, him stepping up for Elizabeth) and are quietly patient about it** — that knowledge is part of why they're the ones making the effort to pull him back into a social life now, not pity, just steady friendship that waited for him to be ready.
+
+**Corrected 2026-11-12 — supersedes the stale "they know 'the gist' of Lucifer's life and that he and Azrael are divine" line below.** As of "Interrogations," they have zero awareness of anything supernatural — they think the ring trick in "Why Did It Have to Be Apples" was ordinary sleight-of-hand, and still believe the brothers are simply "between places." **They DO eventually learn the full truth — mechanism and timing not yet decided, flagged open rather than invented.** Do not have them react to, reference, or show awareness of anything divine in any chapter before that reveal is actually written.
+
+*Stale, superseded by the correction above — kept for record only:* ~~They know "the gist" of Lucifer's life and that he and Azrael are divine.~~ *Pre-rework text, also stale:* ~~"Power Bond holders — they know he is divine (satisfying the Power Bond disclosure condition)"~~ — Power Bond is cut per the 2026-09-11 rework.
+
+Claire was previously referred to as "Eden" in early drafts — she is Claire throughout. *Note: Do NOT confuse Claire with "Eden" the Garden — those are entirely separate references.*
 
 ---
 
