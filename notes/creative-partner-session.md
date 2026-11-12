@@ -432,6 +432,26 @@ Also killed: my "Azrael lies and her lie-sense catches it" idea, since she has n
 
 **Consolidated paragraph assembled — see handoff for full text.** Title still open; everything else resolved.
 
+### Planning the chapter after "Interrogations" — opened 2026-11-12
+
+Safe Ground is dead (2026-11-05). Don't revive the location anchor in any form. New bible material read: Sam / Sophie profiles (2026-11-05) and story-bible § 11 James & Claire (2026-11-12). No bible files touched this pass.
+
+Options I offered:
+- **A, "Sam's table":** dinner at Elizabeth and Sam's house. Sam's first on-page meeting with Adrian. His one right question is "Which house?", which pays off the Ambush plant and gives his suspicion a concrete local reason. POV is open: Elizabeth (she watches Sam get in one question what she couldn't get in a whole chapter) or Lucifer (the reader feels the question slip past his guard).
+- **B, "Something that survives neglect":** Lucifer POV, going back to Ruth's shop. The leash is the self-serving reason for the network. He can't lie, so he can't fake friendship. Go big or go home with plants. No bond forms. Optional ending: Sam bumps into them and invites them over, which sets up A.
+- **C, "Old friends":** Elizabeth POV, domestic. James and Claire come by for Sam. In passing they reveal they're the ones who sent the strangers to Liz. That, plus the college fight, is what makes Sam decide to invite them. No Lucifer, no bond motion.
+
+Recommendation: B, then A.
+
+Open flags for the author:
+1. Why does Lucifer *want* the network, and what does a bond actually do while Azrael has to be in every Lucifer scene? Proposed reading: "in the scene" does not mean "within 20 ft."
+2. What does bond formation look like on the page? Does Lucifer choose the moment? Does he feel it? Does the human? Needed before any bond chapter.
+3. Sam's knack is choosing the question, not reading people (§ 4.3). The question must not be able to corner Lucifer into revealing his divinity or his mission, and the author has to pick it.
+4. Fruit at a dinner table would be the third recurrence of the secrecy problem. Use an ordinary apple from Sam's bowl, or none.
+5. The Elizabeth-POV prose register is still unruled. This matters for A (Elizabeth variant) and for C.
+6. Sam as a bond candidate: avoid. The Act Three estrangement would collide with the still-OPEN bond-break rules.
+7. Two more hooks in Interrogations: Ruth's church-bulletin-board tip was never followed up, and Ruth's "come on back" invitation is still open.
+
 ### Final brief for "What Just Happened?" (Lucifer POV) — 2026-10-27
 
 The author locked the outline (the day after "Interrogations"; no apple in the chapter; no repair today; the studio idea is only talked about; Safe Ground test succeeds; chapter ends there). I built it into a Writer paragraph and sent it back to the coordinator. No bible files were touched this pass.
