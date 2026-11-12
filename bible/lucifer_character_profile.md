@@ -4,7 +4,13 @@
 
 ---
 
-## MAJOR REWORK IN PROGRESS (2026-09-11) — read this before trusting anything below
+## SECOND REWORK IN PROGRESS (2026-11-12) — read this FIRST
+
+**`bible/story-bible.md` § "SECOND MAJOR REWORK IN PROGRESS" is now authoritative over everything in this file wherever they conflict.** Biggest conflict: **Lucifer is now mortal/powerless on Earth by default, under restraints from God that only break at the climax** — this directly reverses the "power from the start" rule in the 2026-09-11 notice below. The secrecy-mandate framing below (pass power off as stage magic, etc.) assumed he had power to hide; for most of the book now, he has none to hide. New backstory beats from the second rework: born outside time, angelic form self-shifted to no flaws, created the Tree of Knowledge without foresight (feels bad, not "learned a lesson"), was almost killed at the Fall (thinks God sent him to Hell because death was too great a price), hates humanity because of this. Everything below this point that ISN'T about power-gating or the Fall backstory (the apple habit, artistry, eye-avoidance, "go big or go home," names/forms of address) hasn't been checked against the new mechanics yet — don't assume it survives untouched.
+
+---
+
+## FIRST REWORK, 2026-09-11 (historical — superseded in turn by the rework above where they conflict) — read this before trusting anything below
 
 The author is reworking Lucifer's core characterization and the power/bond system that governs him. **Everything below this notice is being revised; treat sections not yet updated with the 2026-09-11 tag as potentially stale, not authoritative, until Creative Partner has passed over them.** Chapters "Breach" through "Dress" have been scratched entirely because they were written under the old system. "Morning" is unaffected and stays as the author's own protected draft.
 

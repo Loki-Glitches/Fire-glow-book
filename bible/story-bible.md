@@ -2,7 +2,115 @@
 
 ---
 
-## MAJOR REWORK IN PROGRESS (2026-09-11) — read this before trusting §§3, 4, 5, 6, 7, 17 below
+## SECOND MAJOR REWORK IN PROGRESS (2026-11-12) — read this FIRST, before anything else in this file
+
+**Chapters "Hell" through "Interrogations" are scratched and deleted (2026-11-12, author). Only "Morning" survives, same as the first rework.** This is a second ground-up pass on the core premise, power mechanics, and ending — built from the author's own `ideas.md`, pasted in and reorganized below. **Concept frozen at the author's direction — this is not up for debate or pushback.** The three sections immediately below (CONCEPT, CHARACTERS, WORLD RULES, TIMELINE, PLOT SPINE, THEMES, DECISION LOG) are the new authoritative premise, superseding §1 CORE PREMISE and the characterizations in §5 LUCIFER, §6 ELIZABETH, §7 AZRAEL, §8 EVE below wherever they conflict.
+
+**What this explicitly replaces:** the "Lucifer has power from the start" rule (2026-09-11 rework) is reversed — he is now mortal/powerless on Earth by default, restrained by God, until the restraints break at the climax. Azrael's role reverses from *containing* Lucifer (neither can die, they heal in 24 hours) to a real, escalating threat — he nearly kills Lucifer outright, shattering his spine, stopped only by Elizabeth's plea. The secrecy mandate ("never let a human witness power") is gone in its old form — Lucifer has no power to hide for most of the book. The ending is no longer a redemption/joy arc: Lucifer is lost to Hell at the very end, right as Elizabeth tells him she loves him. Two brand-new characters: **Michael** (archangel, jealous antagonist, convinces Azrael to attack Lucifer, does not change) and **Adam** (asked God to send Lucifer to Hell instead of killing him — saved his life; Lucifer doesn't know this).
+
+**What is NOT explicitly touched by this rework, and therefore carries over as-is, pending reconciliation (author's explicit instruction: "I want all of the stuff that is not explicitly removed"):** the town setting, the mansion, Sam, Sophie, James & Claire, Gabriel, the minor named town characters, Lilith, Vincent, the Travel Bond system, and Lucifer's artistry/painting thread (§17). **None of this has been checked against the new mechanics yet — do not assume it fits cleanly.** Known tensions already visible, flagged rather than resolved:
+- If Lucifer has no supernatural power until the climax, the entire mansion-restoration thread (one-repair-a-day transfiguration, the ballroom, the front room) has no mechanism to happen the way it's currently written. Needs a decision: does Lucifer fix the house some mortal way, does the house thread get cut, or does "restraints" allow small exceptions?
+- The Travel Bond/20-foot-tether mechanic and the new "restraints that break at the climax" mechanic are two different kinds of limitation on Lucifer that have never coexisted before — not yet decided whether both apply, or whether restraints supersede the bond system entirely.
+- Sam's arc (suspicion of Adrian, dinners, Act Three rupture when he learns the truth) and Sophie's arc (knows at the same time, doesn't change) were built assuming the old Azrael-contains/never-kills framing and the old ending (estrangement, not Lucifer being lost to Hell). Both may need real adjustment once Part 1's structure (see below) is worked out.
+- Eve's established mechanics (Tree-of-Knowledge-fruit compulsion, the divine-language-once-at-climax rule, her hair/language-mixup description) aren't contradicted by the new draft and likely still hold, but haven't been individually re-checked.
+
+**Locked from this session's Q&A (2026-11-12, author):**
+- **Elizabeth learns Lucifer is the devil at the end of "Part 1."** (Part 1's actual content/length is not yet defined — flag before assuming what it contains.)
+- **Whether an angel can physically kill a human, and what actually happens if one tries, is left OPEN** — do not invent a mechanism.
+- **Eve's path to Hell:** she lived out roughly 800 years of mortal life, then died — and because she remained faithful enough to God despite everything, her body went to Hell along with her soul (an exception, not the norm). This is what the draft's "took her body to Hell, so it never died" line means.
+
+---
+
+### CONCEPT
+
+Lucifer falls in love. He is sent to earth to take Eve's soul back to Hell. The angels try to stop him. Killing Eve will cost him the earth and the woman he's fallen for.
+
+### CHARACTERS (new/reworked — supersedes §5–§8 below where they conflict)
+
+**Lucifer**
+- Born outside of time, like God. God told him what he was thinking before creating existence. Asked to experience existence and was given a truly angelic form, which he shifted to have no flaws in his eyes.
+- Used a divine power to create the Tree of Knowledge of Good and Evil without looking ahead to see it wasn't compatible with humans. Feels bad about it.
+- Cast out and almost killed. Thinks God sent him to Hell because death was too great a price. Hates humanity because of this.
+- Ruthless on earth. **Mortal on earth by default, under restraints God put on him** — no supernatural ability until the restraints break. Fights well regardless (hand-to-hand, not power).
+- Believes Liz might love him for him. She brings out the innocent, happy side of him from the Garden.
+- Knows killing a human sends him to Hell, because God told him before the other angels existed.
+
+**Elizabeth (Liz)**
+- Love interest. Hates him at first, then falls in love. Sees him attacked constantly and "killing" angels without hesitating.
+- Nurses him after Azrael shatters his spine. Steps in during that fight; her plea stops Azrael.
+- Learns he is the devil at the end of Part 1 (locked above).
+
+**Eve**
+- Broke out of Hell and arrives on earth after Lucifer. Lived out ~800 years of mortal life, died, and — faithful enough to God despite everything — her body went to Hell with her soul (locked above).
+- No remorse in her head, but her soul feels it. That gives her weight, which brought her to Hell. She reads it as "he still loves me, so he brought me to where he is."
+- Still loves Lucifer, but is mad he put her in the situation. Blamed him after the Fall and told God to kill him.
+- Hates Liz and tries to kill her to reunite with Lucifer.
+
+**Michael — NEW CHARACTER**
+- Archangel. Always jealous that God seemed to love Lucifer more and that Lucifer had more power. **Does not change** — no arc, no redemption.
+- Got his revenge after Revelation by essentially kicking Lucifer out of Heaven. Keeps coming back to attack Lucifer. When he realizes he can't beat him, he convinces Azrael to do it.
+
+**Azrael**
+- Angel of death. Originally the maintainer of the Garden, and loved the job. After Eve ate the fruit, death became possible; it took great power not to die from the pain of others' deaths, so God asked him, the strongest angel, to take the role. He went from a job he loved to pain for eternity.
+- Blames Lucifer for being too naive to create the tree. **Nearly kills Lucifer by shattering his spine.** Liz's plea hits him and he disappears. Tells Lucifer the truth about Adam at some point before Lucifer leaves.
+
+**Adam — NEW CHARACTER**
+- Told God to deal with the consequences of guilt and souls and asked that Lucifer be sent to Hell. This saved Lucifer's life. **Lucifer doesn't know this.**
+
+### WORLD RULES (new/reworked)
+
+- Lucifer is mortal on earth by default, under restraints from God. He can't do anything supernatural until the restraints break.
+- Lucifer can't come to earth unless God sends him through a special portal.
+- If Lucifer dies, he goes to Hell. Killing a human also sends him to Hell.
+- Angels can't die. Their physical body dies, the soul goes back to Heaven, and they come back with a new body.
+- Angels can't kill humans — believed to be a literal inability. **[OPEN, left open deliberately 2026-11-12]: what actually happens if one tries is unconfirmed.**
+- Only God can separate a soul from the body (or not — exceptions exist, e.g. Mary).
+- The author isn't discussing the supernatural elements further yet.
+
+### TIMELINE (new/reworked)
+
+1. Lucifer is born outside of time, like God.
+2. God tells Lucifer his notion of humans, angels, Hell, etc., and creates existence.
+3. Lucifer asks to experience it and gets an angelic form.
+4. God creates the angels, then humans.
+5. Azrael maintains the Garden.
+6. Lucifer creates the Tree of Knowledge of Good and Evil. Eve eats the fruit. Death becomes possible. Azrael takes the role of death.
+7. The Fall: Eve blames Lucifer and tells God to kill him. Lucifer runs. Adam asks that he be sent to Hell instead. Lucifer is sent to Hell.
+8. Revelation happens. Michael gets his revenge.
+9. Eve lives out ~800 years, dies, and — faithful enough to God — her body goes to Hell with her soul.
+10. Eve breaks out of Hell. Lucifer is sent to earth to take her back.
+
+### PLOT SPINE
+
+- Lucifer arrives on earth and Eve isn't there yet.
+- Angels attack him repeatedly. Michael is the recurring face. Lucifer kills them first, and they come back. He keeps humans out of the crossfire.
+- Liz sees him as a man who kills without hesitating. Over time they fall in love.
+- Azrael arrives and nearly kills Lucifer. Liz steps in and Azrael disappears. She nurses him, and the love takes hold.
+- Eve arrives and, hating Liz, injures Lucifer and takes Liz by force with a knife to her throat. She tells him where to meet her.
+- **Climax:** Eve monologues, then pushes Liz off a ledge. Lucifer breaks his restraints through love and fear of losing Liz, freezes her fall a foot from the ground, hunts Eve down, and sets Liz safely down. He kills Eve to take her back to Hell.
+- **Ending:** Liz tells him she loves him for the first time through tears. Lucifer's body fades. He is about to say it back, but he fully disappears — lost to Hell.
+
+### THEMES
+
+- Guilt: Eve's soul carries it as weight, Azrael as pain, Lucifer as feeling bad.
+- Being loved for who you are, not for the flawless form.
+- A mission whose completion costs the thing he wants most.
+
+### DECISION LOG (2026-11-12)
+
+- Lucifer is mortal on earth by default; restraints from God break only at the climax.
+- Lucifer is not the hero. He is sent to take Eve back.
+- Angels are Lucifer's siblings, respawn, and are the pressure through the middle. Michael is the recurring antagonist and does not change. Azrael is the catalyst, Eve is the climax.
+- The ending is as logged in Plot Spine. Lucifer is lost to Hell.
+- Concept frozen at the author's direction. No more concept pushback lists.
+- Elizabeth learns Lucifer is the devil at the end of Part 1.
+- Angels-vs-humans mechanism left OPEN, not invented.
+- Eve's path to Hell: ~800 years of mortal life, then death; body accompanies soul to Hell due to her faithfulness.
+- Everything not explicitly listed above as replaced (town, mansion, Sam, Sophie, James & Claire, Travel Bond system, artistry thread, minor characters, Lilith, Vincent) carries over by default, pending reconciliation against the new mechanics — not yet individually checked.
+
+---
+
+## FIRST MAJOR REWORK, 2026-09-11 (historical — superseded in turn by the rework above where they conflict) — read this before trusting §§3, 4, 5, 6, 7, 17 below
 
 The author is reworking Lucifer's characterization, the bond/power system, and Azrael's role. **The authoritative, up-to-date versions of these live in the companion docs** — `bible/lucifer_character_profile.md`, `bible/tristan_azrael_character_profile.md`, `bible/elizabeth_character_profile.md`, `bible/bond_system_reference.md` — all updated 2026-09-11. Sections §3 (Bond System), §4 (Transfiguration), §5 (Lucifer), §6 (Elizabeth), §7 (Azrael), and §17 (Lucifer's Artistry) below duplicate older versions of that same material and have NOT been individually reconciled yet — treat them as stale wherever they conflict with the companion docs, which win. §1 and §2 below have been lightly touched to stay accurate; the rest of the file (Eve, Sam, Sophie, James & Claire, Forgiveness Theme, Lilith, Vincent, God's Role, Timeline, Climax Mechanic) is believed unaffected but hasn't been individually re-verified against the rework either.
 

@@ -4,6 +4,12 @@
 
 ---
 
+## SECOND REWORK IN PROGRESS (2026-11-12) — read this FIRST
+
+**`bible/story-bible.md` § "SECOND MAJOR REWORK IN PROGRESS" is now authoritative wherever it conflicts with this file.** New/changed for Elizabeth specifically: **she learns Lucifer is the devil at the end of "Part 1"** (Part 1's content not yet defined); she watches him get attacked by angels repeatedly and kill without hesitation; she nurses him after Azrael shatters his spine, and it's her plea mid-fight that stops Azrael from finishing him. The eventual ending also changed — Lucifer is lost to Hell right after she tells him she loves him, not a shared future together. The concussion/hospitalization thread, the "drawn to broken things" trait, and the rest of her established material below haven't been individually checked against the new mechanics yet — don't assume they survive untouched.
+
+---
+
 ## ESTABLISHED PERSONALITY (from bible)
 
 Grounded and emotionally intelligent. Not blindly obedient or worshipful. Values truth and clarity. The first human to engage Lucifer as a being, not a symbol. Learns the system through direct interaction and questioning — she won't take anything secondhand.

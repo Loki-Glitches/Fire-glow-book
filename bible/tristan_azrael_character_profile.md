@@ -2,7 +2,13 @@
 
 *Companion document to the Master Story Bible. Captures backstory and emotional mechanics developed during outlining. Items marked **[OPEN]** are not yet locked.*
 
-## MAJOR REWORK IN PROGRESS (2026-09-11)
+## SECOND REWORK IN PROGRESS (2026-11-12) — read this FIRST
+
+**`bible/story-bible.md` § "SECOND MAJOR REWORK IN PROGRESS" is now authoritative over everything in this file wherever they conflict.** Biggest conflict: **Azrael is no longer just containing Lucifer (fighting but neither able to die) — he becomes a real, escalating threat and nearly kills Lucifer outright, shattering his spine, under Michael's influence.** He's stopped only by Elizabeth's plea. Afterward he tells Lucifer the truth about Adam (a new character — Adam asked God to send Lucifer to Hell instead of killing him, saving his life; Lucifer doesn't know this). The "contains, can't die, heals in 24 hours" framing below no longer holds as the default — treat the physical-fight stakes as real for most of the book now. The Sam/Sophie "blessing" cut and Azrael's permanent, unresolved disapproval of the Elizabeth relationship (both locked 2026-11-05) haven't been checked against this new ending (Lucifer lost to Hell) yet — may not even apply anymore.
+
+---
+
+## FIRST REWORK, 2026-09-11 (historical — superseded in turn by the rework above where they conflict)
 
 Azrael's core job on Earth has changed. **The "FORMAL ROLE" section below is entirely stale** — it's built on the old Power Bond/Full Anchor system and the now-scratched chapters, and is kept only as historical record until it's rewritten to match the new outline. Everything else in this file that isn't specifically about the death-duty reassignment or the new containment role is still broadly accurate — his origin, his resentment of Lucifer, his relationship arc — just needs its specific chapter-beats (which no longer exist) mentally discarded.
 

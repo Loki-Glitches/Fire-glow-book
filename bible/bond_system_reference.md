@@ -2,7 +2,13 @@
 
 *Companion document to the Master Story Bible. This is the authoritative version. Items marked **[OPEN]** need one more decision.*
 
-## MAJOR REWORK (2026-09-11) — read this first
+## SECOND REWORK IN PROGRESS (2026-11-12) — read this FIRST
+
+**`bible/story-bible.md` § "SECOND MAJOR REWORK IN PROGRESS" takes precedence.** The new draft introduces a different kind of limitation on Lucifer entirely: **restraints from God that make him mortal/powerless on Earth by default, breaking only at the climax.** It does not mention Travel Bonds at all. Per the author's explicit instruction, the Travel Bond system is NOT explicitly removed, so it carries over by default — but whether it coexists with "restraints," is superseded by them, or needs to be reconciled some other way is genuinely undecided. **Do not assume both mechanics apply simultaneously to a scene without checking with the author first.**
+
+---
+
+## FIRST REWORK (2026-09-11, historical — superseded in turn by the rework above where they conflict)
 
 **Power Bond and Full Anchor are cut entirely.** Lucifer has power from the start of the book — it is not gated by bond progression anymore. What constrains his power is behavioral/secrecy rules (never self-disclose divinity, never reveal the mission, never let a human witness power use) — see `bible/lucifer_character_profile.md` § "POWER & SECRECY." **Travel Bond is the only bond tier that survives**, and it now does one job only: it's the tether/proximity mechanic — who Lucifer has to stay near, not what he's allowed to do. Everything below Stage 2 in this file describes the old, cut system and is kept only as historical record.
 
