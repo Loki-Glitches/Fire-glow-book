@@ -89,7 +89,7 @@
 
 ## After "Hell" (locked 2026-11-13)
 
-First chapter of the book under the second rework, and the first to use `notes/voice.md`. Drafted by Writer as a test sample, lightly hand-edited by the author ("years" → "millennia"/"forever" in two places), then locked. Now canonical — see `bible/manuscript-order.md` entry 2.
+First chapter of the book under the second rework, and the first to use `notes/voice.md`. Drafted by Writer as a test sample, lightly hand-edited by the author (wall wear is "12 inches"/"a millenia" deep, not six inches/years; Lucifer calls Eve "someone" who's been clawing "forever," not "something" for "years"), then locked. Now canonical — see `bible/manuscript-order.md` entry 2.
 
 ### Character Development
 - **Lucifer:** First appearance on the page under the second rework. Baseline established in Hell (pre-Earth, so full power is in effect and not a contradiction of the Earth-side restriction): casual, constant command of small effortless magic — doors, ambient fire, fruit falling and bending into his palm — paired with genuine boredom/entitlement as ruler. Sarcasm is his default, but pushed to real anger when Sebastian stammers near Eve's name/cell: looming, raised voice, one quiet-voiced moment meant to read as genuinely frightening, not just dry needling. Reacts to the containment failure immediately and physically, no hesitation, which reads as real worry underneath the authority. Argues hard against God's powerlessness term and loses outright, the established pattern for how he loses arguments with God — no capitulation on God's part, no further explanation, warmth constant underneath the refusal regardless.
