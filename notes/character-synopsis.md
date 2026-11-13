@@ -24,7 +24,7 @@
 ## Baseline (before "Hell" — established in "Morning")
 
 - **Elizabeth:** Outwardly cheerful, forward-moving, has a life and places to be. Carries something she won't name — not depressed, quietly overextended. Sam is her caretaker, warm and teasing; she doesn't burden him with her own weight. Physically: a bump on her forehead (alarm/fall incident), late summer, pre-college.
-- **Lucifer, Azrael, Sebastian, Lilith:** Not yet on the page as of "Morning." Their first appearance under the *first* rework was the now-deleted "Hell" — that chapter, and everything after it, no longer exists. As of this rework, they remain not-yet-on-the-page again; whatever chapter picks up next will be their actual first appearance under the new premise.
+- **Lucifer, Sebastian, Lilith:** Not yet on the page as of "Morning" — their first appearance under the second rework is "Hell" (locked 2026-11-13), which is set entirely in Hell before Lucifer ever reaches Earth or meets Elizabeth. **Azrael has not appeared on the page at all yet** — "Hell" deliberately omits him (no chaperone sent with Lucifer this time); his actual first appearance is still open.
 
 ---
 
