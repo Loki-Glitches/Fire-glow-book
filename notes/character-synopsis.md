@@ -84,3 +84,26 @@
 ---
 
 *(Once a new chapter is written under the second rework, append a new dated "After [chapter]" section below this line, in the same Plot Points / Character Development format used previously — see git history for the format examples, now removed from this file.)*
+
+---
+
+## After "Hell" (2026-11-13 — SAMPLE/TEST CHAPTER, not canonized)
+
+**Flag before using this section for anything:** this draft of "Hell" was written as a one-off sample/test under the Writer agent's narrow-context process, per explicit instruction not to add a `bible/manuscript-order.md` entry or treat it as locked. It is NOT confirmed as the book's actual next chapter. Until the Director/author says otherwise, the "Baseline" section's note that Lucifer, Azrael, Sebastian, and Lilith are "not yet on the page" should be treated as still governing canon — this entry exists only so a future Writer/Revision pass has the facts if this draft is kept.
+
+### Character Development
+- **Lucifer:** First appearance on the page under the second rework. Baseline established in Hell (pre-Earth, so full power is in effect and not a contradiction of the Earth-side restriction): casual, constant command of small effortless magic — doors, ambient fire, fruit falling and bending into his palm — paired with genuine boredom/entitlement as ruler. Sarcasm is his default, but pushed to real anger when Sebastian stammers near Eve's name/cell: looming, raised voice, one quiet-voiced moment meant to read as genuinely frightening, not just dry needling. Reacts to the containment failure immediately and physically, no hesitation, which reads as real worry underneath the authority. Argues hard against God's powerlessness term and loses outright, the established pattern for how he loses arguments with God — no capitulation on God's part, no further explanation, warmth constant underneath the refusal regardless.
+- **Sebastian:** First appearance. Hell's sector administrator; nervous, stammers specifically on "first sector"/anything Eve-adjacent; still uses a physical clipboard out of habit; competent on routine matters; frightened of Lucifer's temper but doesn't fold entirely under it. Left holding a direct order to reinforce every cell in sector one by the next watch.
+- **Lilith:** First appearance. Composed, unhurried, flatly unsurprised by anything, including being handed full command of Hell with no notice and no end date.
+- **Eve:** Still not a dialogue/POV character. Established as having worn through her cell wall from the inside over years (not the hour it took to finally fail), and as reaching back toward Lucifer rather than away from him in the instant before the portal closes — left deliberately ambiguous on the page (plea or trap), not resolved one way or the other.
+- **God:** Warm, calm, immovable; states harsh terms (Lucifer will have no power and a fully mortal, human-fragile body for the duration of his time on Earth) without softening them, then declines to explain further when pushed, and stays affectionate in tone regardless. Calls Lucifer "Luc" (established as God's own exclusive form of address for him). Sends him to Earth with no companion this time.
+
+### Plot Points
+- Hell's throne room now has an established centerpiece: an impossibly large Tree of Knowledge of Good and Evil, hung with dark red/black fruit, which Lucifer eats from repeatedly and without ceremony. Small-scale effortless magic (doors, ambient fire, falling fruit) is shown constantly throughout Hell — explicitly contrasted against the Earth-side powerlessness rule, not in tension with it.
+- Sebastian reports sectors two through nine routine/stable, then stammers badly on "first sector" (Eve's cell). Lucifer presses him on it with real anger before a runner interrupts.
+- A runner reports Eve's cell containment has been failing for an hour and the wall is giving.
+- Lucifer slows time across all of Hell with a gesture, tears the floor open into a ravine, and descends to sector one.
+- At the cell: a portal is already open in the wall, Eve nearly through it, reaching back toward Lucifer rather than away. He dives for her hand and misses by a half-second as the portal closes on empty air; the momentum slams him into the inner wall hard enough to crater the stone.
+- The wall is found worn through from the inside over years, not the reported hour — old damage, gone the color of the surrounding stone.
+- Lucifer puts Lilith in full, open-ended command of Hell in his absence and orders Sebastian to reinforce every cell in sector one by the next watch. He climbs back up through the ravine, which seals shut behind him floor by floor as he goes.
+- Back in the throne room, Lucifer tells God he needs to go to Earth after Eve. God agrees on explicit terms: no power at all and a fully mortal body for as long as he's there; no companion is sent with him. Lucifer argues against the powerlessness and loses outright — God doesn't explain further and stays warm underneath the refusal regardless. A portal opens on its own once the argument ends; God's parting line is light ("Better get going, Luc") against the weight of the terms just set. Lucifer is pulled through mid-bite on a piece of fruit from the Tree, looks back at it once, and the portal closes behind him without a sound.
