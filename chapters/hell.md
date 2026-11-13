@@ -76,7 +76,7 @@ He doesn't get up right away.
 
 When he does, he goes to the opening — closed now, sealed, nothing but a hairline seam where it had been — and runs his hand along the stone around it, and understands.
 
-It isn't new damage. The edges are soft and rounded — nothing about a fresh break looks like this — the black gone pale and chalky in a shape that could only be made one way: fingers, or claws, it hardly matters which, working at the same six inches of wall for years. Not an hour. Years. The stone had been worn down to the color of itself before it ever let anything through — the containment hadn't failed tonight. It had been failing since long before anyone was watching for it, and tonight was just the night it finished.
+It isn't new damage. The edges are soft and rounded — nothing about a fresh break looks like this — the black gone pale and chalky in a shape that could only be made one way: fingers, or claws, it hardly matters which, working at the same 12 inches of wall for a millenia. Not an hour. Years. The stone had been worn down to the color of itself before it ever let anything through — the containment hadn't failed tonight. It had been failing since long before anyone was watching for it, and tonight was just the night it finished.
 
 "My lord."
 
@@ -120,7 +120,7 @@ He stops.
 
 *No power. Not a flicker of it. Your body up there will be exactly what theirs are — it will bruise the way theirs bruise, break the way theirs break, and heal on their schedule, not yours. For as long as you're on that ground, you're not what you are down here. You're just a man.*
 
-"That's absurd." He hears his own voice climb and doesn't bother reeling it back in; there's no one here he's trying to look composed for. "I'm hunting something that's been clawing through my walls for *years* without me noticing, and You want to send me after it with nothing. No fire. No speed. Not even the small things — not even this." He gestures at the fruit in his hand, at the doors, at all of it.
+"That's absurd." He hears his own voice climb and doesn't bother reeling it back in; there's no one here he's trying to look composed for. "I'm hunting someone that's been clawing through my walls for *forever* without me noticing, and You want to send me after it with nothing. No fire. No speed. Not even the small things — not even this." He gestures at the fruit in his hand, at the doors, at all of it.
 
 *Yes.*
 
