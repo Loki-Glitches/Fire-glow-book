@@ -18,6 +18,11 @@
 - **Whether an angel can physically kill a human, and what actually happens if one tries, is left OPEN** — do not invent a mechanism.
 - **Eve's path to Hell:** she lived out roughly 800 years of mortal life, then died — and because she remained faithful enough to God despite everything, her body went to Hell along with her soul (an exception, not the norm). This is what the draft's "took her body to Hell, so it never died" line means.
 
+**Locked 2026-11-13 (author) — structure and voice:**
+- The book has a two-part third-person PROLOGUE ("Morning," Elizabeth; "Hell," Lucifer — exactly as already written, no further changes planned for a while), then PART 1 onward in **first person, present tense**. Only Lucifer, Elizabeth, and Eve ever narrate — no one else gets a POV chapter. See `notes/voice.md` and `bible/manuscript-order.md`.
+- **Azrael has no human alias at all — "Tristan" is retired entirely.** He is "Azrael" to everyone, in every narrator's voice, with no cover identity, consistent with him no longer living among humans as a companion (he shows up specifically to fight Lucifer, with maybe some lore dropped). Lucifer still goes by **Adrian** to humans who don't know the truth.
+- James and Claire are Lucifer's lifeline for ordinary human things going forward. They will eventually know **what** he is (not human) but not **who** (not that he's specifically Lucifer/Samael) — mechanism/timing still open.
+
 ---
 
 ### CONCEPT
