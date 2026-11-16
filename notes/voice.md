@@ -108,6 +108,7 @@ Then Grep for `like a |like an |as if|as though| as [a-z]+ as ` to count your fi
 ### Essay tells (rewrite on sight)
 
 - "I felt X because Y." Show what X made the narrator do.
+- A beat stated once, then re-explained in a trailing clause ("He does X — the Y he'd never say out loud"). State the beat once and stop. If the beat doesn't land on its own, the fix is a better beat, not an explainer bolted onto it.
 - A reflection that wraps up the scene's meaning.
 - Abstract nouns where a concrete one would do ("a sense of unease", "a moment of understanding").
 - "It wasn't X, it was Y" reversals more than once a chapter.
