@@ -11,7 +11,11 @@ First person. The narrator is a specific person telling this moment in their own
 ## 2. Whose head you are in
 
 - You know only what this narrator perceives, remembers, infers or is told. No head-hopping.
-- Other people's feelings are inferred from behavior and may be wrong.
+- **Strong NO: the narrator cannot state another character's reasons, feelings, or motives as settled fact.** Only the narrator's own thoughts are known; everyone else's interior is guessed at from behavior, and the guess has to read as a guess, not a verdict.
+  - Fails (real example, cut from a draft): "He never pushes as hard as he could; that's just him looking out for me, backwards as it is, even if I'd never say that to his face." This states what's going on in the other character's head as plain fact — not what the narrator saw him do, not a hedged guess.
+  - Fix: either stay with the observed behavior and stop ("He doesn't push. He never does."), or mark it explicitly as the narrator's own guess, not knowledge ("I think it's him looking out for me. I don't actually know that's what it is.").
+  - This applies to every character besides the narrator, every time, no exceptions for people the narrator knows well (a sibling, a lifelong partner) — knowing someone well is a reason a guess might be *good*, not a license to state it as fact.
+- Other people's feelings are inferred from behavior and may be wrong — see above, this is the same rule stated twice because it keeps getting missed.
 - No hindsight narration ("I didn't know then that…"). No addressing the reader.
 - Tense is present. Memories and backstory use past tense and stay brief. No specific durations (see the agent file's elapsed-time rule).
 - Do not start more than two sentences in a row with "I". Vary the opening.

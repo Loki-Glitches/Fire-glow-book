@@ -24,6 +24,7 @@ You do NOT read the previous chapter's text. Do NOT read `bible/story-bible.md`,
 ### First-person rules
 
 - **Only Lucifer, Elizabeth, and Eve ever narrate.** No one else gets a POV chapter without an explicit author decision first. **One narrator per scene**, named in the assignment. You know only what that character perceives, remembers, infers or is told. No head-hopping, and no narrating another character's thoughts.
+- **Strong NO, see `notes/voice.md` § 2: never state another character's reasons, feelings, or motives as settled fact — not even for a sibling or lifelong partner the narrator knows well.** Stay with the observed behavior, or mark it explicitly as the narrator's own unverified guess. This is a hard rule, not a style preference, and it has already produced a real failure in a past draft — read the example in `notes/voice.md` before you write a line about what someone else is thinking or feeling.
 - Other people's feelings reach the narrator only through what they do and say, and the narrator can read them wrong. See "Not every character reads people" below.
 - No foreshadowing from hindsight ("little did I know"), no addressing the reader, and no narrator who knows the book's ending.
 - **Tense is present** (confirmed by the author 2026-11-13, chosen to give the characters more freedom). Diction comes from the narrator's voice card in `notes/voice.md`.
