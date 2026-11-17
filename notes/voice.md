@@ -129,6 +129,7 @@ Fill these in with the author. What follows uses only what the project already e
 - Otherwise open and warm, not suspicious by default.
 - Not calculating. She feels and acts more than she analyzes, gets distracted, lets things go, and makes small impulsive choices. Her pointed questions come in the moment. She does not scheme, tally or plan ahead in her head.
 - Early on she genuinely hates Lucifer, and stays in his orbit because of what she reads as broken in him.
+- **Plain diction — author correction 2026-11-17.** Her dialogue and narration should sound like an ordinary nineteen-year-old talking, not a novelist writing her. No clever wordplay, no cute turns of phrase ("that's not rigged, that's called winning"), no vocabulary or observational wit sharper than a normal person reaches for in the moment. If a line reads like something built for the page rather than said out loud, it's wrong for her specifically, regardless of whether it would pass the general figures-of-speech rules. When in doubt, flatten the line.
 - TODO: what she notices first in a room; how she talks when she's angry or joking; the imagery she reaches for; speech habits.
 
 **Lucifer**

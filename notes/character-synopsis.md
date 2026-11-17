@@ -110,7 +110,9 @@ First chapter of the book under the second rework, and the first to use `notes/v
 
 ---
 
-## After "liz-part1-ch1" (drafted 2026-11-16, untitled — first Elizabeth chapter under the second rework, first person/present tense)
+## After "liz-part1-ch1" — SUPERSEDED 2026-11-17, chapter being redrafted
+
+**The draft described below is being redone.** Author's correction: the alley fight scene is cut entirely — Elizabeth's life must stay completely ordinary, with no supernatural content or witnessed violence of any kind, until she actually meets Lucifer directly (locked in `bible/story-bible.md`'s PLOT SPINE). Her dialogue/narration in this draft also read too clever/writerly for her — see `notes/voice.md`'s Elizabeth card, corrected 2026-11-17, for the plain-diction rule. Everything below is kept only as a record of what didn't work; do not treat any of it as current Plot Points or Character Development.
 
 First chapter to use the new first-person/present-tense mode for Elizabeth. Structural mirror of "Hell": long ordinary stretch (morning routine, Sam, an errand) broken by a sudden, unexplained crisis, ending shaken but resolved rather than purely frightened.
 

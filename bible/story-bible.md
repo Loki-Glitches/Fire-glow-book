@@ -88,8 +88,9 @@ Lucifer falls in love. He is sent to earth to take Eve's soul back to Hell. The 
 ### PLOT SPINE
 
 - Lucifer arrives on earth and Eve isn't there yet.
+- **Locked 2026-11-17 (author): Elizabeth's life stays completely ordinary — no supernatural content, no witnessed violence, nothing unexplained — for as long as it takes before she actually meets Lucifer directly.** The first draft of Part 1's opening chapter had her witness an anonymous fight from a distance before ever meeting him; that was wrong and the fight scene is cut. Angels attacking Lucifer, and him killing without hesitation, can happen off-page or in his own chapters during this stretch, but Elizabeth's own chapters do not cross paths with any of it early. Her chapters are slice-of-life until the actual meeting.
 - Angels attack him repeatedly. Michael is the recurring face. Lucifer kills them first, and they come back. He keeps humans out of the crossfire.
-- Liz sees him as a man who kills without hesitating. Over time they fall in love.
+- Liz sees him as a man who kills without hesitating — **this is how she witnesses it, at or after the point they actually meet, not as an earlier, separate anonymous sighting.** Over time they fall in love.
 - Azrael arrives and nearly kills Lucifer. Liz steps in and Azrael disappears. She nurses him, and the love takes hold.
 - Eve arrives and, hating Liz, injures Lucifer and takes Liz by force with a knife to her throat. She tells him where to meet her.
 - **Climax:** Eve monologues, then pushes Liz off a ledge. Lucifer breaks his restraints through love and fear of losing Liz, freezes her fall a foot from the ground, hunts Eve down, and sets Liz safely down. He kills Eve to take her back to Hell.
